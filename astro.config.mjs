@@ -1,27 +1,38 @@
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
 
+import tailwind from "@astrojs/tailwind";
+
 // https://astro.build/config
 export default defineConfig({
-	integrations: [
-		starlight({
-			title: 'My Docs',
-			social: {
-				github: 'https://github.com/withastro/starlight',
-			},
-			sidebar: [
-				{
-					label: 'Guides',
-					items: [
-						// Each item here is one entry in the navigation menu.
-						{ label: 'Example Guide', link: '/guides/example/' },
-					],
-				},
-				{
-					label: 'Reference',
-					autogenerate: { directory: 'reference' },
-				},
-			],
-		}),
-	],
+  integrations: [starlight({
+    title: 'Domingo Román',
+    // tableOfContents: true,
+    locales: {
+      root: {
+        label: 'Español',
+        lang: 'es',
+      }
+    },
+    social: {
+      github: 'https://github.com/withastro/starlight'
+    },
+    sidebar: [{
+      label: 'Proyectos de investigación',
+      link: '/proyectos'
+      // items: [
+      // // Each item here is one entry in the navigation menu.
+      // {
+      //   label: 'Example Guide',
+      //   link: '/guides/example/'
+      // }]
+    }, {
+      label: 'Publicaciones',
+      link: '/publicaciones'
+    }, {
+      label: 'Curriculum',
+      link: '/curriculum'
+    }],
+    customCss: ['./src/base.css'],
+  }), tailwind()]
 });
