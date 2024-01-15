@@ -15,9 +15,10 @@ export default defineConfig({
       }
     },
     social: {
-      github: 'https://github.com/withastro/starlight'
+      email: 'mailto:domingo.roman@usach.cl'
     },
-    sidebar: [{
+    sidebar: [
+    {
       label: 'Proyectos de investigación',
       link: '/proyectos'
     }, {
@@ -26,7 +27,11 @@ export default defineConfig({
     }, {
       label: 'Curriculum',
       link: '/curriculum'
-    }],
+    }, {
+      label: 'Carpeta de ejemplo',
+      autogenerate: { directory: '/carpeta' },
+    }
+  ],
     customCss: ['./src/base.css'],
   }), tailwind()]
 });
