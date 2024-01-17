@@ -17,12 +17,14 @@ hero:
       icon: external
 ---
 
-import { Card, CardGrid } from '@astrojs/starlight/components';
+import { Icon, Card, CardGrid } from '@astrojs/starlight/components';
 
 ## Contenidos
 <CardGrid stagger>
 	<Card title="Proyectos de investigación" icon="magnifier">
-		Edit `src/content/docs/index.mdx` to see this page change.
+		<a href="/proyectos">
+			Descripción pequeña
+		</a>
 	</Card>
 	<Card title="Trabajos de investigación dirigidos" icon="add-document">
 		Add Markdown or MDX files to `src/content/docs` to create new pages.
@@ -31,6 +33,5 @@ import { Card, CardGrid } from '@astrojs/starlight/components';
 		Edit your `sidebar` and other config in `astro.config.mjs`.
 	</Card>
 	<Card title="Cursos y seminarios" icon="open-book">
-		Learn more in [the Starlight Docs](https://starlight.astro.build/).
 	</Card>
 </CardGrid>

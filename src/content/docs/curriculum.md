@@ -48,9 +48,9 @@ Página web personal:        www.domingo-roman.net
 
 ## Dirección de tesis de doctorado
 
-- 2018\. Percepción del acento léxico por bengalíes. Tesis realizada por el Sr. Imran Hossain; P. Universidad Católica de Chile. Examen internacional ante la Dra. Sandra Schwab. [Ver documento](./sources/tesis_doctorado_hossain.pdf).
+- 2018\. Percepción del acento léxico por bengalíes. Tesis realizada por el Sr. Imran Hossain; P. Universidad Católica de Chile. Examen internacional ante la Dra. Sandra Schwab. [Ver documento](/tesis_doctorado_hossain.pdf).
 
-- 2017\. La alofonía sociolectal  del fonema alveolopalatal "che" del español hablado en Santiago de Chile: un estudio sobre variación sociofonética y conciencia sociolingüística de adultos santiaguinos. Tesis realizada por la Sra. Christina Haska; P. Universidad Católica de Chile. [Ver documento](./sources/tesis_doctorado_haska.pdf).
+- 2017\. La alofonía sociolectal  del fonema alveolopalatal "che" del español hablado en Santiago de Chile: un estudio sobre variación sociofonética y conciencia sociolingüística de adultos santiaguinos. Tesis realizada por la Sra. Christina Haska; P. Universidad Católica de Chile. [Ver documento](/tesis_doctorado_haska.pdf).
 
 ## Dirección de tesis de magíster
 
@@ -105,7 +105,7 @@ Página web personal:        www.domingo-roman.net
 
 ### Capítulos en libros
 
-- Hossain, Imran y D. Román (2019). Desarrollo lingüístico: ilustración espectrográfica de los sonidos del español de Montevideo. En Neurocognición y aprendizaje. Bases, procesos y evaluación. Barg, Gabriel; Cuadro, Arien y Hoyos, Sandra (editores). Grupo Magro Editores. ISBN: 978-9974-8691-7-2. [Ver presentación (pdf)](./sources/NEUROCOGNICION%20Y%20APRENDIZAJE(1).pdf).
+- Hossain, Imran y D. Román (2019). Desarrollo lingüístico: ilustración espectrográfica de los sonidos del español de Montevideo. En Neurocognición y aprendizaje. Bases, procesos y evaluación. Barg, Gabriel; Cuadro, Arien y Hoyos, Sandra (editores). Grupo Magro Editores. ISBN: 978-9974-8691-7-2. [Ver presentación (pdf)](/NEUROCOGNICION%20Y%20APRENDIZAJE(1).pdf).
 
 - Román, D. y María del Saz. (En proceso). Análisis fonético de los sonidos laterales del español, En Fonética y fonología de la lengua española. Gil, Juana y Joaquim Llisterri (eds.) Georgetown University Press.
 
