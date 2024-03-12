@@ -15,7 +15,7 @@ Títulos obtenidos:
 
 Lugar de trabajo: [Universidad de Santiago de Chile](http://www.usach.cl/), [Facultad de Humanidades.](http://www.fahu.usach.cl/)
 
-Cargo: Investigador asociado / [Pedagogía en Castellano](http://linguisticayliteratura.usach.cl/pedagogia-en-castellano)
+Cargo: Académico / [Pedagogía en Castellano](http://linguisticayliteratura.usach.cl/pedagogia-en-castellano)
 
 Dirección laboral:    Universidad de Santiago de Chile. Avenida Libertador Bernardo O'Higgins nº 3363. Estación Central. Santiago. Chile.
 
@@ -26,7 +26,7 @@ Dirección de correo electrónico:  [domingo.roman@usach.cl](mailto:domingo.roma
 
 Página web del laboratorio:    http://fonetica.usach.cl/
 
-Página web personal:        www.domingo-roman.net
+Página web personal:        (https://domingo-roman.vercel.app/)
 
 ## Proyectos de investigación
 
