@@ -7,9 +7,9 @@ title: Curso básico de fonética
   
   Puedes revisar los siguientes enlaces (de Wikipedia) referidos a onda y, específicamente, a onda sonora. Recomiendo leer detenidamente, en cada caso, el párrafo inicial, que corresponde propiamente a la definición.
 
-  Sobre onda: https://es.wikipedia.org/wiki/Onda
+  Sobre [onda](https://es.wikipedia.org/wiki/Onda)
 
-  Sobre onda sonora: http://es.wikipedia.org/wiki/Onda_sonora
+  Sobre [onda sonora](http://es.wikipedia.org/wiki/Onda_sonora)
 
  # 1.1. Tipos de ondas
   Existen ondas de variados tipos. Aquí se presentan las ondas simples o sinusoidales, las ondas compuestas periódicas y las aperiódicas.
