@@ -1,4 +1,4 @@
 ---
-title: hola
+title: Curso básico de fonética 
 ---
 # Cursos
