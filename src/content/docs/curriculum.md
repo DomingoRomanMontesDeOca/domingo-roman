@@ -21,14 +21,15 @@ Dirección laboral:    Universidad de Santiago de Chile. Avenida Libertador Bern
 
 Código Postal:    71783-5
 
-
 Dirección de correo electrónico:  [domingo.roman@usach.cl](mailto:domingo.roman%2540usach.cl)
 
 Página web del laboratorio:    http://fonetica.usach.cl/
 
-Página web personal:        (https://domingo-roman.vercel.app/)
+Página web personal:        https://domingo-roman.vercel.app/
 
 ## Proyectos de investigación
+
+- 2024 (-2019) Coordinador del proyecto Vocales sin fronteras. México, Colombia, Uruguay y Chile.
 
 - 2018 (-2007) Coordinador para Chile del proyecto Atlas Multimedia de Prosodia del Espacio Románico (AMPER). Proyecto internacional. Coordinación General: Grenoble3, Francia; coordinación para la lengua española, Universitat de Barcelona, España.
 
