@@ -11,11 +11,11 @@ title: Curso básico de fonética
 
   Sobre [onda sonora](http://es.wikipedia.org/wiki/Onda_sonora)
 
-Para una primera aproximación visual a la representación gráfica de las ondas, recomiendo ver este interesante [enlace](http://zonalandeducation.com/mstm/physics/waves/introduction/introductionWaves.html). En él aparece un gráfico con una onda a la que le puedes modificar la amplitud, la longitud de la onda (wavelength) y la fase. Dado que la fase de una onda no es demasiado relevante para la percepción del habla, puede no ser tomado en cuenta este aspecto. Se puede ver cómo cambia la forma de la onda en la medida en que se modifican alguna de sus propiedades.
+Para una primera aproximación visual a la representación gráfica de las ondas, recomiendo ver este interesante [enlace](http://zonalandeducation.com/mstm/physics/waves/introduction/introductionWaves.html). En él aparece un gráfico con una onda a la que le puedes modificar la amplitud, la longitud de la onda (*wavelength*) y la fase. Dado que la fase de una onda no es demasiado relevante para la percepción del habla, puede no ser tomado en cuenta este aspecto. Se puede ver cómo cambia la forma de la onda en la medida en que se modifican alguna de sus propiedades.
 
-El gráfico que muestra la forma de la onda se llama oscilograma y equivale a lo que en inglés se denomina waveform.
+El gráfico que muestra la forma de la onda se llama oscilograma y equivale a lo que en inglés se denomina *waveform*.
 
-    Ejercicio
+    Ejercicio:
     - Practica cambiar la amplitud y la longitud hasta que te resulte previsible el gráfico resultante.
 
 A partir de este ejercicio, debes ser capaz de responder preguntas como las siguientes:
