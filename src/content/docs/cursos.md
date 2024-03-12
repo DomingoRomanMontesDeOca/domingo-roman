@@ -27,6 +27,6 @@ A partir de este ejercicio, debes ser capaz de responder preguntas como las sigu
 
 Dada una onda,
 
-  - [ ] ¿cómo se modificará su oscilograma si aumenta al doble su amplitud?
+  - [ ] ¿cómo se modificará su oscilograma si aumenta al doble su amplitud? <br>
   - [ ] ¿cómo se modificará el oscilograma si la frecuencia disminuye a la mitad?
 
