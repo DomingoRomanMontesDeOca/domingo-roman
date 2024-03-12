@@ -32,13 +32,13 @@ En [este enlace](http://www.walter-fendt.de/html5/phes/springpendulum_es.htm) (c
 Selecciona Elongación para observar el movimiento del resorte. Lo importante de la observación de esta página es que veas la relación causal entre el movimiento vertical del peso sostenido por el resorte y el dibujo de la forma de la onda.
 
     Términos que debes manejar: 
-    - onda
-    - Hz
-    - ciclo
-    - período
-    - amplitud
-    - frecuencia
-    - oscilograma
+- onda
+- Hz
+- ciclo
+- período
+- amplitud
+- frecuencia
+- oscilograma
 
 ## Tipos
   Existen ondas de variados tipos. Aquí se presentan las ondas simples o sinusoidales, las ondas compuestas periódicas y las aperiódicas.
