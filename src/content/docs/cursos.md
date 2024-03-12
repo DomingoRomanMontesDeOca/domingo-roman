@@ -3,7 +3,7 @@ title: Curso básico de fonética
 ---
 # 1. El aspecto acústico
 
-# 1.0. Qué es una onda acústica
+## 1.0. Qué es una onda acústica
   
   Puedes revisar los siguientes enlaces (de Wikipedia) referidos a onda y, específicamente, a onda sonora. Recomiendo leer detenidamente, en cada caso, el párrafo inicial, que corresponde propiamente a la definición.
 
@@ -11,7 +11,7 @@ title: Curso básico de fonética
 
   Sobre [onda sonora](http://es.wikipedia.org/wiki/Onda_sonora)
 
- # 1.1. Tipos de ondas
+ ## 1.1. Tipos de ondas
   Existen ondas de variados tipos. Aquí se presentan las ondas simples o sinusoidales, las ondas compuestas periódicas y las aperiódicas.
 
 En primer lugar, recomiendo ver este interesante [enlace](http://zonalandeducation.com/mstm/physics/waves/introduction/introductionWaves.html).
