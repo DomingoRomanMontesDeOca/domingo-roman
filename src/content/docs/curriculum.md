@@ -13,9 +13,9 @@ Títulos obtenidos:
 
 - Doctor en Lingüística y Comunicación, (Universidad de Barcelona, 2012).
 
-Lugar de trabajo:     [Universidad de Santiago de Chile](http://www.usach.cl/), [Facultad de Humanidades.](http://www.fahu.usach.cl/)
+Lugar de trabajo: [Universidad de Santiago de Chile](http://www.usach.cl/), [Facultad de Humanidades.](http://www.fahu.usach.cl/)
 
-Cargo:    Investigador asociado / [Pedagogía en Castellano](http://linguisticayliteratura.usach.cl/pedagogia-en-castellano)
+Cargo: Investigador asociado / [Pedagogía en Castellano](http://linguisticayliteratura.usach.cl/pedagogia-en-castellano)
 
 Dirección laboral:    Universidad de Santiago de Chile. Avenida Libertador Bernardo O'Higgins nº 3363. Estación Central. Santiago. Chile.
 

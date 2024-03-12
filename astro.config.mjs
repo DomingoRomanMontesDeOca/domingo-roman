@@ -17,21 +17,6 @@ export default defineConfig({
     social: {
       email: 'mailto:domingo.roman@usach.cl'
     },
-    sidebar: [
-    {
-      label: 'Proyectos de investigación',
-      link: '/proyectos'
-    }, {
-      label: 'Publicaciones',
-      link: '/publicaciones'
-    }, {
-      label: 'Curriculum',
-      link: '/curriculum'
-    }, {
-      label: 'Carpeta de ejemplo',
-      autogenerate: { directory: '/carpeta' },
-    }
-  ],
     customCss: ['./src/base.css'],
   }), tailwind()]
 });
