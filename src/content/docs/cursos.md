@@ -40,3 +40,15 @@ Términos relevantes:
 
 ## Tipos
   Existen ondas de variados tipos. Aquí se presentan las ondas simples o sinusoidales, las ondas compuestas periódicas y las aperiódicas.
+
+## Ondas simples
+Las ondas simples u ondas sinusoidales, representan una sola frecuencia y el oscilograma tiene una forma como esta:
+
+￼Figura: onda simple o sinusoidal (un ciclo)
+(Pendiente)
+￼
+Figura: onda simple o sinusoidal (cinco ciclos)
+(Pendiente)
+
+La creación de un tono se hace muy sencilla usando los programas editores de sonido o páginas como estas:
+[Online Tone Generator](https://www.onlinemictest.com/es/tone-generator/)
