@@ -7,7 +7,7 @@ La fonética en tanto la ciencia de los sonidos del habla tiene varias dimension
 - articulatoria
 - acústica
 - perceptiva
-Esto es porque la visión tradicional tenía sus bases en un modelo de la comunicación que tenía tres partes:
+`<br>`Esto es porque la visión tradicional tenía sus bases en un modelo de la comunicación que tenía tres partes:
 - emisor
 - mensaje
 - receptor
