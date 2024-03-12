@@ -20,11 +20,13 @@ En este enlace de Zona Land, aparece un gráfico con una onda a la que le puedes
 
 El gráfico que muestra la forma de la onda se llama oscilograma y equivale a lo que en inglés se denomina waveform.
 
-    Ejercicio: Practica cambiar la amplitud y la longitud hasta que te resulte previsible el gráfico resultante.
+    Ejercicio
+    [ ] Practica cambiar la amplitud y la longitud hasta que te resulte previsible el gráfico resultante.
 
 A partir de este ejercicio, debes ser capaz de responder preguntas como las siguientes:
 
-Dada una onda, 
-    a. ¿cómo se modificará su oscilograma si aumenta al doble su amplitud?
-    b. ¿cómo se modificará el oscilograma si la frecuencia disminuye a la mitad?
+Dada una onda,
+
+  [ ] ¿cómo se modificará su oscilograma si aumenta al doble su amplitud?
+  [ ] ¿cómo se modificará el oscilograma si la frecuencia disminuye a la mitad?
 
