@@ -5,7 +5,7 @@ title: Curso básico de fonética
 
 ## 1.0. Qué es una onda
   
-  Puedes revisar los siguientes enlaces (de Wikipedia) referidos a onda y, específicamente, a onda sonora. Recomiendo leer detenidamente, en cada caso, el párrafo inicial, que corresponde propiamente a la definición.
+  Los siguientes enlaces a Wikipedia están referidos a *onda* y, específicamente, a *onda sonora*. Es recomendable leer detenidamente, en cada caso, el párrafo inicial, que corresponde propiamente a la definición.
 
   Sobre [onda](https://es.wikipedia.org/wiki/Onda)
 
