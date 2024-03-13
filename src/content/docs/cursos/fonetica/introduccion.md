@@ -17,4 +17,5 @@ La fonética en tanto la ciencia de los sonidos del habla tiene varias dimension
 <br>
 Así, se puede distinguir, al menos, cinco dimensiones:<br>
 La perspectiva **articulatoria** enfoca los sonidos del habla humana desde el punto de vista de cómo nuestra biología produce los sonidos. La perspectiva **acústica** adopta el punto de vista de la física. El punto de vista **auditivo** hace una transformación de la información acústica a, por decirlo así, valores *cocleares*. La visión **perceptiva** de la fonética trabaja con respuestas del oyente ante señales para determinar, por ejemplo, qué tan distinto (o parecido) es un evento fónico de otro.
+Puedes agregar **negrita**
 
