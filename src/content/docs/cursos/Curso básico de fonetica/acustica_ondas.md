@@ -1,5 +1,12 @@
 ---
+# El título es obligatorio para que la página funcione
 title: Curso básico de fonética 
+# Configuracion de la barra de navegación
+sidebar:
+  # Nombre
+  label: 1.0. Qué es una onda
+  # Orden (Número más bajo aparece más arriba)
+  order: 2
 ---
 
 ## 1.0. Qué es una onda

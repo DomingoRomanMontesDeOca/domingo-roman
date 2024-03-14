@@ -1,6 +1,5 @@
 ---
 title: Proyectos de investigación
-description: descripción opcional
 ---
 
 - 2017(2007-) Atlas Multimedia de Prosodia del Espacio Románico (AMPER). Proyecto internacional. Coordinación General: Grenoble3, Francia; coordinación para la lengua española, Universitat de Barcelona, España. Sección Chile.
