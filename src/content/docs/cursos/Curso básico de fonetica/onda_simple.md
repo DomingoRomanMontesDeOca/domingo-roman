@@ -27,7 +27,7 @@ Las ondas simples u ondas sinusoidales, representan una sola frecuencia y el osc
 ￼Figura: onda simple o sinusoidal animada.
 
 
-![Imagen animada de una onda simple](src/content/docs/cursos/Curso básico de fonetica/animada_onda_amplitud.gif)
+![Imagen animada de una onda simple](/Curso básico de fonetica/animada_onda_amplitud.gif)
 
 (Pendiente)
 ￼
