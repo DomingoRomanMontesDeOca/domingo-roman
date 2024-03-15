@@ -9,7 +9,7 @@ sidebar:
   order: 2
 ---
 
-## 1.0. Qué es una onda
+## 1.1. Qué es una onda
   
   Los siguientes enlaces a Wikipedia están referidos a *onda* y, específicamente, a *onda sonora*. Es recomendable leer detenidamente, en cada caso, el párrafo inicial, que corresponde propiamente a la definición.
 
