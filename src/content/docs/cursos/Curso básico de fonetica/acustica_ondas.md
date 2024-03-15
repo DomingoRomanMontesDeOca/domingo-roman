@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 1.0. Qué es una onda
+  label: 1.1. Qué es una onda
   # Orden (Número más bajo aparece más arriba)
   order: 2
 ---
