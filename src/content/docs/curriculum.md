@@ -25,13 +25,13 @@ Dirección de correo electrónico:  [domingo.roman@usach.cl](mailto:domingo.roma
 
 Página web del laboratorio:    http://fonetica.usach.cl/
 
-Página web personal:        https://domingo-roman.vercel.app/
+Página web personal:        https://domingo-roman.net/
 
 ## Proyectos de investigación
 
-- 2024 (-2019) Coordinador del proyecto Vocales sin fronteras. México, Colombia, Uruguay y Chile.
+- 2024 (-2019) Coordinador del proyecto *Vocales sin fronteras*. México, Colombia, Uruguay y Chile.
 
-- 2018 (-2007) Coordinador para Chile del proyecto Atlas Multimedia de Prosodia del Espacio Románico (AMPER). Proyecto internacional. Coordinación General: Grenoble3, Francia; coordinación para la lengua española, Universitat de Barcelona, España.
+- 2018 (-2007) Coordinador para Chile del proyecto *Atlas Multimedia de Prosodia del Espacio Románico* (AMPER). Proyecto internacional. Coordinación General: Grenoble3, Francia; coordinación para la lengua española, Universitat de Barcelona, España.
 
 - 2018-2019. Dicyt. Producción de acento léxico y oracional en inglés como segunda lengua. Coinvestigador con la Dra. María del Saz.
 
