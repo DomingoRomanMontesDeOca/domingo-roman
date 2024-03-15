@@ -19,3 +19,16 @@ A partir de la duración del ciclo, podemos calcular la frecuencia porque la fre
 <br>
 La **amplitud** del movimiento se relaciona con un rasgo perceptual que llamamos *intensidad*. Una onda de mayor amplitud tendrá una percepción de un sonido *más fuerte* (y a la inversa).
 La **frecuencia** se relaciona con la percepción de la *altura tonal* o *tono*. Una onda con una frecuencia de 500 Hz se percibe como más aguda que una de 200Hz.
+
+
+## Ondas simples
+Las ondas simples u ondas sinusoidales, representan una sola frecuencia y el oscilograma tiene una forma como esta:
+
+￼Figura: onda simple o sinusoidal (un ciclo)
+(Pendiente)
+￼
+Figura: onda simple o sinusoidal (cinco ciclos)
+(Pendiente)
+
+La creación de un tono se hace muy sencilla usando los programas editores de sonido o páginas como estas:
+[Online Tone Generator](https://www.onlinemictest.com/es/tone-generator/)
