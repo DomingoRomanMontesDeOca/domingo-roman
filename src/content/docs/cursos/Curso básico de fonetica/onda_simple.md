@@ -24,12 +24,9 @@ La **frecuencia** se relaciona con la percepción de la *altura tonal* o *tono*.
 <br>
 Las ondas simples u ondas sinusoidales, representan una sola frecuencia y el oscilograma tiene una forma como esta:
 
-￼Figura: onda simple o sinusoidal animada.
+Figura: onda simple o sinusoidal animada.
 
-
-![Imagen animada de una onda simple](/Curso básico de fonetica/animada_onda_amplitud.gif)
-
-(Pendiente)
+![Imagen animada de una onda simple](/assets/imagenes/animada_onda_amplitud.gif)
 ￼
 Figura: onda simple o sinusoidal (cinco ciclos)
 (Pendiente)
