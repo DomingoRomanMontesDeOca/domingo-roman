@@ -6,7 +6,7 @@ sidebar:
   # Nombre
   label: 0. Introducción
   # Orden (Número más bajo aparece más arriba)
-  order: 1
+  order: 0
 ---
 # 0. Introducción
 
