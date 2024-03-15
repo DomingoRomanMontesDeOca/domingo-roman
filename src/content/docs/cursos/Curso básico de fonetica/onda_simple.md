@@ -25,7 +25,7 @@ Las ondas simples u ondas sinusoidales, representan una sola frecuencia y el osc
 
 Figura: forma de una onda sinusoidal.
 ![Representación gráfica de una onda simple](/imagenes/sinusoide.png)
-
+Como se puede observar, en esta imagen de arriba se tienen dos ciclos y medio. La amplitud alcanza la magnitud de 0.5 (en este caso, los valores positivos y negativos significan lo mismo).
 
 
 Figura: onda simple o sinusoidal animada.
