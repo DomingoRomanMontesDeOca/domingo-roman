@@ -6,7 +6,7 @@ sidebar:
   # Nombre
   label: 1. El aspecto acústico
   # Orden (Número más bajo aparece más arriba)
-  order: 3
+  order: 1
 ---
 # 1. El aspecto acústico
 
