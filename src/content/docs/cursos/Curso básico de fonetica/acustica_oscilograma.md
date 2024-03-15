@@ -18,3 +18,5 @@ Dado que esta es una representación de la oscilación, el gráfico se denomina 
 <br>
 En un oscilograma podemos observar entonces los valores de la amplitud del movimiento en un momento dado.
 <br> 
+El oscilograma de una onda simple tiene una forma como esta:
+
