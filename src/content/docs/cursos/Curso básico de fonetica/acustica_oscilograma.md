@@ -4,11 +4,11 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: Oscilograma
+  label: 1.3 Oscilograma
   # Orden (Número más bajo aparece más arriba)
-  order: 5
+  order: 4
 ---
-# Oscilograma
+# 1.3 Oscilograma
 
 Una onda se puede representar gráficamente "como si" el tiempo avanzara de izquierda a derecha; es decir, el tiempo se representa en el eje X.
 <br>
