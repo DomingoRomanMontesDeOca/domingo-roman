@@ -24,6 +24,7 @@ La **frecuencia** se relaciona con la percepción de la *altura tonal* o *tono*.
 Las ondas simples u ondas sinusoidales, representan una sola frecuencia y el oscilograma tiene una forma como esta:
 
 Figura: forma de una onda sinusoidal.
+![Representación gráfica de una onda simple](/imagenes/sinusoide.png)
 
 
 
