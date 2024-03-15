@@ -23,11 +23,14 @@ La **frecuencia** se relaciona con la percepción de la *altura tonal* o *tono*.
 <br>
 Las ondas simples u ondas sinusoidales, representan una sola frecuencia y el oscilograma tiene una forma como esta:
 
+Figura: forma de una onda sinusoidal.
+
+
+
 Figura: onda simple o sinusoidal animada.
 ![Imagen animada de una onda simple](/imagenes/onda_simple_animada.gif)
+En la figura de arriba, se mueve a lo largo de la onda para mostrar los diferentes valores de amplitud (a la izquierda)
 
-Figura: onda simple o sinusoidal (cinco ciclos)
-(Pendiente)
 
 La creación de un tono se hace muy sencilla usando los programas editores de sonido o páginas como estas:
 [Online Tone Generator](https://www.onlinemictest.com/es/tone-generator/)
