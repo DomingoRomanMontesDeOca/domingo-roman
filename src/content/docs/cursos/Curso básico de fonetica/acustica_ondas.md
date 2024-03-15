@@ -6,7 +6,7 @@ sidebar:
   # Nombre
   label: 1.1. Qué es una onda
   # Orden (Número más bajo aparece más arriba)
-  order: 2
+  order: 1
 ---
 
 ## 1.1. Qué es una onda
