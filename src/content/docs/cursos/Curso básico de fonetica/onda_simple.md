@@ -26,7 +26,7 @@ Las ondas simples u ondas sinusoidales, representan una sola frecuencia y el osc
 
 Figura: onda simple o sinusoidal animada.
 
-![Imagen animada de una onda simple](/assets/imagenes/animada_onda_amplitud.gif)
+![Imagen animada de una onda simple](/assets/imagenes/onda_simple_animada.gif)
 ￼
 Figura: onda simple o sinusoidal (cinco ciclos)
 (Pendiente)
