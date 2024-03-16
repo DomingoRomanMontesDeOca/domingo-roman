@@ -26,7 +26,7 @@ El oscilograma es una simplificación gráfica bidimensional (eje X y eje Y) de 
 
 En un oscilograma podemos calcular la frecuencia en Hz (ciclos por segundo) si se sabe la duración de un ciclo (llamado *período* y simbolizado *T*).
 
-El cálculo se hacede la siguente manera: un ciclo dura n segundos (o fracción de segundo). Se pregunta entonces cuántos ciclos habrá en un segundo.
+El cálculo se hace de la siguente manera: un ciclo dura n segundos (o fracción de segundo). Se pregunta entonces cuántos ciclos habrá en un segundo.
 
       1 ciclo      x ciclos<br>
       -------      -------
