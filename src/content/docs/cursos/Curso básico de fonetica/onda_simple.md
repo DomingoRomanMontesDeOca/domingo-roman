@@ -30,7 +30,7 @@ Como se puede observar, en esta imagen de arriba se tienen dos ciclos y medio. L
 
 Figura: onda simple o sinusoidal animada.
 ![Imagen animada de una onda simple](/imagenes/onda_simple_animada.gif)
-En la figura de arriba, se mueve a lo largo de la onda para mostrar los diferentes valores de amplitud (a la izquierda)
+En la figura de arriba, un punto rojo se mueve a lo largo de la onda para mostrar los diferentes valores de amplitud (a la izquierda) en cada momento.
 
 
 La creación de un tono se hace muy sencilla usando los programas editores de sonido o páginas como estas:
