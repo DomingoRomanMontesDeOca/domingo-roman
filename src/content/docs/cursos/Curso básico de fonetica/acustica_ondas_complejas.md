@@ -10,5 +10,7 @@ sidebar:
 ---
 # 1.4 Ondas complejas
 
-Una onda se puede representar gráficamente "como si" el tiempo avanzara de izquierda a derecha; es decir, el tiempo se representa en el eje X.
-<br>
+Supóngase que un generador de tonos produce un tono de 440 Hz. En este caso, se tendría una onda simple o sinusoide de una determinada amplitud.
+Supóngase ahora que el generador puede producir un variado número de tonos simultáneamente.Los dos valores que tenemos que definir son amplitud y frecuencia para cada tono.
+
+
