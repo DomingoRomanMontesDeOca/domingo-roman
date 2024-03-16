@@ -11,6 +11,13 @@ sidebar:
 # 1.4 Ondas complejas
 
 Supóngase que un generador de tonos produce un tono de 440 Hz. En este caso, se tendría una onda simple o sinusoide de una determinada amplitud.
-Supóngase ahora que el generador puede producir un variado número de tonos simultáneamente.Los dos valores que tenemos que definir son amplitud y frecuencia para cada tono.
+Supóngase ahora que el generador puede producir un variado número de tonos simultáneamente. Los dos valores que tenemos que definir son frecuencia y amplitud para cada tono.
+Por ejemplo, se puede crear cuatro tonos, respectivamente, de 100 Hz, 200 Hz, 300 Hz y 400 Hz. Las amplitudes pueden adoptar los siguientes valores entre 0 y 1: 0.5, 0.25, 0.4 y 0.3
+Si disponemos las frecuencias y las amplitudes, se tiene:
+  100 Hz...0.5
+  200 Hz...0.25
+  300 Hz...0.4
+  400 Hz...0.3
+
 
 
