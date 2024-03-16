@@ -24,3 +24,11 @@ Aquí se entiende por ciclo un movimiento completo desde el 0 hasta la máxima e
 Eso sería el equivalente a un movimiento completo de una partícula.
 El oscilograma es una simplificación gráfica bidimensional (eje X y eje Y) de la perturbación en el medio que constituye una onda.
 
+En un oscilograma podemos calcular la frecuencia en Hz (ciclos por segundo) si se sabe la duración de un ciclo (llamado *período* y simbolizado *T*).
+
+El cálculo se hacede la siguente manera: un ciclo dura x segundos (o fracción de segundo). Se pregunta entonces cuántos ciclos habrá en un segundo.
+
+  1 ciclo       x ciclos
+  ________      ________
+  n segundos    1 segundo
+
