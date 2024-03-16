@@ -20,5 +20,7 @@ Si disponemos las frecuencias y las amplitudes, se tiene:
   300 Hz...0.4<br>
   400 Hz...0.3<br>
 
+![Cuatro ondas sinusoidales correspondientes en Hz y en amplitudes a los valores presentes en la tabla de arriba](\imagenes\cuatro_sinusoides.png)
+
 
 
