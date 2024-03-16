@@ -28,8 +28,9 @@ En un oscilograma podemos calcular la frecuencia en Hz (ciclos por segundo) si s
 
 El cálculo se hacede la siguente manera: un ciclo dura n segundos (o fracción de segundo). Se pregunta entonces cuántos ciclos habrá en un segundo.
 
-  1 ciclo    x ciclos<br>
-  n segundos 1 segundo<br>
+      1 ciclo      x ciclos<br>
+      -------      -------
+    n segundos     1 segundo<br>
 
 La solución a esta ecuación es
 
