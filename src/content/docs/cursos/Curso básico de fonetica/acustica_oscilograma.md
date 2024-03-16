@@ -22,3 +22,5 @@ El oscilograma de una onda simple tiene una forma como la de la figura siguiente
 ![Oscilograma de una onda simple (en que se observan seis ciclos](/imagenes/sinusoide_6_ciclos.png)
 Aquí se entiende por ciclo un movimiento completo desde el 0 hasta la máxima elongación el retorno al 0 y a la elongación máxima contraria hasta que llega nuevamente al punto 0.
 Eso sería el equivalente a un movimiento completo de una partícula.
+El oscilograma es una simplificación gráfica bidimensional (eje X y eje Y) de la perturbación en el medio que constituye una onda.
+
