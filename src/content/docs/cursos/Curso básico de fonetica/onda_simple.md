@@ -35,3 +35,6 @@ En la figura de arriba, se mueve a lo largo de la onda para mostrar los diferent
 
 La creación de un tono se hace muy sencilla usando los programas editores de sonido o páginas como estas:
 [Online Tone Generator](https://www.onlinemictest.com/es/tone-generator/)
+
+Escuchar una onda simple es escuchar una sola frecuencia. Es lo que sucede cuando escuchamos un diapasón, normalmente de 440 Hz y que se usa para afinar voces e instrumentos en eventos musicales.
+
