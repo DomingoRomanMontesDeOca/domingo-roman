@@ -6,7 +6,7 @@ sidebar:
   # Nombre
   label: 1.3 Oscilograma
   # Orden (Número más bajo aparece más arriba)
-  order: 3
+  order: 4
 ---
 # 1.3 Oscilograma
 
