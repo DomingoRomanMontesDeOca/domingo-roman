@@ -19,5 +19,5 @@ Dado que esta es una representación de la oscilación, el gráfico se denomina 
 En un oscilograma podemos observar entonces los valores de la amplitud del movimiento en un momento dado.
 <br> 
 El oscilograma de una onda simple tiene una forma como la de la figura siguiente en que se observan seis ciclos:
-![Oscilograma de una onda simple (en que se observan seis ciclos](/imagenes/sinusoide_6ciclos.png)
+![Oscilograma de una onda simple (en que se observan seis ciclos](/imagenes/sinusoide_6_ciclos.png)
 
