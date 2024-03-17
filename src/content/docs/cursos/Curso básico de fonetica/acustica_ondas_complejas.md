@@ -22,6 +22,6 @@ Si disponemos las frecuencias y las amplitudes, se tiene:
 
 ![Cuatro ondas sinusoidales correspondientes en Hz y en amplitudes a los valores presentes en la tabla de arriba](/imagenes/cuatro_sinusoides.png)
 
-La imagen de arriba muestra cuatro sinusoides correspondientes a los valores señalados en la tabla. La segunda sinusoide (de arriba hacia abajo) tiene el doble de frecuencia que la primera; luego, en el tiempo en el que en la primera hay un ciclo, en la segunda hay dos. Por otra parte, la segunda tiene la mitad de amplitud que la primera, luego, en la dimensión vertical, la primera tiene el doble de "altura gráfica" que la segunda.
+La imagen de arriba muestra cuatro sinusoides correspondientes a los valores señalados en la tabla. La segunda sinusoide (de arriba hacia abajo) tiene el doble de frecuencia que la primera; luego, en el tiempo en el que en la primera hay un ciclo, en la segunda hay dos. Por otra parte, la segunda tiene la mitad de amplitud que la primera, luego, en la dimensión vertical, la primera tiene, gráficamente hablando, el doble de amplitud que la segunda.
 
 <audio controls src="/sonidos/tono_100.mp3"></audio>
