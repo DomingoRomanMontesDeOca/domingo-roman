@@ -24,4 +24,4 @@ Si disponemos las frecuencias y las amplitudes, se tiene:
 
 La imagen de arriba muestra cuatro sinusoides correspondientes a los valores señalados en la tabla. La segunda sinusoide (de arriba hacia abajo) tiene el doble de frecuencia que la primera; luego, en el tiempo en el que en la primera hay un ciclo, en la segunda hay dos. Por otra parte, la segunda tiene la mitad de amplitud que la primera, luego, en la dimensión vertical, la primera tiene el doble de "altura gráfica" que la segunda.
 
-[[audio-{/sonidos/tono_200.wav}-{Este es un tono de 200 Hz}]]
+[[audio-{/sonidos/tono_200.mp4}-{Este es un tono de 200 Hz}]]
