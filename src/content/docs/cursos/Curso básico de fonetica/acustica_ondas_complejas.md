@@ -32,15 +32,15 @@ El tono de 100 Hz de 1 segundo de duración:
 
 El tono de 200 Hz de 1 segundo:
 
-<audio controls src="/sonidos/tono_200.mp3"></audio>
+<audio controls src="/sonidos/200_025.mp3"></audio>
 
 El tono de 300 Hz de 1 segundo:
 
-<audio controls src="/sonidos/tono_300.mp3"></audio>
+<audio controls src="/sonidos/300_04.mp3"></audio>
 
 El tono de 400 Hz y de 1 segundo:
 
-<audio controls src="/sonidos/tono_400.mp3"></audio>
+<audio controls src="/sonidos/400_03.mp3"></audio>
 
 
 
