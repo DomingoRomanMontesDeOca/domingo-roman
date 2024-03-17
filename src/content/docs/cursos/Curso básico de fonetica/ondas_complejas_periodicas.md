@@ -20,3 +20,4 @@ Cuando las ondas simples que se suman tienen una relación matemática entre sí
 
  ![Un ciclo de la onda periódica compleja presentada antes](/imagenes/un_ciclo_periodico.png)
  
+Se debe hacer el ejercicio de identificar el primer ciclo en el oscilograma más largo. Hay algunas diferencias pero solo son efectos gráficos al presentar el ciclo "más estirado" en el eje X.
