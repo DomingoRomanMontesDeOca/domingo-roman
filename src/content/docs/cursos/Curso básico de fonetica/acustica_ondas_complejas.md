@@ -6,7 +6,7 @@ sidebar:
   # Nombre
   label: 1.4 Ondas complejas
   # Orden (Número más bajo aparece más arriba)
-  order: 6
+  order: 5
 ---
 # 1.4 Ondas complejas
 
