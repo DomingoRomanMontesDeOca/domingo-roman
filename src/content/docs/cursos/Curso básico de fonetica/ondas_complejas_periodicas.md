@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 1.4 Ondas complejas
+  label: 1.4 Ondas complejas periódicas
   # Orden (Número más bajo aparece más arriba)
   order: 6
 ---
