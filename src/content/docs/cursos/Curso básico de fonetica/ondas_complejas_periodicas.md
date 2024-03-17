@@ -14,4 +14,7 @@ Las ondas simples se pueden sumar y se obtiene un resultado que es varias ondas 
 Como se ha visto, una onda compleja es una sumatoria de ondas simples, o sinusoides y una onda simple corresponde a una sola frecuencia.
 Cuando las ondas simples que se suman tienen una relación matemática entre sí, el resultado es una onda compleja (o compuesta) y periódica. Esta cualidad se manifiesta en que tendrá ciclos que se repiten, como en el caso ya visto:
 
+![Onda compleja en la que se suman los cuatro tonos de ejemplo](/imagenes/onda_compleja_sumando_4_tonos.png)
 
+ En esta porción del oscilograma se pueden observar seis ciclos y todos tienen la misma forma:
+ 
