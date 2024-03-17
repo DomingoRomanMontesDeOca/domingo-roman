@@ -42,6 +42,11 @@ El tono de 400 Hz y de 1 segundo:
 
 <audio controls src="/sonidos/400_03.mp3"></audio>
 
+El siguiente audio es la suma de las cuatro sinusoides anteriores. El resultado, es una onda compleja, es decir, con varios componentes.
 
+<audio controls src="/sonidos/de_100_200_300_400_combinados.mp3"></audio>
+
+
+![Onda compleja en la que se suman los cuatro tonos de ejemplo](/imagenes/onda_compleja_sumando_4_tonos.png)
 
 
