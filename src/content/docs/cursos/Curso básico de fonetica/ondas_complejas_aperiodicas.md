@@ -15,3 +15,7 @@ Pero si no tienen relación entre sí, entonces el resultado será una onda cuyo
 
 ![Oscilograma de un ruido](/imagenes/oscilograma_ruido.png)
 
+Téngase en cuenta que el tiempo que se muestra en el oscilograma de esta señal aperiódica es el mismo que en el caso de la señal periódica mostraba seis ciclos.
+
+
+
