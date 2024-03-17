@@ -24,7 +24,24 @@ Si disponemos las frecuencias y las amplitudes, se tiene:
 
 La imagen de arriba muestra cuatro sinusoides correspondientes a los valores señalados en la tabla. La segunda sinusoide (de arriba hacia abajo) tiene el doble de frecuencia que la primera; luego, en el tiempo en el que en la primera hay un ciclo, en la segunda hay dos. Por otra parte, la segunda tiene la mitad de amplitud que la primera, luego, en la dimensión vertical, la primera tiene, gráficamente hablando, el doble de amplitud que la segunda.
 
-Se puede escuchar cada tono con la duración de 1 segundo:
+Los tonos con que se ejemplifica, se pueden escuchar aquí;
+
+El tono de 100 Hz de 1 segundo de duración:
 
 <audio controls src="/sonidos/tono_100.mp3"></audio>
+
+El tono de 200 Hz de 1 segundo:
+
+<audio controls src="/sonidos/tono_200.mp3"></audio>
+
+El tono de 300 Hz de 1 segundo:
+
+<audio controls src="/sonidos/tono_300.mp3"></audio>
+
+El tono de 400 Hz y de 1 segundo:
+
+<audio controls src="/sonidos/tono_400.mp3"></audio>
+
+
+
 
