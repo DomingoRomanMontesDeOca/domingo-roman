@@ -21,3 +21,14 @@ En la imagen siguiente se aprecia el oscilograma de esa onda periódica y se ha 
 Las siguientes imágenes muestran las ondas simples que componene esta onda compleja y se mostrará marcado el mismo punto temporal y, en la parte superior, el valor de amplitud en ese punto.
 
 ![Onda simple con un punto marcado y en la parte superior, el valor de la amplitud](/imagenes/sumatoria_01.png)
+
+
+
+![Onda simple con un punto marcado y en la parte superior, el valor de la amplitud](/imagenes/sumatoria_02.png)
+
+
+
+![Onda simple con un punto marcado y en la parte superior, el valor de la amplitud](/imagenes/sumatoria_03.png)
+
+
+![Onda simple con un punto marcado y en la parte superior, el valor de la amplitud](/imagenes/sumatoria_04.png)
