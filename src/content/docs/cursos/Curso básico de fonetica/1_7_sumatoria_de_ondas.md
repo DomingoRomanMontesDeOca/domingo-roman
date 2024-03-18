@@ -16,4 +16,4 @@ Para efectos prácticos, el ejemplo siguiente será con una onda compleja perió
 
 En la imagen siguiente se aprecia el oscilograma de esa onda periódica y se ha marcado un punto que se usará para mostrar cómo se realiza la sumatoria de las ondas.
 
-![Onda simple con un punto marcado y en la parte superior, el valor de la amplitud](/imagenes/sumatoria_1.png)
+![Onda simple con un punto marcado y en la parte superior, el valor de la amplitud](/imagenes/sumatoria_01.png)
