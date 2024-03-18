@@ -14,6 +14,10 @@ Al producir varias sinusoides simultáneamente, se produce un sonido compuesto p
 
 Para efectos prácticos, el ejemplo siguiente será con una onda compleja periódica; pero para una aperiódica se aplica el mismo procedimiento.
 
-En la imagen siguiente se aprecia el oscilograma de esa onda periódica y se ha marcado un punto que se usará para mostrar cómo se realiza la sumatoria de las ondas.
+En la imagen siguiente se aprecia el oscilograma de esa onda periódica y se ha marcado un punto que se usará para mostrar cómo se realiza la sumatoria de las ondas. En la parte superior, se muestra el valor de la amplitud en ese punto.
+
+![Onda simple con un punto marcado y en la parte superior, el valor de la amplitud](/imagenes/sumatoria_0.png)
+
+Las siguientes imágenes muestran las ondas simples que componene esta onda compleja y se mostrará marcado el mismo punto temporal y, en la parte superior, el valor de amplitud en ese punto.
 
 ![Onda simple con un punto marcado y en la parte superior, el valor de la amplitud](/imagenes/sumatoria_01.png)
