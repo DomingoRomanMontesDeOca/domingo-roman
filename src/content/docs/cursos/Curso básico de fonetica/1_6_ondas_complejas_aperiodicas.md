@@ -4,11 +4,11 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 1.5 Ondas complejas aperiódicas
+  label: 1.6 Ondas complejas aperiódicas
   # Orden (Número más bajo aparece más arriba)
   order: 7
 ---
-# 1.5 Ondas complejas aperiódicas
+# 1.6 Ondas complejas aperiódicas
 
 Las ondas simples que se suman para formar una onda pueden tener relación matemática entre sí, por ejemplo, 100 Hz, 200 Hz, 300 Hz, 400 Hz, etc. y darán como resultado una onda compleja periódica.
 Pero si no tienen relación entre sí, entonces el resultado será una onda cuyo oscilograma *no mostrará ciclos regulares* sino más bien una secuencia aleatoria de valores de amplitud.
