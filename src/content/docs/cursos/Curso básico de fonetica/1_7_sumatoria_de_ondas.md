@@ -33,4 +33,4 @@ Las siguientes imágenes muestran las ondas simples que componen esta onda compl
 ![Onda simple con un punto marcado y en la parte superior, el valor de la amplitud](/imagenes/sumatoria_04.png)
 
 La onda resultante es la siguiente:
-![Onda compuesta con un punto marcado y en la parte superior, el valor de la amplitud](/imagenes/sumatoria_0.png)
+![Onda compuesta con un punto marcado y en la parte superior, el valor de la amplitud](/imagenes/sumatoria_todas.png)
