@@ -40,4 +40,7 @@ En otras palabras, 1/ duración del ciclo (*T*) es la frecuencia.
 
       f = 1/T
 
+![Animación para la obtención de la fórmula de la frecuencia](https://youtu.be/7SC7vsTi3KE){width='100px'}
+
+
 Hasta aquí, se han presentado solo ondas simples pero esta forma de calcular la frecuencia tiene utilidad también en ondas de otro tipo.
