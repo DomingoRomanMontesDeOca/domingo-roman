@@ -15,3 +15,5 @@ El espectro tiene la información de un determinado punto de la señal; por lo q
 Por ejemplo, si una señal compleja (en este caso, periódica) tiene cuatro componentes de 100 Hz, 200 Hz, 300 Hz y 400 Hz cuyas amplitudes son, respectivamente, 0.5, 0.25, 0.4 y 0.3 tendrá esta forma:
 
 ![Espectro de una onda compuesta por cuatro sinusoides](/imagenes/espectro_0.png)
+
+En eje vertical se muestran las amplitudes de cada componente y en el horizontal las frecuencias.
