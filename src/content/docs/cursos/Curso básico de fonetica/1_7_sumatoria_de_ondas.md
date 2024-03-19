@@ -21,16 +21,19 @@ Las siguientes imágenes muestran las ondas simples que componen esta onda compl
 
 ![Onda simple con un punto marcado y en la parte superior, el valor de la amplitud](/imagenes/sumatoria_01.png)
 
-
-
 ![Onda simple con un punto marcado y en la parte superior, el valor de la amplitud](/imagenes/sumatoria_02.png)
 
-
-
 ![Onda simple con un punto marcado y en la parte superior, el valor de la amplitud](/imagenes/sumatoria_03.png)
-
 
 ![Onda simple con un punto marcado y en la parte superior, el valor de la amplitud](/imagenes/sumatoria_04.png)
 
 La onda resultante es la que en la siguiente imagen se presenta en negro. Las sinusoides están superpuestas y se marca el momento con el que se ejemplifica:
 ![Ondas simples superpuestas con un punto marcado y la onda resultante](/imagenes/sumatoria_todas.png)
+
+Para efectos de este curso, se puede afirmar que para sumar ondas simples se toman los valores de amplitud de cada sinusoide en un punto determinado y se suman esos valores. El resultado de esa suma es la amplitud de la onda resultante. En este caso, las amplitudes son:
+0.13
+0.10
+0.13
+0.06
+
+cuya suma es 0.42
