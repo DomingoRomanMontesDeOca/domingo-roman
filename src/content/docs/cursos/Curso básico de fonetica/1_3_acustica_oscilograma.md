@@ -38,6 +38,6 @@ La solución a esta ecuación es:
 
 En otras palabras, 1/ duración del ciclo (*T*) es la frecuencia.
 
-      f = 1/*T*
+      f = 1/T
 
 Hasta aquí, se han presentado solo ondas simples pero esta forma de calcular la frecuencia tiene utilidad también en ondas de otro tipo.
