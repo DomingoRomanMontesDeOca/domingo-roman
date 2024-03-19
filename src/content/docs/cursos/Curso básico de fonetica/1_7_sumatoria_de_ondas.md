@@ -37,4 +37,4 @@ Se deben sumar la mayor cantidad de puntos posibles para tener el resultado más
 
 En resumen, cada punto observado en una onda compuesta es resultado de la suma de los valores de amplitud en ese mismo punto de varias ondas simples.
 
-Este proceso de sumar ondas simples nos permite crear ondas complejas. También es importante conocer el camino inverso: el análisis o la descomposición. Es decir, a partir de una onda compleja, determinar cuáles son los valores de frecuencia y de amplitud de las ondas simples que la componen.
+Este proceso de sumar ondas simples nos permite crear ondas complejas. También es importante conocer el camino inverso: el análisis o la descomposición. Es decir, a partir de una onda compleja, determinar cuáles son los valores de frecuencia y de amplitud de cada onda simple que la componen.
