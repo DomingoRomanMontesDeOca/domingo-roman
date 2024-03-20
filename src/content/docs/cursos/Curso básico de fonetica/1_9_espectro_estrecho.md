@@ -26,3 +26,5 @@ Si la onda fuese aperiódica, los componentes no tendrían esta relación consta
 El siguiente es el ejemplo de un espectro de banda estrecha de una onda aperiódica.
 
 ![Espectro de una señal aperiódica](/imagenes/espectro_estrecho_aperiodico_ejem.png)
+
+Ambos espectros están tomados de muestras de habla real. El primero está tomado al centro de una vocal y el segundo en una consonante /s/.
