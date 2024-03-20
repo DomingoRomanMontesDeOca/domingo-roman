@@ -23,5 +23,15 @@ Los gráficos de espectros pueden tener formas variadas pero, en lo central, la 
 Se dijo que el espectro tiene información sobre un punto específico de la señal. Estrictamente hablando, cuando se hace un espectro, se señala el punto en que uno quiere tener la información y el análisis se realiza tomando una porción de la señal en torno al punto marcado. Esta porción se denomina *ventana de análisis* y, como es una porción temporal, puede ser más larga o más corta.
 El efecto de la longitud de la ventana es que si la ventana es más bien larga, el análisis de las frecuencias será bastante fino y detallado pero no la definición temporal. Si la ventana es más bien breve, tendrá mayor precisión temporal pero la definición frecuencial será más gruesa o menos fina.
 
+El siguiente es un ejemplo de un espectro real, realizado con una ventana de análisis larga (0.03 s)
+
+![Espectro real de una señal de habla](/imagenes/espectro_estrecho_ejemplo.png)
+
+Para que se tenga una noción aproximada de lo que es la ventana de análisis, las siguientes imágenes muestran una ventana de análisis corta (0.005 s) y una larga (0.03 s).
+
+![Dimensión de la ventana de análisis corta](/imagenes/ventana_de_analisis_corta.png)
+
+![Dimensión de la ventana de análisis larga](/imagenes/ventana_de_analisis_larga.png)
+
 
 
