@@ -19,9 +19,6 @@ El hecho de que sea un espectro de definición frecuencial fina es lo que permit
 
 Este análisis corresponde a lo que se llama **análisis de Fourier** y es el camino inverso a la creación de señales complejas a partir de ondas simples. Se trata de determinar cuáles son las frecuencia y las amplitudes correspondientes que componen la señal compleja.
 
-Cada uno de los componentes tiene un valor frecuencial. En el caso del espectro presentado, las frecuencias distanciadas por la misma cantidad de Hz. A estos componentes se les denomina **armónicos**.
+Cada uno de los componentes tiene un valor frecuencial que se representa habitualmente en el eje horizontal. En el caso del espectro presentado, las frecuencias están distanciadas a la misma cantidad de Hz. Por tener esta relación constante,  a estos componentes se les denomina **armónicos**. Esto se produce en los espectros de las ondas periódicas. 
 
-Esto se produce en el caso de las ondas periódicas. Si la onda fuese aperiódica, los componentes no tendrían esta relación constante que advertimos en el espectro de arriba. En ese caso, simplemente hablamos de **componentes**.
-
-
-
+Si la onda fuese aperiódica, los componentes no tendrían esta relación constante que advertimos en el espectro de arriba. En ese caso, simplemente hablamos de **componentes**.
