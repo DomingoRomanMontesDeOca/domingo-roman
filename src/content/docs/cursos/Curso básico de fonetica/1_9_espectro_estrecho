@@ -10,4 +10,7 @@ sidebar:
 ---
 # 1.9 Espectro de banda estrecha
 
-El camino inverso a la creac
+Al hacer un análisis espectral con una ventana de análisis larga, por ejemplo, de 30 ms (0.03 s) se obtiene una definición frecuencial nítida pues en esa ventana caben varios ciclos de una onda sonora.
+Esto da como resultado un espectro llamado de **banda estrecha**, tal como el ya presentado y que lo repetimos aquí:
+
+
