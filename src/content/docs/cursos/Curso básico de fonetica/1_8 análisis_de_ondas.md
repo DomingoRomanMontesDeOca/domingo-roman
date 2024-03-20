@@ -27,7 +27,7 @@ El siguiente es un ejemplo de un espectro real, realizado con una ventana de an�
 
 ![Espectro real de una señal de habla](/imagenes/espectro_estrecho_ejemplo.png)
 
-Para que se tenga una noción aproximada de lo que es la ventana de análisis, las siguientes imágenes muestran una ventana de análisis corta (0.005 s) y una larga (0.03 s).
+Para que se tenga una noción aproximada de lo que es la ventana de análisis, las siguientes imágenes muestran una ventana de análisis corta (0.005 s) y una larga (0.03 s). En la parte superior de cada imagen, se señala la duración de la señal completa.
 
 ![Dimensión de la ventana de análisis corta](/imagenes/ventana_de_analisis_corta.png)
 
