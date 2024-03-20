@@ -13,4 +13,7 @@ sidebar:
 Al hacer un análisis espectral con una ventana de análisis larga, por ejemplo, de 30 ms (0.03 s) se obtiene una definición frecuencial nítida pues en esa ventana caben varios ciclos de una onda sonora.
 Esto da como resultado un espectro llamado de **banda estrecha**, tal como el ya presentado y que lo repetimos aquí:
 
+![Espectro real de una señal de habla](/imagenes/espectro_estrecho_ejemplo.png)
+
+El hecho de que sea un espectro de definición frecuencial fina es lo que permite observar los picos frecuenciales correspondientes a cada onda simple que compone la señal compleja.
 
