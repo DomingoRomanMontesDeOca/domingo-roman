@@ -16,4 +16,5 @@ ESto se puede apreciar mejor en las imágenes siguientes que presentan superpues
 
 ![Espectros de dos tipos superpuestos en una vocal](/imagenes/espectro_ancho_estrecho_periodico.png)
 
+
 ![Espectros de dos tipos superpuestos en una /s/](/imagenes/espectro_ancho_estrecho_Aperiodico.png)
