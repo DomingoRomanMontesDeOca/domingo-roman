@@ -20,4 +20,3 @@ Ejemplo de espectroa de banda ancha son los siguientes. Estos espectros están t
 ![Ejemplo de un espectro de banda ancha](/imagenes/espectro_ancho_aperiodico_ejem.png)
 
 En estos espectros no podemos identificar los componentes justamente por la poca finura del análisis; pero sí podemos identificar zonas de relieve frecuencial. Por ejemplo, en el primero de ellos (que está tomado en una vocal), en torno los 500 Hz o un poco más hay un relieve y otro relieve relevante se observa cerca de lo 4000 Hz. En el segundo espectro (este está tomado en una /s/) se observa un relieve a los 960 Hz, otro a los 1620 Hz, otro a los 5200 Hz, etc.
-
