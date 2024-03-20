@@ -10,6 +10,10 @@ sidebar:
 ---
 # 1.11 Comparación entre los dos espectros
 
-La información sobre la misma señal es diferente en ambos tipos de espectros. Mientras que en el de banda estrecha (ventana de análisis larga) se observan los detalles
+La información sobre la misma señal es diferente en ambos tipos de espectros. Mientras que en el de banda estrecha (ventana de análisis larga) se observan los detalles frecuenciales de los componentes, en el de banda ancha (ventana de análisis breve) sólo se observan amplias zonas de relieve frecuencial; es decir, la banda frecuencial en la que los componentes tienen relieve de amplitud.
+
+ESto se puede apreciar mejor en las imágenes siguientes que presentan superpuestos ambos espectros en los dos puntos seleccionados para el análisis: la vocal y la consonante /s/:
+
+![Espectros de dos tipos superpuestos en una vocal](
 
 
