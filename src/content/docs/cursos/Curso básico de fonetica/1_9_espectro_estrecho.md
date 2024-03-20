@@ -17,3 +17,5 @@ Esto da como resultado un espectro llamado de **banda estrecha**, tal como el ya
 
 El hecho de que sea un espectro de definición frecuencial fina es lo que permite observar los picos frecuenciales correspondientes a cada onda simple que compone la señal compleja.
 
+Este análisis corresponde a lo que se llama también **análisis de Fourier** 
+
