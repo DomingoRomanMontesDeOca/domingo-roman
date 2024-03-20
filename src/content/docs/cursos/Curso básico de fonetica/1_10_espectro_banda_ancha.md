@@ -9,5 +9,5 @@ sidebar:
 ---
 # 1.10 Espectro de banda ancha
 
-Si se hace un análisis espectral con una ventana estrecha se obtiene una mala definición frecuencial dado que el análisis se hace con un segmento bastante breve
+Si se hace un análisis espectral con una ventana estrecha se obtiene una mala definición frecuencial dado que el análisis se hace con un segmento bastante breve.
 
