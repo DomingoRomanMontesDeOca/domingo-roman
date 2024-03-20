@@ -1,0 +1,13 @@
+---
+# El título es obligatorio para que la página funcione
+title: Curso básico de fonética
+# Configuracion de la barra de navegación
+sidebar:
+  # Nombre
+  label: 1.9 Espectro de banda estrecha
+  # Orden (Número más bajo aparece más arriba)
+  order: 9
+---
+# 1.9 Espectro de banda estrecha
+
+El camino inverso a la creac
