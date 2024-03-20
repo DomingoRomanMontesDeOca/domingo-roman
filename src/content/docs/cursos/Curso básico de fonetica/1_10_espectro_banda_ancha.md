@@ -14,6 +14,8 @@ Si se hace un análisis espectral con una ventana estrecha se obtiene una mala d
 
 Un ejemplo de espectro de banda ancha es el siguiente.
 
-![Ejemplo de un espectro de banda ancha](
+![Ejemplo de un espectro de banda ancha](/imagenes/espectro_ancho_ejemplo.png)
 
+
+![Ejemplo de un espectro de banda ancha](/imagenes/espectro_ancho_aperiodico_ejem.png)
 
