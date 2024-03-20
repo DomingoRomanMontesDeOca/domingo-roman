@@ -36,8 +36,8 @@ Para que se tenga una noción aproximada de lo que es la ventana de análisis, l
 Del espectro presentado arriba, se pueden hacer las siguientes observaciones:<br>
 
       entre los 0 Hz y los 2000 Hz hay siete componentes.
-      el segundo es el que presenta la amplitud mayor de todos los que se observan en el espectro
-      hacia los 3000 Hz se observa que los componentes son más débiles o de menor amplitud
+      el segundo es el que presenta la amplitud mayor
+      hacia los 3000 Hz se observa que los componentes son más débiles
       hay un relieve hacia los 4000 Hz
       todos los componentes están a una distancia frecuencial uniforme
 
