@@ -14,8 +14,7 @@ La información sobre la misma señal es diferente en ambos tipos de espectros. 
 
 ESto se puede apreciar mejor en las imágenes siguientes que presentan superpuestos ambos espectros en los dos puntos seleccionados para el análisis: la vocal y la consonante /s/:
 
-![Espectros de dos tipos superpuestos en una vocal](/imagenes/espectro_ancho_estrecho_periodico.png {width=40px height=400px})
+![Espectros de dos tipos superpuestos en una vocal](/imagenes/espectro_ancho_estrecho_periodico.png)
 
-A ver ahora!
 
 ![Espectros de dos tipos superpuestos en una /s/](/imagenes/espectro_ancho_estrecho_Aperiodico.png)
