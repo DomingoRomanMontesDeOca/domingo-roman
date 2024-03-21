@@ -19,7 +19,7 @@ En primer lugar, en esta sección se presentan los dos tipos de espectros de una
 
 El siguiente es el oscilograma de una sinusoide de 500 Hz:
 
-![Oscilograma de un tono de 500 Hz](/imagenes/tono500.png)
+![Oscilograma de un tono de 500 Hz](/imagenes/tono_500.png)
 
 Como se sabe, el espectro estrecho mostrará un único relieve en los 500 Hz:
 
