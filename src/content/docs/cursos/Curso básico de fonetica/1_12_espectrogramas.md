@@ -21,6 +21,15 @@ El siguiente es el oscilograma de una sinusoide de 500 Hz:
 
 ![Oscilograma de un tono de 500 Hz]((/imagenes/tono500.png)
 
-Como se sabe, el espectro estrecho mostrará un único relieve en los 500 H:
+Como se sabe, el espectro estrecho mostrará un único relieve en los 500 Hz:
 
 ![Espectro de un tono de 500 Hz]((/imagenes/espectro_estrecho_tono500.png)
+
+![Espectrograma de banda estrecha de un tono de 500 Hz]((/imagenes/espectrograma_estrecho_tono500.png)
+
+El espectro de banda ancha mostrará lo mismo pero de manera menos precisa:
+
+![Espectro ancho de un tono de 500 Hz]((/imagenes/espectro_ancho_tono500.png)
+
+![Espectrograma de banda ancha de un tono de 500 Hz]((/imagenes/espectrograma_ancho_tono500.png)
+
