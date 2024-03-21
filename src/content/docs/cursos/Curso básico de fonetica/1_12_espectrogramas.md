@@ -17,3 +17,7 @@ Lógicamente, en el espectrograma de banda estrecha se tendrá mucho detalle y p
 
 En primer lugar, en esta sección se presentan los dos tipos de espectros de una sinusoide de 500 Hz y los dos tipos de espectrogramas acompañados del oscilograma.
 
+El siguiente es el oscilograma de una sinuoside de 500 Hz:
+
+![Oscilograma de un tono de 500 Hz](
+
