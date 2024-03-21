@@ -21,17 +21,22 @@ El siguiente es el oscilograma de una sinusoide de 500 Hz:
 
 ![Oscilograma de un tono de 500 Hz](/imagenes/tono_500.png)
 
-Como se sabe, el espectro estrecho mostrará un único relieve en los 500 Hz:
+Como se sabe, el espectro estrecho mostrará un único relieve en los 500 Hz, con bastante precisión:
 
 ![Espectro de un tono de 500 Hz](/imagenes/espectro_estrecho_tono500.png)
 
-Dado que la señal es constante, el espectro será el mismo en cualquier parte de la señal. 
+Dado que la señal es constante, el espectro será el mismo en cualquier parte de la señal. Es decir que si hacemos el espectro al inicio, al centro o al final, tendrá siempre la misma forma.
+
+El espectro de banda ancha mostrará lo mismo pero de manera menos precisa y también repetirá su forma en cualquier parte de la señal
+
+![Espectro ancho de un tono de 500 Hz](/imagenes/espectro_ancho_tono500.png)
+
+Ahora bien, imagínese que podemos hacer muchos espectros seguidos y los podemos disponer en una sucesión continua.
+
 
 ![Espectrograma de banda estrecha de un tono de 500 Hz](/imagenes/espectrograma_estrecho_tono500.png)
 
-El espectro de banda ancha mostrará lo mismo pero de manera menos precisa:
 
-![Espectro ancho de un tono de 500 Hz](/imagenes/espectro_ancho_tono500.png)
 
 ![Espectrograma de banda ancha de un tono de 500 Hz](/imagenes/espectrograma_ancho_tono500.png)
 
