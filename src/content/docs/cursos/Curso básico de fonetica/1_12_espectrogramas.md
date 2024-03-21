@@ -12,6 +12,8 @@ sidebar:
 
 Se ha afirmado que el espectro es un análisis de las frecuencias en un punto determinado a partir de una ventana de análisis que puede ser larga o corta. Lo anterior hace que se disponga de espectros de banda estrecha y de espectros de banda ancha.
 Con una serie de espectros sucesivos se construye un **espectrograma** que permiten observar el comportamiento frecuencial a través del tiempo. Si se construye con espectros de banda estrecha, se tratará de un **espectrograma de banda estrecha** y si se construye con espectros de banda ancha se tratará de un **espectrograma de banda ancha**.
+
 Lógicamente, en el espectrograma de banda estrecha se tendrá mucho detalle y precisión frecuencial y el análisis del tiempo será mucho menos preciso, dado que trabaja con una ventana temporal larga. por su parte, el espectrograma de banda ancha tendrá mayor precisión temporal, dado que la ventana de análisis es corta, pero una definición frecuencial menos precisa.
 
+En primer lugar, en esta sección se presentan los dos tipos de espectros de una sinusoide de 500 Hz y los dos tipos de espectrogramas acompañados del oscilograma.
 
