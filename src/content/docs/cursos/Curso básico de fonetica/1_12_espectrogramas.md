@@ -31,7 +31,7 @@ El espectro de banda ancha mostrará lo mismo pero de manera menos precisa y tam
 
 ![Espectro ancho de un tono de 500 Hz](/imagenes/espectro_ancho_tono500.png)
 
-Ahora bien, imagínese que podemos hacer muchos espectros seguidos y los podemos disponer en una sucesión continua.
+Ahora bien, imagínese que podemos hacer muchos espectros seguidos y los podemos disponer en una sucesión continua. En esta nueva representación se tendrá el tiempo en el eje horizontal y la frecuencia en el eje vertical. Las frecuencias altas se observarán en la parte alta de la representación y las bajas en la parte baja. El tiempo se representará, como es habitual en nuestra cultura, como si avanzara de izquierda a derecha.
 
 
 ![Espectrograma de banda estrecha de un tono de 500 Hz](/imagenes/espectrograma_estrecho_tono500.png)
