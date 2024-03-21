@@ -25,6 +25,8 @@ Como se sabe, el espectro estrecho mostrará un único relieve en los 500 Hz:
 
 ![Espectro de un tono de 500 Hz](/imagenes/espectro_estrecho_tono500.png)
 
+Dado que la señal es constante, el espectro será el mismo en cualquier parte de la señal. 
+
 ![Espectrograma de banda estrecha de un tono de 500 Hz](/imagenes/espectrograma_estrecho_tono500.png)
 
 El espectro de banda ancha mostrará lo mismo pero de manera menos precisa:
