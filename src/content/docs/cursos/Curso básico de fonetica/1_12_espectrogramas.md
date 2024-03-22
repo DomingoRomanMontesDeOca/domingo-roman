@@ -37,6 +37,10 @@ Ahora bien, imagínese que podemos hacer muchos espectros seguidos y los podemos
 La mejor manera de disponer estos espectros, sería girando cada uno tal como se muestra en la imagen siguiente:
 
 
+![espectro girando](/imagenes/espectro_500_Hz_girando.png)
+
+
+
 
 
 El siguiente es un esquema vacío que señala qué se indica en cada eje:
