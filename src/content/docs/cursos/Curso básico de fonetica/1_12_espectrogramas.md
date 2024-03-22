@@ -36,10 +36,13 @@ Ahora bien, imagínese que podemos hacer muchos espectros seguidos y los podemos
 
 La mejor manera de disponer estos espectros, sería girando cada uno tal como se muestra en la imagen siguiente:
 
-
 ![espectro girando](/imagenes/espectro_500_Hz_girando.png)
 
+Así, la punta del espectro queda "mirando al lector" y su posicion en el eje vertical indica de qué frecuencia se trata. La información que se ha perdido es la de la amplitud de esta frecuencia.
 
+No obstante si, antes de hacer el giro mencionado, se pintara con distinto color la amplitud.
+
+![espectro girando](/imagenes/espectro_estrecho_tono500_a_negro.png)
 
 
 
