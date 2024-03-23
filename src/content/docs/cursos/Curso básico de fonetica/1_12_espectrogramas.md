@@ -40,9 +40,16 @@ La mejor manera de disponer estos espectros, sería girando cada uno tal como se
 
 Así, la punta del espectro queda "mirando al lector" y su posicion en el eje vertical indica de qué frecuencia se trata. La información que se ha perdido es la de la amplitud de esta frecuencia.
 
-No obstante si, antes de hacer el giro mencionado, se pintara con distinto color o con diferente intensidad de color la amplitud según su magnitud y, por ejemplo, las magnitudes mayores se indicaran con un color negro y las débiles con tonos de grises más claros, más o menos como se muestra en la figura siguiente.
+No obstante si, antes de hacer el giro mencionado, se pintara con distinto color o con diferente intensidad de color según la magnitud y, por ejemplo, las zonas con magnitudes mayores se indicaran con un color negro y las débiles con tonos de grises más claros, más o menos como se muestra en la figura siguiente.
 
 ![espectro girando](/imagenes/espectro_estrecho_tono500_a_negro.png)
+
+Así, se tendría que las frecuencias con mayor relieve serían más oscuras que las frecuencias con menos relieves.
+
+La siguiente imagen muestra el espectro (esta vez ha sido girado para beneficio de la explicación) y, al lado se ha dispuesto lo que podría ser el mismo espectro puesto de frente al espectador tal como lo señalamos más arriba. Lo importante de esta imagen es que se entienda la relación entre la distinta intensidad del color negro en la imagen de la derecha y la amplitud del mismo componente que se muestra a la izquierda:
+
+
+
 
 
 
