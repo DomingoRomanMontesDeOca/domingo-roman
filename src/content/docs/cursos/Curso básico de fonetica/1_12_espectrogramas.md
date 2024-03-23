@@ -48,8 +48,11 @@ La siguiente imagen muestra el espectro (esta vez ha sido girado para beneficio 
 
 ![espectro y sección del espectrograma](/imagenes/espectro_y_espectro_segmentado_volteado.png)
 
+A la figura en tonos de grises de la derecha en la imagen de arriba, la llamaremos "sección" para facilitar la exposición.
 
+Una sucesión de secciones consecutivas se denomina **espectrograma** y es uno de los gráficos más productivos en la investigación fonética del lenguaje.  
 
+En un espectrograma se representan las frecuencias en el eje vertical y el tiempo en el eje horizontal. La amplitud o intensidad no se observa sino por el tono de gris.
 
 El siguiente es un esquema vacío que señala qué se indica en cada eje:
 
