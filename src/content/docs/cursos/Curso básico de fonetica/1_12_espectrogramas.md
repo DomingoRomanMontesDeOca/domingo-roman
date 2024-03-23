@@ -40,7 +40,7 @@ La mejor manera de disponer estos espectros, sería girando cada uno tal como se
 
 Así, la punta del espectro queda "mirando al lector" y su posicion en el eje vertical indica de qué frecuencia se trata. La información que se ha perdido es la de la amplitud de esta frecuencia.
 
-No obstante si, antes de hacer el giro mencionado, se pintara con distinto color la amplitud.
+No obstante si, antes de hacer el giro mencionado, se pintara con distinto color o con diferente intensidad de color la amplitud según su magnitud y, por ejemplo, las magnitudes mayores se indicaran con un color negro y las débiles con tonos de grises más claros, más o menos como se muestra en la figura siguiente.
 
 ![espectro girando](/imagenes/espectro_estrecho_tono500_a_negro.png)
 
