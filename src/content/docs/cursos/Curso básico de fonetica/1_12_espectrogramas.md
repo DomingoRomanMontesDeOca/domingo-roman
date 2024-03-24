@@ -66,3 +66,5 @@ El espectrograma de banda ancha del mismo tono de 500 Hz tendrá la siguiente fo
 
 ![Espectrograma de banda ancha de un tono de 500 Hz](/imagenes/espectrograma_ancho_tono500.png)
 
+En estos espectrogramas hay una zona al inicio y al final que está en blanco. No es porque no haya señal; la razón tiene que ver con la ventana de análisis (corta en un caso, larga en el otro). Más adelante se resolverá este misterio.
+
