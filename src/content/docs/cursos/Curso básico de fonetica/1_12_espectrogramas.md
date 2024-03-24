@@ -68,3 +68,7 @@ El espectrograma de banda ancha del mismo tono de 500 Hz tendrá la siguiente fo
 
 En estos espectrogramas hay una zona al inicio y al final que está en blanco. No es porque no haya señal; la razón tiene que ver con la ventana de análisis (corta en un caso, larga en el otro). Más adelante se resolverá este misterio.
 
+La siguiente figura muestra el oscilograma de una señal de audio correspondiente a una voz humana femenina y los dos tipos de espectrogramas:
+
+![Espectrograma de banda ancha de un tono de 500 Hz](/imagenes/ambos_espectrogramas_ejemplo.png)
+
