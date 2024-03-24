@@ -14,4 +14,12 @@ Nuestra forma de exteriorizar los contenidos mentales a través del lenguaje ora
 
 El diafragma es un músculo cuyo movimiento hace que los pulmones incorporen aire que ingresa al cuerpo por las vías nasales.
 
+[Imagen realista del diafragma y los pulmones](https://commons.wikimedia.org/wiki/File:3D_Medical_Animation_Diaphragm_Structure.jpg)
+
+La siguiente imagen ilustra el movimiento del diafragma y el efecto fisiológico que produce.
+
 [Movimiento del diafragma en la respiración](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Diaphragmatic_breathing.gif/220px-Diaphragmatic_breathing.gif)
+
+Para hablar, usamos el momento de exhalación o de salida pulmonar del aire. Al hacer esto, se produce una presión aérea que podemos regular de manera bastante eficiente.
+
+El aire exahalado, al hablar, producirá distintos efectos fonéticos según el hablante disponga los órganos implicados. En primer lugar, el aire asciende por la tráquea y al llegar a la laringe puede hacer vibrar o no los pliegues vocales.
