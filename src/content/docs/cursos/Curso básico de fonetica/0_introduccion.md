@@ -10,6 +10,8 @@ sidebar:
 ---
 # 0. Introducción
 
+El presente material está preparado especialmente para estudiantes de pregrado del área de las humanidades. Es una introducción a los conceptos fonéticos más relevantes que permitirá al lector iniciarse en cuestiones teóricas y técnicas y, eventualmente, en el campo de la investigación.
+
 La fonética en tanto la ciencia de los sonidos del habla tiene varias dimensiones. Tradicionalmente, se mencionan tres: 
 - articulatoria
 - acústica
