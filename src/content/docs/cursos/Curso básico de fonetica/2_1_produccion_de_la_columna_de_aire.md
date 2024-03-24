@@ -16,12 +16,14 @@ El diafragma es un músculo cuyo movimiento hace que los pulmones incorporen air
 
 ![Imagen realista del diafragma y los pulmones](/imagenes/3D_Medical_Animation_Diaphragm_Structure.png)
 
-Tomada de https://commons.wikimedia.org/wiki/Category:Human_diaphragm
+Tomada de wikimedia.org.
 
 
 La siguiente imagen ilustra el movimiento del diafragma y el efecto fisiológico que produce.
 
 ![Movimiento del diafragma en la respiración](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Diaphragmatic_breathing.gif/220px-Diaphragmatic_breathing.gif)
+
+Tomada de Wikimedia.org.
 
 Para hablar, usamos el momento de exhalación o de salida pulmonar del aire. Al hacer esto, se produce una presión aérea que podemos regular de manera bastante eficiente.
 
