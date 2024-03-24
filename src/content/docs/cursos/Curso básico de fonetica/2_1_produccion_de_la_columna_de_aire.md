@@ -14,7 +14,7 @@ Nuestra forma de exteriorizar los contenidos mentales a través del lenguaje ora
 
 El diafragma es un músculo cuyo movimiento hace que los pulmones incorporen aire que ingresa al cuerpo por las vías nasales.
 
-[Imagen realista del diafragma y los pulmones  (https://upload.wikimedia.org/wikipedia/commons/4/43/3D_Medical_Animation_Diaphragm_Structure.jpg)
+[Imagen realista del diafragma y los pulmones](https://upload.wikimedia.org/wikipedia/commons/4/43/3D_Medical_Animation_Diaphragm_Structure.jpg)
 
 La siguiente imagen ilustra el movimiento del diafragma y el efecto fisiológico que produce.
 
