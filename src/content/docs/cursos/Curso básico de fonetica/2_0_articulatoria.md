@@ -10,7 +10,7 @@ sidebar:
 ---
 # 2.0 La dimensión articulatoria
 
-En el aspecto fisiológico del habla, se debe observar en primer lugar
+Desde el punto de vista fisiológico de los sonidos del habla, se debe observar:
    - la producción de la columna de aire
    - la función de los pliegues vocales
    - la acción del velo del paladar
