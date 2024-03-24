@@ -58,9 +58,11 @@ El siguiente es un esquema vacío que señala qué se indica en cada eje:
 
 ![Esquema para interpretar los espectrogramas](/imagenes/esquema_espectrograma_vacio.png)
 
+Un espectrograma de banda estrecha de un tono de 500 Hz tendrá la forma siguiente:
+
 ![Espectrograma de banda estrecha de un tono de 500 Hz](/imagenes/espectrograma_estrecho_tono500.png)
 
-
+El espectrograma de banda ancha del mismo tono de 500 Hz tendrá la siguiente forma:
 
 ![Espectrograma de banda ancha de un tono de 500 Hz](/imagenes/espectrograma_ancho_tono500.png)
 
