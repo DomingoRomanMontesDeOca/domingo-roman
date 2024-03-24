@@ -6,7 +6,7 @@ sidebar:
   # Nombre
   label: 2_0 Articulatoria
   # Orden (Número más bajo aparece más arriba)
-  order: 9
+  order: 13
 ---
 # 2.0 La dimensión articulatoria
 
