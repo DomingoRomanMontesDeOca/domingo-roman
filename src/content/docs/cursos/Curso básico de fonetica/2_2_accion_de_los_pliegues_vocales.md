@@ -26,5 +26,4 @@ La fonación, en la laringe produce un sonido complejo con muchos armónicos cuy
 
 ![Espectro de fonación](/imagenes/espectro_tono_glotal_simulado_praat.png)
 
-
-
+El sonido producido en la laringe no es un sonido idiomático sino que puede ser cualquier sonido sonoro dependiendo del comportamiento de las cabidades superiores, principalmente oral y nasal.
