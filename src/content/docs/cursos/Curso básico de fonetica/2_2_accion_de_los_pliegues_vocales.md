@@ -24,5 +24,7 @@ Estos ciclos de cierre-apertura-cierre son muy rápidos: en promedio, un hombre 
 
 La fonación, en la laringe produce un sonido complejo con muchos armónicos cuyas amplitudes decrecen en la medida en que la frecuencia se hace más alta. La forma del espectro de banda estrecha de un sonido como este será más o menos así.
 
+![Espectro de fonación](/imagenes/espectro_tono_glotal_simulado_praat)
+
 
 
