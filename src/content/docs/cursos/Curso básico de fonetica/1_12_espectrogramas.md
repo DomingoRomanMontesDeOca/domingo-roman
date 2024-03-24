@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 1.22 Espectrogramas
+  label: 1.12 Espectrogramas
   # Orden (Número más bajo aparece más arriba)
   order: 12
 ---
