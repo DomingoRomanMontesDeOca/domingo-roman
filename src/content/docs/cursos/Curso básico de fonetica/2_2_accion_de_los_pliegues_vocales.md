@@ -31,4 +31,4 @@ El sonido producido en la laringe no es un sonido idiomático sino que es una es
 Una prueba sencilla para determinar si un sonido es sonoro o sordo, consiste en poner la yema de los dedos presionando suavemnete la zona laríngea y producir el sonido en cuestión. Se recomienda hacer el ejercicio pasando de una "efe" marcadamente labiodental a una "ve corta" marcadamente labiodental. Es decir, pasar de un sonido labiodental sordo a uno sonoro intentando no cambiar nada más. Lo mismo se puede hacer con el par "jota" - "gue". En el sonido sonoro se debe sentir un "cosquilleo" que es producido por la vibración de los pliegues vocales.
 
 
-![Imagen de los pliegues vocales](https://commons.wikimedia.org/wiki/File:Vocal_folds-201611.jpg)
+![Imagen de los pliegues vocales](https://upload.wikimedia.org/wikipedia/commons/7/7c/Vocal_folds-201611.jpg)
