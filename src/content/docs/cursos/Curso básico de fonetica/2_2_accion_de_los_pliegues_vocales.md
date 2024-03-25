@@ -11,6 +11,9 @@ sidebar:
 # 2.2 Acción de los pliegues vocales
 
 Al ascender la columna de aire por la tráquea, llegará a la zona de la *laringe* donde se encuentran ubicados los pliegues vocales.
+
+![Imagen de la laringe](https://upload.wikimedia.org/wikipedia/commons/2/2c/Human_Larynx_Model_%2850692886813%29.jpg)
+
 Los pliegues tienen una estructura muscular muy elástica y el hablante puede abrirlos totalmente, como en la exhalación  de la respiración normal.
 Los pliegues permanecen abiertos en la producción de algunos sonidos, como por ejemplo, en la voz cuchicheada y en sonidos como los de las consonantes *ese* /s/, *efe* /f/ y *jota* /x/ entre otros.
 
