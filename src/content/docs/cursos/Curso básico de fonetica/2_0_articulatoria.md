@@ -14,5 +14,5 @@ Desde el punto de vista fisiológico de los sonidos del habla, se debe observar:
    - la producción de la columna de aire
    - la función de los pliegues vocales
    - la acción del velo del paladar
-   - los puntos en la cabidad oral relevantes para la articulación
+   - los puntos en la cavidad oral relevantes para la articulación
    - la actividad de los articuladores
