@@ -18,7 +18,7 @@ Los pliegues permanecen abiertos en la producción de algunos sonidos, como por 
 
 Si los pliegues se encuentran abiertos en la producción de un sonido del habla, se tratará de un **sonido sordo**, es decir, uno en el que no hay actividad de los pliegues vocales.
 
-En cambio, si los pliegues están cerrados, obstruyen el paso del aire dando lugar al proceso de la **fonación** que consiste básicamente en que dada la presión que ejerce la columna de aire, los pliegues se abren. Dada su estructura elástica, se vuelven a cerrar y la presión del aire los vuelve a abrir. Se produce así un proceso de cierrre-apertura-cierre que se repite muchas veces.
+En cambio, si los pliegues están cerrados, obstruyen el paso del aire dando lugar al proceso de la **fonación** que consiste básicamente en que dada la presión que ejerce la columna de aire, los pliegues se abren. Su estructura elástica hace que se vuelvan a cerrar y la presión del aire los vuelve a abrir. Se produce así un proceso de cierrre-apertura-cierre que se repite muchas veces.
 
 Estos ciclos de cierre-apertura-cierre son muy rápidos: en promedio, un hombre realiza 120 de estos ciclos en un segundo; una mujer, 220 en la misma cantidad de tiempo.
 
