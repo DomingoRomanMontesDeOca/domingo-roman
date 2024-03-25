@@ -12,6 +12,8 @@ sidebar:
 
 Al ascender la columna de aire por la tráquea, llegará a la zona de la *laringe* donde se encuentran ubicados los pliegues vocales.
 
+La siguiente es una imagen de una maqueta de la laringe:
+
 ![Imagen de la laringe](https://upload.wikimedia.org/wikipedia/commons/2/2c/Human_Larynx_Model_%2850692886813%29.jpg)
 
 Los pliegues tienen una estructura muscular muy elástica y el hablante puede abrirlos totalmente, como en la exhalación  de la respiración normal.
