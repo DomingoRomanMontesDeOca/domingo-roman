@@ -34,3 +34,4 @@ Las siguientes imágenes muestran un perfil tomado por resonancia magnética en 
 
 Tomadas de Real-time MRI of speaking at a resolution of 33 ms: Undersampled radial FLASH with nonlinear inverse reconstruction - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/Real-time-MRI-of-left-plosive-and-right-nasal-consonant-production-While-plosive_fig1_224005443
 
+En estas imágenes, la flecha apunta a la zona donde el velo del paladar se adhiere o no a la pared faríngea.
