@@ -28,3 +28,8 @@ En la imagen anterior, se destaca con un círculo la acción del velo del palada
 
 Son sonidos nasales en el español, las consonantes "ene", "eme" y "eñe".
 
+
+![Imágenes de resonancia magnética](https://www.researchgate.net/profile/Jens-Frahm/publication/224005443/figure/fig1/AS:279034882740224@1443538508029/Real-time-MRI-of-left-plosive-and-right-nasal-consonant-production-While-plosive.png)
+
+Tomadas de Real-time MRI of speaking at a resolution of 33 ms: Undersampled radial FLASH with nonlinear inverse reconstruction - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/Real-time-MRI-of-left-plosive-and-right-nasal-consonant-production-While-plosive_fig1_224005443
+
