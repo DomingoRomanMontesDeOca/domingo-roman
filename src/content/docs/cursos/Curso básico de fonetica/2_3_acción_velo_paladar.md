@@ -20,3 +20,8 @@ Imagen tomada de commons.wikimedia.org
 Cuando el paladar blando se mueve, se junta con la pared faríngea y bloquea el paso del aire a la cavidad nasal con lo que se produce un sonido en el que cavidad de la boca o **cavidad oral** tiene relevancia fundamental. Estos sonidos se denominan **orales** (o **no nasales**). Cuando está despegado de la pared faríngea, la columna de aire tiene paso a la cavidad de la boca o cavidad oral y también a la **cavidad nasal** con lo que la cavidad nasal adquiere una relevancia fundamental en la realización de estos sonidos, por lo mismo, llamados **nasales**.
 
 ![Imagen descriptiva de sonidos orales y nasales](https://ecampusontario.pressbooks.pub/app/uploads/sites/1310/2022/08/3.9-midsagittal-nasal-stops-1536x931.png)
+
+Tomado de *Essentials of Linguistics*, 2nd edition Copyright © 2022 by Catherine Anderson; Bronwyn Bjorkman; Derek Denis; Julianne Doner; Margaret Grant; Nathan Sanders; and Ai Taniguchi. 
+enlace: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/chapter/3-4-describing-consonants-manner/
+
+En la imagen anterior, se destaca con un círculo la acción del velo del paladar y con una flecha gris la trayectoria de la columna de aire.
