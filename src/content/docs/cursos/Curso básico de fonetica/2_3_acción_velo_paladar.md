@@ -28,7 +28,7 @@ En la imagen anterior, se destaca con un círculo la acción del velo del palada
 
 Son sonidos nasales en el español, las consonantes "ene", "eme" y "eñe".
 
-Las siguientes imágenes muestran un perfil tomado por resonancia magnética en casos de sonidos orales y sonidos nasales.
+Las siguientes imágenes muestran un perfil tomado por resonancia magnética en casos de sonidos orales y sonidos nasales. Las imágenes de la izquierda son orales; las de la derecha, nasales.
 
 ![Imágenes de resonancia magnética](https://www.researchgate.net/profile/Jens-Frahm/publication/224005443/figure/fig1/AS:279034882740224@1443538508029/Real-time-MRI-of-left-plosive-and-right-nasal-consonant-production-While-plosive.png)
 
