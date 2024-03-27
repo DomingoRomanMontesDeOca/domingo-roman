@@ -26,3 +26,5 @@ enlace: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/chapter/3
 
 En la imagen anterior, se destaca con un círculo la acción del velo del paladar y con una flecha gris la trayectoria de la columna de aire. El perfil de la izquierda, representa la realización de un sonido oral y el de la derecha, uno nasal.
 
+Son sonidos nasales en el español, las consonantes "ene", "eme" y "eñe".
+
