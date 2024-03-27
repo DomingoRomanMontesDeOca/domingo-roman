@@ -24,4 +24,5 @@ Cuando el paladar blando se mueve, se junta con la pared faríngea y bloquea el 
 Tomado de *Essentials of Linguistics*, 2nd edition Copyright © 2022 by Catherine Anderson; Bronwyn Bjorkman; Derek Denis; Julianne Doner; Margaret Grant; Nathan Sanders; and Ai Taniguchi. 
 enlace: https://ecampusontario.pressbooks.pub/essentialsoflinguistics2/chapter/3-4-describing-consonants-manner/
 
-En la imagen anterior, se destaca con un círculo la acción del velo del paladar y con una flecha gris la trayectoria de la columna de aire.
+En la imagen anterior, se destaca con un círculo la acción del velo del paladar y con una flecha gris la trayectoria de la columna de aire. El perfil de la izquierda, representa la realización de un sonido oral y el de la derecha, uno nasal.
+
