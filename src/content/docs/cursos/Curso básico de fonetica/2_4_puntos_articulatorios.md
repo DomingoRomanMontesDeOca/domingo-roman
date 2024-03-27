@@ -10,4 +10,7 @@ sidebar:
 ---
 # 2.4 Puntos articulatorios
 
-La columna de aire, como se ha señalado, tiene salida oral o nasal, según sea la acción del velo del paladar y, según la acción de las cuerdas vocales, será sonoro o sordo.
+La columna de aire, como se ha señalado, tiene salida oral o nasal, según sea la acción del velo del paladar y, según la acción de los pliegues vocales, será sonoro o sordo.
+
+Cualquiera sea el caso de ambas posibilidades (la acción del velo del paladar y la de los pliegues vocales) se producirá en la cavidad oral algún grado de constricción o estrechamiento en alguna parte de la boca.
+En el caso de las vocales, el grado de constricción es casi nulo; son sonidos que tienen una salida de aire muy expedita. En el otro extremo de las articulaciones, las consonantes oclusivas, como "pe", "te" o "ka" tienen el grado máximo de obstrucción a la salida del aire.
