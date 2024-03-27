@@ -12,3 +12,5 @@ sidebar:
 
 La columna de aire sigue su curso luego de haber pasado por la zona laríngea. En la laringe, se definió si el sonido emitido era sordo o sonoro.
 La próxima zona donde se produce otra posibilidad es el **velo del paladar** o **paladar blando**. El hueso del paladar termina y la zona posterior a ese hueso es el paladar blando y, por esta característica, puede moverse.
+
+![Velo del paladar](https://upload.wikimedia.org/wikipedia/commons/8/87/Gray855.png)
