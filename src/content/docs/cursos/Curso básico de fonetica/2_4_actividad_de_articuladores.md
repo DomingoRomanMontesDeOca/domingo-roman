@@ -27,4 +27,5 @@ Las consonantes se producen de variados modos. Todos se clasifican según el pun
 
 ## Articulaciones oclusivas
 
-Las consonantes oclusivas son aquellas que se producen con un *estrechamiento **total*** de los articuladores de tal modo que la cavidad oral, en algún punto, se cierra por un tiempo breve y el paso del aire queda totalmente obstruido. Luego viene la liberación de la oclusión de manera *explosiva* y despúes la articulación continúa con el sonido que viene.
+Las consonantes oclusivas son aquellas que se producen con un *estrechamiento **total*** de los articuladores de tal modo que la cavidad oral, en algún punto, se cierra por un tiempo breve y el paso del aire queda totalmente obstruido. Luego viene la liberación de la oclusión de manera *explosiva* y después la articulación continúa con el sonido siguiente.
+
