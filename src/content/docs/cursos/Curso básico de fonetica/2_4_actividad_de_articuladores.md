@@ -30,3 +30,9 @@ Las consonantes se producen de variados modos. Todos se clasifican según el pun
 Las consonantes oclusivas son aquellas que se producen con un *estrechamiento **total*** de los articuladores de tal modo que la cavidad oral, en algún punto, se cierra por un tiempo breve y el paso del aire queda totalmente obstruido. Luego viene la liberación de la oclusión de manera *explosiva* y después la articulación continúa con el sonido siguiente.
 Son ejemplos paradigmáticos, las articulaciones de p/t/k que, aunque en distintos puntos de articulación, comparten el hecho de ser oclusivas.
 
+## Articulaciones fricativas
+
+Las consonantes fricativas son aquellas en las cuales la articulación produce un canal estrecho por donde pasa la columna de aire. Este estrechamiento del conducto produce una turbulencia aérea, es decir un movimiento caótico de las partículas del aire o *fricción*. Son ejemplos de consonantes fricativas la "efe" /f/, la "ese" /s/ y la "jota" /x/; estas consonantes son sordas y tienen diferente punto de articulación; pero las tres son consonantes fricativas.
+
+
+
