@@ -26,8 +26,13 @@ Imagen esquémática de estos puntos:
 
 Tomada de http://objetos.unam.mx/etimologias/consonantes/index.html
 
+## Vocales
 
-Algunos ejemplos de sonidos que se realizan en estos puntos de articulación, en tanto ejemplos, no se trata de una lista exhaustiva:
+Las vocales se articulan más adelante o más atrás en la cavidad oral. La /a/ es la vocal central en el español. La /e/ en cambio, es una vocal que se pronuncia más adelante (también es más alta o más cerrada) que la /a/. A su vez, la /i/ es más adelantada que la /e/ y también más cerrada. Se dice así que e/i son vocales **palatales**. Paralelamente, o/u son vocales **velares**.
+
+## Consonantes
+
+Algunos ejemplos de sonidos consonánticos que se realizan en estos puntos de articulación, en tanto ejemplos, no se trata de una lista exhaustiva:
 
 El sonido de "eme" /m/ se produce en una palabra como "a**m**a" con los dos labios en contacto. Lo mismo ocurre en "pe" de "ca**p**a". Estos sonidos se denominan **bilabiales** dado su punto de articulación**. En la palabra "a**mb**iguo" se tiene entonces dos sonidos bilabiales.
 
