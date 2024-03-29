@@ -32,6 +32,8 @@ Son ejemplos paradigmáticos, las articulaciones de p/t/k que, aunque en distint
 
 ### Oclusivas seguidas de fricción
 
+Hay algunos sonidos que se caracterizan por tener un oclusión y luego una fricción. Estos sonidos se llaman **africados** en muchos textos. En este curso, preferimos hablar de **oclusivas seguidas de fricción**. Es el caso una de las realizaciones de la "che", por ejemplo, en la palabra "ca**ch**o" que para representar fonéticamente su modo articulatorio se representa /t͡ʃ/
+
 ## Articulaciones fricativas
 
 Las consonantes fricativas son aquellas en las cuales la articulación produce un canal estrecho por donde pasa la columna de aire. Este estrechamiento del conducto produce una turbulencia aérea, es decir un movimiento caótico de las partículas del aire o *fricción*. Son ejemplos de consonantes fricativas la "efe" /f/, la "ese" /s/ y la "jota" /x/; estas consonantes son sordas y tienen diferente punto de articulación; pero las tres son consonantes fricativas.
@@ -40,7 +42,13 @@ Las consonantes fricativas son aquellas en las cuales la articulación produce u
 
 ## Articulaciones laterales
 
+Estas articulaciones tienen la particularidad de que la columna de aire sale por los lados de la boca dado que la lengua se pone en posición tal que bifurca su salida. El sonido de "ele" tiene esa característica, por ejemplo, en "a**l**a".
+
+
 ## Articulaciones vibrantes
+
+Las articulaciones vibrantes, por ejemplo, realizadas con la punta de la lengua, disponen los órganos de tal manera que el flujo aéreo produce una o una serie de interrupciones de la posición de la lengua. En "ca**rr**o", por ejemplo, se dice que la "erre" muchas veces es vibrante.
+
 
 
 
