@@ -17,8 +17,11 @@ En el caso de las vocales, el grado de constricción es casi nulo; son sonidos q
 
 # Articulaciones vocálicas
 Las vocales se caracterizan por una apertura muy amplia de la boca y aún cuando hay diferencias entre ellas siempre se trata de sonidos más abiertos que cualquier consonante.
+
 Desde este punto de vista, la vocal "a", o /a/ en notación fonológica, es la más abierta de todas.
+
 Las vocales e/o tienen una apertura media y las vocales i/u son, en relación con las anteriores, cerradas.
+
 Así se distingue entre **vocales abiertas** y **vocales cerradas**. Esto es equivalente a nombrar **vocales bajas** y **vocales altas** porque la lengua está más abajo o más arriba.
 
 # Articulaciones consonánticas
@@ -28,11 +31,12 @@ Las consonantes se producen de variados modos. Todos se clasifican según el pun
 ## Articulaciones oclusivas
 
 Las consonantes oclusivas son aquellas que se producen con un *estrechamiento **total*** de los articuladores de tal modo que la cavidad oral, en algún punto, se cierra por un tiempo breve y el paso del aire queda totalmente obstruido. Luego viene la liberación de la oclusión de manera *explosiva* y después la articulación continúa con el sonido siguiente.
+
 Son ejemplos paradigmáticos, las articulaciones de p/t/k que, aunque en distintos puntos de articulación, comparten el hecho de ser oclusivas.
 
 ### Oclusivas seguidas de fricción
 
-Hay algunos sonidos que se caracterizan por tener un oclusión y luego una fricción. Estos sonidos se llaman **africados** en muchos textos. En este curso, preferimos hablar de **oclusivas seguidas de fricción**. Es el caso una de las realizaciones de la "che", por ejemplo, en la palabra "ca**ch**o" que para representar fonéticamente su modo articulatorio se representa /t͡ʃ/
+Hay algunos sonidos que se caracterizan por tener un oclusión y luego una fricción. Estos sonidos se llaman **africados** en muchos textos. En este curso, preferimos hablar de **oclusivas seguidas de fricción**. Es el caso una de las realizaciones de la "che", por ejemplo, en la palabra "ca**ch**o" que para representar fonéticamente su modo articulatorio se representa /t͡ʃ/.
 
 ## Articulaciones fricativas
 
@@ -48,7 +52,4 @@ Estas articulaciones tienen la particularidad de que la columna de aire sale por
 ## Articulaciones vibrantes
 
 Las articulaciones vibrantes, por ejemplo, realizadas con la punta de la lengua, disponen los órganos de tal manera que el flujo aéreo produce una o una serie de interrupciones de la posición de la lengua. En "ca**rr**o", por ejemplo, se dice que la "erre" muchas veces es vibrante.
-
-
-
 
