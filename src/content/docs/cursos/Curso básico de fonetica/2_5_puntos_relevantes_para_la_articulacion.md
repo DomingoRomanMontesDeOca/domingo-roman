@@ -23,3 +23,7 @@ Un esquema como el siguiente muestra los puntos referidos.
 Imagen esquémática de estos puntos:
 
 ![Imagen esquemática de puntos articulatorios](http://objetos.unam.mx/etimologias/consonantes/img/esquema/esquema_color.png)
+
+Tomada de http://objetos.unam.mx/etimologias/consonantes/index.html
+
+
