@@ -16,6 +16,5 @@ Si se sigue la descripción del interior de la boca desde el exterior hacia el i
 
 En la parte baja, tenemos **labios**, **lengua** (que por tratarse de un órgano "largo", se segmenta en **ápice**, **dorso** y **posdorso**)
 
-labios  alvéolos  prepaladar  mediopaladar  pospaladar  velo úvula
-
-labios ápice dorso posdorso
+Un esquema como el siguiente muestra los puntos referidos.
+[Esquema de los puntos articulatorios](/imagenes/puntos_articulatorios.png)
