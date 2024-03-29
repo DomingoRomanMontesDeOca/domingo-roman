@@ -18,4 +18,4 @@ En la parte baja, tenemos **labios**, **lengua** (que por tratarse de un órgano
 
 Un esquema como el siguiente muestra los puntos referidos.
 
-![Esquema de los puntos articulatorios](/imagenes/puntos_articulatorios.png)
+![Esquema de los puntos articulatorios](/imagenes/puntos_articulaciones.png)
