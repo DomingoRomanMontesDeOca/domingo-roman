@@ -27,3 +27,18 @@ Imagen esquémática de estos puntos:
 Tomada de http://objetos.unam.mx/etimologias/consonantes/index.html
 
 
+Algunos ejemplos de sonidos que se realizan en estos puntos de articulación, en tanto ejemplos, no se trata de una lista exhaustiva:
+
+El sonido de "eme" /m/ se produce en una palabra como "a**m**a" con los dos labios en contacto. Lo mismo ocurre en "pe" de "ca**p**a". Estos sonidos se denominan **bilabiales** dado su punto de articulación**. En la palabra "a**mb**iguo" se tiene entonces dos sonidos bilabiales.
+
+El sonido de "te" /t/ se produce con el ápice lingual en contacto con los dientes. Así ocurre en la palabra "ra**t**o", entre muchas otras.
+
+El sonido de "ele" se realiza poniendo en contacto el ápice lingual con la zona alveolar. En "a**l**a", por ejemplo, la realización de la consonante es alveolar.
+
+Un sonido como el de "eñe" /ɲ/ es un sonido en que una parte más central de la lengua toma contacto con la zona palatal. La palabra "**ch**u**ñ**o" tiene dos sonidos palatales porque, además de la "eñe", la "che" también es palatal.
+
+Son sonidos que se articulan en la zona del velo del paladar "jota", "gue", "ka": "a**c**o**j**a", "**j**u**g**o" (en realidad, en "jugo" todos los sonidos son velares porque las vocales también tienen ese punto de articulación.
+
+
+
+
