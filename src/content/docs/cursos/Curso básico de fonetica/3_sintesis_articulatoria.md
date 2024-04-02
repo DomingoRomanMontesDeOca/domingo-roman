@@ -28,6 +28,6 @@ Un intento para tener un instrumento que permita hacer descripciones de este tip
 Se trata de una carta que dispone de símbolos para cada posibilidad de las que se han señalado.
 
 
-
+![Carta internacional de sonidos](https://www.internationalphoneticassociation.org/sites/default/files/pulmonic.gif)
 
 
