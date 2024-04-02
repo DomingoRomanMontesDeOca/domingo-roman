@@ -8,7 +8,7 @@ sidebar:
   # Orden (Número más bajo aparece más arriba)
   order: 60
 ---
-# 2.5 Puntos relevantes para la articulación
+# 6.0 Cine recomendado
 
 
 
