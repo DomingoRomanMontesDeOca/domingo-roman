@@ -1,3 +1,14 @@
+---
+# El título es obligatorio para que la página funcione
+title: Curso básico de fonética
+# Configuracion de la barra de navegación
+sidebar:
+  # Nombre
+  label: 6_0 Cine recomendado
+  # Orden (Número más bajo aparece más arriba)
+  order: 60
+---
+# 2.5 Puntos relevantes para la articulación
 
 
 
