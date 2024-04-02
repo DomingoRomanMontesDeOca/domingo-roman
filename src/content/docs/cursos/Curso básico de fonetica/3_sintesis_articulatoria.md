@@ -31,4 +31,4 @@ Se trata de una carta que dispone de símbolos para cada posibilidad de las que 
 
 Tomada de https://www.internationalphoneticassociation.org
 
-En [Enlace con sonidos](https://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/)Este enlace se pueden escuchar los sonidos correspondientes a cada símbolo.
+En [Enlace con sonidos ](https://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) se pueden escuchar los sonidos correspondientes a cada símbolo.
