@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 3. Síntesis articulatorio
+  label: 3. Síntesis articulatoria
   # Orden (Número más bajo aparece más arriba)
   order: 19
 ---
