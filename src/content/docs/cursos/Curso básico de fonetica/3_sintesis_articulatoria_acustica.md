@@ -33,4 +33,4 @@ Tomada de https://www.internationalphoneticassociation.org
 
 En [este enlace ](https://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) se pueden escuchar los sonidos correspondientes a cada símbolo.
 
-La [IPA](https://www.internationalphoneticassociation.org) propone esta tabla de todos los sonidos pronunciables. En cada celda de esta tabla, los símbolos a la derecha representan sonidos sonoros. Los nombres de los puntos de articulación están en la parte superior (a la izquierda, las zonas anteriores y a la derecha las zonas posteriores). Los distintos modos que IPA considera están en el eje vertical.
+La [IPA](https://www.internationalphoneticassociation.org) propone esta tabla de todos los sonidos pronunciables. En cada celda de esta tabla, los símbolos a la derecha representan sonidos sonoros y los de la izquierda, sonidos sordos. Los nombres de los puntos de articulación están en la parte superior (a la izquierda, las zonas anteriores y a la derecha las zonas posteriores). Los distintos modos que IPA considera están en el eje vertical.
