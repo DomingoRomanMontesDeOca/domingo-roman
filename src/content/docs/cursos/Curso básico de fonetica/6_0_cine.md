@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 6_0 Cine recomendado
+  label: 6.0 Cine recomendado
   # Orden (Número más bajo aparece más arriba)
   order: 60
 ---
