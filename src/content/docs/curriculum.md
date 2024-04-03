@@ -55,6 +55,11 @@ Página web personal:        https://domingo-roman.net/
 
 ## Dirección de tesis de magíster
 
+
+- 2023.\ La entonación de inmigrantes costarricenses que laboran en Chile según formas de tratamiento. Descripción fonética de la adaptación dialectal de la frecuencia fundamental. Randall Ledezma, Magíster en Lingüística, especialidad Sociolingüística del Español de América.
+
+- 2023\. La entonación de mujeres y hombres de zonas rurales y urbanas de La Araucanía. Pablo Rojas, Magíster en Lingüística, especialidad Sociolingüística del Español de América.
+  
 - 2017\. Actitudes lingüísticas y jóvenes. Descripción de los fenómenos fonológicos que forman parte de la actitud lingüística que construyen jóvenes de clase medio baja para el registro culto formal. Christián Castro, Magíster en Lingüística, mención Sociolingüística del Español de América, USACH. Ver texto.
 
 - 2017\.  La competencia comunicativa en estudiantes de enseñanza media. Rodolfo Alfredo Ortega Muñoz, Magíster en Lingüística, mención Sociolingüística del Español de América, USACH. Ver texto.
