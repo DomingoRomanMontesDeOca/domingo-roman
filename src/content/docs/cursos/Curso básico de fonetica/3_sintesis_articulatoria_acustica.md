@@ -45,6 +45,10 @@ En la imagen, el círculo verde muestra una parte a la se hace un acercamiento e
 
 ![Acercamiento a la señal anterior](/imagenes/sielcobresube_oscilograma_acercamiento_1.png)
 
+Se puede observar que la selección tiene dos partes bien diferenciadas. En la primera hay unos ciclos que se pueden identificar facilmente; no ocurre esto en la segunda parte, hacia el final de la selección en el círculo.
+
+Un acercamiento mayor a la señal, nos permite observar la diferencia con más detalle:
+
 
 
 
