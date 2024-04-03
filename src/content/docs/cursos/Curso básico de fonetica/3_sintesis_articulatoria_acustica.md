@@ -51,4 +51,10 @@ Un acercamiento mayor a la señal, nos permite observar la diferencia con más d
 
 ![Acercamiento mayor a la señal](/imagenes/sielcobresube_oscilograma_acercamiento_2.png)
 
+Ahora se han puesto unas marcas que dividen la señal en tres partes: 
 
+- La primera es periódica. Podemos observar en ella cuatro ciclos que se repiten temporalmente con mínimas diferencias
+- La segunda es periódica pero se observan también irregularidades. Tiene prácticamente tres ciclos.
+- La tercera es aperiódica. No podemos identificar ciclos regulares.
+
+Los sonidos sordos se manifientan en los oscilogramas como señales ruidosas o aperiódicas. Los sonidos sonoros se manifiestan como señales periódicas y dado que esa periodicidad se origina en el **tono glotal**, cada ciclo del oscilograma se corresponde temporalmente con un **pulso glotal**.
