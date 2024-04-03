@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 3. Síntesis articulatoria
+  label: 3. Síntesis articulatoria y acústica
   # Orden (Número más bajo aparece más arriba)
   order: 19
 ---
@@ -34,3 +34,12 @@ Tomada de https://www.internationalphoneticassociation.org
 En [este enlace ](https://www.internationalphoneticalphabet.org/ipa-sounds/ipa-chart-with-sounds/) se pueden escuchar los sonidos correspondientes a cada símbolo.
 
 La [IPA](https://www.internationalphoneticassociation.org) propone esta tabla de todos los sonidos pronunciables. En cada celda de esta tabla, los símbolos a la derecha representan sonidos sonoros y los de la izquierda, sonidos sordos. Los nombres de los puntos de articulación están en la parte superior (a la izquierda, las zonas anteriores y a la derecha las zonas posteriores). Los distintos modos que IPA considera están en el eje vertical.
+
+Desde el punto de vista acústico, los sonidos sonoros se presentan siempre como señales complejas periódicas. En un oscilograma es relativamente fácil "ver" la periodicidad de la señal.
+
+En la imagen siguiente, se ve el oscilograma de una frase en español de Chile.
+
+
+
+
+
