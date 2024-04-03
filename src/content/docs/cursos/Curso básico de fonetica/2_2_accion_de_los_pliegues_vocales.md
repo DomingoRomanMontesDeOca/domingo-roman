@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 2_2 Acción de los pliegues vocales
+  label: 2.2 Acción de los pliegues vocales
   # Orden (Número más bajo aparece más arriba)
   order: 15
 ---
