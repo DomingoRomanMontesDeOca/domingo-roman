@@ -63,7 +63,7 @@ Los espectrogramas entregan alguna información sobre la sonoridad, los pulsos g
 
 En el espectrograma de **banda ancha**, dado que tiene una **ventana de análisis** corta, se puede observar con algo de precisión el tiempo. Las frecuencias se observan de manera muy gruesa. En un espectrograma de este tipo se pueden observar los pulsos glotales correspondientes a cada ciclo en las partes en que la señal es periódica.
 
-En el espectrograma de **banda estrecha**, que está hecho a partir de espectros realizados con una ventana de análisis larga, se pueden observar bastante bien las frecuencias y el tiempo se muestra con bastante imprecisión.
+En el espectrograma de **banda estrecha**, que está hecho a partir de espectros realizados con una ventana de análisis larga, se pueden observar bastante bien las frecuencias; en cambio, el tiempo se muestra con bastante imprecisión.
 
 Las consonantes **oclusivas sordas** tienen un momento de oclusión, por lo que la señal en es oscilograma se acerca al cero. Correspondientemente, en el espectrograma, se verá una zona muy débil.
 
