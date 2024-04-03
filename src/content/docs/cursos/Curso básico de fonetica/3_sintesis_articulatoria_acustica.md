@@ -58,3 +58,7 @@ Ahora se han puesto unas marcas que dividen la señal en tres partes:
 - La tercera es aperiódica. No podemos identificar ciclos regulares.
 
 Los sonidos sordos se manifientan en los oscilogramas como señales ruidosas o aperiódicas. Los sonidos sonoros se manifiestan como señales periódicas y dado que esa periodicidad se origina en el **tono glotal**, cada ciclo del oscilograma se corresponde temporalmente con un **pulso glotal**.
+
+En el espectrograma de **banda ancha**, dado que tiene una **ventana de análisis** corta, se puede observar con algo de precisión el tiempo. Las frecuencias se observan de manera muy gruesa. En un espectrograma de este tipo se pueden observar los pulsos glotales correspondientes a cada ciclo en las partes en que la señal es periódica.
+
+En el espectrograma de **banda estrecha**, que está hecho a partir de espectros realizados con una ventana de análisis larga, se pueden observar bastante bien las frecuencias y el tiempo se muestra con bastante imprecisión.
