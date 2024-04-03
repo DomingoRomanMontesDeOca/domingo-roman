@@ -63,6 +63,6 @@ En el espectrograma de **banda ancha**, dado que tiene una **ventana de análisi
 
 En el espectrograma de **banda estrecha**, que está hecho a partir de espectros realizados con una ventana de análisis larga, se pueden observar bastante bien las frecuencias y el tiempo se muestra con bastante imprecisión.
 
-Las consonantes oclusivas sordas tienen un momento de oclusión, por lo que la señal en es oscilograma se acerca al cero. Correspondientemente, en el espectrograma, se verá una zona muy débil.
+Las consonantes **oclusivas sordas** tienen un momento de oclusión, por lo que la señal en es oscilograma se acerca al cero. Correspondientemente, en el espectrograma, se verá una zona muy débil.
 
-Las consonantes fricativas sordas se observarán como una serie de frecuencias dibujadas en la banda de Hz que corresponda pero no se verán ni las estrías en el espectrograma de banda ancha ni los armónicos en el de banda estrecha.
+Las consonantes **fricativas sordas** se observarán como una serie de frecuencias dibujadas en la banda de Hz que corresponda pero no se verán ni las estrías en el espectrograma de banda ancha ni los armónicos en el de banda estrecha.
