@@ -37,11 +37,13 @@ La [IPA](https://www.internationalphoneticassociation.org) propone esta tabla de
 
 Desde el punto de vista acústico, los sonidos sonoros se presentan siempre como señales complejas periódicas. En un oscilograma es relativamente fácil "ver" la periodicidad de la señal.
 
-En la imagen siguiente, se ve el oscilograma de una frase en español de Chile.
+En la figura siguiente, se ve el oscilograma de una frase en español de Chile.
 
 ![Oscilograma de una emision en español de Chile](/imagenes/sielcobresube_oscilograma.png)
 
+En la imagen, el círculo verde muestra una parte a la se hace un acercamiento en la figura siguiente:
 
+![Acercamiento a la señal anterior](/imagenes/sielcobresube_oscilograma_acercamiento_1.png)
 
 
 
