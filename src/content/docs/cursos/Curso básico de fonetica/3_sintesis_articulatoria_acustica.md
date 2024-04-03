@@ -67,4 +67,4 @@ En el espectrograma de **banda estrecha**, que está hecho a partir de espectros
 
 Las consonantes **oclusivas sordas** tienen un momento de oclusión, por lo que la señal en es oscilograma se acerca al cero. Correspondientemente, en el espectrograma, se verá una zona muy débil.
 
-Las consonantes **fricativas sordas** se observarán como una serie de frecuencias dibujadas en la banda de Hz que corresponda pero no se verán ni las estrías en el espectrograma de banda ancha ni los armónicos en el de banda estrecha.
+Las consonantes **fricativas sordas** se observarán como una serie de frecuencias dibujadas en la banda de Hz que corresponda pero no se verán estrías en el espectrograma de banda ancha ni armónicos en el de banda estrecha, por la naturaleza de los sonidos.
