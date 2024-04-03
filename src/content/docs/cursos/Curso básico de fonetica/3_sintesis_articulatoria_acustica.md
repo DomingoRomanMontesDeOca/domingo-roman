@@ -49,6 +49,6 @@ Se puede observar que la selección tiene dos partes bien diferenciadas. En la p
 
 Un acercamiento mayor a la señal, nos permite observar la diferencia con más detalle:
 
-
+![Acercamiento mayor a la señal](/imagenes/sielcobresube_oscilograma_acercamiento_2.png)
 
 
