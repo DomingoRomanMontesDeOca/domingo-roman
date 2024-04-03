@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 2_0 Articulatoria
+  label: 2.0 Articulatoria
   # Orden (Número más bajo aparece más arriba)
   order: 13
 ---
