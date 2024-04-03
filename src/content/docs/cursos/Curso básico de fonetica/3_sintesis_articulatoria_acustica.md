@@ -39,6 +39,8 @@ Desde el punto de vista acústico, los sonidos sonoros se presentan siempre como
 
 En la imagen siguiente, se ve el oscilograma de una frase en español de Chile.
 
+![Oscilograma de una emision en español de Chile](/imagenes/sielcobresube.png)
+
 
 
 
