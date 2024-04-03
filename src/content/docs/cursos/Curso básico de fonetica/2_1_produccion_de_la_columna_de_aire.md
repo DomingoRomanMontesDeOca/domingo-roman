@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 2_1 Producción de la columna de aire
+  label: 2.1 Producción de la columna de aire
   # Orden (Número más bajo aparece más arriba)
   order: 14
 ---
