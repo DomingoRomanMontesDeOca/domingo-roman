@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 2_5 Puntos relevantes para la articulación
+  label: 2.5 Puntos relevantes para la articulación
   # Orden (Número más bajo aparece más arriba)
   order: 18
 ---
