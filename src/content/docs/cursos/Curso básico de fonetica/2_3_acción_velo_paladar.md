@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 2_3 Acción del velo del paladar
+  label: 2.3 Acción del velo del paladar
   # Orden (Número más bajo aparece más arriba)
   order: 16
 ---
