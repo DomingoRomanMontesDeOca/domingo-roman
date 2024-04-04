@@ -69,6 +69,17 @@ La imagen siguiente tiene el oscilograma y los dos tipos de espectrogramas, de b
 
 ![Oscilograma y dos tipos de espectrogramas](/imagenes/dos_espectrogramas_fragmento.png)
 
+Se debe poner atención en algunos rasgos de esta figura. 
+
+- En primer lugar, nótese que el oscilograma ocupa todo el espacio de la imagen; en cambio, los dos espectrogramas tienen los bordes inicial y final en blanco. Se observa también que ese borde en blanco es mayor en el espectrograma de banda estrecha y más corto en el de banda ancha.
+- En el espectrograma de banda ancha se observan estrías verticales en las partes sonoras. Estas estrías no se observan en el espectrograma de banda estrecha.
+- En el espectrograma de banda estrecha se observan los armónicos en las partes periódicas de la señal.
+- La zona en los espectrogramas que corresponde al sonido aperiódico no presenta estrías (en el de banda ancha) ni armónicos (en el de banda estrecha).
+- El sonido de la parte central, corresponde a uno fricativo sordo. Esta consonante está precedida y seguida por una vocal.
+
 Las consonantes **oclusivas sordas** tienen un momento de oclusión, por lo que la señal en es oscilograma se acerca al cero. Correspondientemente, en el espectrograma, se verá una zona muy débil. Después aparecerá una barra que se corresponde con el momento de la explosión o separación de los articuladores.
+
+
+
 
 Las consonantes **fricativas sordas** se observarán como una serie de frecuencias dibujadas en la banda de Hz que corresponda pero no se verán estrías en el espectrograma de banda ancha ni armónicos en el de banda estrecha, por la naturaleza de los sonidos.
