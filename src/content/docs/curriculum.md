@@ -56,7 +56,7 @@ Página web personal:        https://domingo-roman.net/
 ## Dirección de tesis de magíster
 
 
-- 2023.\ La entonación de inmigrantes costarricenses que laboran en Chile según formas de tratamiento. Descripción fonética de la adaptación dialectal de la frecuencia fundamental. Randall Ledezma, Magíster en Lingüística, especialidad Sociolingüística del Español de América.
+- 2023\. La entonación de inmigrantes costarricenses que laboran en Chile según formas de tratamiento. Descripción fonética de la adaptación dialectal de la frecuencia fundamental. Randall Ledezma, Magíster en Lingüística, especialidad Sociolingüística del Español de América.
 
 - 2023\. La entonación de mujeres y hombres de zonas rurales y urbanas de La Araucanía. Pablo Rojas, Magíster en Lingüística, especialidad Sociolingüística del Español de América.
   
@@ -83,13 +83,17 @@ Página web personal:        https://domingo-roman.net/
 
 ## Seminarios de titulación
 
-  - 2016\. Seminario de titulación para profesores de castellano. Intervención en una escuela de fútbol. USACH.
+  - 2023\. Seminario de titulación para profesor de castellano. *Análisis acústico de la palataliación de la oclusiva velar sorda prevocálica en hablantes universitarios del español de Chile*. Nicolás Flores Navarro. Usach.
 
-  - 2014\. Seminario de titulación para licenciados en Letras. Creación de una herramienta didáctica computacional para la enseñanza de la entonación del español de Chile como lengua extrajera. Pilar Oplustil G. P. Universidad Católica de Chile.
+  - 2023\. Seminario de titulación para profesor de castellano. *Exploración de atitudes estudiantiles hacia los conocimientos métricos a través de un análisis comparativo entre canciones de Soda Stereo y poemas tradicionales*. Usach, Luis Gustavo Reyes Acosta.
+   
+  - 2016\. Seminario de titulación para profesores de castellano. Intervención en una escuela de fútbol. Usach.
 
-  - 2011\. Seminario de titulación para licenciados en Letras. Elementos prosódicos como parámetros distintivos de la lectura de textos en verso libre y prosa. Marco Marchant. P. Universidad Católica de Chile.
+  - 2014\. Seminario de titulación para licenciados en Letras. Creación de una herramienta didáctica computacional para la enseñanza de la entonación del español de Chile como lengua extrajera. Pilar Oplustil G. PUC.
 
-  - 2011\. Seminario de titulación para licenciados en Letras. Incidencia de valores suprasegmentales en la distinción de las funciones sintácticas o discursivas para  bueno, claro y a ver. Camila Gallegos. P. Universidad Católica de Chile.
+  - 2011\. Seminario de titulación para licenciados en Letras. Elementos prosódicos como parámetros distintivos de la lectura de textos en verso libre y prosa. Marco Marchant. PUC.
+
+  - 2011\. Seminario de titulación para licenciados en Letras. Incidencia de valores suprasegmentales en la distinción de las funciones sintácticas o discursivas para  *bueno*, *claro* y *a ver*. Camila Gallegos. PUC.
 
   - 2010\. Seminario de titulación para licenciados en Letras. Estudio perceptivo de las fricativas sordas del español de Chile. Luna Urria. P. Universidad Católica de Chile.
 
@@ -103,9 +107,9 @@ Página web personal:        https://domingo-roman.net/
 
 ### Libros
 
-  - Román, D. (2011).    Manual para el análisis fonético acústico, Santiago de Chile, Pfeiffer.
+  - Román, D. (2011).    *Manual para el análisis fonético acústico*, Santiago de Chile, Pfeiffer.
 
-  - Román, D. (1998).    Noticias de Prensa: de la lectura al análisis crítico, Módulo de Lengua Castellana y Comunicación, Santiago de Chile, Ministerio de Educación, Programa MECE Media.
+  - Román, D. (1998).    *Noticias de Prensa: de la lectura al análisis crítico*, Módulo de Lengua Castellana y Comunicación, Santiago de Chile, Ministerio de Educación, Programa MECE Media.
 
 
 
