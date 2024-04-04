@@ -79,11 +79,10 @@ Se debe poner atención en algunos rasgos de esta figura.
 
 Las consonantes **oclusivas sordas** tienen un momento de oclusión, por lo que la señal en es oscilograma se acerca al cero. Correspondientemente, en el espectrograma, se verá una zona muy débil. Después aparecerá una barra que se corresponde con el momento de la explosión o separación de los articuladores.
 
-Por ejemplo, en la imagen siguiente, se observa una oclusiva sorda:
+Por ejemplo, en la imagen siguiente, se observa una fricativa sorda, una vocal, otra fricativa sorda, una oclusiva sorda y una vocal:
 
 ![Segmento "seska"](/imagenes/ces_ka.png)
 
+En la oclusiva, se puede apreciar que cuando el oscilograma tiende al cero, el espectrograma tiende al blanco. Se aprecia que cuando cambia la señal cercana al cero, se ve la **barra de explosión** como una barra vertical en el espectrograma de banda ancha (bastante más difusa en el de banda estrecha).
 
-
-
-Las consonantes **fricativas sordas** se observarán como una serie de frecuencias dibujadas en la banda de Hz que corresponda pero no se verán estrías en el espectrograma de banda ancha ni armónicos en el de banda estrecha, por la naturaleza de los sonidos.
+Las consonantes **fricativas sordas** se observan como una serie de frecuencias dibujadas en la banda de Hz que corresponda pero no se verán estrías en el espectrograma de banda ancha ni armónicos en el de banda estrecha, por la naturaleza de los sonidos.
