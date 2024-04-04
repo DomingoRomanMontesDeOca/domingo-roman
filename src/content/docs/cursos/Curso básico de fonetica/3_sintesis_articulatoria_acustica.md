@@ -79,6 +79,10 @@ Se debe poner atención en algunos rasgos de esta figura.
 
 Las consonantes **oclusivas sordas** tienen un momento de oclusión, por lo que la señal en es oscilograma se acerca al cero. Correspondientemente, en el espectrograma, se verá una zona muy débil. Después aparecerá una barra que se corresponde con el momento de la explosión o separación de los articuladores.
 
+Por ejemplo, en la imagen siguiente, se observa una oclusiva sorda:
+
+![Segmento "seska"](/imagenes/ces_ka.png)
+
 
 
 
