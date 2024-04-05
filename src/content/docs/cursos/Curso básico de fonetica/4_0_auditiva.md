@@ -20,3 +20,6 @@ La imagen siguiente muestra las partes del oído
 
 Tomada de https://commons.wikimedia.org
 
+La siguiente muestra las partes en que se divide el sistema auditivo.
+
+[Partes del sistema auditivo](https://blog.kiversal.com/wp-content/uploads/2018/07/3187_image.jpg "Partes del sistema auditivo")
