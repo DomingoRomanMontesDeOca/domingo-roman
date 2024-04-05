@@ -14,6 +14,8 @@ El presente material está preparado especialmente para estudiantes de pregrado 
 
 Intencionalmente, se evitan las referencias y citas y solo al final se incluye material bibliográfico y de recursos para profundizar. Obviamente, casi todo lo que se incluye en este curso básico ha sido señalado por muchísimos autores. Solo se hace referencia explícita a las imágenes tomadas de otros sitios.
 
+Al final, se incluye una lista de obras literarias y de cine que tienen un relación más o menos explícita con los temas fonéticos.
+
 ## Dimensiones
 La fonética en tanto la ciencia de los sonidos del habla tiene varias dimensiones. Tradicionalmente, se mencionan tres: 
 - articulatoria
