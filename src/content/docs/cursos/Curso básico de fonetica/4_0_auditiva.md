@@ -9,3 +9,9 @@ sidebar:
   order: 20
 ---
 # 4. Audición
+
+La audición es un proceso que implica varias estructuras fisiológicas, desde la oreja hasta el cerebro.
+
+Lo que la audición hace es recibir una onda sonora y transformarla en señal eléctrica que el cerebro puede procesar.
+
+
