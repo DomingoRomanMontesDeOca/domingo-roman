@@ -8,7 +8,7 @@ sidebar:
   # Orden (Número más bajo aparece más arriba)
   order: 20
 ---
-# 4. Audición
+# 4.0 Audición
 
 La audición es un proceso que implica varias estructuras fisiológicas, desde la oreja hasta el cerebro.
 
