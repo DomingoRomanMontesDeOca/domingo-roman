@@ -17,7 +17,7 @@ Una producción sonora puede tiene una serie de características en función de 
 - Punto de constricción
 - Según el modo de articulación
 
-Para describir un sonido, debemos especificar, entonces si es sonoro o sordo, nasal u oral y señalar su punto de articulación.
+Para describir un sonido, debemos especificar, entonces si es sonoro o sordo, nasal u oral y señalar su punto y modo de articulación.
 
 Veamos algunos ejemplos de consonantes especialmente pertinentes para el español de Chile:
 
