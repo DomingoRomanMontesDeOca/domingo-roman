@@ -16,7 +16,7 @@ Lo que la audición hace es recibir una onda sonora y transformarla en señal el
 
 El proceso parte cuando una señal acústica de nuestro entorno llega a nuestro oído. La oreja, parte más exterior del sistema, cumple la función de localizar la fuente. Sabemos de dónde prooviene el sonido gracias a la oreja.
 
-!["Radar" de 1921](http://blogs.publico.es/ignacio-martil/files/2023/01/1-scaled.jpg "Un *radar* de 1921)
+!["Radar" de 1921](http://blogs.publico.es/ignacio-martil/files/2023/01/1-scaled.jpg "Un *radar* de 1921")
 
 Tomada de https://blogs.publico.es/
 
