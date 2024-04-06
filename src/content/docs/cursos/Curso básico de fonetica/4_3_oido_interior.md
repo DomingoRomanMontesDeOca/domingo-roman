@@ -10,13 +10,15 @@ sidebar:
 ---
 # 4.3 Oído interior
 
-Los huesecillos transmiten la vibración a la **cóclea**, una estructura muy especial con dos funciones: por una parte, convierte las vibraciones en impulsos eléctricos y, por otra parte, enfatiza ciertas frecuencias en desmedro de otras.
+Los huesecillos transmiten la vibración a la **cóclea**, una estructura muy especial con dos funciones:
+- convierte las vibraciones en impulsos eléctricos Por ello se dice que la cóclea es un **transductor** de las señales acústicas
+- enfatiza ciertas frecuencias en desmedro de otras. 
 
-
+La siguiente es una imagen general del oído interior
 
 ![Imagen general del oído interior](https://upload.wikimedia.org/wikipedia/commons/2/21/Blausen_0329_EarAnatomy_InternalEar-es.png)
 
-La cóclea tiene forma de caracol.
+La cóclea tiene forma de caracol. Esta estructura recibe las vibraciones de los huesecillos en la **ventana oval**.
 
 ![Imagen de la cóclea](https://upload.wikimedia.org/wikipedia/commons/5/5f/Inner_ear_1.png)
 
