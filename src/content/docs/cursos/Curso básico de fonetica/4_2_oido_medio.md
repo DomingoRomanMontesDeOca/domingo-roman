@@ -12,8 +12,8 @@ sidebar:
 
 Al final del conducto auditivo, se encuentra el **tímpano**; una membrana sensible que vibrará en función de la onda acústica que ha ingresado al sistema.
 
-![Tímpano](https://upload.wikimedia.org/wikipedia/commons/4/48/Gray909.png)
+![Grabado del tímpano](https://upload.wikimedia.org/wikipedia/commons/4/48/Gray909.png)
 
 Tomada de https://commons.wikimedia.org
 
-
+![Fotografía de un tímpano](https://upload.wikimedia.org/wikipedia/commons/e/e2/Normal_Left_Tympanic_Membrane.jpg)
