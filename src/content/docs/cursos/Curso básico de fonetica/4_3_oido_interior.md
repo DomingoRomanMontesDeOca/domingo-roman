@@ -21,7 +21,7 @@ La cóclea tiene forma de caracol.
 ![Imagen de la cóclea](https://upload.wikimedia.org/wikipedia/commons/5/5f/Inner_ear_1.png)
 
 
-[Imagen esquemática de la cóclea](/imagenes/c
+[Imagen esquemática de la cóclea](/imagenes/esquema_coclea.png)
 
 Imagen obtenida del documento UNIVERSIDAD NACIONAL DE CUYO Pagina 1 de 28 BIOFISICA FACULTAD DE ODONTOLOGIA JTP: Bioq. Pedro Catania
 BIOFÍSICA DE LA PERCEPCION SISTEMA AUDITIVO
