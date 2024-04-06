@@ -27,3 +27,4 @@ Imagen obtenida del documento UNIVERSIDAD NACIONAL DE CUYO Pagina 1 de 28 BIOFIS
 BIOFÍSICA DE LA PERCEPCION SISTEMA AUDITIVO
 página 8
 http://www.fodonto.uncuyo.edu.ar/upload/biofisica-de-la-percepcion-y-la-audicion.pdf
+
