@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 4. Audición
+  label: 4.0 Audición
   # Orden (Número más bajo aparece más arriba)
   order: 20
 ---
