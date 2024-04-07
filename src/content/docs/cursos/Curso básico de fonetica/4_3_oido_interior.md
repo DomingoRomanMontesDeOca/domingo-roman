@@ -37,9 +37,7 @@ Tomada del texto *La sinapsis eferente olivococlear durante el desarrollo postna
 
 El resultado de esta función de la cóclea es que nuestro sistema auditivo entrega más información al cerebro de las frecuencias bajas que de las frecuencias altas dado el número de células implicadas en la recepción tonotópica.
 
-En otras palabras, la información puramente acústica es procesada coclearmente y esto implica una transformación. Por esta razón, cuando se estudia el habla desde la dimensión auditiva, se trabaja con unidades que son conversiones de los Hz a unidades auditivas como los **Bark**.
-
-La siguiente imagen muestra 
+En otras palabras, la información puramente acústica es procesada coclearmente y esto implica una transformación. Por esta razón, cuando se estudia el habla desde la dimensión auditiva, se trabaja con unidades que son conversiones de los Hz a unidades auditivas como los **Bark**. Dada la naturaleza de esta unidad de medida, se dice que es **psicoacústica**.
 
 Señal ---> pabellón ---> conducto auditivo ---> tímpano ---> huesecillos ---> cóclea --->
 
