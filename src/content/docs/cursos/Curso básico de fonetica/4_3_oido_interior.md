@@ -31,5 +31,10 @@ http://www.fodonto.uncuyo.edu.ar/upload/biofisica-de-la-percepcion-y-la-audicion
 
 La reacción de la membrana basilar a las diferentes frecuencias tiene una particularidad. Distintas zonas de la membrana reaccionan a diferentes frecuencias. Esto es lo que se denomina una **reacción tonotópica**. La parte aguda de la membrana reacciona a las frecuencias altas y la base a las frecuencias bajas.
 
+![Tonotopía coclear](/imagenes/tonotopia_coclear.png)
+
+Tomada del texto *La sinapsis eferente olivococlear durante el desarrollo postnatal: canales iónicos y plasticidad sináptica* Tesis presentada para optar al título de Doctor de la Universidad de Buenos Aires en el área de Ciencias Biológicas por Graciela Ines Kearney, Buenos Aires, 2019, UNIVERSIDAD DE BUENOS AIRES
+Facultad de Ciencias Exactas y Naturales. En el texto se señala que es esquema ha side adaptado de la página web: www.cns.nyu.edu.
+
 
 
