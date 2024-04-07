@@ -41,7 +41,7 @@ En otras palabras, la información puramente acústica es procesada coclearmente
 
 ![Gráfico de la relación Hz - Bark](https://upload.wikimedia.org/wikipedia/commons/9/9b/Bark_scale_approximation.png)
 
-En el gráfico anterior se observa que la relación entre Hz y Bark no es una relación lineal. En la parte baja de las frecuencias la audición es muy diferneciada; no así en la parte alta de las frecuencias.
+En el gráfico anterior se observa que la relación entre Hz y Bark no es una relación lineal. En la parte baja de las frecuencias la audición es muy diferenciada; no así en la parte alta de las frecuencias.
 
 Señal ---> pabellón ---> conducto auditivo ---> tímpano ---> huesecillos ---> cóclea --->
 
