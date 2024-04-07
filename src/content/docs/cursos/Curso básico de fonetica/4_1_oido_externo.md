@@ -22,4 +22,6 @@ La imagen de arriba muestra una aplicación bélica de esta propiedad, obviament
 
 El pabellón auditivo termina en el **conducto auditivo** que orienta la onda recibida hacia el **oído medio** que es donde se encuentra el **tímpano**. 
 
-   señal ---> pabellón ---> conducto auditivo --->
+
+
+Señal ---> pabellón ---> conducto auditivo --->
