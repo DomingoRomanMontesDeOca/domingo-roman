@@ -39,5 +39,9 @@ El resultado de esta función de la cóclea es que nuestro sistema auditivo entr
 
 En otras palabras, la información puramente acústica es procesada coclearmente y esto implica una transformación. Por esta razón, cuando se estudia el habla desde la dimensión auditiva, se trabaja con unidades que son conversiones de los Hz a unidades auditivas como los **Bark**. Dada la naturaleza de esta unidad de medida, se dice que es **psicoacústica**.
 
+![Gráfico de la relación Hz - Bark](https://upload.wikimedia.org/wikipedia/commons/9/9b/Bark_scale_approximation.png)
+
+En el gráfico anterior se observa que la relación entre Hz y Bark no es una relación lineal, 
+
 Señal ---> pabellón ---> conducto auditivo ---> tímpano ---> huesecillos ---> cóclea --->
 
