@@ -35,7 +35,11 @@ La reacción de la membrana basilar a las diferentes frecuencias tiene una parti
 
 Tomada del texto *La sinapsis eferente olivococlear durante el desarrollo postnatal: canales iónicos y plasticidad sináptica* Tesis presentada para optar al título de Doctor de la Universidad de Buenos Aires en el área de Ciencias Biológicas por Graciela Ines Kearney, Buenos Aires, 2019, UNIVERSIDAD DE BUENOS AIRES. Facultad de Ciencias Exactas y Naturales. En el texto se señala que es esquema ha sido adaptado de la página web: www.cns.nyu.edu.
 
-El resultado de esta función de la cóclea es que nuestra audición entrega más información al cerebro de las frecuencias bajas que de las frecuencias altas dado el número de células implicadas en la recepción tonotópica.
+El resultado de esta función de la cóclea es que nuestro sistema auditivo entrega más información al cerebro de las frecuencias bajas que de las frecuencias altas dado el número de células implicadas en la recepción tonotópica.
 
+En otras palabras, la información puramente acústica es procesada coclearmente y esto implica una transformación. Por esta razón, cuando se estudia el habla desde la dimensión auditiva, se trabaja con unidades que son conversiones de los Hz a unidades auditivas como los **Bark**.
 
+La siguiente imagen muestra 
+
+Señal ---> pabellón ---> conducto auditivo ---> tímpano ---> huesecillos ---> cóclea --->
 
