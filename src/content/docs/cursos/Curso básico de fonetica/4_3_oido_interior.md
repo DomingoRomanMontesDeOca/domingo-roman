@@ -22,10 +22,14 @@ La cóclea tiene forma de caracol. Esta estructura recibe las vibraciones de los
 
 ![Imagen de la cóclea](https://upload.wikimedia.org/wikipedia/commons/5/5f/Inner_ear_1.png)
 
-Al interior de la cóclea se encuentra la **membrana basilar** que reacciona **tonotópicamente** a las distintas frecuencias.
+Al interior de la cóclea se encuentra la **membrana basilar** que reacciona o se excita cuando recibe las  frecuencias.
 
 ![Imagen esquemática de la cóclea](/imagenes/esquema_coclea.png)
 
 Imagen obtenida del documento de la UNIVERSIDAD NACIONAL DE CUYO, de Pedro Catania *BIOFÍSICA DE LA PERCEPCION SISTEMA AUDITIVO*, página 8. Recuperada de: 
 http://www.fodonto.uncuyo.edu.ar/upload/biofisica-de-la-percepcion-y-la-audicion.pdf
+
+La reacción de la membrana basilar a las diferentes frecuencias tiene una particularidad. Distintas zonas de la membrana reaccionan a diferentes frecuencias. Esto es lo que se denomina una **reacción tonotópica**. La parte aguda de la membrana reacciona a las frecuencias altas y la base a las frecuencias bajas.
+
+
 
