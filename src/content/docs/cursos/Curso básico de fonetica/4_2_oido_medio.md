@@ -26,4 +26,4 @@ Tomada de https://commons.wikimedia.org/
 
 Estos, a su vez, se conectan con el **oído interior**.
 
-Señal ---> pabellón ---> conducto aucitivo ---> tímpano ---> huesecillos --->
+Señal ---> pabellón ---> conducto auditivo ---> tímpano ---> huesecillos --->
