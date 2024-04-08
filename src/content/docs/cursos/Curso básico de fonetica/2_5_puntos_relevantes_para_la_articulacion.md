@@ -47,5 +47,4 @@ Son sonidos que se articulan en la zona del velo del paladar "jota", "gue", "ka"
 
 ```
 Columna de aire --> Pliegues vocales --> velo del paladar --> cavidad --> punto y modo
-´´´
 
