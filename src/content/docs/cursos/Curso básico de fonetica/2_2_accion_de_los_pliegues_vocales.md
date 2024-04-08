@@ -42,3 +42,8 @@ La imagen siguiente muestra los pliegues vocales vistos desde arriba.
 ![Imagen de los pliegues vocales](https://upload.wikimedia.org/wikipedia/commons/7/7c/Vocal_folds-201611.jpg)
 
 Tomada de https://commons.wikimedia.org/
+
+
+```
+Columna de aire -->
+                   Pliegues vocales
