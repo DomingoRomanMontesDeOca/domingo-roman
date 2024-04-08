@@ -45,5 +45,5 @@ Un sonido como el de "eñe" /ɲ/ es un sonido en que una parte más central de l
 Son sonidos que se articulan en la zona del velo del paladar "jota", "gue", "ka": "a**c**o**j**a", "**j**u**g**o" (en realidad, en "jugo" todos los sonidos son **velares** porque las vocales también tienen ese punto de articulación.
 
 
-
+```Columna de aire --> Pliegues vocales --> velo del paladar --> cavidad --> punto y modo´´´
 
