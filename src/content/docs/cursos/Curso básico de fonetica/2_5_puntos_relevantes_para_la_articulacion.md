@@ -51,5 +51,4 @@ Columna de aire -->
                                       velo del paladar -->
 
                                                           --> punto y modo
-´´´
 
