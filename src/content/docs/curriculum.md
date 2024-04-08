@@ -376,7 +376,7 @@ Página web personal:        https://domingo-roman.net/
 
 
 ## Gestión
-
+- 2024-2021\. Director Programa de magíster en lingüística USACH
 - 2018-2016\. Jefe de Carrera Pedagogía en Castellano USACH.
 
 
