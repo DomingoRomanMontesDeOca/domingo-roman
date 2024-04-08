@@ -19,9 +19,9 @@ sidebar:
 - Martínez Celdrán, E. (1995). “El lenguaje desde la perspectiva de la comunicación”, en *Bases para el estudio del lenguaje*, Barcelona, Octaedro, pp. 89-119.
 -  —. 2007. *Análisis espectrográfico de los sonidos del habla*, Ariel, Barcelona.
 - Martínez Celdrán, E. y A. M. Fernández Planas (2007). *Manual de fonética española. Articulaciones y sonidos del español*, Barcelona, Ariel.
-- — Miyara, F. (s.d.) La voz humana. Disponible en http://www.fceia.unr.edu.ar/prodivoz/fonatorio.pdf
+- — Miyara, F. (s.d.) *La voz humana*. Disponible en http://www.fceia.unr.edu.ar/prodivoz/fonatorio.pdf
 - Rojas, D. (2015). *¿Por qué los chilenos hablamos como hablamos? Mitos e historia de nuestro lenguaje*, Uqbar editores.
-— Román, D. 2011. Manual para el análisis fonético acústico, Santiago de Chile, Pfeiffer.
+— Román, D. 2011. *Manual para el análisis fonético acústico*, Santiago de Chile, Pfeiffer.
 
 ## 8.2 Sitios de Internet
 
