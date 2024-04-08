@@ -4,11 +4,11 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 8.0 Bibliografía relevante
+  label: 8.0 Recursos relevantes
   # Orden (Número más bajo aparece más arriba)
   order: 80
 ---
-# 8.0 Bibliografía relevante
+# 8.0 Recursos relevantes
 
 ## 8.1 Libros y artículos
 
@@ -34,3 +34,10 @@ sidebar:
 [Joaquim Llisterri](https://joaquimllisterri.cat/phonetics/fon_anal_acus/Analisis_Acustico.html)
 
 
+## Aplicaciones
+
+Praat
+
+Audacity
+
+Fourier
