@@ -53,3 +53,8 @@ Estas articulaciones tienen la particularidad de que la columna de aire sale por
 
 Las articulaciones vibrantes, por ejemplo, realizadas con la punta de la lengua, disponen los órganos de tal manera que el flujo aéreo produce una o una serie de interrupciones de la posición de la lengua. En "ca**rr**o", por ejemplo, se dice que la "erre" muchas veces es vibrante.
 
+```
+Columna de aire -->
+                   Pliegues vocales -->
+                                      velo del paladar -->
+                                                          punto y modo
