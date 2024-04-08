@@ -14,11 +14,12 @@ Supóngase que un generador de tonos produce un tono de 440 Hz. En este caso, se
 Supóngase ahora que el generador puede producir un variado número de tonos simultáneamente. Los dos valores que tenemos que definir son frecuencia y amplitud para cada tono.
 Por ejemplo, se puede crear cuatro tonos, respectivamente, de 100 Hz, 200 Hz, 300 Hz y 400 Hz. Las amplitudes pueden adoptar los siguientes valores entre 0 y 1: 0.5, 0.25, 0.4 y 0.3
 Si disponemos las frecuencias y las amplitudes, se tiene:
-<br><br>
-  100 Hz...0.5<br>
-  200 Hz...0.25<br>
-  300 Hz...0.4<br>
-  400 Hz...0.3<br>
+<br>
+
+     100 Hz -> 0.5
+     200 Hz -> 0.25
+     300 Hz -> 0.4
+     400 Hz -> 0.3
 
 ![Cuatro ondas sinusoidales correspondientes en Hz y en amplitudes a los valores presentes en la tabla de arriba](/imagenes/cuatro_sinusoides.png)
 

@@ -23,5 +23,6 @@ En lo que sigue se revisarán los conceptos relacionados onda acústica y todos 
 - análisis de ondas o espectro
 - espectro de definición fina (banda estrecha)
 - espectro de definición gruesa (banda ancha)
+- comparación entre los dos tipos de espectros
 - espectrogramas
 
