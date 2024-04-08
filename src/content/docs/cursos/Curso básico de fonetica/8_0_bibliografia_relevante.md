@@ -11,12 +11,12 @@ sidebar:
 # 8.0 Bibliografía relevante
 
 
-- Fernández-Planas, A.M. (2011). Así se habla, Barcelona, Horsori.
-- Gil Fernández, J. (2007). Fonética para profesores de español. Madrid: Arco.
-- Johnson, K. (2003). Acoustic and Auditory Phonetics (2ª. ed.). Malden: Blackwell. [capítulo sobre percepción]
-- Martínez Celdrán, E. y A. M. Fernández Planas (2007). Manual de fonética española. Articulaciones y sonidos del español, Barcelona, Ariel.
-- Rojas, D. (2015). ¿Por qué los chilenos hablamos como hablamos? Mitos e historia de nuestro lenguaje, Uqbar editores.
-- Martínez Celdrán, E. (1995). “El lenguaje desde la perspectiva de la comunicación”, en Bases para el estudio del lenguaje, Barcelona, Octaedro, pp. 89-119.
--  —. 2007. Análisis espectrográfico de los sonidos del habla, Ariel, Barcelona.
+- Fernández-Planas, A.M. (2011). *Así se habla*, Barcelona, Horsori.
+- Gil Fernández, J. (2007). *Fonética para profesores de español*. Madrid: Arco.
+- Johnson, K. (2003). *Acoustic and Auditory Phonetics* (2ª. ed.). Malden: Blackwell. [capítulo sobre percepción]
+- Martínez Celdrán, E. y A. M. Fernández Planas (2007). *Manual de fonética española. Articulaciones y sonidos del español*, Barcelona, Ariel.
+- Rojas, D. (2015). *¿Por qué los chilenos hablamos como hablamos? Mitos e historia de nuestro lenguaje*, Uqbar editores.
+- Martínez Celdrán, E. (1995). “El lenguaje desde la perspectiva de la comunicación”, en *Bases para el estudio del lenguaje*, Barcelona, Octaedro, pp. 89-119.
+-  —. 2007. *Análisis espectrográfico de los sonidos del habla*, Ariel, Barcelona.
 - Miyara, F. (s.d.) La voz humana. Disponible en http://www.fceia.unr.edu.ar/prodivoz/fonatorio.pdf
 — Román, D. 2011. Manual para el análisis fonético acústico, Santiago de Chile, Pfeiffer.
