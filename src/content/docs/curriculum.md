@@ -27,7 +27,7 @@ Página web del laboratorio:    http://fonetica.usach.cl/
 
 Página web personal:        https://domingo-roman.net/
 
-[Investigaciones](/src/content/docs/investigaciones.md)
+## Investigaciones
 
 - 2024 (-2019) Coordinador del proyecto *Vocales sin fronteras*. México, Colombia, Uruguay y Chile.
 
@@ -54,7 +54,6 @@ Página web personal:        https://domingo-roman.net/
 - 2017\. La alofonía sociolectal  del fonema alveolopalatal "che" del español hablado en Santiago de Chile: un estudio sobre variación sociofonética y conciencia sociolingüística de adultos santiaguinos. Tesis realizada por la Sra. Christina Haska; P. Universidad Católica de Chile. [Ver documento](/tesis_doctorado_haska.pdf).
 
 ## Dirección de tesis de magíster
-
 
 - 2023\. La entonación de inmigrantes costarricenses que laboran en Chile según formas de tratamiento. Descripción fonética de la adaptación dialectal de la frecuencia fundamental. Randall Ledezma, Magíster en Lingüística, especialidad Sociolingüística del Español de América.
 
@@ -98,9 +97,6 @@ Página web personal:        https://domingo-roman.net/
   - 2010\. Seminario de titulación para licenciados en Letras. Estudio perceptivo de las fricativas sordas del español de Chile. Luna Urria. P. Universidad Católica de Chile.
 
   - 2010\. Seminario de titulación para licenciados en Letras. Percepción de fricativas sordas en el español de Chile. Josué Pino. P. Universidad Católica de Chile.
-
-
-
 
 
 ## Publicaciones
@@ -186,7 +182,6 @@ Página web personal:        https://domingo-roman.net/
 
 
 ## Participaciones en congreso
-
 
 - 2018\.    Mapa prosódico de Chile. Descripción fonética y fonológica del español hablado por chilenos. Segundo encuentro del seminario de prosodia. Instituto de Investigaciones Filológicas, UNAM, México DF. 1-5 de octubre
 
