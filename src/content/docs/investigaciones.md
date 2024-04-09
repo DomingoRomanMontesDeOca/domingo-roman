@@ -1,6 +1,6 @@
-----
+---
 title: Proyectos de investigación
-----
+---
 
 # Proyectos de investigación
 
