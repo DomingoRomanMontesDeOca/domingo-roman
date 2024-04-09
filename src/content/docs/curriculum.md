@@ -27,7 +27,7 @@ Página web del laboratorio:    http://fonetica.usach.cl/
 
 Página web personal:        https://domingo-roman.net/
 
-## Proyectos de investigación
+[Investigaciones](/investigaciones.md)
 
 - 2024 (-2019) Coordinador del proyecto *Vocales sin fronteras*. México, Colombia, Uruguay y Chile.
 
