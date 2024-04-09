@@ -36,8 +36,9 @@ sidebar:
 
 ## Aplicaciones
 
-Praat
+[Praat](https://www.fon.hum.uva.nl/praat/)
 
-Audacity
+[Audacity](https://www.audacityteam.org)
 
-Fourier
+[Fourier](https://phet.colorado.edu/en/simulations/fourier-making-waves/about)
+
