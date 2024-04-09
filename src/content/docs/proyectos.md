@@ -2,6 +2,7 @@
 title: Proyectos de investigación
 ---
 
+- 2019-2024 Vocales sin fronteras. Proyeccto internacional. Chile, México, Colombia.
 - 2017(2007-) Atlas Multimedia de Prosodia del Espacio Románico (AMPER). Proyecto internacional. Coordinación General: Grenoble3, Francia; coordinación para la lengua española, Universitat de Barcelona, España. Sección Chile.
 - 2016(2012-) Fondecyt:  Mapa prosódico de Chile. Descripción fonética y fonológica de rasgos suprasegmentales del español hablado por chilenos. Investigador responsable del proyecto. Duración:  4 años. Con la colaboración de Héctor Ortiz-Lira (UMCE),  Magaly Ruiz (UFRO), José J. Atria (University College London) y Camilo Quezada (doctorando de Psicología UC).
 - 2015\. Evaluación de la eficacia de modelos experimentales para la reintegración política y social de adultos con experiencia de combate en el marco del conflicto armado colombiano, Universidad del Rosario/Universidad de Medellín, Colombia.
