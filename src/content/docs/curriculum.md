@@ -9,7 +9,7 @@ Títulos obtenidos:
 
 - Profesor de Enseñanza Media con mención en Castellano (UC, Chile, 1988).
 
-- Magíster en lingüística con mención en lengua española (U. de Chile, 1995).
+- Magíster en Lingüística con mención en Lengua Española (U. de Chile, 1995).
 
 - Doctor en Lingüística y Comunicación, (Universidad de Barcelona, 2012).
 
@@ -23,9 +23,9 @@ Código Postal:    71783-5
 
 Dirección de correo electrónico:  [domingo.roman@usach.cl](mailto:domingo.roman%2540usach.cl)
 
-Página web del laboratorio:    http://fonetica.usach.cl/
+Página web del laboratorio: http://fonetica.usach.cl/
 
-Página web personal:        https://domingo-roman.net/
+Página web personal: https://domingo-roman.net/
 
 ## Investigaciones
 ______
