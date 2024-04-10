@@ -21,6 +21,8 @@ Código Postal:    71783-5
 
 Dirección de correo electrónico:  [domingo.roman@usach.cl](mailto:domingo.roman%2540usach.cl)
 
+ORCID: 0000-0003-4222-9084
+
 Página web del laboratorio: http://fonetica.usach.cl/
 
 Página web personal: https://domingo-roman.net/
