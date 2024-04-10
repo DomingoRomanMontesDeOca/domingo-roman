@@ -2,16 +2,14 @@
 title: Curriculum
 ---
 ## Antecedentes personales
-
+______
 Nombre:    Domingo Román Montes de Oca
 
 Títulos obtenidos:
 
-- Profesor de Enseñanza Media con mención en Castellano (UC, Chile, 1988).
-
-- Magíster en Lingüística con mención en Lengua Española (U. de Chile, 1995).
-
 - Doctor en Lingüística y Comunicación, (Universidad de Barcelona, 2012).
+- Magíster en Lingüística con mención en Lengua Española (U. de Chile, 1995).
+- Profesor de Enseñanza Media con mención en Castellano (UC, Chile, 1988).
 
 Lugar de trabajo: [Universidad de Santiago de Chile](http://www.usach.cl/), [Facultad de Humanidades.](http://www.fahu.usach.cl/)
 
