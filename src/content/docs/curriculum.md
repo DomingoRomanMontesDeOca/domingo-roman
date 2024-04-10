@@ -322,9 +322,9 @@ ______
 ## Presentaciones de libros
 ______
 
-- 2015\. Libro Cántaros de Hugo González (octubre).
-- 2016\. Libro de Sandy Infante: Del discurso al aula ,Libro ganador concurso tesis.Museo de la mMmoria y los Derechos Humanos. 19 de abril.
-- Libro Arbolando, de Rafael Rubio. Facultad de Letras de la P. Universidad Católica de Chile
+- 2015\. Libro *Cántaros* de Hugo González (octubre).
+- 2016\. Libro de Sandy Infante: *Del discurso al aula*, Libro ganador concurso tesis. Museo de la Memoria y los Derechos Humanos. 19 de abril.
+- Libro *Arbolando*, de Rafael Rubio. Facultad de Letras de la P. Universidad Católica de Chile
 
 
 ## Perfeccionamiento: Conferencias, seminarios temáticos, charlas y talleres (asistencia)
