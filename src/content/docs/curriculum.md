@@ -49,12 +49,14 @@ ______
 - 1996\.    El habla de los estudiantes de 7º y 8º año EGB de la Región Metropolitana: análisis descriptivo y proposición de estrategias remediales. Miriam Cid (investigadora principal), Paula Jullian, Ana María Millán. Fondedoc (UC).
 
 ## Dirección de tesis de doctorado
+______
 
 - 2018\. Percepción del acento léxico por bengalíes. Tesis realizada por el Sr. Imran Hossain; P. Universidad Católica de Chile. Examen internacional ante la Dra. Sandra Schwab. [Ver documento](/tesis_doctorado_hossain.pdf).
 
 - 2017\. La alofonía sociolectal  del fonema alveolopalatal "che" del español hablado en Santiago de Chile: un estudio sobre variación sociofonética y conciencia sociolingüística de adultos santiaguinos. Tesis realizada por la Sra. Christina Haska; P. Universidad Católica de Chile. [Ver documento](/tesis_doctorado_haska.pdf).
 
 ## Dirección de tesis de magíster
+______
 
 - 2023\. La entonación de inmigrantes costarricenses que laboran en Chile según formas de tratamiento. Descripción fonética de la adaptación dialectal de la frecuencia fundamental. Randall Ledezma, Magíster en Lingüística, especialidad Sociolingüística del Español de América.
 
@@ -82,6 +84,7 @@ ______
 
 
 ## Seminarios de titulación
+______
 
   - 2023\. Seminario de titulación para profesor de castellano. *Análisis acústico de la palataliación de la oclusiva velar sorda prevocálica en hablantes universitarios del español de Chile*. Nicolás Flores Navarro. Usach.
 
@@ -101,8 +104,10 @@ ______
 
 
 ## Publicaciones
+______
 
 ### Libros
+______
 
   - Román, D. (2011).    *Manual para el análisis fonético acústico*, Santiago de Chile, Pfeiffer.
 
@@ -111,6 +116,7 @@ ______
 
 
 ### Capítulos en libros
+______
 
 - Hossain, Imran y D. Román (2019). Desarrollo lingüístico: ilustración espectrográfica de los sonidos del español de Montevideo. En Neurocognición y aprendizaje. Bases, procesos y evaluación. Barg, Gabriel; Cuadro, Arien y Hoyos, Sandra (editores). Grupo Magro Editores. ISBN: 978-9974-8691-7-2. [Ver presentación (pdf)](/NEUROCOGNICION%20Y%20APRENDIZAJE(1).pdf).
 
@@ -131,6 +137,7 @@ ______
 
 
 ### Artículos en revistas
+______
 
 - Román, Domingo; D. Muñoz-Builes; C. Quezada y J. Atria (2020). Alcances y límites de  un mapa prosódico, Onomázein 20. Índices ISI, Scopus, DOAJ, MLA. [Aceptado]
 
@@ -183,6 +190,7 @@ ______
 
 
 ## Participaciones en congreso
+______
 
 - 2018\.    Mapa prosódico de Chile. Descripción fonética y fonológica del español hablado por chilenos. Segundo encuentro del seminario de prosodia. Instituto de Investigaciones Filológicas, UNAM, México DF. 1-5 de octubre
 
@@ -249,6 +257,7 @@ ______
 
 
 ## Premios
+______
 
 
 - 2014\. Premio a la excelencia docente en cursos de servicio, otorgado por carrera de Fonoaudiología de la P. Universidad Católica de Chile.
@@ -313,6 +322,7 @@ ______
 
 
 ## Presentaciones de libros
+______
 
 - 2015\. Libro Cántaros de Hugo González (octubre).
 - 2016\. Libro de Sandy Infante: Del discurso al aula ,Libro ganador concurso tesis.Museo de la mMmoria y los Derechos Humanos. 19 de abril.
@@ -320,6 +330,7 @@ ______
 
 
 ## Perfeccionamiento: Conferencias, seminarios temáticos, charlas y talleres (asistencia)
+______
 
 - 2018\. Métodos para el análisis dialectométrico de la entonación, dictado por la Dra. Wendy Elvira-García, Segundo encuentro del seminario de prosodia, Instituto de Investigaciones filológicas, UNAM.
 
@@ -363,6 +374,7 @@ ______
 
 
 ## Experiencia docente
+______
 
 - 2015\.    Investigador Asociado a la Facultad de Humanidades, Universidad de Santiago de Chile.
 
@@ -372,11 +384,13 @@ ______
 
 
 ## Gestión
+_______
 - 2024-2021\. Director Programa de magíster en lingüística USACH
 - 2018-2016\. Jefe de Carrera Pedagogía en Castellano USACH.
 
 
 ## Comisiones de grado
+______
 
 - 2018\. Miembro del tribunal del Programa de Doctorado en Ciencias de la Educación, mención Educación Intercultural, para la tesis Multiculturalidad, pluriculturalidad, o interculturalidad en la Educación. Tensiones y precisiones de un concepto de la  candidata Sara Sepulveda, Universidad de Santiago de Chile.
 - 2018\. Miembro del tribunal de tesis doctoral P. Universidad Católica de Chile para la tesis Contagio semántico y signo lingüístico, del Sr. Camilo Quezada y dirigida por el Dr. Carlos Cornejo
@@ -388,6 +402,7 @@ ______
 
 
 ## Consultorías y  asistencias técnicas
+______
 
 - 2018\.    Asesor internacional experto en el proceso de adaptación y validación de guiones para la cooperación técnica entre la Fundación INECO y el Banco Interamericano de Desarrollo.
 - 2016\.    Consultoría técnica UNESCO/MINEDUC para el proyecto de revitalización lingüística y cultural de Rapa Nui.
