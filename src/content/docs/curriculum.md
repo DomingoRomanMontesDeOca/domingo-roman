@@ -138,10 +138,11 @@ ______
 
 ### Artículos en revistas
 ______
+- Figueroa-Martínez, Fernanda; Pía Villanueva Bianchini; Domingo Román Montes de Oca. (2023). Simulación de niveles de hipernasalidad con actores entrenados: Una comunicación breve, CEFAC.
 
-- Román, Domingo; D. Muñoz-Builes; C. Quezada y J. Atria (2020). Alcances y límites de  un mapa prosódico, Onomázein 20. Índices ISI, Scopus, DOAJ, MLA. [Aceptado]
+- Román, Domingo; D. Muñoz-Builes; C. Quezada y J. Atria (2020). Alcances y límites de  un mapa prosódico, Onomázein 20. Índices ISI, Scopus, DOAJ, MLA. 
 
-- Román, Domingo; C. Quezada; L. Aguilera (2018). Duración de vocales idénticas en límite de palabras en español de Chile, EFE XXVII, pp 151-170. [Aceptado 23/08/2018.] Indices: Scopus (Q2), Latindex. [Ver](http://stel.ub.edu/labfon/sites/default/files/XXVII-10_DRoman-separata_new.pdf).
+- Román, Domingo; C. Quezada; L. Aguilera (2018). Duración de vocales idénticas en límite de palabras en español de Chile, EFE XXVII, pp 151-170. Indices: Scopus (Q2), Latindex. [Ver](http://stel.ub.edu/labfon/sites/default/files/XXVII-10_DRoman-separata_new.pdf).
 
 - Muñoz, Diana; D. Ramos; D. Román; C. Quezada; H. Ortiz;  M. Ruiz y J. Atria (2017). El habla ascendente de Chiloé: primera aproximación,    Onomázein 37. Índices: ISI, Scopus, DOAJ, MLA. ISSN: 0718-5758. [Ver](https://www.google.com/url?sa%253Dt%2526rct%253Dj%2526q%253D%2526esrc%253Ds%2526source%253Dweb%2526cd%253D1%2526ved%253D2ahUKEwilj_f7xs3fAhXFEpAKHfGtD14QFjAAegQICRAC%2526url%253Dhttp%253A%252F%252Fonomazein.letras.uc.cl%252FArticulos%252FN37%252F37_1-Mu%2525C3%2525B1oz.pdf%2526usg%253DAOvVaw3erXQ7RVLPa2ky-EnmodO8).
 
