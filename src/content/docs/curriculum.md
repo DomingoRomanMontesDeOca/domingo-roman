@@ -270,23 +270,23 @@ ______
 
 ## Comités de revistas especializadas, evaluaciones de concursos de investigación
 
-- 2019\.      Miembro del Consejo Asesor de la revista Semas, Universidad Autónoma de Querétaro, México
+- 2019\.      Miembro del Consejo Asesor de la revista *Semas*, Universidad Autónoma de Querétaro, México
 
-- 2019\.      Evaluador de artículos Revista Chilena de Fonoaudiología, Universidad de Chile
+- 2019\.      Evaluador de artículos *Revista Chilena de Fonoaudiología*, Universidad de Chile
 
 - 2018\.     Integrante del Comité de Evaluadores del Programa Formación de Capital Humano Avanzado, Conicyt
 
-- 2018\.     Evaluador de artículos, revista Estudios de Fonética Experimental, Universidad de Barcelona
+- 2018\.     Evaluador de artículos, revista *Estudios de Fonética Experimental*, Universidad de Barcelona
 
-- 2018\.     Evaluador de artículos Revista Chilena de Fonoaudiología, Universidad de Chile
+- 2018\.     Evaluador de artículos *Revista Chilena de Fonoaudiología*, Universidad de Chile
 
-- 2017\.     Evaluador de artículos, revista Lingüística y Literatura, Universidad Católica Silva Henríquez
+- 2017\.     Evaluador de artículos, revista *Lingüística y Literatura*, Universidad Católica Silva Henríquez
 
-- 2010\.     Miembro del comité editorial externo de la revista Contextos (UMCE, Santiago de Chile)
+- 2010\.     Miembro del comité editorial externo de la revista *Contextos* (UMCE, Santiago de Chile)
 
-- 2009\.     Evaluador de artículos, revista Logos (Universidad de La Serena, Chile)
+- 2009\.     Evaluador de artículos, revista *Logos* (Universidad de La Serena, Chile)
 
-- 2009\.     Evaluador de artículos, revista Signos (Universidad Católica de Valparaíso)
+- 2009\.     Evaluador de artículos, revista *Signos* (Universidad Católica de Valparaíso)
 
 - 2008\.     Evaluador de concurso de proyectos Fondecyt.
 
