@@ -21,8 +21,9 @@ Para una primera aproximación visual a la representación gráfica de las ondas
 
 El gráfico que muestra la forma de la onda se llama oscilograma y equivale a lo que en inglés se denomina *waveform*.
 
-    Ejercicio:
-    - Practicar cambiar la amplitud y la longitud hasta que te resulte previsible el gráfico resultante.
+Ejercicio:
+
+ > Practicar cambiar la amplitud y la longitud hasta que te resulte previsible el gráfico resultante.
 
 A partir de este ejercicio, se debe poder responder preguntas como las siguientes:
 
