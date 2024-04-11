@@ -148,7 +148,7 @@ ______
 
 - Robledo, Jp. 1,; E. Hurtado; F. Prado; D. Román y C. Cornejo. (2016).  Music intervals in speech: Psychological disposition modulates ratio precision among interlocutors’ nonlocal f0 production in real-time dyadic conversation,  *Psycology of Music*: 1-15. ISSN (web): 1741-3087, (impreso): 0305-7356, Factor de impacto: 2.010, Indice: ISI. [Ver](https://journals.sagepub.com/doi/abs/10.1177/0305735616634452?journalCode%253Dpoma).
 
-- Quezada, Camilo, J. P. Robledo; D. Román y C. Cornejo. (2012). Empatía y convergencia del tono fundamental, *RLA, Revista de Lingüística Teórica y Aplicada*, 50 (2), II Sem. 2012, pp. 145-165. Índices ISI, SCIELO, LLBA, MLA, Red ALyC. ISSN (web): 0718-4883, (impreso): 0033-698X. [Ver](https://scielo.conicyt.cl/scielo.php?script%253Dsci_arttext%2526pid%253DS0718-48832012000200007).
+- Quezada, Camilo, J. P. Robledo; D. Román y C. Cornejo. (2012). Empatía y convergencia del tono fundamental, *RLA*, 50 (2), II Sem. 2012, pp. 145-165. Índices ISI, SCIELO, LLBA, MLA, Red ALyC. ISSN (web): 0718-4883, (impreso): 0033-698X. [Ver](https://scielo.conicyt.cl/scielo.php?script%253Dsci_arttext%2526pid%253DS0718-48832012000200007).
 
 - Oplustil, Pilar y D. Román. Reseña de Ana María Fernández Planas (2012):  Así se habla. Nociones fundamentales de fonética general y española. Apuntes de catalán, gallego y euskara, Barcelona, Horsori, 2a edición revisada. *EFE*.
 
