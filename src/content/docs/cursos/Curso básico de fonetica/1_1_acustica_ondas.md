@@ -29,8 +29,9 @@ A partir de este ejercicio, se debe poder responder preguntas como las siguiente
 
 Dada una onda,
 
-- ¿cómo se modificará su oscilograma si aumenta al doble su amplitud?
-- ¿cómo se modificará el oscilograma si la frecuencia disminuye a la mitad?
+>¿cómo se modificará su oscilograma si aumenta al doble su amplitud?
+
+>¿cómo se modificará el oscilograma si la frecuencia disminuye a la mitad?
 
 En [este enlace](http://www.walter-fendt.de/html5/phes/springpendulum_es.htm) (creado por Walter Fendt y traducido por J. Muñoz) se puede ver una simulación de un resorte que oscila. Existe la posibilidad de manipular muchas variables que afectan la forma de la onda resultante.
 
