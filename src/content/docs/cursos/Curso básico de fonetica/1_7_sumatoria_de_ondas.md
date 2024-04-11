@@ -32,7 +32,8 @@ La onda resultante es la que en la siguiente imagen se presenta en negro. Las si
 ![Ondas simples superpuestas con un punto marcado y la onda resultante](/imagenes/sumatoria_todas.png)
 
 Para efectos de este curso, se puede afirmar que para sumar ondas simples se toman los valores de amplitud de cada sinusoide en un punto determinado y se suman esos valores. El resultado de esa suma es la amplitud de la onda resultante. En este caso, las amplitudes son:
-0.13 + 0.10 + 0.13 + 0.06 lo que da como resultado 0.42.
+
+> 0.13 + 0.10 + 0.13 + 0.06 lo que da como resultado 0.42.
 
 Se deben sumar la mayor cantidad de puntos posibles para tener el resultado más fidedigno.
 
