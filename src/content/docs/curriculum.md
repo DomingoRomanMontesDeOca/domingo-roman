@@ -62,8 +62,8 @@ ______
 
 - 2023\. *La entonación de inmigrantes costarricenses que laboran en Chile según formas de tratamiento. Descripción fonética de la adaptación dialectal de la frecuencia fundamental*. Randall Ledezma, Magíster en Lingüística, especialidad Sociolingüística del Español de América.
 - 2023\. *La entonación de mujeres y hombres de zonas rurales y urbanas de La Araucanía*. Pablo Rojas, Magíster en Lingüística, especialidad Sociolingüística del Español de América.
-- 2021. *Conveying meaning through Suprasegmentals. A comparative study on the use of Suprasegmentals between Chilean EFL teachers of higher education and English Native speakers when producing structurally am- biguous sentences*. Isaías Reyes, USACH.
-- 2021.* Diseño, implementación y validación de un script de Praat para medir el rendimiento diadococinético*. UDEC. Daniela Osses. Codirector con el Dr. Hernán Pérez.
+- 2021. *Conveying meaning through Suprasegmentals. A comparative study on the use of Suprasegmentals between Chilean EFL teachers of higher education and English Native speakers when producing structurally ambiguous sentences*. Isaías Reyes, USACH.
+- 2021. *Diseño, implementación y validación de un script de Praat para medir el rendimiento diadococinético*. UDEC. Daniela Osses. Codirector con el Dr. Hernán Pérez.
 - 2019. *Prosodia del habla masculina del norte, centro y sur de Chile*. Philip Urria. USACH.
 - 2019. *Las pausas en la comunicación oral formal en estudiantes de enseñanza media: la exposición oral*. Valentina Meneses. USACH.
 - 2017\. *Actitudes lingüísticas y jóvenes. Descripción de los fenómenos fonológicos que forman parte de la actitud lingüística que construyen jóvenes de clase medio baja para el registro culto formal*. Christián Castro, Magíster en Lingüística, mención Sociolingüística del Español de América, USACH. Ver texto.
