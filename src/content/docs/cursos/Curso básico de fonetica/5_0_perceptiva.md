@@ -14,7 +14,7 @@ La percepción es un tema que conecta todo lo presentado hasta aquí y agrega el
 Las señales acústicas llegan al sistema auditivo y este las transforma en señales eléctricas que el cerebro puede procesar.
 En la mente se produce la decodificación de los estímulos procedentes del sistema auditivo y que son elaborados en el cerebro.
 
-[Áreas del cerebro relacionadas con el lenguaje](https://www.psicoactiva.com/wp-content/uploads/blog/2018/01/areas-corteza-frontal.jpg)
+![Áreas del cerebro relacionadas con el lenguaje](https://www.psicoactiva.com/wp-content/uploads/blog/2018/01/areas-corteza-frontal.jpg)
 
 Tomada de Guerri, Marta, 2016, La corteza cerebral: áreas motoras, de asociación y del lenguaje https://www.psicoactiva.com.
 
