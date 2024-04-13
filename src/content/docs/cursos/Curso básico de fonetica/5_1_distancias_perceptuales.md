@@ -10,6 +10,8 @@ sidebar:
 ---
 # 5.1 Distancias perceptuales
 
+(En preparación)
+
 Las distancias perceptuales son representaciones visuales de cuán cerca o cuán lejos están, por ejemplo, dos sonidos por los que se ha consultado a un informante.
 
 Un tipo de pregunta, pide al informante que señale a qué letra de las que se le presentan en la pantalla corresponde el sonido que se le presenta auditivamente.
