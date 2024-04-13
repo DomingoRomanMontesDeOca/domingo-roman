@@ -56,7 +56,6 @@ ______
 
 - 2017\. *La alofonía sociolectal  del fonema alveolopalatal "che" del español hablado en Santiago de Chile: un estudio sobre variación sociofonética y conciencia sociolingüística de adultos santiaguinos*. Tesis realizada por la Sra. Christina Haska; P. Universidad Católica de Chile. [Ver documento](/tesis_doctorado_haska.pdf).
 
-- 
 
 ## Dirección de tesis de magíster
 ______
