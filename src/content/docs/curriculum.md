@@ -88,15 +88,10 @@ ______
 - 2020\. Seminario de titulación Percepción de la ironía verbal en hablantes no nativos de español: la entonación como guía de identificación, Noemí Huinca, USACH.
 - 2020\. Seminario de titulación Variación fonética del fonema /s/ codal en hablantes no profesionales de Santiago de Chile: Análisis en entrevista semidirigida (Fondecyt 1161466). Eduardo Llanquimán Iturrieta (codirec- ción con el Dr. Héctor Ortiz Lira). USACH.
   - 2016\. Seminario de titulación para profesores de castellano. Intervención en una escuela de fútbol. Usach.
-
   - 2014\. Seminario de titulación para licenciados en Letras. Creación de una herramienta didáctica computacional para la enseñanza de la entonación del español de Chile como lengua extrajera. Pilar Oplustil G. PUC.
-
   - 2011\. Seminario de titulación para licenciados en Letras. Elementos prosódicos como parámetros distintivos de la lectura de textos en verso libre y prosa. Marco Marchant. PUC.
-
   - 2011\. Seminario de titulación para licenciados en Letras. Incidencia de valores suprasegmentales en la distinción de las funciones sintácticas o discursivas para  *bueno*, *claro* y *a ver*. Camila Gallegos. PUC.
-
   - 2010\. Seminario de titulación para licenciados en Letras. Estudio perceptivo de las fricativas sordas del español de Chile. Luna Urria. P. Universidad Católica de Chile.
-
   - 2010\. Seminario de titulación para licenciados en Letras. Percepción de fricativas sordas en el español de Chile. Josué Pino. P. Universidad Católica de Chile.
 
 
@@ -136,11 +131,11 @@ ______
 ### Artículos en revistas
 ______
 - Figueroa-Martínez, Fernanda; Pía Villanueva Bianchini; Domingo Román Montes de Oca. (2023). Simulación de niveles de hipernasalidad con actores entrenados: Una comunicación breve, *CEFAC* (Aceptado).
-
+- Haska, C.; Román, D.; Quezada, C. (aceptado para publicarse en 2025) Análisis acústico del fonema “ch” en el habla santiaguina. *Onomázein* 69DOI 10.7764/onomazein.69.02
+- Llanquimán, E. Román, D. Ortiz, H. (2023, aceptado) Alofonía del fonema fricativo /s/ codal en hablantes no profesionales de Santiago de Chile. *BFUCH*.
+- Ossa, Daniela; Hernán Pérez, Domingo Román y Camilo Quezada. (2022) Diseño, implementación y validación de un script de Praat para medir el rendimiento diadococinético. *Revista de Logopedia*, Foniatría y Audiología.
 - Román, Domingo; D. Muñoz-Builes; C. Quezada y J. Atria (2020). Alcances y límites de  un mapa prosódico, *Onomázein* 20. Índices ISI, Scopus, DOAJ, MLA. 
-
 - Román, Domingo; C. Quezada; L. Aguilera (2018). Duración de vocales idénticas en límite de palabras en español de Chile, *EFE* XXVII, pp 151-170. Indices: Scopus (Q2), Latindex. [Ver](http://stel.ub.edu/labfon/sites/default/files/XXVII-10_DRoman-separata_new.pdf).
-
 - Muñoz, Diana; D. Ramos; D. Román; C. Quezada; H. Ortiz;  M. Ruiz y J. Atria (2017). El habla ascendente de Chiloé: primera aproximación, *Onomázein* 37. Índices: ISI, Scopus, DOAJ, MLA. ISSN: 0718-5758. [Ver](https://www.google.com/url?sa%253Dt%2526rct%253Dj%2526q%253D%2526esrc%253Ds%2526source%253Dweb%2526cd%253D1%2526ved%253D2ahUKEwilj_f7xs3fAhXFEpAKHfGtD14QFjAAegQICRAC%2526url%253Dhttp%253A%252F%252Fonomazein.letras.uc.cl%252FArticulos%252FN37%252F37_1-Mu%2525C3%2525B1oz.pdf%2526usg%253DAOvVaw3erXQ7RVLPa2ky-EnmodO8).
 
 - Robledo, Jp. 1,; E. Hurtado; F. Prado; D. Román y C. Cornejo. (2016).  Music intervals in speech: Psychological disposition modulates ratio precision among interlocutors’ nonlocal f0 production in real-time dyadic conversation,  *Psycology of Music*: 1-15. ISSN (web): 1741-3087, (impreso): 0305-7356, Factor de impacto: 2.010, Indice: ISI. [Ver](https://journals.sagepub.com/doi/abs/10.1177/0305735616634452?journalCode%253Dpoma).
