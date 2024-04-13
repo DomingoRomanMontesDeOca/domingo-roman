@@ -6,7 +6,7 @@ sidebar:
   # Nombre
   label: 5.0 Percepción
   # Orden (Número más bajo aparece más arriba)
-  order: 21
+  order: 23
 ---
 # 5.0 Percepción
 
