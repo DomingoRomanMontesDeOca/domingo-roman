@@ -370,12 +370,12 @@ _______
 ## Comisiones de grado
 ______
 
-- 2018\. Miembro del tribunal del Programa de Doctorado en Ciencias de la Educación, mención Educación Intercultural, para la tesis Multiculturalidad, pluriculturalidad, o interculturalidad en la Educación. Tensiones y precisiones de un concepto de la  candidata Sara Sepulveda, Universidad de Santiago de Chile.
-- 2018\. Miembro del tribunal de tesis doctoral P. Universidad Católica de Chile para la tesis Contagio semántico y signo lingüístico, del Sr. Camilo Quezada y dirigida por el Dr. Carlos Cornejo
-- 2017\.    Miembro del tribunal de tesis doctoral Universidad de La Laguna para la tesis  Patrones entonativos de las declarativas e interrogativas de El Hierro y Fuerteventura, de Carolina Jorge Trujillo y dirigida por Josefa Dorta Luis.
-- 2017\.    Miembro del comité de tesis para la investigación El efecto de la lactancia materna y formula láctea en la discriminación de fonemas en infantes de 6 meses de edad dirigida por Marcela Peña Garay y Adrian Ocampo Garcés, Programa de Neurociencias, Universidad de Chile.
-- 2016\.     Miembro del comité de tesis doctoral de Cristina Jara On the role of vowels during infants’ language acquisition: labeling actions, dirigida por Marcela Peña G. P. Universidad Católica de Chile. [Comité internacional compuesto por Marcia Olhaberry (UC), Luca Bonatti (U. Pompeu Fabra)
-- 2015\.    Profesor examinador externo, Universidad de Antioquia, Colombia para la tesis Análisis sociolingüístico de los procesos fonológicos en el habla de Medellín de la candidata María Claudia González Rátiva, dirigida por la Dra. Marianne Dieck, (U de Antioquia) y codirigida por la Dra. Luz Marcela Hurtado, (Central Michigan University). Defensa realizada el 23 de julio.
+- 2018\. Miembro del tribunal del Programa de Doctorado en Ciencias de la Educación, mención Educación Intercultural, para la tesis *Multiculturalidad, pluriculturalidad, o interculturalidad en la Educación. Tensiones y precisiones de un concepto* de la  candidata Sara Sepúlveda, Universidad de Santiago de Chile.
+- 2018\. Miembro del tribunal de tesis doctoral P. Universidad Católica de Chile para la tesis *Contagio semántico y signo lingüístico*, del Sr. Camilo Quezada y dirigida por el Dr. Carlos Cornejo
+- 2017\. Miembro del tribunal de tesis doctoral Universidad de La Laguna para la tesis *Patrones entonativos de las declarativas e interrogativas de El Hierro y Fuerteventura* de Carolina Jorge Trujillo y dirigida por Josefa Dorta Luis.
+- 2017\. Miembro del comité de tesis para la investigación *El efecto de la lactancia materna y formula láctea en la discriminación de fonemas en infantes de 6 meses de edad* dirigida por Marcela Peña Garay y Adrian Ocampo Garcés, Programa de Neurociencias, Universidad de Chile.
+- 2016\. Miembro del comité de tesis doctoral de Cristina Jara *On the role of vowels during infants’ language acquisition: labeling actions* dirigida por Marcela Peña G. P. Universidad Católica de Chile. [Comité internacional compuesto por Marcia Olhaberry (UC), Luca Bonatti (U. Pompeu Fabra)
+- 2015\. Profesor examinador externo, Universidad de Antioquia, Colombia para la tesis *Análisis sociolingüístico de los procesos fonológicos en el habla de Medellín* de la candidata María Claudia González Rátiva, dirigida por la Dra. Marianne Dieck, (U de Antioquia) y codirigida por la Dra. Luz Marcela Hurtado, (Central Michigan University). Defensa realizada el 23 de julio.
 
 
 
