@@ -133,7 +133,7 @@ ______
 
 ### Artículos en revistas
 ______
-- Figueroa-Martínez, Fernanda; Pía Villanueva Bianchini; Domingo Román Montes de Oca. (2023). Simulación de niveles de hipernasalidad con actores entrenados: Una comunicación breve, *CEFAC*.
+- Figueroa-Martínez, Fernanda; Pía Villanueva Bianchini; Domingo Román Montes de Oca. (2023). Simulación de niveles de hipernasalidad con actores entrenados: Una comunicación breve, *CEFAC* (Aceptado).
 
 - Román, Domingo; D. Muñoz-Builes; C. Quezada y J. Atria (2020). Alcances y límites de  un mapa prosódico, *Onomázein* 20. Índices ISI, Scopus, DOAJ, MLA. 
 
