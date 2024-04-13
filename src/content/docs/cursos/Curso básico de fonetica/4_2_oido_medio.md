@@ -8,7 +8,7 @@ sidebar:
   # Orden (Número más bajo aparece más arriba)
   order: 21
 ---
-# 4.1 Oído medio
+# 4.2 Oído medio
 
 Al final del conducto auditivo, se encuentra el **tímpano**; una membrana sensible que vibrará en función de la onda acústica que la impacta.
 
