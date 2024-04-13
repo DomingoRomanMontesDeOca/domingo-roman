@@ -404,7 +404,7 @@ ______
 
 ## Consultorías y  asistencias técnicas
 ______
-
+- 2024\.    Asesoría al Laboratorio de Lingüística de la Universidad de La Frontera, para la Dra. Magaly Ruiz y la mg. Rosa Catalán.
 - 2018\.    Asesor internacional experto en el proceso de adaptación y validación de guiones para la cooperación técnica entre la Fundación INECO y el Banco Interamericano de Desarrollo.
 - 2016\.    Consultoría técnica UNESCO/MINEDUC para el proyecto de revitalización lingüística y cultural de Rapa Nui.
 - 2015\.    Asesoría para la creación de un laboratorio de fonética. Universidad de Los Lagos.
