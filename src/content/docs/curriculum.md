@@ -61,20 +61,35 @@ ______
 ______
 
 - 2023\. *La entonación de inmigrantes costarricenses que laboran en Chile según formas de tratamiento. Descripción fonética de la adaptación dialectal de la frecuencia fundamental*. Randall Ledezma, Magíster en Lingüística, especialidad Sociolingüística del Español de América.
+  
 - 2023\. *La entonación de mujeres y hombres de zonas rurales y urbanas de La Araucanía*. Pablo Rojas, Magíster en Lingüística, especialidad Sociolingüística del Español de América.
+  
 - 2021\. *Conveying meaning through Suprasegmentals. A comparative study on the use of Suprasegmentals between Chilean EFL teachers of higher education and English Native speakers when producing structurally ambiguous sentences*. Isaías Reyes, USACH.
+  
 - 2021\. *Diseño, implementación y validación de un script de Praat para medir el rendimiento diadococinético*. UDEC. Daniela Osses. Codirector con el Dr. Hernán Pérez.
+  
 - 2019\. *Prosodia del habla masculina del norte, centro y sur de Chile*. Philip Urria. USACH.
+  
 - 2019\. *Las pausas en la comunicación oral formal en estudiantes de enseñanza media: la exposición oral*. Valentina Meneses. USACH.
+  
 - 2017\. *Actitudes lingüísticas y jóvenes. Descripción de los fenómenos fonológicos que forman parte de la actitud lingüística que construyen jóvenes de clase medio baja para el registro culto formal*. Christián Castro, Magíster en Lingüística, mención Sociolingüística del Español de América, USACH. Ver texto.
+  
 - 2017\. *La competencia comunicativa en estudiantes de enseñanza media*. Rodolfo Alfredo Ortega Muñoz, Magíster en Lingüística, mención Sociolingüística del Español de América, USACH.
+  
 - 2015\. *Descripción de la fluidez del habla a través de la caracterización de disfluencias y velocidad del habla en niños entre 4.0 y 6.11 años y entre 11.0 y 15.0 años de Santiago de Chile*. Daniela Paz Rojas. P. Universidad Católica de Chile.
+  
 - 2014\. *La relevancia de los elementos prosódicos en la adquisición del idioma francés como lengua extranjera: estudio de la duración*. Claudia Marambio N. P. Universidad Católica de Chile.
+  
 - 2014\. *AMPER-Chile: análisis acústico de interrogativas absolutas*. Josué Pino C. P. Universidad Católica de Chile. Examen rendido ante comisión internacional, con presencia de la Dra. Ana María Fernández Planas, de la U. de Barcelona.
+  
 - 2012\. *Propuesta metodológica para el análisis acústico de segmentos aproximantes*. Mauricio Figueroa Candia. P. Universidad Católica de Chile. [Ver documento (página del autor)](http://www.mauriciofigueroa.cl/02_academia/2012_tesis_ma_PUC.pdf).
+  
 - 2012\. *Análisis fonético-acústico de la conducta prosódica de los enunciados del tipo imperativo (petición y orden) del español de Santiago de Chile*. Marcela Fuentes D. P. Universidad Católica de Chile.
+  
 - 2011\. *Descripción fonético-acústica de emisiones hipernasales en portadores de fisura labiopalatina e insuficiencia velofaríngea*. Julio Silva. P. Universidad Católica de Chile.
+  
 - 2010\. *El efecto McGurk en consonantes oclusivas sonoras y sordas del español de Chile: una explicación fonético-acústico-perceptiva*. Silvana D'Ottone.  P. Universidad Católica de Chile.
+  
 - 2010\. *La voz en el texto dramático. Entonación de las palabras como recurso expresivo del actor*. López, M. J. Trabajo codirigido por Patricio Rodríguez Plaza (tutor) y Domingo Román Montes de Oca (cotutor). P. Universidad Católica de Chile.
 
 
