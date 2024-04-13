@@ -183,9 +183,9 @@ ______
 
 ## Participaciones en congreso
 ______
-- 2023. Haska, C. Román, D. Quezada, C. Análisis acústico del fonema “ch” en el habla chilena santiaguina. Sochil XXIII.
-- 2021. Pérez, Hernán; Daniela Osses y Domingo Román. Diseño, imple- mentación y validación de un script de Praat para medir el rendimiento diadococinético, XXXII Congreso internacional de AELFA-I, Barcelona, UIA (Universitat de les Illes Balears) 1, 2 y 3 de julio de 2021 en modalidad online.
-- 2020. Diana Muñoz-Builes, Magaly Ruiz-Mella, Rosa Catalán-Liempi, Do- mingo Román. Lenguas en contacto en Chile: la entonación en el mapudungun y el español de Chiloé, Intonation, Language Contact and Social Factors (ILCSF20), University of the Basque Country on October 23-24, 2020.
+- 2023\. Haska, C. Román, D. Quezada, C. Análisis acústico del fonema “ch” en el habla chilena santiaguina. Sochil XXIII.
+- 2021\. Pérez, Hernán; Daniela Osses y Domingo Román. Diseño, imple- mentación y validación de un script de Praat para medir el rendimiento diadococinético, XXXII Congreso internacional de AELFA-I, Barcelona, UIA (Universitat de les Illes Balears) 1, 2 y 3 de julio de 2021 en modalidad online.
+- 2020\. Diana Muñoz-Builes, Magaly Ruiz-Mella, Rosa Catalán-Liempi, Do- mingo Román. Lenguas en contacto en Chile: la entonación en el mapudungun y el español de Chiloé, Intonation, Language Contact and Social Factors (ILCSF20), University of the Basque Country on October 23-24, 2020.
 - 2018\. Mapa prosódico de Chile. Descripción fonética y fonológica del español hablado por chilenos. Segundo encuentro del seminario de prosodia. Instituto de Investigaciones Filológicas, UNAM, México DF. 1-5 de octubre
 - 2017\. Variedad y unidad en la prosodia chilena: El primer mapa prosódico de Chile. En el XXII Congreso Internacional de la Sociedad Chilena de LingüísticaUniversidad Católica del Maule, Talca,22-24 de noviembre.
 - 2017\. Tres muestras de prosodia rural femenina de Chile, Antofagasta, La Serena y Temuco. En el XXII Congreso Internacional de la Sociedad Chilena de LingüísticaUniversidad Católica del Maule, Talca,22-24 de noviembre. Universidad Católica del Maule, Talca,22-24 de noviembre.
