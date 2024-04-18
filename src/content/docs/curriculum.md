@@ -146,6 +146,7 @@ ______
 
 ### Artículos en revistas
 ______
+- Román, Domingo. (2023). [Golpe a la Universidad](https://analesliteraturachilena.letras.uc.cl/index.php/alch/article/view/71123/54817), Anales de Literatura Chilena, Pontificia Universidad Católica de Chile: 317-320.
 - Figueroa-Martínez, Fernanda; Pía Villanueva Bianchini; Domingo Román Montes de Oca. (2023). Simulación de niveles de hipernasalidad con actores entrenados: Una comunicación breve, *CEFAC* (Aceptado).
 - Haska, C.; Román, D.; Quezada, C. (aceptado para publicarse en 2025) Análisis acústico del fonema “ch” en el habla santiaguina. *Onomázein* 69DOI 10.7764/onomazein.69.02
 - Llanquimán, E. Román, D. Ortiz, H. (2023, aceptado) Alofonía del fonema fricativo /s/ codal en hablantes no profesionales de Santiago de Chile. *BFUCH*.
