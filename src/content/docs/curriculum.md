@@ -198,7 +198,7 @@ ______
 
 ### Trabajos distribuidos
 
-- Personas e individuos
+- [Personas e individuos](/personas_e_individuos.pdf)
   
 - El llamado lenguaje inclusivo y los profesores de castellano
 
