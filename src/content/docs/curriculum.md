@@ -196,10 +196,10 @@ ______
 
 - Román, D. (1991). "El octosílabo en el slogan publicitario", *RLA* [Concepción, Chile], Nº 29: 5-20.
 
-## Trabajos distribuidos
+### Trabajos distribuidos
 
 - [Personas e individuos](/public/personas_e_individuos.pdf)
-- 
+
 - El llamado lenguaje inclusivo y los profesores de castellano
 
 ## Participaciones en congreso
