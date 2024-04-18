@@ -198,7 +198,7 @@ ______
 
 ### Trabajos distribuidos
 
-- [Personas e individuos](/personas_e_individuos.pdf)
+- [2005. Personas e individuos](/personas_e_individuos.pdf)
   
 - [2022. El llamado lenguaje inclusivo y los profesores de castellano](el_llamado_lenguaje_inclusivo_y_el_profesor.pdf)
 
