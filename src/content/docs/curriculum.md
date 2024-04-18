@@ -13,7 +13,10 @@ Títulos obtenidos:
 
 Lugar de trabajo: [Universidad de Santiago de Chile](http://www.usach.cl/), [Facultad de Humanidades.](http://www.fahu.usach.cl/)
 
-Cargo: Académico / [Pedagogía en Castellano](http://linguisticayliteratura.usach.cl/pedagogia-en-castellano)
+Cargos: 
+- Académico / [Pedagogía en Castellano](http://linguisticayliteratura.usach.cl/pedagogia-en-castellano)
+- Director del programa [Magíster en Lingüística[(https://www.linguisticayliteratura.usach.cl/magister-en-linguistica) 
+       
 
 Dirección laboral:    Universidad de Santiago de Chile. Avenida Libertador Bernardo O'Higgins nº 3363. Estación Central. Santiago. Chile.
 
