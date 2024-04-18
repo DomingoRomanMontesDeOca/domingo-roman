@@ -198,7 +198,8 @@ ______
 
 ## Trabajos distribuidos
 
-- Personas e individuos 
+- [Personas e individuos]()
+- 
 - El llamado lenguaje inclusivo y los profesores de castellano
 
 ## Participaciones en congreso
