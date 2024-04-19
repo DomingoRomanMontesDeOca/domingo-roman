@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 8.0 Músca para fonetistas
+  label: 8.0 Música para fonetistas
   # Orden (Número más bajo aparece más arriba)
   order: 80
 ---
