@@ -43,7 +43,8 @@ ______
 
 - 2015\. *Evaluación de la eficacia de modelos experimentales para la reintegración política y social de adultos con experiencia de combate en el marco del conflicto armado colombiano*, Universidad del Rosario/Universidad de Medellín, Colombia.
 
-- 2012\. [La poética de los poetas populares. Tesis doctoral](https://diposit.ub.edu/dspace/handle/2445/42061). Dirección de Lourdes Romera. Universidad de Barcelona.
+- 2012\. [La poética de los poetas populares. Tesis doctoral](http://hdl.handle.net/2445/42061). Dirección de Lourdes Romera. Universidad de Barcelona.
+  
 - 2011\. UC.  *Descripción fonética de la simplificación de grupos consonánticos en niños con trastorno específico del lenguaje. Dos métodos para su estudio*. Investigador responsable. Coinvestigadores: Sandra Palma, María M. Pavez y Camilo Quezada. Letras UC.
 
 - 2008\. *Manual para el análisis fonético acústico del habla*. Pontificia Universidad Católica de Chile. Fondedoc, UC.
