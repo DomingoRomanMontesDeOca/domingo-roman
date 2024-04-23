@@ -11,7 +11,6 @@ sidebar:
 # 6.0 Cine recomendado
 
 Notas de Alexander Salinas Olivier,
-
 estudiante de Pedagogía en Castellano USACH.
 
 [La llegada](https://www.filmaffinity.com/cl/film420650.html) 
