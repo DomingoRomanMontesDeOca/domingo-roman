@@ -14,12 +14,13 @@ sidebar:
 
 [La llegada](https://www.filmaffinity.com/cl/film420650.html) 
 > (2016, Ciencia ficción/Misterio):
->¿Qué harías ante la llegada de extraterrestres? ¿Les dispararías sin pensarlo o les hablarías?
->Denis Villeneuve dirige una cinta que nos pone desde el punto de vista de una lingüista y un físico, quienes terminan conociendo y >aprendiendo una lengua desconocida por todos (una alienígena) prácticamente inentendible, pero hermosa y nos permite ver la belleza de >nuestro lenguaje (y de todos, en verdad).
+> ¿Qué harías ante la llegada de extraterrestres? ¿Les dispararías sin pensarlo o les hablarías?
+> Denis Villeneuve dirige una cinta que nos pone desde el punto de vista de una lingüista y un físico, quienes terminan conociendo y
+ aprendiendo una lengua desconocida por todos (una alienígena) prácticamente inentendible, pero hermosa y nos permite ver la belleza de >nuestro lenguaje (y de todos, en verdad).
 
->(Nota: es poco probable que terminen usando Praat y sus conocimientos como lingüistas para hablar con aliens).
+> (Nota: es poco probable que terminen usando Praat y sus conocimientos como lingüistas para hablar con aliens).
 
->"El lenguaje es el cimiento de la civilización, lo que une a un pueblo. Es la primera arma usada en un conflicto" (Louise Banks).
+> "El lenguaje es el cimiento de la civilización, lo que une a un pueblo. Es la primera arma usada en un conflicto" (Louise Banks).
 
 [My fair Lady](https://www.filmaffinity.com/cl/film317417.html)
 
