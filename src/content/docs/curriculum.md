@@ -156,7 +156,7 @@ ______
   
 - Haska, C.; Román, D.; Quezada, C. (aceptado para publicarse en 2025) Análisis acústico del fonema “ch” en el habla santiaguina. *Onomázein* 69DOI 10.7764/onomazein.69.02.
   
-- Llanquimán, E. Román, D. Ortiz, H. (2023) Alofonía del fonema fricativo /s/ codal en hablantes no profesionales de Santiago de Chile. *BFUCH*.
+- Llanquimán, E. Román, D. Ortiz, H. (2023) Alofonía del fonema fricativo /s/ codal en hablantes no profesionales de Santiago de Chile. *BFUCH*, [Vol. 58 Núm. 1: 375–394.](https://boletinfilologia.uchile.cl/index.php/BDF/article/view/71288)
   
 - Ossa, Daniela; Hernán Pérez, Domingo Román y Camilo Quezada. (2022) Diseño, implementación y validación de un script de Praat para medir el rendimiento diadococinético. *Revista de Logopedia*, Foniatría y Audiología.
   
