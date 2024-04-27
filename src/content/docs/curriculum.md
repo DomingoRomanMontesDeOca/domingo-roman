@@ -148,6 +148,8 @@ ______
 
 ### Artículos en revistas
 ______
+- Ortiz Lira, H. Leonardo Mena y Domingo Román. (2024). Alofonía de /s/ codal ante vocal y pausa en el habla de profesionales de Santiago y sus efectos en la resilabificación. Logos, 35, (2). [Aceptado]
+
 - Román, Domingo. (2023). [Golpe a la Universidad](https://analesliteraturachilena.letras.uc.cl/index.php/alch/article/view/71123/54817), Anales de Literatura Chilena, Pontificia Universidad Católica de Chile: 317-320.
   
 - Figueroa-Martínez, Fernanda; Pía Villanueva Bianchini; Domingo Román Montes de Oca. (2023). Simulación de niveles de hipernasalidad con actores entrenados: Una comunicación breve, *CEFAC* (Aceptado).
