@@ -149,12 +149,19 @@ ______
 ### Artículos en revistas
 ______
 - Román, Domingo. (2023). [Golpe a la Universidad](https://analesliteraturachilena.letras.uc.cl/index.php/alch/article/view/71123/54817), Anales de Literatura Chilena, Pontificia Universidad Católica de Chile: 317-320.
+  
 - Figueroa-Martínez, Fernanda; Pía Villanueva Bianchini; Domingo Román Montes de Oca. (2023). Simulación de niveles de hipernasalidad con actores entrenados: Una comunicación breve, *CEFAC* (Aceptado).
-- Haska, C.; Román, D.; Quezada, C. (aceptado para publicarse en 2025) Análisis acústico del fonema “ch” en el habla santiaguina. *Onomázein* 69DOI 10.7764/onomazein.69.02
-- Llanquimán, E. Román, D. Ortiz, H. (2023, aceptado) Alofonía del fonema fricativo /s/ codal en hablantes no profesionales de Santiago de Chile. *BFUCH*.
+  
+- Haska, C.; Román, D.; Quezada, C. (aceptado para publicarse en 2025) Análisis acústico del fonema “ch” en el habla santiaguina. *Onomázein* 69DOI 10.7764/onomazein.69.02.
+  
+- Llanquimán, E. Román, D. Ortiz, H. (2023) Alofonía del fonema fricativo /s/ codal en hablantes no profesionales de Santiago de Chile. *BFUCH*.
+  
 - Ossa, Daniela; Hernán Pérez, Domingo Román y Camilo Quezada. (2022) Diseño, implementación y validación de un script de Praat para medir el rendimiento diadococinético. *Revista de Logopedia*, Foniatría y Audiología.
-- Román, Domingo; D. Muñoz-Builes; C. Quezada y J. Atria (2020). Alcances y límites de  un mapa prosódico, *Onomázein* 20. Índices ISI, Scopus, DOAJ, MLA. 
+  
+- Román, Domingo; D. Muñoz-Builes; C. Quezada y J. Atria (2020). Alcances y límites de  un mapa prosódico, *Onomázein* 20. Índices ISI, Scopus, DOAJ, MLA.
+  
 - Román, Domingo; C. Quezada; L. Aguilera (2018). Duración de vocales idénticas en límite de palabras en español de Chile, *EFE* XXVII, pp 151-170. Indices: Scopus (Q2), Latindex. [Ver](http://stel.ub.edu/labfon/sites/default/files/XXVII-10_DRoman-separata_new.pdf).
+  
 - Muñoz, Diana; D. Ramos; D. Román; C. Quezada; H. Ortiz;  M. Ruiz y J. Atria (2017). El habla ascendente de Chiloé: primera aproximación, *Onomázein* 37. Índices: ISI, Scopus, DOAJ, MLA. ISSN: 0718-5758. [Ver](https://www.google.com/url?sa%253Dt%2526rct%253Dj%2526q%253D%2526esrc%253Ds%2526source%253Dweb%2526cd%253D1%2526ved%253D2ahUKEwilj_f7xs3fAhXFEpAKHfGtD14QFjAAegQICRAC%2526url%253Dhttp%253A%252F%252Fonomazein.letras.uc.cl%252FArticulos%252FN37%252F37_1-Mu%2525C3%2525B1oz.pdf%2526usg%253DAOvVaw3erXQ7RVLPa2ky-EnmodO8).
 
 - Robledo, Jp. 1,; E. Hurtado; F. Prado; D. Román y C. Cornejo. (2016).  Music intervals in speech: Psychological disposition modulates ratio precision among interlocutors’ nonlocal f0 production in real-time dyadic conversation,  *Psycology of Music*: 1-15. ISSN (web): 1741-3087, (impreso): 0305-7356, Factor de impacto: 2.010, Indice: ISI. [Ver](https://journals.sagepub.com/doi/abs/10.1177/0305735616634452?journalCode%253Dpoma).
@@ -208,38 +215,71 @@ ______
 ## Participaciones en congreso
 ______
 - 2023\. Haska, C. Román, D. Quezada, C. Análisis acústico del fonema “ch” en el habla chilena santiaguina. Sochil XXIII.
-- 2021\. Pérez, Hernán; Daniela Osses y Domingo Román. Diseño, imple- mentación y validación de un script de Praat para medir el rendimiento diadococinético, XXXII Congreso internacional de AELFA-I, Barcelona, UIA (Universitat de les Illes Balears) 1, 2 y 3 de julio de 2021 en modalidad online.
+  
+- 2021\. Pérez, Hernán; Daniela Osses y Domingo Román. Diseño, imple- mentación y validación de un script de Praat para medir el rendimiento diadococinético, XXXII Congreso internacional de AELFA-I, Barcelona, UIA (Universitat de les Illes Balears) 1, 2 y 3 de julio de 2021.
+  
 - 2020\. Diana Muñoz-Builes, Magaly Ruiz-Mella, Rosa Catalán-Liempi, Do- mingo Román. Lenguas en contacto en Chile: la entonación en el mapudungun y el español de Chiloé, Intonation, Language Contact and Social Factors (ILCSF20), University of the Basque Country on October 23-24, 2020.
-- 2018\. Mapa prosódico de Chile. Descripción fonética y fonológica del español hablado por chilenos. Segundo encuentro del seminario de prosodia. Instituto de Investigaciones Filológicas, UNAM, México DF. 1-5 de octubre
+  
+- 2018\. Mapa prosódico de Chile. Descripción fonética y fonológica del español hablado por chilenos. Segundo encuentro del seminario de prosodia. Instituto de Investigaciones Filológicas, UNAM, México DF. 1-5 de octubre.
+  
 - 2017\. Variedad y unidad en la prosodia chilena: El primer mapa prosódico de Chile. En el XXII Congreso Internacional de la Sociedad Chilena de LingüísticaUniversidad Católica del Maule, Talca,22-24 de noviembre.
+  
 - 2017\. Tres muestras de prosodia rural femenina de Chile, Antofagasta, La Serena y Temuco. En el XXII Congreso Internacional de la Sociedad Chilena de LingüísticaUniversidad Católica del Maule, Talca,22-24 de noviembre. Universidad Católica del Maule, Talca,22-24 de noviembre.
+  
 - 2017\. Rosa Catalán, Diana Muñoz y Domingo Román. La entonación del habla urbana masculina de Arica y Santiago de Chile. 25 al 28 de julio de 2017, JJL III Jornadas de Jóvenes Lingüistas, Instituto de Lingüística, Facultad de Filosofía y Letras, Universidad de Buenos Aires, Argentina.
-- 2016\. Domingo Román M., Rosa Catalán Liempi. Presentación del Mapa Prosódico de Chile. 19 y 20 de diciembre, Phonitec, Universidad de Sevilla
+  
+- 2016\. Domingo Román M., Rosa Catalán Liempi. Presentación del Mapa Prosódico de Chile. 19 y 20 de diciembre, Phonitec, Universidad de Sevilla.
+  
 - 2015\. Domingo Román M., Héctor Ortiz Lira, Camilo Quezada, Diana Muñoz, Dania Ramos, José Joaquín Atria. Avances en la construcción del primer mapa prosódico de Chile en el XXI Congreso Internacional de la Sociedad Chilena de Lingüística. Temuco: 25, 26 y 27 de noviembre, Universidad Católica de Temuco.
-- 2015\. Domingo Román M., Héctor Ortiz Lira, Camilo Quezada, Diana Muñoz, Dania Ramos, José Joaquín Atria, María del Saz. La entonación ascendente en el habla sureña en el XXI Congreso Internacional de la Sociedad Chilena de Lingüística. Temuco: 25, 26 y 27 de noviembre, Universidad Católica de Temuco
-- 2015\. Domingo Román M. y Rosa Catalán, Análisis acústico de diptongos en mapudungun en el XXI Congreso Internacional de la Sociedad Chilena de Lingüística. Temuco: 25, 26 y 27 de noviembre, Universidad Católica de Temuco
-- 2013\. Domingo Román M., Salvador Bagus, Duración de las vocales geminadas del español de Santiago de Chile en el Congreso internacional de la Sociedad Chilena de Lingüística: "Encuentros para difundir la investigación y la enseñanza de las ciencias del lenguaje", Universidad Católica de la Santísima Concepcion, Concepción, noviembre 27, 28 y 2
+  
+- 2015\. Domingo Román M., Héctor Ortiz Lira, Camilo Quezada, Diana Muñoz, Dania Ramos, José Joaquín Atria, María del Saz. La entonación ascendente en el habla sureña en el XXI Congreso Internacional de la Sociedad Chilena de Lingüística. Temuco: 25, 26 y 27 de noviembre, Universidad Católica de Temuco.
+  
+- 2015\. Domingo Román M. y Rosa Catalán, Análisis acústico de diptongos en mapudungun en el XXI Congreso Internacional de la Sociedad Chilena de Lingüística. Temuco: 25, 26 y 27 de noviembre, Universidad Católica de Temuco.
+  
+- 2013\. Domingo Román M., Salvador Bagus, Duración de las vocales geminadas del español de Santiago de Chile en el Congreso internacional de la Sociedad Chilena de Lingüística: "Encuentros para difundir la investigación y la enseñanza de las ciencias del lenguaje", Universidad Católica de la Santísima Concepcion, Concepción, noviembre.
+  
 - 2013\. Domingo Román, Camilo Quezada, Silvana Guerrero, Basthian Medina, Valentina Celedón. Estrategias verbales que expresan exclusión en colegios particulares de Santiago de Chile, en el Congreso internacional de la Sociedad Chilena de Lingüística: "Encuentros para difundir la investigación y la enseñanza de las ciencias del lenguaje", Universidad Católica de la Santísima Concepcion, Concepción, noviembre 27, 28 y 29.
-- 2013\. Domingo Román M.. Nueva propuesta de metodología de análisis en el marco AMPER, Workshop Jornada de Estudio de las inflexiones tonales. Metodología de análisis, Universitat de Barcelona, Barcelona, marzo 7.
+  
+- 2013\. Domingo Román M.. Nueva propuesta de metodología de análisis en el marco AMPER, Workshop Jornada de Estudio de las inflexiones tonales. Metodología de análisis, Universitat de Barcelona, Barcelona, marzo.
+
 - 2012\. Ana Ma. Fernández Planas (UB), Paolo Roseano (UB-UPF), Wendy Elvira García (UB), Josefina Carrera Sabaté (UB), Domingo Román Montes de Oca (Universidad Católica de Chile) i Eugenio Martínez Celdrán (UB). (2013). Impressions perceptives sobre dades del català, de l'ítalià i el sard en el marc de l 'Atles Multimédia de Prosòdia de l'Espaí Romànic, Workshop sobre la prosòdia  del català, Universitat Pompeu Fabra, Barcelona, Junio 17.
+  
 - 2012\. Wendy Elvira García (UB), Josefina Carrera Sabaté (UB), Ana Ma. Fernández Planas (UB), Paolo Roseano (UB-UPF), Domingo Román Montes de Oca (Universidad Católica de Chile) i Eugenio Martínez Celdrán (UB). (2013). El punt de vista perceptiu en el marc AMPER: impressions auditives d'oíents de Barcelona, Workshop sobre la prosòdia  del catalá, Universitat Pompeu Fabra, Barcelona, Junio 17.
-- 2012\. Domingo Román Montes de Oca. Aspectos básicos (y algunos no tanto) relacionados con el análisis de la melodía del habla, Workshop "V Jornadas Nacionales de Fonética "Humberto Valdivieso", Universidad de la Frontera, Santiago, junio 7 y 8. 
-- 2012\. Domingo Román Montes de Oca. Anàlisis prosòdico del sujeto de las frases del corpus fijo dle proyecto AMPER. Anàlisis de dos informantes de Santiago de Chile, Workshop "V Jornadas Nacionales de Fonètica "Humberto Valdivieso", ", Universidad de la frontera, Santiago, junio 7 y 8. 
-- 2012\. Domingo Román Montes de Oca. Nociones fonéticas relacionadas con la frecuencia fundamental, Workshop "Seminarios estudios de prosodia de Chile", Pontificia Universidad Católica de Chile, Santiago, mayo 25. 
-- 2012\. Domingo Román Montes de Oca. Avances y proyeccones del proyecto Amper, Workshop "Seminarios estudios de prosodia de Chile", Pontificia Universidad Católica de Chile, Santiago, mayo 25. 
+  
+- 2012\. Domingo Román Montes de Oca. Aspectos básicos (y algunos no tanto) relacionados con el análisis de la melodía del habla, Workshop "V Jornadas Nacionales de Fonética "Humberto Valdivieso", Universidad de la Frontera, Santiago, junio 7 y 8.
+  
+- 2012\. Domingo Román Montes de Oca. Anàlisis prosòdico del sujeto de las frases del corpus fijo dle proyecto AMPER. Anàlisis de dos informantes de Santiago de Chile, Workshop "V Jornadas Nacionales de Fonètica "Humberto Valdivieso", ", Universidad de la frontera, Santiago, junio 7 y 8.
+  
+- 2012\. Domingo Román Montes de Oca. Nociones fonéticas relacionadas con la frecuencia fundamental, Workshop "Seminarios estudios de prosodia de Chile", Pontificia Universidad Católica de Chile, Santiago, mayo 25.
+  
+- 2012\. Domingo Román Montes de Oca. Avances y proyeccones del proyecto Amper, Workshop "Seminarios estudios de prosodia de Chile", Pontificia Universidad Católica de Chile, Santiago, mayo 25.
+  
 - 2011\. Román, D.; V. Cofré; J. Silva; J. Pino; P. Oplustil. Avance del proyecto AMPER-Chile. Rasgos prosódicos del español de Chile, XIX Congreso de la Sociedad Chilena de Lingüística, UPLA, Valparaíso, noviembre, 9 al 11.
+  
 - 2011\. Román, D.; Quezada, C.; J. Atria; C. Rex y P. Oplustil. Percepción de la entonación de pregunta en el primero de dos grupos fónicos. XIX Congreso de la Sociedad Chilena de Lingüística, UPLA, Valparaíso, noviembre, 9 al 11.
+  
 - 2011\. Román, D.; M. M. Pavez; S. Palma. Simplificación de grupos consonánticos en niños con TEL, V Congreso Internacional de Fonética Experimental. Universidad de Extremadura, Cáceres, España, octubre 25 al 28.
+  
 - 2011\. Román, D.; V. Cofré; J. Silva; J. Pino; P. Oplustil. Rasgos Prosódicos del español de Santiago de Chile: comparación entre informantes femeninos y masculinos, V Congreso internacional de Fonética Experimental. Universidad de Extremadura, Cáceres, España, octubre 25 al 28.
+  
 - 2010\. Román, D. y V. Cofré. Prosodia de las afirmativas e interrogativas simples en informantes femeninos y masculinos, IV Jornadas internacionales del proyecto AMPER (IV Congreso de Fonética Experimental). Universidad de Sevilla, Sevilla, España, febrero 11 y 12.
+  
 - 2009\. Román, D.; V. Cofré; C. Quezada. Umbrales melódicos en la percepción de preguntas y respuestas, XVIII Congreso de la Sociedad Chilena de Lingüística, Universidad de Chile, Santiago.
+  
 - 2008\. Román, D. Implementación del Laboratorio De Fonética de La Facultad De Letras UC Terceras Jornadas de Fonética, Chile, Universidad de Concepción.
-- 2008\. Domingo Román Montes de Oca. Recursos para el análisis de la melodía del habla en Praat, Simposio 30 Aniversario Del Laboratori De Fonética De La Universitat De Barcelona, España, diciembre 3 - 5. 
+  
+- 2008\. Domingo Román Montes de Oca. Recursos para el análisis de la melodía del habla en Praat, Simposio 30 Aniversario Del Laboratori De Fonética De La Universitat De Barcelona, España, diciembre 3 - 5.
+  
 - 2008\. Román, D y V. Cofré. Prosodia Del Español De Chile En El Marco Del Proyecto Amper, III Congreso De Fonética Experimental, España, Granada,. Universidad de Granada, Granada, España.
+  
 - 2007\. Román, D. H. Lira, M. Fuentes y S. Castro. Entonación de los grupos fónicos interiores, XVII Congreso de la Sociedad Chilena de Lingüística, Universidad de Concepción.
+  
 - 2006\. Amper-Cat: Atles Multimedia De Prosodia De L Espai Romànic-Català Y Castellà A Catalunya VII Congrés de Lingüística General, Universidad de Barcelona.
+  
 - 2005\. Fernández P., A. M., E. Martínez C., D. Román. III Congreso de Fonética Experimental, España, Galicia, Una Caracterización de la Prosodia del Catalán de Lleida.
+  
 - 1999\. Domingo Román Montes de Oca. Propuesta para la enseñanza vivencial de la métrica española. Diseño de un curso de capacitación. Primeras Jornadas Nacionales de Fonética, Universidad de Concepción, Concepción, marzo 20 y 21.
+  
 - 1997\. Domingo Román Montes de Oca. Uso de las preposiciones de dirección en pacientes afásicos agramáticos. XII Congreso de la sociedad Chilena de Lingüística, Universidad de la Frontera, Temuco, octubre 8 y 1
 
 
@@ -257,9 +297,9 @@ ______
 
 ## Comités de revistas especializadas, evaluaciones de concursos de investigación
 
-- 2019\.      Miembro del Consejo Asesor de la revista *Semas*, Universidad Autónoma de Querétaro, México
+- 2019\.     Miembro del Consejo Asesor de la revista *Semas*, Universidad Autónoma de Querétaro, México
 
-- 2019\.      Evaluador de artículos *Revista Chilena de Fonoaudiología*, Universidad de Chile
+- 2019\.     Evaluador de artículos *Revista Chilena de Fonoaudiología*, Universidad de Chile
 
 - 2018\.     Integrante del Comité de Evaluadores del Programa Formación de Capital Humano Avanzado, Conicyt
 
