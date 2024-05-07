@@ -20,7 +20,7 @@ Un esquema como el siguiente muestra los puntos referidos.
 
 ![Esquema de los puntos articulatorios](/imagenes/puntos_articulaciones_esquema_v2.png)
 
-Imagen esquémática de estos puntos:
+Imagen esquemática de estos puntos:
 
 ![Imagen esquemática de puntos articulatorios](http://objetos.unam.mx/etimologias/consonantes/img/esquema/esquema_color.png)
 
