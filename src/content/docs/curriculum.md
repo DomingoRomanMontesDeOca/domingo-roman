@@ -158,7 +158,7 @@ ______
   
 - Llanquimán, E. Román, D. Ortiz, H. (2023) Alofonía del fonema fricativo /s/ codal en hablantes no profesionales de Santiago de Chile. *BFUCH*, [Vol. 58 Núm. 1: 375–394.](https://boletinfilologia.uchile.cl/index.php/BDF/article/view/71288)
   
-- Ossa, Daniela; Hernán Pérez, Domingo Román y Camilo Quezada. (2022) Diseño, implementación y validación de un script de Praat para medir el rendimiento diadococinético. *Revista de Logopedia*, Foniatría y Audiología.
+- Ossa, Daniela; Hernán Pérez, Domingo Román y Camilo Quezada. (2022) Diseño, implementación y validación de un script de Praat para medir el rendimiento diadococinético. *Revista de Logopedia, Foniatría y Audiología*. [Volume 43, Issue 2, April–June 2023, ISSN 0214-4603.](https://doi.org/10.1016/j.rlfa.2022.01.004)
   
 - Román, Domingo; D. Muñoz-Builes; C. Quezada y J. Atria (2020). Alcances y límites de  un mapa prosódico, *Onomázein* 20. Índices ISI, Scopus, DOAJ, MLA.
   
