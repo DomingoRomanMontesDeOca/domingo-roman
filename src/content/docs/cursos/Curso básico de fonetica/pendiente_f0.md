@@ -8,6 +8,6 @@ Si tomamos dos valores de frecuencia, podemos calcular la distancia en st entre 
 
 La fórmula para hacer el cálculo de st es 
 
-12*log2(f0Punto2/f0Punto1)
+      12*log2(frecuencia1/frecuencia2)
 
 
