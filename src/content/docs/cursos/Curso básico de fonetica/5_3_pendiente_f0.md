@@ -73,6 +73,10 @@ Están a la distancia temporal de 0.8 segundo. La diferencia en Hz entre ambos p
 
 El cálculo de la pendiente arroja el valor de 17.275  (13.82/(0.9-0.1)
 
+En el siguiente ejemplo, se trata de una pendiente descendente más pronunciada pues en menos tiempo se realiza una variación mayor de st.
+
+![Diferencia Hz](/imagenes/intro_distancia_pendiente_2.png)
+
 Es posible que sea conveniente aplicar una amplificación numérica para efectos de dar mayor legibilidad al valor de la pendiente.
 
 
