@@ -65,7 +65,7 @@ La fórmula para su cálculo es la siguiente:
 
 Lo que este valor señala es la velocidad del cambio tonal, aspecto que parece relevante para descripciones fonéticas de variado tipo, entre otras, las dialectales o las de registro.
 
-![intro_pendiente_st.png](/imagenes/esquema_coclea.png)
+![Diferencia Hz](/imagenes/intro_pendiente_st.png)
 
 Es posible que sea conveniente aplicar una amplificación numérica para efectos de dar mayor legibilidad al valor de la pendiente.
 
