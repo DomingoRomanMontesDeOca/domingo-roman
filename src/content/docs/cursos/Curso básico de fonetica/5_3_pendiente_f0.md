@@ -77,8 +77,6 @@ En el siguiente ejemplo, se trata de una pendiente descendente más pronunciada 
 
 ![Diferencia Hz](/imagenes/intro_distancia_pendiente_2.png)
 
-Es posible que sea conveniente aplicar una amplificación numérica para efectos de dar mayor legibilidad al valor de la pendiente.
-
 
 ## Pendiente de un enunciado
 
@@ -87,6 +85,8 @@ La pendiente de un enunciado da una información general sobre el mismo. Una pen
 Una variación positiva significa que hay un final más alto que el inicio (como puede sueceder en el habla ascendente) y, a la inversa, una emisión con declinación típica tendrá variación negativa, es decir un final más bajo que el inicio.
 
 Una decisión del investigador es dónde tomar los valores iniciales y finales. Una posibilidad con ventajas para la automatización de resultados es la detección automática del primer y último valor de f0. Otra posibilidad es tomar valores en la primera y última vocal (dado que son los elementos principales en términos de información prosódica).
+
+
 
 
 ## Pendiente del tonema
