@@ -43,5 +43,6 @@ La creación de un tono se hace muy sencilla usando los programas editores de so
 Escuchar una onda simple es escuchar una sola frecuencia. Es lo que sucede cuando escuchamos un diapasón, normalmente de 440 Hz y que se usa para afinar voces e instrumentos en eventos musicales. En este caso, el tono será equivalente a un LA.
 
 El tono de 440 Hz suena así:
+
 <audio controls src="/sonidos/440.mp3"></audio>
 
