@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 99.0 Percepción de la melodía de la voz
+  label: 5.3 Percepción de la melodía de la voz
   # Orden (Número más bajo aparece más arriba)
   order: 900
 ---
