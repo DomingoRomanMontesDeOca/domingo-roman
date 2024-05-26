@@ -1,3 +1,15 @@
+---
+# El título es obligatorio para que la página funcione
+title: Curso básico de fonética
+# Configuracion de la barra de navegación
+sidebar:
+  # Nombre
+  label: 99.0 Percepción de la melodía de la voz
+  # Orden (Número más bajo aparece más arriba)
+  order: 900
+---
+
+
 # Percepción de la melodía de la voz
 
 La f0 se considera el parámetro acústico correlato de la melodía percibida de la voz y de la actividad de los pliegues vocales. Como se trata de un valor frecuencial, la unidad de medida son los Hz que representan bien el aspecto acústico y la actividad glotal pero no la percepción melódica.
