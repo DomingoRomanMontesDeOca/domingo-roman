@@ -10,7 +10,7 @@ sidebar:
 ---
 
 
-# Percepción de la melodía de la voz
+## Percepción de la melodía de la voz
 
 La f0 se considera el parámetro acústico correlato de la melodía percibida de la voz y de la actividad de los pliegues vocales. Como se trata de un valor frecuencial, la unidad de medida son los Hz que representan bien el aspecto acústico y la actividad glotal pero no la percepción melódica.
 
@@ -38,22 +38,22 @@ El punto de partida para un análisis melódico es la información en Hz pero se
 
 En fonética de la entonación hay varias categorías analíticas, ya consagradas, que tienen relevancia para las descripciones.
 
-# Estilización
+## Estilización
 
 Sin duda una de las posibilidades más interesantes para el investigador consiste en la simplificación de los valores de la curva de f0 a una más simple que no considere las variaciones microprosódicas que no superen el umbral perceptivo ya sea de 1.5 o de 2.0 st. La estilización da como resultado una curva en la que se puede apreciar perfectamente bien (aunque a veces requiere correcciones según el algoritmo que se utilice) los movimientos perceptivos del tono.
 
 
-# Rango entre máximo y mínimo
+## Rango entre máximo y mínimo
 
 El valor mínimo y el valor máximo en Hz se pueden entender como una diferencia en st que va a decir cuál es el rango tonal o el espectro entonacional en que se mueve un hablante.
 
 
-# Declinación
+## Declinación
 
 Desde el punto de partida de una emisión hacia el final hay un movimiento que en general, para expresiones declarativas, es descendente. Tanto los mínimos como los máximos descienden a lo largo del enunciado y, con ello, la línea media de la f0.
 
 
-# Propuesta: la pendiente
+## Propuesta: la pendiente
 
 Entre dos puntos relevantes del análisis se puede establecer el valor de la pendiente entendida como el número de semitonos que desciende (pendiente negativa) o asciende (pendiente positiva) por segundo.
 
