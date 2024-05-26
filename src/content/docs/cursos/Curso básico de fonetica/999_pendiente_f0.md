@@ -6,7 +6,7 @@ sidebar:
   # Nombre
   label: 5.3 Percepción de la melodía de la voz
   # Orden (Número más bajo aparece más arriba)
-  order: 900
+  order: 25
 ---
 
 
