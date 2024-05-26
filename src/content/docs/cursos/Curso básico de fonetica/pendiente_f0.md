@@ -39,6 +39,7 @@ Entre dos puntos relevantes del análisis se puede establecer el valor de la pen
 
 La fórmula para su cálculo es la siguiente:
 
+
    pendiente = diferencia en st entre dos puntos / tiempo entre los dos puntos
 
 
