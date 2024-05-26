@@ -43,3 +43,33 @@ La fórmula para su cálculo es la siguiente:
       pendiente = diferencia en st entre dos puntos / tiempo entre los dos puntos
 
 
+Lo que este valor señala es la velocidad del cambio tonal, aspecto que parece relevante para descripciones fonéticas de variado tipo, entre otras, las dialectales o las de registro.
+
+Es posible que sea conveniente aplicar una amplificación numérica para efectos de dar mayor legibilidad al valor de la pendiente.
+
+
+## Pendiente de un enunciado
+
+La pendiente de un enunciado da una información general sobre el mismo. Una pendiente de valor 0 muestra nula diferencia entre valor inicial y valor final.
+
+Una variación positiva significa que hay un final más alto que el inicio (como puede sueceder en el habla ascendente) y, a la inversa, una emisión con declinación típica tendrá variación negativa, es decir un final más bajo que el inicio.
+
+Una decisión del investigador es dónde tomar los valores iniciales y finales. Una posibilidad con ventajas para la automatización de resultados es la detección automática del primer y último valor de f0. Otra posibilidad es tomar valores en la primera y última vocal (dado que son los elementos principales en términos de información prosódica).
+
+
+## Pendiente del tonema
+
+El tonema se ha consderado como la variación tonal entre la última vocal de un grupo fónico (terminología de TNT) y el final del mismo. La pendiente del tonema puede ser especialmente relevante para distinguir modalidades dialectales o de registro.
+
+Se debe aplicar la misma fórmula para el valor en Hz en el centro de la última vocal del grupo fónico y el último rastro de la f0 en el mismo grupo.
+
+
+
+# Referencias
+
+t'Hart A perceptual...
+
+TNT
+
+
+
