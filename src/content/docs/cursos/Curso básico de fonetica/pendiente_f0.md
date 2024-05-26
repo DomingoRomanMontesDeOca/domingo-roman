@@ -3,7 +3,15 @@
 La f0 se considera el parámetro acústico correlato de la melodía percibida de la voz y de la actividad de los pliegues vocales. Como se trata de un valor frecuencial, la unidad de medida son los Hz que representan bien el aspecto acústico y la actividad glotal pero no la percepción melódica.
 
 
-Mientras que la periodicidad de la señal en el oscilograma es una buena representación del valor puro en Hz y de la velocidad de la actividad de los pliegues vocales, la melodía de la voz tiene una propiedad especial: *es logarítmica, no lineal*. Es decir, 100 Hz de diferencia entre dos frecuencias no tienen el mismo *efecto* si se dan entre 200 y 300 o entre 2000 y 2100. En ambos casos la diferencia es de 100 Hz pero el efecto *melódico* es muy diferente.
+Mientras que la periodicidad de la señal en el oscilograma es una buena representación del valor puro en Hz y de la velocidad de la actividad de los pliegues vocales, la melodía de la voz tiene una propiedad especial: *es logarítmica, no lineal*. Es decir, 100 Hz de diferencia entre dos frecuencias no tienen el mismo *efecto* si se dan entre 100 y 200 o entre 2000 y 2100. En ambos casos la diferencia es de 100 Hz pero el efecto *melódico* es muy diferente.
+
+Esta es la diferencia entre dos tonos de 100 Hz y 200 Hz:
+
+<audio controls src="/sonidos/100_200.mp3"></audio>
+
+Esta, la diferencia entre dos tonos de 2000 y 2100 Hz:
+
+<audio controls src="/sonidos/2000_2100.mp3"></audio>
 
 
 La unidad de medida más adecuada para efectos de la percepción de la f0 son los semitonos. Un st es una unidad perceptiva de variación de la f0. Para el habla, se ha establecido que entre 1,5 st y 2 st como la mínima diferencia perceptible.
