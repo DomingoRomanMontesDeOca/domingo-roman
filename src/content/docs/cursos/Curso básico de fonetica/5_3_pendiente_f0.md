@@ -67,6 +67,12 @@ Lo que este valor señala es la velocidad del cambio tonal, aspecto que parece r
 
 ![Diferencia Hz](/imagenes/intro_distancia_pendiente.png)
 
+En el ejemplo anterior, el punto 1 se encuentra en la posición 0.1 con una frecuencia de 200 Hz y el punto final en la posición 0.9, con un valor en Hz de 90.
+
+Están a la distancia temporal de 0.8 segundo. La diferencia en Hz entre ambos puntos es de 110 Hz que en esas frecuencias es 13.82 st.
+
+El cálculo de la pendiente arroja el valor de 17.275  (13.82/(0.9-0.1)
+
 Es posible que sea conveniente aplicar una amplificación numérica para efectos de dar mayor legibilidad al valor de la pendiente.
 
 
