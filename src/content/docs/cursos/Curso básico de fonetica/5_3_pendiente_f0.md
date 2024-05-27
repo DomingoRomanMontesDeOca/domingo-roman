@@ -96,7 +96,7 @@ El tonema se ha consderado como la variación tonal entre la última vocal de un
 
 Se debe aplicar la misma fórmula para el valor en Hz en el centro de la última vocal del grupo fónico y el último rastro de la f0 en el mismo grupo.
 
-![Pendiente en el tonema](/imagenes/pendiente_leen_el_libro_los_lideres_tonema.png)
+![Pendiente en el tonema](/imagenes/pendiente_leen_el_libro_los_lideres_tonema_01.png)
 
 ### Referencias
 
