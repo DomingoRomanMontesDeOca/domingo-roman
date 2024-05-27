@@ -98,6 +98,12 @@ Se debe aplicar la misma fórmula para el valor en Hz en el centro de la última
 
 ![Pendiente en el tonema](/imagenes/pendiente_leen_el_libro_los_lideres_tonema_01.png)
 
+Un acercamiento a la imagen anterior es la siguiente:
+
+![Pendiente en el tonema](/imagenes/delmundo_tonema.png)
+
+En este tonema, la diferencia en Hz entre inicio (177.95 Hz) y final (136.52) es de 41.4 Hz, los st entre ambos puntos es de 4.58 Hz y el tiempo entre ambos puntos es de 0.6 s. Con ello, la pendiente del tonema es de 7.62 st por segundo.
+
 ### Referencias
 
 t'Hart A perceptual...
