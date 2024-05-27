@@ -42,8 +42,7 @@ En fonética de la entonación hay varias categorías analíticas, ya consagrada
 
 Sin duda una de las posibilidades más interesantes para el investigador consiste en la simplificación de los valores de la curva de f0 a una más simple que no considere las variaciones microprosódicas que no superen el umbral perceptivo ya sea de 1.5 o de 2.0 st. La estilización da como resultado una curva en la que se puede apreciar perfectamente bien (aunque a veces requiere correcciones según el algoritmo que se utilice) los movimientos perceptivos del tono.
 
-La siguiente figura muestra una curva estilizada automáticamente mediante la rutina de Praat *Manipulation > Stylize pitch (2 st)*
-
+La siguiente figura muestra una curva estilizada automáticamente mediante la rutina de Praat *Manipulation > Stylize pitch (2 st)*. Se muestra en gris la curva con valores de f0 sin estilizar y en línea roja segmentada la línea estilizada.
 
 ![Curva de f0 natural y estilizada](/imagenes/estilizada_leenellibroloslideres.png)
 
