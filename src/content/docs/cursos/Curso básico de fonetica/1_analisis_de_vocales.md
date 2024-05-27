@@ -14,3 +14,7 @@ sidebar:
 ## Punto de vista articulatorio
 
 Desde el punto de vista articulatorio, las vocales son producciones que se realizan con la mínima obstrucción de los articuladores; es decir, en su producción, la cavidad oral está bastante abierta.
+
+Las vocales se pueden distinguir por el grado de apertura de la cavidad oral: así, la vocal "a" es la que tiene el grado máximo de apertura o, lo que es lo mismo, la lengua está más baja. Las vocales "i" y "u" son las vocales que se producen con la lengua más alta (o la cavidad oral más cerrada). Las vocales "e" y "o" tienen un grado intermedio de apertura o de cierre.
+
+
