@@ -17,4 +17,6 @@ Desde el punto de vista articulatorio, las vocales son producciones que se reali
 
 Las vocales se pueden distinguir por el grado de apertura de la cavidad oral: así, la vocal "a" es la que tiene el grado máximo de apertura o, lo que es lo mismo, la lengua está más baja. Las vocales "i" y "u" son las vocales que se producen con la lengua más alta (o la cavidad oral más cerrada). Las vocales "e" y "o" tienen un grado intermedio de apertura o de cierre.
 
+![Grados de apertura o cierre de las vocales](/imagenes/apertura_vocalica-grados.png)
+
 
