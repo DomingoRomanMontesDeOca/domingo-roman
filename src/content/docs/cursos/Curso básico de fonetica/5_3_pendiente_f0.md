@@ -86,8 +86,9 @@ Una variación positiva significa que hay un final más alto que el inicio (como
 
 Una decisión del investigador es dónde tomar los valores iniciales y finales. Una posibilidad con ventajas para la automatización de resultados es la detección automática del primer y último valor de f0. Otra posibilidad es tomar valores en la primera y última vocal (dado que son los elementos principales en términos de información prosódica).
 
+![Pendiente en un enunciado](/imagenes/pendiente_leen_el_libro_los_lideres.png)
 
-
+En el ejemplo de la figura anterior, se obtiene una pendiente de -2.87 st por segundo.
 
 ### Pendiente del tonema
 
