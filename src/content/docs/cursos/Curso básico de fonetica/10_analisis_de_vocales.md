@@ -6,9 +6,9 @@ sidebar:
   # Nombre
   label: 10 vocales
   # Orden (Número más bajo aparece más arriba)
-  order: 30
+  order: 50
 ---
-# 6.0 Análisis de vocales
+# 10. Análisis de vocales
 
 
 ## Punto de vista articulatorio
