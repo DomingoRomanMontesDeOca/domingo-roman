@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 1. El aspecto acústico
+  label: 01. El aspecto acústico
   # Orden (Número más bajo aparece más arriba)
   order: 1
 ---
