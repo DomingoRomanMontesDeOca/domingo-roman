@@ -10,8 +10,9 @@ sidebar:
 ---
 # 10. Análisis de vocales
 
-
 ## Punto de vista articulatorio
+
+### Aspecto general
 
 Desde el punto de vista articulatorio, las vocales son producciones que se realizan con la mínima obstrucción de los articuladores; es decir, en su producción, la cavidad oral está bastante abierta.
 
@@ -35,7 +36,37 @@ Las vocales "a", "e" y "o" se pueden clasificar como abiertas. Especialmente la 
 
 Las vocales "i" y "u", en cambio, se clasifican como *vocales cerradas* o *vocales altas*.
 
-Por otro lado, las vocales "e" e "i" se articulan hacia la zona palatal, es decir, son *anteriores* o *palatales* en tanto que las vocales "o" y "u" se articulan hacia la zona del velo del paladar, es decir, son *vocales velares* o "vocales anteriores*
+Por otro lado, las vocales "e" e "i" se articulan hacia la zona palatal, es decir, son *anteriores* o *palatales* en tanto que las vocales "o" y "u" se articulan hacia la zona del velo del paladar, es decir, son *vocales velares* o "vocales posteriores*.
+
+Los símbolos fonológicos que se utilizan para hacer estas descripciones son /a e i o u /. En los símbolos fonéticos tenemos, entre otros [ a e i o u ]. Estos últimos son los que se utilizan para transcribir las vocales en contextos en que no están nasalizadas y, para el casos de las vocales cerradas, cuando no forman diptongo.
+
+
+### Cuestiones específicas
+
+#### vocales nasalizadas
+
+Existen algunas situaciones particulares de vocales en contextos en que se nasalizan. En español hablamos de vocales orales (no nasales) que se nasalizan en ciertos contextos. En otras lenguas, hay vocales nasales como fonemas diferentes de los orales. Así ocurre en portugués, donde decimos que son *fonemas* diferentes. En español en cambio, son *variantes* o *alófonos* del fonema.
+
+Las vocales nasalizadas las transcribimos fonéticamente como [ ã ẽ ĩ õ ũ ]. Este fenómeno de la nasalización de las vocales orales se produce cuando una vocal se encuentra entre consonantes nasales ("eme", "ene", "eñe"). Por ejemplo, 
+
+      "Mi mano no teme nada"
+      
+      /mi mano no teme nada/
+      
+      [mĩ 'mãnõ no ' t̪emẽ 'nað̞a]
+
+Los símbolos diacríticos debajo de la "t" y de la "d", además del símbolo empleado para esta consonante, se revisan más adelante.
+
+También se nasalizan las vocales en inicio absoluto, es decir, después de una pausa o al inicio del enunciado cuando el enunciado comienza por una vocal y le sigue una consonantes nasal.
+
+      "Anda bastante"
+      
+      /'aNda bas'taNte/
+      
+      [ˈãn̪d̪a β̞asˈt̪an̪t̪e]
+
+
+#### Vocales en diptongo
 
 
 
