@@ -24,3 +24,7 @@ Por otra parte, las vocales tienen especificidades por el grado de adelantamient
 ![Grados de apertura o cierre de las vocales](/imagenes/posicion_lengua_vocales_ant-post.png)
 
 Eso es lo que está esquemáticamente mostrado en el esquema anterior.
+
+Los dos esquemas anteriores se pueden observar agrupados de tal modo de combinar los dos criterios: anterioridad-posterioridad y apertura-cierre.
+
+
