@@ -84,8 +84,8 @@ Las condiciones necesarias para se pueda producir una secuencia tautosilábica s
 
               Por ejemplo: "guau", "Paraguay" ("guau", "Pa-ra-guay"
 
-      
-Las condiciones que impiden el diptongo son
+    
+Las condiciones que impiden el diptongo, es decir, que generan secuencias heterosilábicas, son:
 
       Que en la secuencia vocal cerrada + vocal abierta la vocal cerrada sea tónica
 
