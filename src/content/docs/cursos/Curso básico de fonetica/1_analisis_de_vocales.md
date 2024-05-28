@@ -68,5 +68,7 @@ También se nasalizan las vocales en inicio absoluto, es decir, después de una 
 
 #### Vocales en diptongo
 
+(Pendiente)
+
 
 
