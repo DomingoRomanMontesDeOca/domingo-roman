@@ -30,3 +30,12 @@ Los dos esquemas anteriores se pueden observar agrupados de tal modo de combinar
 ![Esquema de las vocales](/imagenes/esquema_vocales_palatales_velares.png)
 
 El esquema anterior es una descripción simplificada de las vocales del español, cercano a lo que sería una descripción fonológica.
+
+Las vocales "a", "e" y "o" se pueden clasificar como abiertas. Especialmente la "a", que es la más abierta de todas. Las vocales "e" y "o" aparecen en algunos textos como *semiabiertas*. Desde el punto de vista más general, se pueden entender como una categoría, la de *vocales abiertas* o, según la posición de la mandíbula o de la lengua, *vocales bajas*.
+
+Las vocales "i" y "u", en cambio, se clasifican como *vocales cerradas* o *vocales altas*.
+
+Por otro lado, las vocales "e" e "i" se articulan hacia la zona palatal, es decir, son *anteriores* o *palatales* en tanto que las vocales "o" y "u" se articulan hacia la zona del velo del paladar, es decir, son *vocales velares* o "vocales anteriores*
+
+
+
