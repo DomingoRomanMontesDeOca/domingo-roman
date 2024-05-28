@@ -59,11 +59,7 @@ Los símbolos diacríticos debajo de la "t" y de la "d", además del símbolo em
 
 También se nasalizan las vocales en inicio absoluto, es decir, después de una pausa o al inicio del enunciado cuando el enunciado comienza por una vocal y le sigue una consonantes nasal.
 
-      "Anda bastante"
-      
-      /'aNda bas'taNte/
-      
-      [ˈãn̪d̪a β̞asˈt̪an̪t̪e]
+          "Anda bastante"       /'aNda bas'taNte/        [ˈãn̪d̪a β̞asˈt̪an̪t̪e]
 
 
 #### Vocales contiguas
@@ -74,23 +70,23 @@ Las condiciones necesarias para se pueda producir una secuencia tautosilábica s
 
       Que exista una vocal abierta y una vocal cerrada átona (en cualquier orden).
 
-              Por ejemplo: "caigo", "fueron" ("cai-go", "fue-ron")
+              Por ejemplo: "caigo", "fueron" ("cai-go" /ˈkaiɡo/  [ˈkai̯ɣ̞o],  "fue-ron" /ˈfueɾoN/ [ˈfweɾon])
 
       Que sean dos vocales cerradas 
 
-              Por ejemplo: "fuimos", "siútico" ("fui-mos", "siú-ti-co"
+              Por ejemplo: "fuimos", "siútico" ("fui-mos" /ˈfuimos/ [ˈfwimos], "siú-ti-co" /'siutiko/ [ˈsjut̪iko])
 
       Que haya secuencia de vocal cerrada + abierta + cerrada
 
-              Por ejemplo: "guau", "Paraguay" ("guau", "Pa-ra-guay"
+              Por ejemplo: "guau", "Paraguay" ("guau" /'guau/  [ˈgwau̯],   "Pa-ra-guay"  /paɾaˈguai/  [paɾaˈgwai̯])
 
     
 Las condiciones que impiden el diptongo, es decir, que generan secuencias heterosilábicas, son:
 
       Que en la secuencia vocal cerrada + vocal abierta la vocal cerrada sea tónica
 
-              Por ejemplo, "caía" ("ca-í-a")
+              Por ejemplo, "caía" ("ca-í-a" /ka'ia/  [ka'ia])
 
       Que se trate de dos vocales abiertas
 
-              Por ejemplo, "trae" ("tra-e")
+              Por ejemplo, "trae" ("tra-e" /ˈtɾae/ [ˈtɾae])
