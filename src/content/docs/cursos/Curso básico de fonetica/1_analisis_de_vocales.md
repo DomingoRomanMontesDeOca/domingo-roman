@@ -66,9 +66,22 @@ También se nasalizan las vocales en inicio absoluto, es decir, después de una 
       [ˈãn̪d̪a β̞asˈt̪an̪t̪e]
 
 
-#### Vocales en diptongo
+#### Vocales contiguas
 
-(Pendiente)
+Dos o más vocales contiguas pueden formar secuencias *tautosilábicas* (en la misma sílaba) o *heterosilábicas* (en sílabas diferentes).
 
+Las condiciones necesarias para se pueda producir una secuencia tautosilábica son las siguientes:
 
+      Que exista una vocal abierta y una vocal cerrada átona (en cualquier ordes).
 
+              Por ejemplo: "caigo", "fueron"
+
+      Que sean dos vocales cerradas 
+
+              Por ejemplo: "fuimos", "siútico"
+
+      Que haya secuencia de vocal cerrada + abierta + cerrada
+
+              Por ejemplo: "guau", "Paraguay"
+
+      
