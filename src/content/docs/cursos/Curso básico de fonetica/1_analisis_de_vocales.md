@@ -72,16 +72,25 @@ Dos o más vocales contiguas pueden formar secuencias *tautosilábicas* (en la m
 
 Las condiciones necesarias para se pueda producir una secuencia tautosilábica son las siguientes:
 
-      Que exista una vocal abierta y una vocal cerrada átona (en cualquier ordes).
+      Que exista una vocal abierta y una vocal cerrada átona (en cualquier orden).
 
-              Por ejemplo: "caigo", "fueron"
+              Por ejemplo: "caigo", "fueron" ("cai-go", "fue-ron")
 
       Que sean dos vocales cerradas 
 
-              Por ejemplo: "fuimos", "siútico"
+              Por ejemplo: "fuimos", "siútico" ("fui-mos", "siú-ti-co"
 
       Que haya secuencia de vocal cerrada + abierta + cerrada
 
-              Por ejemplo: "guau", "Paraguay"
+              Por ejemplo: "guau", "Paraguay" ("guau", "Pa-ra-guay"
 
       
+Las condiciones que impiden el diptongo son
+
+      Que en la secuencia vocal cerrada + vocal abierta la vocal cerrada sea tónica
+
+              Por ejemplo, "caía" ("ca-í-a")
+
+      Que se trate de dos vocales abiertas
+
+              Por ejemplo, "trae" ("tra-e")
