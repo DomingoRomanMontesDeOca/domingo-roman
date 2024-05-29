@@ -8,7 +8,7 @@ sidebar:
   # Orden (Número más bajo aparece más arriba)
   order: 50
 ---
-# 10. Análisis articulatorio y simbología para la transcripción de vocales
+# 10. Vocales: articulación y simbología
 
 ## Aspecto general
 
