@@ -14,6 +14,10 @@ sidebar:
 
 Desde el punto de vista articulatorio, las vocales son producciones que se realizan con la mínima obstrucción de los articuladores; es decir, en su producción, la cavidad oral está bastante abierta.
 
+Además, son sonoras. Es decir, en su producción hay actividad de los pliegues vocálicos. Lo anterior significa que en la *laringe* (también llamada *organo fonador*) se produce un sonido que se modifica en las cavidades supraglóticas especialmente con el movimiento de la lengua y la actividad del velo del paladar. 
+
+> El sonido resultante (lo que producimos y lo que percibimos) es entonces el sonido laríngeo más la modificación de los articuladores.
+
 ## Clasificación
 
 Las vocales se pueden distinguir por el grado de apertura de la cavidad oral: así, la vocal "a" es la que tiene el grado máximo de apertura o, lo que es lo mismo, la lengua está más baja. Las vocales "i" y "u" son las vocales que se producen con la lengua más alta (o la cavidad oral más cerrada). Las vocales "e" y "o" tienen un grado intermedio de apertura o de cierre.
