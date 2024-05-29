@@ -14,10 +14,7 @@ Las vocales se articulan con vibración de los pliegues vocales; por lo tanto, l
 
 En la imagen siguiente, se han marcado tanto vocales (v) y consonantes (c).
 
-[Oscilograma con vocales y consonantes](/imagenes/oscilograma_tier_cv_mefuemalenelksamen.png)
-
-
-
+![Oscilograma con vocales y consonantes](/imagenes/oscilograma_tier_cv_mefuemalenelksamen.png)
 
 Por tratarse de articulaciones más abiertas (en relación con las consonantes) la forma de la onda tendrá, comparativamente, mayor amplitud (que la de las consonantes).
 
