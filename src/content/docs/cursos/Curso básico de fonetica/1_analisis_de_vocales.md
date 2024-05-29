@@ -91,10 +91,9 @@ Las condiciones que impiden el diptongo, es decir, que generan secuencias hetero
 
               Por ejemplo, "trae" ("tra-e" /ˈtɾae/ [ˈtɾae])
 
-Cuadro resumen
+###Cuadro resumen
 
 | Fonemas | Alófonos orales | Alófonos nasalizados | Alófonos no nucleares|
-| | | anteriores| posteriores|
 | ----------- | ----------- | ----------- | ----------- |
 |  / a /  | [ a ] | [ ã ] |
 |  / e /  | [ e ] | [ ẽ ] |
