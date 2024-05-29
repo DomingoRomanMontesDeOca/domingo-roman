@@ -95,8 +95,12 @@ Cuadro resumen
 
 | Fonemas | Alófonos orales | Alófonos nasalizados | Alófonos no nucleares|
 | ----------- | ----------- | ----------- | ----------- |
-|  / a /  | [ a] | [ a ] |
-|  / e /  | [ e ] | [ e ]
+
+|  / a /  | [ a ] | [ a ] |
+|  / e /  | [ e ] | [ e ] |
+|  / i /  | [ i ] | [ i ] | [ j ] | [ i̯ ] |
+|  / o /  | [ o ] | [ o ] |
+|  / u /  | [ u ] | [ u ] | [ w ] | [ u̯ ] |
 
 
 
