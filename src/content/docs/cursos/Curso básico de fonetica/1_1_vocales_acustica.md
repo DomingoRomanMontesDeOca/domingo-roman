@@ -12,6 +12,9 @@ sidebar:
 
 Las vocales se articulan con vibración de los pliegues vocales; por lo tanto, la señal que se escucha y que se produce tendrá la forma de una onda periódica compleja. Esto implica que son sonidos portadores de información tonal o melódica. Así, es posible distinguir claramente una vocal de una consonante fricativa sorda, tal como / f s x / ("ese", "efe" o "jota"). También es visible la diferencia con las consonantes oclusivas sordas, como / p t k /.
 
+En la imagen siguiente, se han marcado tanto vocales (v) y consonantes (c).
+
+[Oscilograma con vocales y consonantes](/images/oscilograma_tier_cv_mefuemalenelksamen.png)
 
 
 
