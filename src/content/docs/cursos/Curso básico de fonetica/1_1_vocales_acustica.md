@@ -1,0 +1,17 @@
+---
+# El título es obligatorio para que la página funcione
+title: Curso básico de fonética
+# Configuracion de la barra de navegación
+sidebar:
+  # Nombre
+  label: 11 acústica de las vocales
+  # Orden (Número más bajo aparece más arriba)
+  order: 55
+---
+# 11. Vocales: acústica
+
+Las vocales se articulan con vibración de los pliegues vocales; por lo tanto, la señal que se escucha y que se produce tendrá la forma de una onda periódica compleja. Esto implica que son sonidos portadores de información tonal o melódica.
+
+Por tratarse de articulaciones más abiertas (en relación con las consonantes) la forma de la onda tendrá, comparativamente, mayor amplitud (que la de las consonantes).
+
+
