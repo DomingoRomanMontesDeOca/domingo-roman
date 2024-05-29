@@ -16,6 +16,7 @@ sidebar:
 
 Desde el punto de vista articulatorio, las vocales son producciones que se realizan con la mínima obstrucción de los articuladores; es decir, en su producción, la cavidad oral está bastante abierta.
 
+### Clasificación
 Las vocales se pueden distinguir por el grado de apertura de la cavidad oral: así, la vocal "a" es la que tiene el grado máximo de apertura o, lo que es lo mismo, la lengua está más baja. Las vocales "i" y "u" son las vocales que se producen con la lengua más alta (o la cavidad oral más cerrada). Las vocales "e" y "o" tienen un grado intermedio de apertura o de cierre.
 
 ![Grados de apertura o cierre de las vocales](/imagenes/apertura_vocalica_grados.png)
@@ -41,9 +42,7 @@ Por otro lado, las vocales "e" e "i" se articulan hacia la zona palatal, es deci
 Los símbolos fonológicos que se utilizan para hacer estas descripciones son /a e i o u /. En los símbolos fonéticos tenemos, entre otros [ a e i o u ]. Estos últimos son los que se utilizan para transcribir las vocales en contextos en que no están nasalizadas y, para el casos de las vocales cerradas, cuando no forman diptongo.
 
 
-### Cuestiones específicas
-
-#### vocales nasalizadas
+### vocales nasalizadas
 
 Existen algunas situaciones particulares de vocales en contextos en que se nasalizan. En español hablamos de vocales orales (no nasales) que se nasalizan en ciertos contextos. En otras lenguas, hay vocales nasales como fonemas diferentes de los orales. Así ocurre en portugués, donde decimos que son *fonemas* diferentes. En español en cambio, son *variantes* o *alófonos* del fonema.
 
@@ -62,7 +61,7 @@ También se nasalizan las vocales en inicio absoluto, es decir, después de una 
           "Anda bastante"       /'aNda bas'taNte/        [ˈãn̪d̪a β̞asˈt̪an̪t̪e]
 
 
-#### Vocales contiguas
+### Vocales contiguas
 
 Dos o más vocales contiguas pueden formar secuencias *tautosilábicas* (en la misma sílaba) o *heterosilábicas* (en sílabas diferentes).
 
