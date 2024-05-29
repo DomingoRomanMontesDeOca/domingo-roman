@@ -12,7 +12,7 @@ sidebar:
 
 Las vocales se articulan con vibración de los pliegues vocales; por lo tanto, la señal que se escucha y que se produce tendrá la forma de una onda periódica compleja.
 
-![Acercamiento al oscilograma de vocal](/imagenes/dos_ciclos_de_vocal.png)
+![Acercamiento al oscilograma de una vocal](/imagenes/dos_ciclos_de_vocal.png)
 
 Se señalan en la imagen anterior dos ciclos para que se aprecie la periodicidad de la señal.
 
