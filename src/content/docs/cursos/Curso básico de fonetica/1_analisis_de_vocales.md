@@ -22,19 +22,19 @@ Las vocales se pueden distinguir por el grado de apertura de la cavidad oral: as
 |---------|
 |![Grados de apertura o cierre de las vocales](/imagenes/apertura_vocalica_grados.png)|
 
-
-
-
-
 Por otra parte, las vocales tienen especificidades por el grado de adelantamiento o retroceso de la lengua. Así, se tienen vocales palatales ("i", "e"), central ("a") y velares ("o", "u").
 
-![Grados de adelantamiento de las vocales](/imagenes/posicion_lengua_vocales_ant-post.png)
+|Posición anterior-posterior de la lengua|
+|---------|
+|![Grados de adelantamiento de las vocales](/imagenes/posicion_lengua_vocales_ant-post.png)|
 
 Eso es lo que está esquemáticamente mostrado en el esquema anterior.
 
 Los dos esquemas anteriores se pueden observar agrupados de tal modo de combinar los dos criterios: anterioridad-posterioridad y apertura-cierre.
 
-![Esquema de las vocales](/imagenes/esquema_vocales_palatales_velares.png)
+|Esquema articulatorio de las vocales|
+|---------|
+![Esquema de las vocales](/imagenes/esquema_vocales_palatales_velares.png)|
 
 El esquema anterior es una descripción simplificada de las vocales del español, cercano a lo que sería una descripción fonológica.
 
