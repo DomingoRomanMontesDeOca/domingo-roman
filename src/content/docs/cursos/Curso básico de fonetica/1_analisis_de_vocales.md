@@ -32,7 +32,7 @@ Los dos esquemas anteriores se pueden observar agrupados de tal modo de combinar
 
 El esquema anterior es una descripción simplificada de las vocales del español, cercano a lo que sería una descripción fonológica.
 
-Las vocales "a", "e" y "o" se pueden clasificar como abiertas. Especialmente la "a", que es la más abierta de todas. Las vocales "e" y "o" aparecen en algunos textos como *semiabiertas*. Desde el punto de vista más general, se pueden entender como una categoría, la de *vocales abiertas* o, según la posición de la mandíbula o de la lengua, *vocales bajas*.
+Las vocales "a", "e" y "o" se pueden clasificar como abiertas. Especialmente la "a", que es la más abierta de todas. Las vocales "e" y "o" aparecen en algunos textos como *semiabiertas*. Desde un punto de vista más general, se puede entender como una categoría, la de *vocales abiertas* o, según la posición de la mandíbula o de la lengua, *vocales bajas*.
 
 Las vocales "i" y "u", en cambio, se clasifican como *vocales cerradas* o *vocales altas*.
 
@@ -90,3 +90,25 @@ Las condiciones que impiden el diptongo, es decir, que generan secuencias hetero
       Que se trate de dos vocales abiertas
 
               Por ejemplo, "trae" ("tra-e" /ˈtɾae/ [ˈtɾae])
+
+Cuadro resumen
+
+fonemas  alófonos
+
+
+Esto es una tabla:
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+
+
+
+
+
+
+
+
+
