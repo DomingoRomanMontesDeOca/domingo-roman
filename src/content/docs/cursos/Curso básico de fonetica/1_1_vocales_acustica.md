@@ -14,6 +14,8 @@ Las vocales se articulan con vibración de los pliegues vocales; por lo tanto, l
 
 ![Oscilograma de vocal-consonante-vocal](/imagenes/vocal_consonante_vocal.png)
 
+La imagen superior tiene una secuencia de vocal + una fricativa sorda + vocal.
+
 
 También es visible la diferencia con las consonantes oclusivas sordas, como / p t k /.
 
