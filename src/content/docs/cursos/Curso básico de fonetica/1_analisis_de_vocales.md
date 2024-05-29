@@ -97,9 +97,9 @@ fonemas  alófonos
 
 
 Esto es una tabla:
-| Fonemas | Alófonos |
+| Fonemas | Alófonos orales | Alófonos nasalizados | Alófonos no nucleares\
 | ----------- | ----------- |
-| Header | Title |
+|  / a /  | Title |
 | Paragraph | Text |
 
 
