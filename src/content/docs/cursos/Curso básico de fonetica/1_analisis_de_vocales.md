@@ -93,14 +93,10 @@ Las condiciones que impiden el diptongo, es decir, que generan secuencias hetero
 
 Cuadro resumen
 
-fonemas  alófonos
-
-
-Esto es una tabla:
-| Fonemas | Alófonos orales | Alófonos nasalizados | Alófonos no nucleares\
-| ----------- | ----------- |
-|  / a /  | Title |
-| Paragraph | Text |
+| Fonemas | Alófonos orales | Alófonos nasalizados | Alófonos no nucleares|
+| ----------- | ----------- | ----------- | ----------- |
+|  / a /  | [ a] | [ a ] |
+|  / e /  | [ e ] | [ e ]
 
 
 
