@@ -97,7 +97,7 @@ fonemas  alófonos
 
 
 Esto es una tabla:
-| Syntax | Description |
+| Fonemas | Alófonos |
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
