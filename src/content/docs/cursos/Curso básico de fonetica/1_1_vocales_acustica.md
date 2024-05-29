@@ -10,8 +10,14 @@ sidebar:
 ---
 # 11. Vocales: acústica
 
-Las vocales se articulan con vibración de los pliegues vocales; por lo tanto, la señal que se escucha y que se produce tendrá la forma de una onda periódica compleja. Esto implica que son sonidos portadores de información tonal o melódica.
+Las vocales se articulan con vibración de los pliegues vocales; por lo tanto, la señal que se escucha y que se produce tendrá la forma de una onda periódica compleja. Esto implica que son sonidos portadores de información tonal o melódica. Así, es posible distinguir claramente una vocal de una consonante fricativa sorda, tal como / f s x / ("ese", "efe" o "jota"). También es visible la diferencia con las consonantes oclusivas sordas, como / p t k /.
+
+
+
+
 
 Por tratarse de articulaciones más abiertas (en relación con las consonantes) la forma de la onda tendrá, comparativamente, mayor amplitud (que la de las consonantes).
+
+
 
 
