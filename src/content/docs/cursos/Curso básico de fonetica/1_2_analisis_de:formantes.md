@@ -30,7 +30,13 @@ En la siguiente imagen, se muestra el gráfico LPC superpuesto a los espectros a
 
 Como se puede observar, con la técnica LPC se obtiene un centro frecuencial muy preciso. De izquierda a derecha podemos ver ... puntos en que se observa un centro frecuencial. Esos centros frecuenciales tienen dos propiedades relevantes: el valor del centro mismo y el ancho de banda.
 
-En el siguiente gráfico, 
+En los siguientes dos gráficos, se destaca el centro frecuencial de cada centro detectado por el análisis LPC. En el de la izquierda, se presenta la intensidad (vertical) y la frecuencia (horizontal). En el de la derecha la frecuencia está en el eje vertical. La intensidad no se representa. Sí se representa el momento en que el LPC fue realizado. En efecto, el eje x representa el tiempo.
+
+[pronto]
+
+Cada centro es centro de lo que se denomina *formante* (estas concentraciones de energía cuyo centro se señala). Los formantes se numeran (Formante 1, Formante 2, Formante 3, etc.) desde las bajas frecuencias hasta las altas.
+
+[pronto]
 
 
 
