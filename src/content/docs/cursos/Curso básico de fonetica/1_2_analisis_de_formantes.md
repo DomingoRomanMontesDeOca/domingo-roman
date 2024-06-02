@@ -14,7 +14,7 @@ Una señal acústica que corresponde a una vocal se puede analizar de manera muy
 
 Dados dos espectros (uno de banda estrecha y el otro de banda ancha) como los siguientes (superpuestos) de una misma señal
 
-[pronto]
+![Espectros de banda ancha y estrecha supuerpuestos](/imagenes/espectros_vocales_ancho_estre_superpuestos.png)
 
 es posible detectar varios centros frecuenciales en aquellas bandas de frecuencia en que hay una concentración de energía.
 
