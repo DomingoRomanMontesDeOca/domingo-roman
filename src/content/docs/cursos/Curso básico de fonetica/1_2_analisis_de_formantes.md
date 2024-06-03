@@ -35,9 +35,9 @@ En el siguiente gráfico aparecen destacados los centros frecuenciales detectado
 ![Espectros supuerpuestos con marcas en centros lpc](/imagenes/espectros_superpuestos_mas_lpc_marcado.png)
 
 
-En el siguientes gráficos, se destaca el centro frecuencial de cada centro detectado por el análisis LPC. Se representan valores relacionado con la intensidad (vertical) y con la frecuencia (horizontal).
+En el siguiente gráfico, se destaca el centro frecuencial de cada centro detectado por el análisis LPC. Se representan valores relacionado con la intensidad (vertical) y con la frecuencia (horizontal).
 
-![LPC y centros frecuenciales](/imagenes/lpc_marcados_centros.png)
+![LPC con centros frecuenciales marcados](/imagenes/lpc_marcados_centros.png)
 
 Cada centro es el centro frecuencial de lo que se denomina *formante* (estas concentraciones de energía de mayor relieve detectadas por el análisis LPC). Los formantes se numeran (Formante 1, Formante 2, Formante 3, etc.) desde las bajas frecuencias hasta las altas.
 
