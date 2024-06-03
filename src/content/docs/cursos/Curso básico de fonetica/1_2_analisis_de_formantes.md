@@ -49,7 +49,9 @@ Cada centro es el centro frecuencial de lo que se denomina *formante* (estas con
 
 ![LPC con números de formantes](/imagenes/lpc_f1f2f3.png)
 
-El gráfico siguiente muestra solo los puntos marcados en el anterior. Se prescinde de la curva que conforma el análisis LPC. Solo se consideran los centros frecuenciales de los formantes. La representación, además, indicará el momento temporal en que se hizo el análisis LPC. En otras palabras, en el eje *x* tendremos el tiempo y en el eje *y* la frecuencia.
+El gráfico siguiente muestra solo los puntos marcados en el anterior. Se prescinde de la curva que conforma el análisis LPC. Solo se consideran los centros frecuenciales de los formantes. La representación, además, indicará el momento temporal en que se hizo el análisis LPC. En otras palabras, en el eje *x* tendremos el tiempo y en el eje *y* la frecuencia. Dado que el eje *x* representa el tiempo, se muestra también el oscilograma y se debe entender que son gráficos sincrónicos.
+
+![Oscilograma y formantes en el punto 0.1 s](/imagenes/oscilograma_y_puntos_lpc_01.png)
 
 
 
