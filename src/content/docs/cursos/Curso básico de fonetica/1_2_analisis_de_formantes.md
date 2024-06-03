@@ -41,7 +41,7 @@ En el siguiente gráfico, se destaca el centro frecuencial de cada centro detect
 
 Cada centro es el centro frecuencial de lo que se denomina *formante* (estas concentraciones de energía de mayor relieve detectadas por el análisis LPC). Los formantes se numeran (Formante 1, Formante 2, Formante 3, etc.) desde las bajas frecuencias hasta las altas.
 
-[pronto]
+![LPC con números de formantes](/imagenes/lpc_f1f2f3.png)
 
 
 
