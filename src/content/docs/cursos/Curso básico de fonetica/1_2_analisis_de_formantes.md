@@ -30,7 +30,8 @@ En la siguiente imagen, se muestra el gráfico LPC superpuesto a los espectros a
 
 Como se puede observar, con la técnica LPC se obtiene un centro frecuencial muy preciso. De izquierda a derecha podemos ver tres puntos en que se observa un centro frecuencial. Esos centros frecuenciales tienen dos propiedades relevantes: el valor del centro mismo y el ancho de banda (para ambas mediciones se usa el Hz). Se observa además que la coincidencia no es exacta entre el gráfico LPC y los dos espectros.
 
-En el siguiente gráfico aparecen destacados los centros detectados por el análisis LPC:
+En el siguiente gráfico aparecen destacados los centros frecuenciales detectados por el análisis LPC:
+
 ![Espectros supuerpuestos con marcas en centros lpc](/imagenes/espectros_superpuestos_mas_lpc_marcado.png)
 
 
