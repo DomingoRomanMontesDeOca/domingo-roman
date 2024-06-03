@@ -12,6 +12,12 @@ sidebar:
 
 Una señal acústica que corresponde a una vocal se puede analizar de manera muy interesante y productiva con la categoría de los *formantes*.
 
+La imagen siguiente, presenta el oscilograma de una señal. Se han marcado dos puntos en los que se harán los análisis que aquí se presentan.
+
+![Oscilograma para el análisis](/imagenes/oscilograma_para_lpc.png)
+
+Además, la zona en gris corresponde a la ventana temporal que se usará para hacer los análisis. Es una ventana corta pues se hará un análisis a partir de un espectro de banda ancha.
+
 Dados dos espectros (uno de banda estrecha y el otro de banda ancha) como los siguientes (superpuestos) de una misma señal
 
 ![Espectros de banda ancha y estrecha supuerpuestos](/imagenes/espectros_vocales_ancho_estre_superpuestos.png)
@@ -42,6 +48,9 @@ En el siguiente gráfico, se destaca el centro frecuencial de cada centro detect
 Cada centro es el centro frecuencial de lo que se denomina *formante* (estas concentraciones de energía de mayor relieve detectadas por el análisis LPC). Los formantes se numeran (Formante 1, Formante 2, Formante 3, etc.) desde las bajas frecuencias hasta las altas.
 
 ![LPC con números de formantes](/imagenes/lpc_f1f2f3.png)
+
+El gráfico siguiente muestra solo los puntos marcados en el anterior. Se prescinde de la curva que conforma el análisis LPC. Solo se consideran los centros frecuenciales de los formantes. La representación, además, indicará el momento temporal en que se hizo el análisis LPC. En otras palabras, en el eje *x* tendremos el tiempo y en el eje *y* la frecuencia.
+
 
 
 
