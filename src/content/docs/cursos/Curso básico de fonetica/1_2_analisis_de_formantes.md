@@ -20,7 +20,7 @@ es posible detectar varios centros frecuenciales en aquellas bandas de frecuenci
 
 Esos centros posibles estarían más o menos en las partes que se muestran ahora:
 
-[pronto]
+![Espectros supuerpuestos con marcas en centros frecuenciales](/imagenes/espectros_superpuestos_centros_frecuenciales_marcados.png)
 
 Existe una técnica que permite encontrar con precisión esos centros. Se trata de la técnica llamada *LPC* (*linear predictive coding*). 
 
