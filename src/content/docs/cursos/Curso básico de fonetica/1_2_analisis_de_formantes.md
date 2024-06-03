@@ -16,7 +16,7 @@ La imagen siguiente, presenta el oscilograma de una señal. Se han marcado dos p
 
 ![Oscilograma para el análisis](/imagenes/oscilograma_para_lpc.png)
 
-Además, la zona en gris corresponde a la ventana temporal que se usará para hacer los análisis. Es una ventana corta pues se hará un análisis a partir de un espectro de banda ancha.
+Además, la zona en gris corresponde a la ventana temporal que se usará para hacer los análisis finales de esta sección. Es una ventana corta pues para la obtención de los formantes se hará un análisis a partir de un espectro de banda ancha.
 
 Dados dos espectros (uno de banda estrecha y el otro de banda ancha) como los siguientes (superpuestos) de una misma señal
 
