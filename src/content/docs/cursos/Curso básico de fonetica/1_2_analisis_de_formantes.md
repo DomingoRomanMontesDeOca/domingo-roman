@@ -26,7 +26,7 @@ Existe una técnica que permite encontrar con precisión esos centros. Se trata 
 
 En la siguiente imagen, se muestra el gráfico LPC superpuesto a los espectros anteriores.
 
-[pronto]
+![Espectros supuerpuestos con marcas en centros frecuenciales](/imagenes/espectros_superpuestos_mas_lpc.png)
 
 Como se puede observar, con la técnica LPC se obtiene un centro frecuencial muy preciso. De izquierda a derecha podemos ver ... puntos en que se observa un centro frecuencial. Esos centros frecuenciales tienen dos propiedades relevantes: el valor del centro mismo y el ancho de banda.
 
