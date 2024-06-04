@@ -25,7 +25,7 @@ Para ejemplificar el uso de esta herramienta, se presentan los valores de vocale
 |i|240.75|2841.7|
 |e|501.75|2292|
 |a|661.5|1156.4|
-|o|501.75|967.5|
+|o|510.75|967.5|
 |u|249.75|630|
 
 Ahora se presentan los valores tal como se verían en una pista de formantes si estos valores correspondieran a los de una emisión.
