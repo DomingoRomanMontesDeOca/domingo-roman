@@ -32,4 +32,4 @@ Para ejemplificar el uso de esta herramienta, se presentan los valores de vocale
 
 
 
-[^1]:Quilis, A. y Esgueva, M. (1983). Realización de los fonemas vocálicos españoles en posición fonética normal. En M. Esgueva y M. Cantarero (Eds.), Estudios de fonética I (pp. 137–252). Consejo Superior de Investigaciones Científicas.
+[^1]:Quilis, A. y Esgueva, M. (1983). Realización de los fonemas vocálicos españoles en posición fonética normal. En M. Esgueva y M. Cantarero (Eds.), *Estudios de fonética I* (pp. 137–252). Consejo Superior de Investigaciones Científicas.
