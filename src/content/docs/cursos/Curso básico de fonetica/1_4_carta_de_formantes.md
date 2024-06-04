@@ -18,6 +18,8 @@ Esta carta tiene una particularidad y es que los valores en los ejes se encuentr
 
 Al disponer los valores de esta particular manera se produce una muy buena expresión de la relación que hay entre los valores de los formantes y la articulación de las vocales.
 
+Para ejemplificar el uso de esta herramienta, se presentan los valores de vocales hispanas femeninas promedio entre seis informantes, tal como lo presentaron los autores Quilis, A. y Esgueva, M. (1983)[^1]
+
 |vocal|F1|F2|
 |----|--|---|
 |i|240.75|2841.7|
@@ -25,3 +27,9 @@ Al disponer los valores de esta particular manera se produce una muy buena expre
 |a|661.5|1156.4|
 |o|501.75|967.5|
 |u|249.75|630|
+
+
+
+
+
+[^1]:Quilis, A. y Esgueva, M. (1983). Realización de los fonemas vocálicos españoles en posición fonética normal. En M. Esgueva y M. Cantarero (Eds.), Estudios de fonética I (pp. 137–252). Consejo Superior de Investigaciones Científicas.
