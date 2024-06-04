@@ -59,9 +59,9 @@ Las vocales nasalizadas las transcribimos fonéticamente como [ ã ẽ ĩ õ ũ 
 
       "Mi mano no teme nada"
       
-      /mi mano no teme nada/
+      /mi 'mano 'no 'teme 'nada/
       
-      [mĩ 'mãnõ no ' t̪emẽ 'nað̞a]
+      [mĩ 'mãnõ 'no 't̪emẽ 'nað̞a]
 
 Los símbolos diacríticos debajo de la "t" y de la "d", además del símbolo empleado para esta consonante, se revisan más adelante.
 
