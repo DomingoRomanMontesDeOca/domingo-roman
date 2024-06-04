@@ -28,6 +28,8 @@ Para ejemplificar el uso de esta herramienta, se presentan los valores de vocale
 |o|501.75|967.5|
 |u|249.75|630|
 
+Ahora se presentan los valores tal como se verían en una pista de formantes si estos valores correspondieran a los de una emisión.
+
 
 
 
