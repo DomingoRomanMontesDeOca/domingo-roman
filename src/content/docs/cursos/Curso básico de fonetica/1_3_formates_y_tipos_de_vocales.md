@@ -20,7 +20,7 @@ Así, las vocales cerradas i/u tienen un formante 1 bajo en tanto que la vocal m
 
 Las vocales palatales i/e tienen un F2 alto y las vocales posteriores o/u un F2 bajo. La frecuencia del F2 desciende en la medida en que la posición de la lengua es más velar.
 
-Un esquema simplificado de los formantes vocálicos vistos a través del tiempo es el siguiente:
+Un esquema simplificado de los formantes vocálicos para cada vocal es el siguiente:
 
 ![Esquema de los formantes](/imagenes/esquema_formantes_tiempo.png)
 
