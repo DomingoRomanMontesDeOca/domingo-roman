@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 13 formantes
+  label: 13 formantes y tipos vocales
   # Orden (Número más bajo aparece más arriba)
   order: 58
 ---
