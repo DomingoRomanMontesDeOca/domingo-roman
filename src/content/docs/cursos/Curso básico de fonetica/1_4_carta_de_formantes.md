@@ -19,7 +19,7 @@ Esta carta tiene una particularidad y es que los valores en los ejes se encuentr
 Al disponer los valores de esta particular manera se produce una muy buena expresión de la relación que hay entre los valores de los formantes y la articulación de las vocales.
 
 |vocal|F1|F2|
-|----|--|---|---|
+|----|--|---|
 |i|240.75|2841.7|
 |e|501.75|2292|
 |a|661.5|1156.4|
