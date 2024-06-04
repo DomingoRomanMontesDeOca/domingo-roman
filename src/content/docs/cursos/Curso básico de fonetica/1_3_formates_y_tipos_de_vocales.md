@@ -22,6 +22,6 @@ Las vocales palatales i/e tienen un F2 alto y las vocales posteriores o/u un F2 
 
 Un esquema simplificado de los formantes vocálicos vistos a través del tiempo es el siguiente:
 
-![Esquema de los formantes](esquema_formantes_tiempo.png)
+![Esquema de los formantes](/imagenes/esquema_formantes_tiempo.png)
 
 
