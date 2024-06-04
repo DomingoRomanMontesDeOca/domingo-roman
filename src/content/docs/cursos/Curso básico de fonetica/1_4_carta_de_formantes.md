@@ -12,5 +12,7 @@ sidebar:
 
 Una representación muy interesantes de los valores de los formantes es la llamada *carta de formantes*. En la carta de formantes se disponen los valores de F1 y F2 en un espacio de dos dimensiones como el que se presenta en la figura siguiente:
 
+![Carta de formantes vacía](/imagenes/carta_de_formantes_vacia.png)
+
 
 
