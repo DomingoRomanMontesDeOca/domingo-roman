@@ -16,3 +16,12 @@ Una representación muy interesantes de los valores de los formantes es la llama
 
 Esta carta tiene una particularidad y es que los valores en los ejes se encuentran invertidos (los más bajos están en la parte superior en el eje *y* y los más bajos en el eje *x* se encuentran a la derecha).
 
+Al disponer los valores de esta particular manera se produce una muy buena expresión de la relación que hay entre los valores de los formantes y la articulación de las vocales.
+
+|vocal|F1|F2|
+-------------
+|i|240.75|2841.7|
+|e|501.75|2292|
+|a|661.5|1156.4|
+|o|501.75|967.5|
+|u|249.75|630|
