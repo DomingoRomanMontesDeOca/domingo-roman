@@ -30,13 +30,13 @@ Para ejemplificar el uso de esta herramienta, se presentan los valores de vocale
 
 Ahora se presentan los valores tal como se verían en una pista de formantes si estos valores correspondieran a los de una emisión.
 
-
 ![Pista de formantes (simulada)](/imagenes/pista_formantes_vocales_quilis_esgueva1983.png)
-
 
 Y, en seguida, se ofrece la presentación de los mismos valores en una carta de formantes.
 
 ![Carta de formantes para Quilis y Esgueva (1983)](/imagenes/carta_formantes_voc_valores_quilis_esgueva1983.png)
+
+Es especialmente importante relacionar el gráfico de la pista de formantes con la carta de formantes. Son representaciones deferentes de los mismos valores considerados en un punto temporal.
 
 
 [^1]:Quilis, A. y Esgueva, M. (1983). Realización de los fonemas vocálicos españoles en posición fonética normal. En M. Esgueva y M. Cantarero (Eds.), *Estudios de fonética I* (pp. 137–252). Consejo Superior de Investigaciones Científicas.
