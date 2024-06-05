@@ -36,7 +36,7 @@ Y, en seguida, se ofrece la presentación de los mismos valores en una carta de 
 
 ![Carta de formantes para los valores de Quilis y Esgueva (1983)](/imagenes/carta_formantes_voc_valores_quilis_esgueva1983.png)
 
-Es especialmente importante relacionar el gráfico de la pista de formantes con la carta de formantes. Son representaciones deferentes de los mismos valores considerados en un punto temporal.
+Es especialmente importante relacionar el gráfico de la pista de formantes con la carta de formantes. Son representaciones diferentes de los valores considerados en un punto temporal de cada vocal en la pista de formantes.
 
 
 [^1]:Quilis, A. y Esgueva, M. (1983). Realización de los fonemas vocálicos españoles en posición fonética normal. En M. Esgueva y M. Cantarero (Eds.), *Estudios de fonética I* (pp. 137–252). Consejo Superior de Investigaciones Científicas.
