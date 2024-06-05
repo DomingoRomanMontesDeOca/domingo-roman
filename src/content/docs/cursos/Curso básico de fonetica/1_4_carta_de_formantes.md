@@ -44,6 +44,7 @@ En un estudio de habla peruana, el autor presenta el gráfico siguiente[^2]:
 
 ![](https://congresosdelalengua.es/img/valparaiso/graficos/perez01.gif)
 
+Cada punto marcado en la carta corresponde a una emisión de una vocal y sus valores de F1 y F2.
 
 
 [^1]:Quilis, A. y Esgueva, M. (1983). Realización de los fonemas vocálicos españoles en posición fonética normal. En M. Esgueva y M. Cantarero (Eds.), *Estudios de fonética I* (pp. 137–252). Consejo Superior de Investigaciones Científicas.
