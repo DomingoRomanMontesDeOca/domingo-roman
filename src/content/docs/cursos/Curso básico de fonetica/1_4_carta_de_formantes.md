@@ -40,7 +40,9 @@ Es especialmente importante relacionar el gráfico de la pista de formantes con 
 
 Los valores presentados en la carta de formantes son valores promedios. En la carta de formantes se pueden presentar también los valores de cada caso. Cuando eso es así, se produce una nube de datos (sobre los cuales se puede calcular el promedio y la desviación estándar, entre otras medidas).
 
+En un estudio de habla peruana, el autor presenta el gráfico siguiente:
 
+![](https://congresosdelalengua.es/img/valparaiso/graficos/perez01.gif)
 
 
 
