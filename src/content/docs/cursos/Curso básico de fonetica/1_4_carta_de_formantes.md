@@ -38,5 +38,10 @@ Y, en seguida, se ofrece la presentación de los mismos valores en una carta de 
 
 Es especialmente importante relacionar el gráfico de la pista de formantes con la carta de formantes. Son representaciones diferentes de los valores considerados en un punto temporal de cada vocal en la pista de formantes.
 
+Los valores presentados en la carta de formantes son valores promedios. En la carta de formantes se pueden presentar también los valores de cada caso. Cuando eso es así, se produce una nube de datos (sobre los cuales se puede calcular el promedio y la desviación estándar, entre otras medidas).
+
+
+
+
 
 [^1]:Quilis, A. y Esgueva, M. (1983). Realización de los fonemas vocálicos españoles en posición fonética normal. En M. Esgueva y M. Cantarero (Eds.), *Estudios de fonética I* (pp. 137–252). Consejo Superior de Investigaciones Científicas.
