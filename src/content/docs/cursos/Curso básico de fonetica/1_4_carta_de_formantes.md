@@ -34,7 +34,7 @@ Ahora se presentan los valores tal como se verían en una pista de formantes si 
 
 Y, en seguida, se ofrece la presentación de los mismos valores en una carta de formantes.
 
-![Carta de formantes para Quilis y Esgueva (1983)](/imagenes/carta_formantes_voc_valores_quilis_esgueva1983.png)
+![Carta de formantes para los valores de Quilis y Esgueva (1983)](/imagenes/carta_formantes_voc_valores_quilis_esgueva1983.png)
 
 Es especialmente importante relacionar el gráfico de la pista de formantes con la carta de formantes. Son representaciones deferentes de los mismos valores considerados en un punto temporal.
 
