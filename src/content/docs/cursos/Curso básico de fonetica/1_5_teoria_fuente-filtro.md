@@ -10,6 +10,9 @@ sidebar:
 ---
 # 15. El modelo fuente-filtro
 
+
+[en construcción]
+
 Se ha señalado que en la producción de las vocales intervienen activamente los pliegues vocales. Es decir, se encuentran en vibración, tal como se señaló en [enlace]. Esta propiedad hace que se trate de sonidos sonoros. Además de ser sonoros, tienen evidentemente una modulación final en las cavidades supraglóticas.
 
 Un experimento mental, un poco cruel pero muy ilustrativo, es el siguiente:
@@ -47,6 +50,17 @@ El experimento a la inversa consiste en conservar los gestos articulatorios de l
 En términos teóricos, este modelo se llama *fuente-filtro* porque se tiene la fuente de un sonido periódico indiferenciado y un filtro que amplifica ciertas frecuencias. Esto es, la actividad de los pliegues vocales y las disposiciones supraglotales.
 
 Desde el punto de vista acústico, la onda del tono glotal tiene una forma que se denomina de *dientes de sierra*.
+
+Una onda simulada (como la de los sonidos presentados anteriormente) tiene una forma como esta:
+
+[onda dientes de sierra]
+
+El espectro de banda estrecha de una onda como esta tiene una propiedad: las frecuencias disminuyen su intensidad en la medida en que aumenta su frecuencia.
+
+[espectro glotal]
+
+
+
 
 
 
