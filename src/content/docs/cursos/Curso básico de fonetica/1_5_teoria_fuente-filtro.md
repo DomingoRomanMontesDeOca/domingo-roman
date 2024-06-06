@@ -53,7 +53,7 @@ Desde el punto de vista acústico, la onda del tono glotal tiene una forma que s
 
 Una onda simulada (como la de los sonidos presentados anteriormente) tiene una forma como esta:
 
-![onda dientes de sierra](imagenes/onda_dientes_de_sierra.png)
+![onda dientes de sierra](/imagenes/onda_dientes_de_sierra.png)
 
 El espectro de banda estrecha de una onda como esta tiene una propiedad: las frecuencias disminuyen su intensidad en la medida en que aumenta su frecuencia.
 
