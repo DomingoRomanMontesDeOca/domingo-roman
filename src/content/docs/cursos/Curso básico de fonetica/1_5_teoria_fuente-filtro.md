@@ -59,16 +59,17 @@ El espectro de banda estrecha de una onda como esta tiene una propiedad: las fre
 
 [espectro glotal]
 
+Por su parte, lo que se ha llamado *el filtro*, por tener una cierta longitud y estructura, tiene ciertas resonancias en Hz que se pueden activar cuando reciba una señal. 
 
+Estas resonancias del filtro (de la cavidad supraglótica) se pueden representar en una forma semejante a un espectro. Por ejemplo:
 
+[esquema de resonancias de un filtro]
 
+De acuerdo con la imagen anterior, el filtro tiene resonancias a los 500 Hz, a los 1000 Hz y a los 1500 Hz.
 
+Cuando el tono laríngeo (o tono glotal), que tiene un espectro como el que se ha mostrado más arriba, llega a la cavidad supraglótica, se amplifican las frecuencias que coinciden con las resonancias del filtro y se desenfatizan las que no coinciden con esas resonancias.
 
+[tono larígeo + filtro + espectro resultante]
 
-
-
-
-
-
-
+Este es justamente el resultado que entrega el análisis LPC. Es decir, los formantes son las resonancias que afectan al tono laríngeo y que se activan en las cavidades supraglóticas producto de la forma que adopta la cavidad de la boca.
 
