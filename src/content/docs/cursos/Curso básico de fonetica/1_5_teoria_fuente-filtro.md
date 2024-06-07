@@ -71,9 +71,4 @@ Cuando el tono laríngeo (o tono glotal), que tiene un espectro como el que se h
 
 ![tono larígeo + filtro + espectro resultante](/imagenes/espectro_resultante_TFF.png)
 
-Este es justamente el resultado que entrega el análisis LPC. Es decir, los el valor frecuencial de cada formante es el centro de las resonancias que se activan en las cavidades supraglóticas producto de la forma que adopta la cavidad de la boca y que modifican el tono glotal.
-
-
-
-
-
+Este es justamente el resultado que entrega el análisis de los formantes. Es decir, el valor frecuencial de cada formante es el centro de las resonancias que se activan en las cavidades supraglóticas producto de la forma que adopta la cavidad de la boca y que modifican el tono glotal.
