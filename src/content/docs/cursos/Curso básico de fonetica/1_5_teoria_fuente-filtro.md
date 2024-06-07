@@ -67,11 +67,11 @@ Estas resonancias del filtro (de la cavidad supraglótica) se pueden representar
 
 De acuerdo con la imagen anterior, el filtro tiene las tres primeras resonancias a los 500 Hz, a los 1500 Hz y a los 2500 Hz.
 
-Cuando el tono laríngeo (o tono glotal), que tiene un espectro como el que se ha mostrado más arriba, llega a la cavidad supraglótica, se amplifican las frecuencias que coinciden con las resonancias del filtro y se desenfatizan las que no coinciden con esas resonancias.
+Cuando el tono laríngeo (o tono glotal), que tiene un espectro como el que se ha mostrado más arriba, llega a la cavidad supraglótica, se amplifican las frecuencias que coinciden con las resonancias del filtro y se desenfatizan las que no coinciden con esas resonancias. El espectro del tono glotal se ha modificado *no en las frecuencias de los armónicos* sino en las intensidades de cada uno de ellos.
 
 ![tono larígeo + filtro + espectro resultante](/imagenes/espectro_resultante_TFF.png)
 
-Este es justamente el resultado que entrega el análisis LPC. Es decir, los formantes son las resonancias que afectan al tono laríngeo y que se activan en las cavidades supraglóticas producto de la forma que adopta la cavidad de la boca.
+Este es justamente el resultado que entrega el análisis LPC. Es decir, los el valor frecuencial de cada formante es el centro de las resonancias que se activan en las cavidades supraglóticas producto de la forma que adopta la cavidad de la boca y que modifican el tono glotal.
 
 
 
