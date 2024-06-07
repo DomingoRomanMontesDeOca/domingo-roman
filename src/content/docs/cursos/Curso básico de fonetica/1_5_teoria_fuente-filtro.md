@@ -25,7 +25,7 @@ Se tiene entonces, disociados los pliegues vocales en actividad y las cavidades 
 
 Si se observa los pliegues vocales, se verá y se escuchará que están vibrando a una frecuencia que resulta audible. Por ejemplo, podrían perfectamente estar vibrando a 150 Hz. Lo que se escucharía sería un zumbido que no tendría las propiedades de una vocal específica; sería un zumbido, por así decirlo, indiferenciado. Una simulación artificial, sería la siguiente:
 
-[Tono glotal]
+![Tono glotal](/sonidos/tono_glotal_15_Hz.mp3)
 
 En la otra parte del experimento, se tiene una cabeza que está en posición articulatoria (apertura de la boca y posición de la lengua) determinada para producir la vocal. Pero esta cabeza no emite sonido pues está "desconectada" de la fuente de sonido que constituyen los pliegues vocales.
 
