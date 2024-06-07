@@ -25,7 +25,7 @@ Se tiene entonces, disociados los pliegues vocales en actividad y las cavidades 
 
 Si se observa los pliegues vocales, se verá y se escuchará que están vibrando a una frecuencia que resulta audible. Por ejemplo, podrían perfectamente estar vibrando a 150 Hz. Lo que se escucharía sería un zumbido que no tendría las propiedades de una vocal específica; sería un zumbido, por así decirlo, indiferenciado. Una simulación artificial, sería la siguiente:
 
-![Tono glotal](/sonidos/tono_glotal_15_Hz.mp3)
+<audio controls src="/sonidos/tono_glotal_150_Hz.mp3"></audio>
 
 En la otra parte del experimento, se tiene una cabeza que está en posición articulatoria (apertura de la boca y posición de la lengua) determinada para producir la vocal. Pero esta cabeza no emite sonido pues está "desconectada" de la fuente de sonido que constituyen los pliegues vocales.
 
@@ -33,13 +33,13 @@ Si "conectamos" la cabeza a la fuente, escucharemos ya no el zumbido indiferenci
 
 Por ejemplo, podría escucharse lo siguiente:
 
-[vocal i artificial a 150 Hz]
+<audio controls src="/sonidos/i_artificial_150_Hz.mp3"></audio>
 
 Cada vez que retiremos la cabeza de la fuente del zumbido, tendremos una cabeza muda y, por otra parte, un zumbido indiferenciado.
 
 Supóngase ahora que modificamos la apertura de la boca y la posición de la lengua y llevamos la lengua de esta cabeza un poco más hacia atrás y al mismo tiempo le abrimos más la boca. Al juntar la cabeza con los pliegues vocales se escucharía algo así:
 
-[vocal e artificial a 150 Hz]
+<audio controls src="/sonidos/e_artificial_150_Hz.mp3"></audio>
 
 Nótese que el zumbido glotal es el mismo y por esa razón las dos vocales tienen la misma *altura tonal*. Pero dado que la configuración articulatoria supraglotal es diferente, se escucharán dos vocales diferentes.
 
