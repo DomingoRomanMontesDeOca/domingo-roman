@@ -57,7 +57,7 @@ Una onda simulada (como la de los sonidos presentados anteriormente) tiene una f
 
 El espectro de banda estrecha de una onda como esta tiene una propiedad: las frecuencias disminuyen su intensidad en la medida en que aumenta su frecuencia.
 
-[espectro glotal]
+![espectro glotal](/imagenes/espectro_onda_dientes_de_sierra.png)
 
 Por su parte, lo que se ha llamado *el filtro*, por tener una cierta longitud y estructura, tiene ciertas resonancias en Hz que se pueden activar cuando reciba una señal. 
 
