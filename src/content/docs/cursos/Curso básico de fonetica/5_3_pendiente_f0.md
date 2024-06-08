@@ -10,10 +10,9 @@ sidebar:
 ---
 
 
-### Percepción de la melodía de la voz
+### Elementos en la percepción de la melodía de la voz
 
-La f0 se considera el parámetro acústico correlato de la melodía percibida de la voz y de la actividad de los pliegues vocales. Como se trata de un valor frecuencial, la unidad de medida son los Hz que representan bien el aspecto acústico y la actividad glotal pero no la percepción melódica.
-
+La f0 se considera el parámetro acústico correlato de la melodía percibida de la voz y de la actividad de los pliegues vocales. Como se trata de un valor frecuencial, la unidad de medida son los Hz que representan bien el aspecto acústico que, a su vez, se corresponde con la actividad glotal.
 
 Mientras que la periodicidad de la señal en el oscilograma es una buena representación del valor puro en Hz y de la velocidad de la actividad de los pliegues vocales, la melodía de la voz tiene una propiedad especial: *es logarítmica, no lineal*. Es decir, 100 Hz de diferencia entre dos frecuencias no tienen el mismo *efecto* si se dan entre 100 y 200 o entre 2000 y 2100. En ambos casos la diferencia es de 100 Hz pero el efecto *melódico* es muy diferente.
 
@@ -28,13 +27,13 @@ Esta, la diferencia entre dos tonos de 2000 y 2100 Hz:
 
 La unidad de medida más adecuada para efectos de la percepción de la f0 son los semitonos. Un st es una unidad perceptiva de variación de la f0. Para el habla, se ha establecido que entre 1,5 st y 2 st como la mínima diferencia perceptible.
 
-Si tomamos dos valores de frecuencia, podemos calcular la distancia en st entre ambos valores. Siempre que las frecuencias se duplican, habrá 12 st (una octava musical) de distancia. Por esta razón, en la parte baja de las frecuencias las diferencias perceptibles requieren menos Hz.
+Si tomamos dos valores de frecuencia, podemos calcular la distancia en st entre ambos valores aplicando la fórmula
 
-La fórmula para hacer el cálculo de st es
+     >> 12*log2(frecuencia1/frecuencia2)
 
-      12*log2(frecuencia1/frecuencia2)
+. Siempre que las frecuencias se duplican, habrá 12 st (una octava musical) de distancia. Por esta razón, en la parte baja de las frecuencias las diferencias perceptibles requieren menos Hz.
 
-El punto de partida para un análisis melódico es la información en Hz pero se debe trabajar con unidades perceptuales para poder hablar de su percepción.
+El punto de partida para un análisis melódico es la información en Hz, que es, estrictamente hablando, un dato acústico; pero se debe trabajar con unidades perceptuales para poder hablar del efecto en el oyente.
 
 En fonética de la entonación hay varias categorías analíticas, ya consagradas, que tienen relevancia para las descripciones.
 
@@ -52,8 +51,6 @@ La siguiente figura muestra una curva estilizada automáticamente mediante la ru
 El valor mínimo y el valor máximo en Hz se pueden entender como una diferencia en st que va a decir cuál es el rango tonal o el espectro entonacional en que se mueve un hablante (no en Hz, sino en st).
 
 
-
-
 ### Declinación
 
 Desde el punto de partida de una emisión hacia el final hay un movimiento que en general, para expresiones declarativas, es descendente. Tanto los mínimos como los máximos descienden a lo largo del enunciado y, con ello, la línea media de la f0.
@@ -61,7 +58,9 @@ Desde el punto de partida de una emisión hacia el final hay un movimiento que e
 
 ### Propuesta: la pendiente
 
-Entre dos puntos relevantes del análisis se puede establecer el valor de la pendiente entendida como el número de semitonos que desciende (pendiente negativa) o asciende (pendiente positiva) por segundo.
+La presente propuesta se basa en el dato de que dos emisiones pueden tener la misma diferencia en st, por ejemplo, en el tonema, pero en la percepción influye la duración del tonema. Así, es posible que existan diferencias en cuanto a pendientes más o menos acentuadas; lo mismo es válido para la comparación entre inicio y final del enunciado completo y, eventualmente, otras realizaciones prosódicas marcadas, como por ejemplo, la focalización.
+
+El procedimiento para el análisis es tomar dos puntos relevantes del enunciado, por ejemplo, inicio y fin del tonema, y obtener la duración entre esos puntos y la diferencia en st entre ellos. Se entenderá como pendiente el número de semitonos que desciende (pendiente negativa) o asciende (pendiente positiva) por segundo.
 
 La fórmula para su cálculo es la siguiente:
 
