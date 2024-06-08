@@ -40,7 +40,7 @@ En fonética de la entonación hay varias categorías analíticas, ya consagrada
 
 ### Estilización
 
-Sin duda una de las posibilidades más interesantes para el investigador consiste en la simplificación de los valores de la curva de f0 a una más simple que no considere las variaciones microprosódicas que no superen el umbral perceptivo ya sea de 1.5 o de 2.0 st. La estilización da como resultado una curva en la que se puede apreciar perfectamente bien (aunque a veces requiere correcciones según el algoritmo que se utilice) los movimientos perceptivos del tono.
+Sin duda una de las posibilidades más interesantes para el investigador consiste en la simplificación de los valores de la curva de f0 a unos más simples que no considere las variaciones microprosódicas que no superen el umbral perceptivo ya sea de 1.5 o de 2.0 st. La estilización da como resultado una curva en la que se puede apreciar perfectamente bien (aunque a veces requiere correcciones según el algoritmo que se utilice) los movimientos relevantes en la percepción del tono.
 
 La siguiente figura muestra una curva estilizada automáticamente mediante la rutina de Praat *Manipulation > Stylize pitch (2 st)*. Se muestra en gris la curva con valores de f0 sin estilizar y en línea roja segmentada la línea estilizada.
 
@@ -49,7 +49,9 @@ La siguiente figura muestra una curva estilizada automáticamente mediante la ru
 
 ### Rango entre máximo y mínimo
 
-El valor mínimo y el valor máximo en Hz se pueden entender como una diferencia en st que va a decir cuál es el rango tonal o el espectro entonacional en que se mueve un hablante.
+El valor mínimo y el valor máximo en Hz se pueden entender como una diferencia en st que va a decir cuál es el rango tonal o el espectro entonacional en que se mueve un hablante (no en Hz, sino en st).
+
+
 
 
 ### Declinación
@@ -64,7 +66,7 @@ Entre dos puntos relevantes del análisis se puede establecer el valor de la pen
 La fórmula para su cálculo es la siguiente:
 
 
-      pendiente = diferencia en st entre dos puntos / tiempo entre los dos puntos
+      >> pendiente = diferencia en st entre dos puntos / tiempo entre los dos puntos
 
 
 Lo que este valor señala es la velocidad del cambio tonal, aspecto que parece relevante para descripciones fonéticas de variado tipo, entre otras, las dialectales o las de registro.
