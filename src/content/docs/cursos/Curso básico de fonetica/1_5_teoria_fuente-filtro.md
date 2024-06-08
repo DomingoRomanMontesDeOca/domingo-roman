@@ -45,8 +45,6 @@ Nótese que el zumbido glotal es el mismo y por esa razón las dos vocales tiene
 
 El experimento a la inversa consiste en conservar los gestos articulatorios de la cabeza y modificar la fuente del zumbido. Por ejemplo, en vez de estar vibrando a 150 Hz lo hará a 180 Hz. En este caso, el organismo de nuestro experimento no cambiará la vocal pero sí subirá el tono de la misma.
 
-
-
 En términos teóricos, este modelo se llama *fuente-filtro* porque se tiene la fuente de un sonido periódico indiferenciado y un filtro que amplifica ciertas frecuencias. Esto es, la actividad de los pliegues vocales y las disposiciones supraglotales.
 
 Desde el punto de vista acústico, la onda del tono glotal tiene una forma que se denomina de *dientes de sierra*.
@@ -72,3 +70,9 @@ Cuando el tono laríngeo (o tono glotal), que tiene un espectro como el que se h
 ![tono larígeo + filtro + espectro resultante](/imagenes/espectro_resultante_TFF.png)
 
 Este es justamente el resultado que entrega el análisis de los formantes. Es decir, el valor frecuencial de cada formante es el centro de las resonancias que se activan en las cavidades supraglóticas producto de la forma que adopta la cavidad de la boca y que modifican el tono glotal.
+
+Dos observaciones finales:
+
+Un tubo tiene resonancias determinadas por su longitud. Si se conoce el largo del tubo, se pueden calcular las resonancias que este tiene. El tracto oral se puede formalizar o esquematizar como un tubo de ciertos centímetros de largo que a su vez de puede segmentar en varios tubos menores (cada uno de cierta longitud). Los formantes son las resonancias de la cavidad oral formalizada como una serie de tubos.
+
+El modelo fuente-filtro se aplica generalmente a las vocales. Sin embargo, toda consonante sonora se puede explicar también por este modelo.
