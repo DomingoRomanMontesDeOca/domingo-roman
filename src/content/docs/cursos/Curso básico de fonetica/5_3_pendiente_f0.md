@@ -66,9 +66,10 @@ El valor mínimo y el valor máximo en Hz se pueden entender como una diferencia
 Desde el punto de partida de una emisión hacia el final hay un movimiento que en general, para expresiones declarativas, es descendente. Tanto los mínimos como los máximos descienden a lo largo del enunciado y, con ello, la línea media de la f0.
 
 
-![Declinación de un enunciado](/imagenes/declinacion_Nooteboom)[^1]
+![Declinación de un enunciado](/imagenes/declinacion_Nooteboom)
+[^1]
 
-[^1:]The prosody of speech: Melody and rhythm - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/Measured-course-of-pitch-dotted-line-close-copy-stylization-interrupted-line-a-grid_fig3_46675980 [accessed 9 Jun, 2024]
+[^1]:The prosody of speech: Melody and rhythm - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/Measured-course-of-pitch-dotted-line-close-copy-stylization-interrupted-line-a-grid_fig3_46675980 [accessed 9 Jun, 2024]
 
 ### Propuesta: la pendiente
 
