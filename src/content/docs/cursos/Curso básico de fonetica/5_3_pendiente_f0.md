@@ -10,7 +10,7 @@ sidebar:
 ---
 
 
-### Elementos para el análisis de percepción de la melodía de la voz
+### Elementos para el análisis de percepción de la melodía de la voz. Valores globales en un enunciado.
 
 La f0 se considera el parámetro acústico correlato de la melodía percibida de la voz y de la actividad de los pliegues vocales. Como se trata de un valor frecuencial, la unidad de medida son los Hz que representan bien el aspecto acústico que, a su vez, se corresponde con la actividad glotal.
 
