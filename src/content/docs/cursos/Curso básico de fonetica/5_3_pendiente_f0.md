@@ -80,15 +80,13 @@ Desde el punto de partida de una emisión hacia el final hay un movimiento que e
 
 ### Propuesta: la pendiente
 
-La presente propuesta se basa en el dato de que dos emisiones pueden tener la misma diferencia en st, por ejemplo, en el tonema, pero en la percepción influye la duración del tonema. Así, es posible que existan diferencias en cuanto a pendientes más o menos acentuadas; lo mismo es válido para la comparación entre inicio y final del enunciado completo y, eventualmente, otras realizaciones prosódicas marcadas, como por ejemplo, la focalización.
+La presente propuesta se basa en el dato de que dos emisiones pueden tener la misma diferencia en st, por ejemplo, en el tonema, pero en la percepción influye la duración del tonema. Así, es posible que existan diferencias en cuanto a pendientes más o menos pronunciadas; lo mismo es válido para la comparación entre inicio y final del enunciado completo y, eventualmente, otros momentos del enunciado con una marca prosódica, como puede ser el caso de, por ejemplo, la focalización.
 
 El procedimiento para el análisis es tomar dos puntos relevantes del enunciado, por ejemplo, inicio y fin del tonema, y obtener la duración entre esos puntos y la diferencia en st entre ellos. Se entenderá como pendiente el número de semitonos que desciende (pendiente negativa) o asciende (pendiente positiva) por segundo.
 
 La fórmula para su cálculo es la siguiente:
 
-
       >> pendiente = diferencia en st entre dos puntos / tiempo entre los dos puntos
-
 
 Lo que este valor señala es la velocidad del cambio tonal, aspecto que parece relevante para descripciones fonéticas de variado tipo, entre otras, las dialectales o las de registro.
 
@@ -131,15 +129,14 @@ Un acercamiento a la imagen anterior es la siguiente:
 
 En este tonema, la diferencia en Hz entre inicio (177.95 Hz) y final (136.52) es de 41.4 Hz, los st entre ambos puntos es de 4.58 Hz y el tiempo entre ambos puntos es de 0.6 s. Con ello, la pendiente del tonema es de 7.62 st por segundo.
 
-### Referencias
 
+### Referencias
 
 Hart, J. T., Collier, R., & Cohen, A. (1990). A Perceptual Study of Intonation: An Experimental-Phonetic Approach to Speech Melody. Cambridge: Cambridge University Press.
 
 Swerts, Marc, Eva Strangert, Mattias Heldner. F0 Declination In Read-Aloud And Spontaneous Speech. Proceed- ings from the International Conference on Spoken Language Processing (ICSLP) 1996. 
 http://citeseer.ist.psu.edu/swerts96declination.html
 
-TNT
 
 
 
