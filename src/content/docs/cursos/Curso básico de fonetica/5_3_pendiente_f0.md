@@ -18,7 +18,9 @@ Cuando una vibración periódica alcanza un cierto número de Hz, entonces se pr
 
 Por supuesto, los sonidos sordos no tienen frecuencia fundamental ni pueden tener tono.
 
-La periodicidad de una señal (tal como se puede apreciar en un oscilograma) ofrece un valor en Hz que se corresponde con la velocidad de la actividad de los pliegues vocales y produce la percepción de la melodía de la voz. Esta melodía (como toda melodía, por lo demás) tiene una propiedad especial: *es logarítmica, no lineal*. Es decir, 100 Hz de diferencia entre dos frecuencias no tienen el mismo *efecto* si se dan entre 100 y 200 o entre 2000 y 2100. En ambos casos la diferencia es de 100 Hz pero el efecto *melódico* es muy diferente.
+La periodicidad de una señal (tal como se puede apreciar en un oscilograma) ofrece un valor en Hz que se corresponde con la velocidad de la actividad de los pliegues vocales y produce la percepción de la melodía de la voz. Esta melodía (como toda melodía, por lo demás) tiene una propiedad especial: *es logarítmica, no lineal*. Esto es, entre 100 Hz y 200 Hz hay una cierta diferencia perceptiva. Esa misma diferencia, si se parte de los 200 Hz se consigue con 400 Hz. Y si se parte de los 400 Hz, habrá que tener 800 Hz para lograr el mismo efecto perceptivo. Y asi sucesivamente. Debemos duplicar los Hz cada vez.
+
+Por esta razón, 100 Hz de diferencia entre dos frecuencias no tienen el mismo *efecto melódico* si se dan entre 100 y 200 o entre 2000 y 2100. En ambos casos la diferencia física es de 100 Hz pero el efecto *melódico* es muy diferente.
 
 Esta es la diferencia entre dos tonos de 100 Hz y 200 Hz:
 
