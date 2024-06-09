@@ -12,9 +12,13 @@ sidebar:
 
 ### Elementos para el análisis de percepción de la melodía de la voz. Valores globales en un enunciado.
 
-La f0 se considera el parámetro acústico correlato de la melodía percibida de la voz y de la actividad de los pliegues vocales. Como se trata de un valor frecuencial, la unidad de medida son los Hz que representan bien el aspecto acústico que, a su vez, se corresponde con la actividad glotal.
+La frecuencia fundamental se considera el parámetro acústico correlato de la melodía percibida de la voz y de la actividad de los pliegues vocales. Como se trata de un valor frecuencial, la unidad de medida son los Hz que representan bien el aspecto acústico que, a su vez, se corresponde con la actividad glotal. En otras palabras, los pliegues vocales vibran a una velocidad que se observa en los ciclos de la señal periódica cuya frecuencia corresponde al valor de la frecuencia fundamental.
 
-Mientras que la periodicidad de la señal en el oscilograma es una buena representación del valor puro en Hz y de la velocidad de la actividad de los pliegues vocales, la melodía de la voz tiene una propiedad especial: *es logarítmica, no lineal*. Es decir, 100 Hz de diferencia entre dos frecuencias no tienen el mismo *efecto* si se dan entre 100 y 200 o entre 2000 y 2100. En ambos casos la diferencia es de 100 Hz pero el efecto *melódico* es muy diferente.
+Cuando una vibración periódica alcanza un cierto número de Hz, entonces se produce la percepción del tono. Una vibración de 20 Hz no produce tono aunque sí tiene frecuencia fundamental (de 20 Hz, justamente). Una vibración periódica de 100 Hz tienen una frecuencia fundamental que produce percepción de tono. El tono es así una realidad peceptiva en tanto la frecuencia fundamental es parte de la realidad física acústica. 
+
+Por supuesto, los sonidos sordos no tienen frecuencia fundamental ni pueden tener tono.
+
+La periodicidad de una señal (tal como se puede apreciar en un oscilograma) ofrece un valor en Hz que se corresponde con la velocidad de la actividad de los pliegues vocales y produce la percepción de la melodía de la voz. Esta melodía (como toda melodía, por lo demás) tiene una propiedad especial: *es logarítmica, no lineal*. Es decir, 100 Hz de diferencia entre dos frecuencias no tienen el mismo *efecto* si se dan entre 100 y 200 o entre 2000 y 2100. En ambos casos la diferencia es de 100 Hz pero el efecto *melódico* es muy diferente.
 
 Esta es la diferencia entre dos tonos de 100 Hz y 200 Hz:
 
@@ -25,17 +29,18 @@ Esta, la diferencia entre dos tonos de 2000 y 2100 Hz:
 <audio controls src="/sonidos/2000_2100.mp3"></audio>
 
 
-La unidad de medida más adecuada para efectos de la percepción de la f0 son los semitonos. Un st es una unidad perceptiva de variación de la f0. Para el habla, se ha establecido que entre 1,5 st y 2 st como la mínima diferencia perceptible.
+Si bien los Hz son la unidad de medida de la frecuencia fundamental, la unidad de medida más adecuada para efectos de la percepción de la f0 son los semitonos entre dos frecuencias. Un st es una unidad perceptiva de variación de la f0 entre dos datos frecuenciales. Para el habla, se ha establecido que entre 1,5 st y 2 st como la mínima diferencia perceptible. Bajo ese umbral, las diferencias (en el habla, no en la música) no son percibidas como cambios.
 
 Si tomamos dos valores de frecuencia, podemos calcular la distancia en st entre ambos valores aplicando la fórmula
 
      >> 12*log2(frecuencia1/frecuencia2)
 
-. Siempre que las frecuencias se duplican, habrá 12 st (una octava musical) de distancia. Por esta razón, en la parte baja de las frecuencias las diferencias perceptibles requieren menos Hz.
+Siempre que las frecuencias se duplican, habrá 12 st (una octava musical) de distancia. Por esta razón, en la parte baja de las frecuencias las diferencias perceptibles requieren menos Hz.
 
-El punto de partida para un análisis melódico es la información en Hz, que es, estrictamente hablando, un dato acústico; pero se debe trabajar con unidades perceptuales para poder hablar del efecto en el oyente.
+El punto de partida para un análisis melódico es la información en Hz, que es, como se ha señalado, un dato acústico; pero se debe trabajar con unidades perceptuales para poder hablar del efecto en el oyente.
 
-En fonética de la entonación hay varias categorías analíticas, ya consagradas, que tienen relevancia para las descripciones.
+En los estudios fonéticos de la entonación hay varias categorías analíticas, ya consagradas, que tienen relevancia para las descripciones.
+
 
 ### Estilización
 
