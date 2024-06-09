@@ -10,7 +10,7 @@ sidebar:
 ---
 
 
-### Elementos en la percepción de la melodía de la voz
+### Elementos para el análisis de percepción de la melodía de la voz
 
 La f0 se considera el parámetro acústico correlato de la melodía percibida de la voz y de la actividad de los pliegues vocales. Como se trata de un valor frecuencial, la unidad de medida son los Hz que representan bien el aspecto acústico que, a su vez, se corresponde con la actividad glotal.
 
@@ -44,6 +44,15 @@ Sin duda una de las posibilidades más interesantes para el investigador consist
 La siguiente figura muestra una curva estilizada automáticamente mediante la rutina de Praat *Manipulation > Stylize pitch (2 st)*. Se muestra en gris la curva con valores de f0 sin estilizar y en línea roja segmentada la línea estilizada.
 
 ![Curva de f0 natural y estilizada](/imagenes/estilizada_leenellibroloslideres.png)
+
+Otra manera de estilizar es tomar los valores en Hz y la posición temporal de cada vocal. Esto se siguió en el proyecto AMPER y también el Mapa prosódico de Chile. Se debe tomar la decisión acerca de cuántos puntos por vocal se deben tomar. Por ejemplo, en el mencionado proyecto AMPER se tomaban tres puntos por vocal.
+
+![Estilización por vocales](/imagenes/estilizada_por_vocales_leenellibroloslideres.png)
+
+
+
+![Tres tipos de estilizaciones](/imagenes/tres_estilizaciones_superpuestas.png)
+
 
 
 ### Rango entre máximo y mínimo
