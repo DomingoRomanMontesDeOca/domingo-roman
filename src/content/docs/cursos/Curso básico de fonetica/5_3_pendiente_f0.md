@@ -57,7 +57,7 @@ El gráfico siguiente muestra la curva original en gris. Sobre ella, la que se c
 
 ### Rango entre máximo y mínimo
 
-El valor mínimo y el valor máximo en Hz se pueden entender como una diferencia en st que va a decir cuál es el rango tonal o el espectro entonacional en que se mueve un hablante (no en Hz, sino en st).
+El valor mínimo y el valor máximo en Hz se pueden entender como una diferencia en st que corresponde al rango tonal o el registro entonacional en que se mueve un hablante (no en Hz, sino en st).
 
 ![Rango de altura tonal](/imagenes/maximo_minimo_f0.png)
 
