@@ -66,6 +66,9 @@ El valor mínimo y el valor máximo en Hz se pueden entender como una diferencia
 Desde el punto de partida de una emisión hacia el final hay un movimiento que en general, para expresiones declarativas, es descendente. Tanto los mínimos como los máximos descienden a lo largo del enunciado y, con ello, la línea media de la f0.
 
 
+
+The prosody of speech: Melody and rhythm - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/Measured-course-of-pitch-dotted-line-close-copy-stylization-interrupted-line-a-grid_fig3_46675980 [accessed 9 Jun, 2024]
+
 ### Propuesta: la pendiente
 
 La presente propuesta se basa en el dato de que dos emisiones pueden tener la misma diferencia en st, por ejemplo, en el tonema, pero en la percepción influye la duración del tonema. Así, es posible que existan diferencias en cuanto a pendientes más o menos acentuadas; lo mismo es válido para la comparación entre inicio y final del enunciado completo y, eventualmente, otras realizaciones prosódicas marcadas, como por ejemplo, la focalización.
