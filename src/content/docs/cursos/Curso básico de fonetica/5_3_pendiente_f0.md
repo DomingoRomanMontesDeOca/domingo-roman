@@ -59,6 +59,7 @@ El gráfico siguiente muestra la curva original en gris. Sobre ella, la que se c
 
 El valor mínimo y el valor máximo en Hz se pueden entender como una diferencia en st que va a decir cuál es el rango tonal o el espectro entonacional en que se mueve un hablante (no en Hz, sino en st).
 
+![Rango de altura tonal](/imagenes/maximo_minimo_f0.png)
 
 ### Declinación
 
@@ -120,7 +121,8 @@ En este tonema, la diferencia en Hz entre inicio (177.95 Hz) y final (136.52) es
 
 ### Referencias
 
-t'Hart A perceptual...
+
+Hart, J. T., Collier, R., & Cohen, A. (1990). A Perceptual Study of Intonation: An Experimental-Phonetic Approach to Speech Melody. Cambridge: Cambridge University Press.
 
 Swerts, Marc, Eva Strangert, Mattias Heldner. F0 Declination In Read-Aloud And Spontaneous Speech. Proceed- ings from the International Conference on Spoken Language Processing (ICSLP) 1996. 
 http://citeseer.ist.psu.edu/swerts96declination.html
