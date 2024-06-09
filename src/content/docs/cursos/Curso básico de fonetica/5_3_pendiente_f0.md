@@ -45,11 +45,11 @@ La siguiente figura muestra una curva estilizada automáticamente mediante la ru
 
 ![Curva de f0 natural y estilizada](/imagenes/estilizada_leenellibroloslideres.png)
 
-Otra manera de estilizar es tomar los valores en Hz y la posición temporal de cada vocal. Esto se siguió en el proyecto AMPER y también el Mapa prosódico de Chile. Se debe tomar la decisión acerca de cuántos puntos por vocal se deben tomar. Por ejemplo, en el mencionado proyecto AMPER se tomaban tres puntos por vocal.
+Otra manera de estilizar es tomar los valores en Hz y la posición temporal de cada vocal. Esto se siguió en el proyecto AMPER y también el Mapa prosódico de Chile. Se debe tomar la decisión acerca de cuántos puntos por vocal se deben tomar. Por ejemplo, en el mencionado proyecto AMPER se tomaban tres puntos por vocal. La imagen siguiente muestra una frase en la que se ha tomado un punto por vocal. En gris, la curva sin estilizar y los puntos azules corresponden a valores en el centro de la vocal.
 
 ![Estilización por vocales](/imagenes/estilizada_por_vocales_leenellibroloslideres.png)
 
-
+El gráfico siguiente muestra la curva original en gris. Sobre ella, la que se construye a partir de los valores de las vocales. La estilización automatizada, en verde y con línea punteada.
 
 ![Tres tipos de estilizaciones](/imagenes/tres_estilizaciones_superpuestas.png)
 
