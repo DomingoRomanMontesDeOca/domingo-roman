@@ -4,11 +4,11 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 6.0 Cine recomendado
+  label: 8.5 Cine recomendado
   # Orden (Número más bajo aparece más arriba)
   order: 60
 ---
-# 6.0 Cine recomendado
+# 8.5 Cine recomendado
 
 Comentarios de Alexander Salinas Olivier<br>
 estudiante de Pedagogía en Castellano USACH.
