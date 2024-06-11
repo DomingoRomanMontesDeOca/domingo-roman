@@ -4,10 +4,10 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 2.1 Modo de articulación
+  label: 6.1 Modo de articulación oclusivo
   # Orden (Número más bajo aparece más arriba)
   order: 70
 ---
-# 2.1 Modo de articulación: oclusivas
+# 6.1 Modo de articulación: oclusivas
 
 Las consonantes oclusivas tienen siempre en su realización un cierre total de los articuladores.
