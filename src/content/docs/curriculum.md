@@ -128,6 +128,8 @@ ______
 ### Capítulos en libros
 ______
 
+- Román, D.2024. Comparación de rasgos prosódicos generales del norte y sur de Chile, En *Avances metodológicos en fonética y prosodia*, coordinadores: Wendy Elvira y Paolo Roseano, Madrid, UNED: 283-294. ISBN: 978-84-362-7874-3.
+
 - Hossain, Imran y D. Román (2019). Desarrollo lingüístico: ilustración espectrográfica de los sonidos del español de Montevideo. En Neurocognición y aprendizaje. Bases, procesos y evaluación. Barg, Gabriel; Cuadro, Arien y Hoyos, Sandra (editores). Grupo Magro Editores. ISBN: 978-9974-8691-7-2. [Ver presentación (pdf)](/NEUROCOGNICION%20Y%20APRENDIZAJE(1).pdf).
 
 - Román, D. y María del Saz. (En proceso). Análisis fonético de los sonidos laterales del español, En Fonética y fonología de la lengua española. Gil, Juana y Joaquim Llisterri (eds.) Georgetown University Press.
