@@ -9,3 +9,6 @@ sidebar:
   order: 70
 ---
 # 2. Consonantes
+
+Si las vocales se caracterizan por una salida libre del aire sin mayores puntos de constricción en las cavidades supraglóticas y por la actividad de los pliegues vocales, las consonantes tienen siempre un grado de constricción mayor que las vocales y pueden ser sonidos sonoros o sordos.
+
