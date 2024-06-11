@@ -20,7 +20,7 @@ Cargos:
 
 Dirección laboral:    Universidad de Santiago de Chile. Avenida Libertador Bernardo O'Higgins nº 3363. Estación Central. Santiago. Chile.
 
-Código Postal:    71783-5
+Código Postal:    9170022
 
 Dirección de correo electrónico:  [domingo.roman@usach.cl](mailto:domingo.roman%2540usach.cl)
 
