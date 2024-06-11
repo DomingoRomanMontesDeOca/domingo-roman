@@ -326,6 +326,8 @@ ______
 ## Conferencias, seminarios temáticos, charlas y talleres (dictados)
 
 
+- 2023\. Conferencia *Fonética para los tiempos que corren*. Inauguración del año académico de Letras 2023. 26 de abril 2023.
+
 - 2018\. Conferencia El mapa prosódico de Chile: motivaciones, entretelones y perspectivas, Dr. Domingo Román Montes de Oca y Dra. (c) Diana Muñoz Builes, jueves 30 de agosto, Universidad Autónoma de Chile, Talca.
 
 - 2018\. Taller ¿Cómo se analiza la línea melódica de una frase? Dr. Domingo Román Montes de Oca y Dra. (c) Diana Muñoz Builes, jueves 30 de agosto, Universidad Autónoma de Chile, Talca.
