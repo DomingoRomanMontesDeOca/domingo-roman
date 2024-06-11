@@ -19,13 +19,30 @@ Dado que hay varios criterios para caracterizar las consonantes, se hará una pr
 ## Por modo de articulación
 
 - Oclusivas
-
 - Fricativas
-
 - Aproximantes
-
 - Laterales
-
 - Vibrantes
+
+
+## Por punto de articulación
+
+- Bilabiales
+- Labiodentales
+- Dentales
+- Alveolares
+- Palatales
+- Velares
+
+##  Por actividad de los pliegues vocales
+
+- Sonoras
+- Sordas
+
+## Por balance oral-nasal
+
+-  Nasales
+-  Orales
+
 
 
