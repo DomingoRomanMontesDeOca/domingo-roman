@@ -4,11 +4,11 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 2. Consonantes
+  label: 6. Consonantes
   # Orden (Número más bajo aparece más arriba)
   order: 70
 ---
-# 2. Consonantes
+# 6. Consonantes
 
 Si las vocales se caracterizan por una salida libre del aire sin mayores puntos de constricción en las cavidades supraglóticas y por la actividad de los pliegues vocales, las consonantes tienen siempre un grado de constricción mayor que las vocales y pueden ser sonidos sonoros o sordos.
 
