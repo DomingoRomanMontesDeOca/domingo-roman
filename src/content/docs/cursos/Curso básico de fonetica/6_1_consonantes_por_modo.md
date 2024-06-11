@@ -16,7 +16,7 @@ Son oclusivas sordas las realizaciones de p/t/k en cualquier contexto y son real
 
 En el caso de las realizaciones de p/t/k, en un contexto intervocálico, se tendrán los siguientes momentos típicos:
 
->>> cierre > explosión > instante previo al inicio de la vocal siguiente.
+>>> *Vocal anterior*  >  Cierre de los articuladores   >   Momento de salida explosiva del aire   >   instante previo al inicio de la vocal siguiente > *vocal siguiente*
 
 
 
