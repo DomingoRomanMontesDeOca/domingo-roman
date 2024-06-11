@@ -12,3 +12,6 @@ sidebar:
 
 Si las vocales se caracterizan por una salida libre del aire sin mayores puntos de constricción en las cavidades supraglóticas y por la actividad de los pliegues vocales, las consonantes tienen siempre un grado de constricción mayor que las vocales y pueden ser sonidos sonoros o sordos.
 
+Las consonantes se pueden caracterizar, para la lengua española, por el punto de articulación, por el modo de articulación, por la actividad de los pliegues vocales y por el balance oral-nasal.
+
+
