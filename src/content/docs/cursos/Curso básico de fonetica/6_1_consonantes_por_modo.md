@@ -36,7 +36,13 @@ El espectrograma correspondiente es el siguiente:
 
 En él se observa que en la zona destacada existe un momento sin energía (blanco). La explosión se observa como una barra vertical cuando termina el silencio.
 
+Si se piensa de manera bien esquemática, la siguiente figura puede ser una representación de estas realizaciones
 
+![Esquema de oclusivas sordas](/imagenes/esquema_oclusivas_sordas.png)
+
+En este esquema se han representado de manera simplificada los formantes 1 y 2 de las vocales (con puntos rojos). Las bandas superiores azules representan las secciones de la emisión que son sonoras.
+
+VOT (del inglés *voice onset time* alude al tiempo entre la explosión y el inicio de la vibración de los pliegues vocales en la vocal siguiente. 
 
 
 
