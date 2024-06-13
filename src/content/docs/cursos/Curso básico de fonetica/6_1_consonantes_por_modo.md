@@ -28,7 +28,7 @@ Estos momentos se pueden observar en las dos figuras siguientes:
 
 ![Oscilograma de señal con tres oclusivas](/imagenes/oclusivas_01.png)
 
-![Espectrograma de señal con tres oclusivas](imagenes/oclusivas_espectr_01.png)
+![Espectrograma de señal con tres oclusivas](/imagenes/oclusivas_espectr_01.png)
 
 
 
