@@ -6,7 +6,7 @@ sidebar:
   # Nombre
   label: 7.0 Obras literarias recomendadas
   # Orden (Número más bajo aparece más arriba)
-  order: 70
+  order: 80
 ---
 # 7.0 Obras literarias recomendadas
 
