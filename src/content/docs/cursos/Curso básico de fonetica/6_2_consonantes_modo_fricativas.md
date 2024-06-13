@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 6.2 Modo de articulación oclusivo
+  label: 6.2 Modo de articulación fricativo
   # Orden (Número más bajo aparece más arriba)
   order: 75
 ---
