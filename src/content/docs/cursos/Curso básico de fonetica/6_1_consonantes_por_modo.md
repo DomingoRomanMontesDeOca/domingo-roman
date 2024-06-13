@@ -44,5 +44,7 @@ En este esquema se han representado de manera simplificada los formantes 1 y 2 d
 
 VOT (del inglés *voice onset time* alude al tiempo entre la explosión y el inicio de la vibración de los pliegues vocales en la vocal siguiente. 
 
+![Esquema de oclusivas sonoras](/imagenes/esquema_oclusivas_sonoras.png)
+
 
 
