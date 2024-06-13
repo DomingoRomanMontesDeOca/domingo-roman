@@ -17,4 +17,7 @@ Sonidos[^1] de este tipo podemos encontrar en la vida cotidiana, por ejemplo, al
 
 [^1]:Los acústicos prefieren denominar *ruido* a las señales audibles aperiódicas, por oposición a *sonido* que está formado por ondas periódicas. En este material, *sonido* se usa de una manera más general, como *lo audible*
 
+En el español tenemos tres fonemas fricativos sordos: f/s/x ("efe", "ese" y "jota"). Cada uno con su correspondiente punto de articulación y sus alófonos.
+
+Por tratarse de sonidos sordos, la señal es aperiódica. Por tratarse de consonantes, la amplitud será, por lo general, menor a la de las vocales.
 
