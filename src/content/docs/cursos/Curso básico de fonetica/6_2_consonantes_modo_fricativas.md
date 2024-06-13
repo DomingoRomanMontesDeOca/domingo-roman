@@ -12,8 +12,12 @@ sidebar:
 
 Consonantes fricativas son aquellas que se realizan con los articuladores con un estrechamiento tal que al pasar el aire por la zona de constricción se produce una turbulencia que genera un movimiento aleatorio de las partículas de aire.
 
+[^1]
+[^1]: Esta es la n
+
+
 Sonidos[^1] de este tipo podemos encontrar en la vida cotidiana, por ejemplo, al girar la tapa de una botella con líquido con gas o al soltar tenuemente la boquilla de un globo inflado. También el ruido del mar, de un río, de las hojas de los árboles con el viento son sonidos de esta clase.
 
-[^1:]Los acústicos prefieren denominar *ruido* a las señales audibles aperiódicas, por oposición a *sonido* que está formado por ondas periódicas. En este material, *sonido* se usa de una manera más general, como *lo audible*
+[^1]:Los acústicos prefieren denominar *ruido* a las señales audibles aperiódicas, por oposición a *sonido* que está formado por ondas periódicas. En este material, *sonido* se usa de una manera más general, como *lo audible*
 
 
