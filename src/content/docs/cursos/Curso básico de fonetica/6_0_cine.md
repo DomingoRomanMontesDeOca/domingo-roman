@@ -6,7 +6,7 @@ sidebar:
   # Nombre
   label: 8.5 Cine recomendado
   # Orden (Número más bajo aparece más arriba)
-  order: 60
+  order: 90
 ---
 # 8.5 Cine recomendado
 
