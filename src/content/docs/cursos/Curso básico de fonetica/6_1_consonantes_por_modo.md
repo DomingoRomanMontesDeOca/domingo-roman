@@ -28,13 +28,13 @@ Estos momentos se pueden observar en las dos figuras siguientes:
 
 ![Oscilograma de señal con tres oclusivas](/imagenes/oclusivas_01.png)
 
-La parte que corresponde a la oclusión articulatoria se observa en el oscilograma como un silencio o con valores cercanos al "cero". El momento de la liberación del aire o explosión, en el oscilograma aparece como una alteración de ese silencio o cuasisilencio.
+La parte que corresponde a la oclusión articulatoria se observa en el oscilograma como un silencio o con valores cercanos al "cero". El momento de la liberación del aire, o explosión, en el oscilograma aparece como una alteración de ese silencio o cuasisilencio.
 
 El espectrograma correspondiente es el siguiente:
 
 ![Espectrograma de señal con tres oclusivas](/imagenes/oclusivas_espectr_01.png)
 
-En él se observa que la sección que constituye la oclusión, se observa como un momento sin energía (blanco). La explosión se observa como una barra vertical cuando termina el silencio.
+En él se observa que en la zona destacada existe un momento sin energía (blanco). La explosión se observa como una barra vertical cuando termina el silencio.
 
 
 
