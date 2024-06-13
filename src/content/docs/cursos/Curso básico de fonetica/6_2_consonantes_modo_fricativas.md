@@ -24,3 +24,7 @@ Por tratarse de sonidos sordos, la señal es aperiódica. Por tratarse de conson
 En el siguiente oscilograma, se observan tres palabras y cada una tiene un sonido fricativo sordo:
 
 ![Oscilograma con sonidos fricativos](/imagenes/oscilograma_fricativas_1.png)
+
+El correspondiente espectrograma de banda ancha se observa en la imagen siguiente:
+
+![Espectrograma con sonidos fricativos](/imagenes/espectrograma_fricativas_1.png)
