@@ -21,3 +21,6 @@ En el español tenemos tres fonemas fricativos sordos: f/s/x ("efe", "ese" y "jo
 
 Por tratarse de sonidos sordos, la señal es aperiódica. Por tratarse de consonantes, la amplitud será, por lo general, menor a la de las vocales.
 
+En el siguiente oscilograma, se observan tres palabras y cada una tiene un sonido fricativo sordo:
+
+![Oscilograma con sonidos fricativos](/imagenes/oscilograma_fricativas_1.png)
