@@ -28,3 +28,7 @@ En el siguiente oscilograma, se observan tres palabras y cada una tiene un sonid
 El correspondiente espectrograma de banda ancha se observa en la imagen siguiente:
 
 ![Espectrograma con sonidos fricativos](/imagenes/espectrograma_fricativas_1.png)
+
+En Chile, también existe una variante fricativa del fonema "che".
+
+
