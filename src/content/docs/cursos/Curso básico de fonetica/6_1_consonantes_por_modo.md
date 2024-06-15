@@ -42,7 +42,15 @@ Si se piensa de manera bien esquemática, la siguiente figura puede ser una repr
 
 En este esquema se han representado de manera simplificada los formantes 1 y 2 de las vocales (con puntos rojos). Las bandas superiores azules representan las secciones de la emisión que son sonoras.
 
-VOT (del inglés *voice onset time* alude al tiempo entre la explosión y el inicio de la vibración de los pliegues vocales en la vocal siguiente. 
+VOT (del inglés *voice onset time* alude al tiempo entre la explosión y el inicio de la vibración de los pliegues vocales en la vocal siguiente.
+
+Las consonantes p/t/k son, como se ha mencionado, oclusivas sordas.
+
+Las consonantes b/d/g son sonoras y oclusivas cuando están en posición inicial absoluta (después de una pausa o al inicio de una emisión) y también cuando están precedidas de una consonante nasal (y en algunos otros contextos más).
+
+>>> /aNbus'teɾo/  /kaNtiˈna/   /pi'taNsa/
+>>> 
+>>> [ẽmbusˈt̪eɾo]  [kan̪t̪iˈna]  [pi't̪ansa]
 
 ![Esquema de oclusivas sonoras](/imagenes/esquema_oclusivas_sonoras.png)
 
