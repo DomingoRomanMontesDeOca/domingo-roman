@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 6.3 Modo de articulación aproximante
+  label: 6.3 Modo de articulación aproximante espirante
   # Orden (Número más bajo aparece más arriba)
   order: 76
 ---
