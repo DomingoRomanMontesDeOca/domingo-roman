@@ -23,5 +23,5 @@ En estos casos, las realizaciones son un un cierto grado de abertura de los arti
 
 Para este modo de articulación se usa el término *aproximante* y se utiliza en su transcripción el símbolo del sonido fricativo al que se agrega el diacrítico de *descendido*. 
 
-
+![Consonantes aproximantes entre otros tipos](/imagenes/aproximantes_fricativas_oclusivas.png)
 
