@@ -39,3 +39,34 @@ Lo mismo se puede apreciar en las dos realizaciones del fonema /b/ en la palabra
 En la figura siguiente se puede apreciar una /g/ aproximante en la palabra *lago*
 
 ![Representación de la palabra lago](/imagenes/lago_valeria.png)
+
+
+
+| Fonema | Alófono | Sonoridad|
+| ----------- | ----------- |----------- | 
+| /b/ | [β̞] | Aproximante espirante|
+| /d/ | [ð̞] | Aproximante espirante|
+| /g/ | [ɣ̞] | Aproximante espirante|
+
+
+
+Tabla de síntesis acumulada
+| Fonema | Alófono |modo|Punto| Sonoridad|
+| ----------- | ----------- |----------- | ----------- | ----------- |
+| /p/ | [p] | Oclusivo|Bilabial | Sorda|
+| /t/ | [t̪] |  Oclusivo|Dentoalveolar | Sorda|
+| /k/ | [k] |  Oclusivo|Velar| Sorda|
+| /b/ | [b]| Oclusivo|Bilabial|Sonora|
+| /d/ | [d̪]| Oclusivo|Dentoalveolar|Sonora|
+| /g/ | [g]| Oclusivo|Velar|Sonora|
+| /s/ | [s] |  Fricativo|Alveolar | Sorda|
+| | [ʰ] |  Fricativo|Alveolar | Sorda|
+| /f/ | [f] | Fricativo| Dentoalveolar | Sorda|
+| | [ɸ] | Fricativo| Bilabial | Sorda|
+| /x/ | [x] |  Fricativo|Velar| Sorda|
+| /t͡ʃ/ | [ʃ] |  Fricativo|Palatal| Sorda|
+| /b/ | [β̞] | Aproximante espirante|Bilabial|Sonoro|
+| /d/ | [ð̞] | Aproximante espirante|Dentoalveolar|Sonoro|
+| /g/ | [ɣ̞] | Aproximante espirante|Velar|Sonoro|
+
+
