@@ -54,7 +54,7 @@ Las consonantes b/d/g son sonoras y oclusivas cuando están en posición inicial
 
 ![Esquema de oclusivas sonoras](/imagenes/esquema_oclusivas_sonoras.png)
 
-Existe también un tipo de oclusivas que van acompañadas de un sonido *fricativo* (concepto que se verá en el apartado siguiente). Este es el caso del fonema "che" del español actual. En la tradición, se les ha llamado *africados*.
+Existe también un tipo de oclusivas que van acompañadas de un sonido *fricativo* (concepto que se verá en el apartado siguiente). Este es el caso del fonema "che" /t͡ʃ/ del español actual. En la tradición, se les ha llamado *africados*.
 
 
 El *VOT* se mide desde la barra de explosión hasta el inicio de la sonoridad. El momento de la explosión se toma como punto "0" de la medición. En las oclusivas sordas se mide desde la explosión hasta el inicio de la sonoridad de la vocal siguiente, es decir, se mide *hacia la derecha*. Las oclusivas sonoras tienen un inicio de de periodicidad anterior a la explosión, por lo que se mide *hacia la izquierda*, esto es, un *VOT* negativo (anterior al "0" referencial).
