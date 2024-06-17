@@ -24,15 +24,15 @@ sidebar:
 
 ## 9.2 Sitios de Internet
 
-![Alexis Irribar](https://paginaspersonales.deusto.es/airibar/Fonetica/Fonetica.html)
+[Alexis Irribar](https://paginaspersonales.deusto.es/airibar/Fonetica/Fonetica.html)
 
-![Mauricio Figueroa](http://www.mauriciofigueroa.cl/03_teaching/)
+[Mauricio Figueroa](http://www.mauriciofigueroa.cl/03_teaching/)
 
-![Peter Ladefoged](https://linguistics.ucla.edu/people/ladefoge/) 
+[Peter Ladefoged](https://linguistics.ucla.edu/people/ladefoge/) 
 
-![Joaquim Llisterri](https://joaquimllisterri.cat/phonetics/fon_anal_acus/Analisis_Acustico.html)
+[Joaquim Llisterri](https://joaquimllisterri.cat/phonetics/fon_anal_acus/Analisis_Acustico.html)
 
-![Sitio para transcribir](https://ipa.typeit.org)
+[Sitio para transcribir](https://ipa.typeit.org)
 
 
 
