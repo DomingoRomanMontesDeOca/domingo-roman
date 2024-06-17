@@ -38,14 +38,14 @@ Tabla de síntesis
 | /s/ | [s] | alveolar | Sorda|
 | | [h] | alveolar | Sorda|
 | /f/ | [f] | Dentoalveolar | Sorda|
-| // | [] | Bilabial | Sorda|
+|  | [ɸ] | Bilabial | Sorda|
 | /x/ | [x] | Velar| Sorda|
 
 
 
 
 
-
+Tabla de síntesis acumulada
 | Fonema | Alófono |Punto| Sonoridad|
 | ----------- | ----------- |----------- | ----------- |
 | /p/ | [p] | Bilabial | Sorda|
@@ -57,7 +57,7 @@ Tabla de síntesis
 | /s/ | [s] | alveolar | Sorda|
 | | [h] | alveolar | Sorda|
 | /f/ | [f] | Dentoalveolar | Sorda|
-| // | [] | Bilabial | Sorda|
+| | [ɸ] | Bilabial | Sorda|
 | /x/ | [x] | Velar| Sorda|
 
 
