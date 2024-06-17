@@ -32,4 +32,6 @@ La figura siguiente muestra el oscilograma y el espectrograma de la palabra *dad
 
 ![Representación de la palabra dado](/imagenes/dado_valeria.png)
 
+Lo mismo se puede apreciar en las dos realizaciones del fonema /b/ en la palabra *baba*, en la figura siguiente:
 
+![Representación de la palabra baba](/imagenes/baba_valeria.png)
