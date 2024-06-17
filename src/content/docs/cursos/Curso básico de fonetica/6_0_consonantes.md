@@ -20,8 +20,8 @@ Dado que hay varios criterios para caracterizar las consonantes, se hará una pr
 
 - Oclusivas
 - Fricativas
-- Aproximantes
-- Laterales
+- Aproximantes espirantes
+- Aproximante lateral
 - Vibrantes
 
 
@@ -29,7 +29,7 @@ Dado que hay varios criterios para caracterizar las consonantes, se hará una pr
 
 - Bilabiales
 - Labiodentales
-- Dentales
+- dentoalveolares
 - Alveolares
 - Palatales
 - Velares
