@@ -51,7 +51,7 @@ Tabla de síntesis
 
 Tabla de síntesis acumulada
 | Fonema | Alófono |modo|Punto| Sonoridad|
-| ----------- | ----------- |----------- | ----------- |
+| ----------- | ----------- |----------- | ----------- | ----------- |
 | /p/ | [p] | Oclusivo|Bilabial | Sorda|
 | /t/ | [t̪] |  Oclusivo|Dentoalveolar | Sorda|
 | /k/ | [k] |  Oclusivo|Velar| Sorda|
