@@ -62,8 +62,15 @@ El *VOT* se mide desde la barra de explosión hasta el inicio de la sonoridad. E
 Síntesis:
 
 
-| Fonema | Alófono |Punto| Sonoridad|
+| Syntax | Description |
 | ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |
+
+
+
+| Fonema | Alófono |Punto| Sonoridad|
+| ----------- | ----------- |----------- | ----------- |
 | /p/ | [p] | Bilabial | Sorda|
 | /t/ | [t] | Dentoalveolar | Sorda|
 | /k/ | [k] | Velar| Sorda|
