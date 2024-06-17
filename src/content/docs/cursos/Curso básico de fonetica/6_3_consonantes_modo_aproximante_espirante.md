@@ -8,7 +8,7 @@ sidebar:
   # Orden (Número más bajo aparece más arriba)
   order: 76
 ---
-# 6.3 Modo de articulación: aproximante
+# 6.3 Modo de articulación: aproximante espirante
 
 Si se comparan las dos consonantes de "baba" o de "dado" o de "gagá" se podrá apreciar una gran diferencia: la primera es oclusiva pero no la segunda. Hay casos de estas consonantes en posición intervocálica que tienden a desaparecer en el habla coloquial 
 
