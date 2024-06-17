@@ -31,10 +31,7 @@ El correspondiente espectrograma de banda ancha se observa en la imagen siguient
 
 En algunos países, Chile incluido, en posición de cosa silábica, se tiende a pronunciar el fonema /s/ de una manera muy tenue o débil: [ʰ]
 
-
-
-
-En Chile, también existe una variante fricativa del fonema "che".
+En Chile, también existe una variante fricativa del fonema "che" /t͡ʃ/ que se representa como [ʃ] y para el cual habitualmente se usa la grafía "sh".
 
 
 Tabla de síntesis
