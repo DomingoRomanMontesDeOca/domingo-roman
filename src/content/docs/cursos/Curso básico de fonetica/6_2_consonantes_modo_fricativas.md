@@ -32,3 +32,32 @@ El correspondiente espectrograma de banda ancha se observa en la imagen siguient
 En Chile, también existe una variante fricativa del fonema "che".
 
 
+Tabla de síntesis
+| Fonema | Alófono |Punto| Sonoridad|
+| ----------- | ----------- |----------- | ----------- |
+| /s/ | [s] | alveolar | Sorda|
+| | [h] | alveolar | Sorda|
+| /f/ | [f] | Dentoalveolar | Sorda|
+| // | [] | Bilabial | Sorda|
+| /x/ | [x] | Velar| Sorda|
+
+
+
+
+
+
+| Fonema | Alófono |Punto| Sonoridad|
+| ----------- | ----------- |----------- | ----------- |
+| /p/ | [p] | Bilabial | Sorda|
+| /t/ | [t̪] | Dentoalveolar | Sorda|
+| /k/ | [k] | Velar| Sorda|
+| /b/ | [b]|Bilabial|Sonora|
+| /d/ | [d̪]|Dentoalveolar|Sonora|
+| /g/ | [g]|Velar|Sonora|
+| /s/ | [s] | alveolar | Sorda|
+| | [h] | alveolar | Sorda|
+| /f/ | [f] | Dentoalveolar | Sorda|
+| // | [] | Bilabial | Sorda|
+| /x/ | [x] | Velar| Sorda|
+
+
