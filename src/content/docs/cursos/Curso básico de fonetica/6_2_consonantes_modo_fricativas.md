@@ -37,8 +37,8 @@ En Chile, también existe una variante fricativa del fonema "che" /t͡ʃ/ que se
 Tabla de síntesis
 | Fonema | Alófono |Punto| Sonoridad|
 | ----------- | ----------- |----------- | ----------- |
-| /s/ | [s] | alveolar | Sorda|
-| | [ʰ] | alveolar | Sorda|
+| /s/ | [s] | Alveolar | Sorda|
+| | [ʰ] | Alveolar | Sorda|
 | /f/ | [f] | Dentoalveolar | Sorda|
 |  | [ɸ] | Bilabial | Sorda|
 | /x/ | [x] | Velar| Sorda|
@@ -58,8 +58,8 @@ Tabla de síntesis acumulada
 | /b/ | [b]| Oclusivo|Bilabial|Sonora|
 | /d/ | [d̪]| Oclusivo|Dentoalveolar|Sonora|
 | /g/ | [g]| Oclusivo|Velar|Sonora|
-| /s/ | [s] |  Fricativo|alveolar | Sorda|
-| | [ʰ] |  Fricativo|alveolar | Sorda|
+| /s/ | [s] |  Fricativo|Alveolar | Sorda|
+| | [ʰ] |  Fricativo|Alveolar | Sorda|
 | /f/ | [f] | Fricativo| Dentoalveolar | Sorda|
 | | [ɸ] | Fricativo| Bilabial | Sorda|
 | /x/ | [x] |  Fricativo|Velar| Sorda|
