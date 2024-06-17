@@ -26,7 +26,7 @@ Para este modo de articulación se usa el término *aproximante* y se utiliza en
 
 ![Consonantes aproximantes entre otros tipos](/imagenes/aproximantes_fricativas_oclusivas.png)
 
-Son consonantes aproximantes las consonantes b/d/g en posición intervocálica y para representarlas se usan los símbolos [β̞ ð̞ ɣ̞]. Sobre esta última realización habrá que tener en cuenta lo que se señalará en el apartado de *palatalización de las velares*.
+Son consonantes aproximantes las consonantes b/d/g en posición intervocálica y para representarlas se usan los símbolos [ β̞ ð̞ ɣ̞ ]. Sobre esta última realización habrá que tener en cuenta lo que se señalará en el apartado de *palatalización de las velares*.
 
 La figura siguiente muestra el oscilograma y el espectrograma de la palabra *dado*. Obsérvese la diferencia entre ambas realizaciones del fonema /d/:
 
