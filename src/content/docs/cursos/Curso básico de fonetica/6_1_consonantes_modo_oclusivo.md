@@ -69,3 +69,5 @@ Tabla de síntesis:
 | /b/ | [b]|Bilabial|Sonora|
 | /d/ | [d̪]|Dentoalveolar|Sonora|
 | /g/ | [g]|Velar|Sonora|
+
+Para b/d/g ahy otros alófonos que se expondrán en otro apartado.
