@@ -45,6 +45,8 @@ Tabla de síntesis
 | /f/ | [f] | Dentoalveolar | Sorda|
 |  | [ɸ] | Bilabial | Sorda|
 | /x/ | [x] | Velar| Sorda|
+| /t͡ʃ/ | [ʃ] | Palatal| Sorda|
+
 
 
 
@@ -64,5 +66,5 @@ Tabla de síntesis acumulada
 | /f/ | [f] | Dentoalveolar | Sorda|
 | | [ɸ] | Bilabial | Sorda|
 | /x/ | [x] | Velar| Sorda|
-
+| /t͡ʃ/ | [ʃ] | Palatal| Sorda|
 
