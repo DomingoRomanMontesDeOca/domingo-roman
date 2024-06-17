@@ -29,6 +29,11 @@ El correspondiente espectrograma de banda ancha se observa en la imagen siguient
 
 ![Espectrograma con sonidos fricativos](/imagenes/espectrograma_fricativas_1.png)
 
+En algunos países, Chile incluido, en posición de cosa silábica, se tiende a pronunciar el fonema /s/ de una manera muy tenue o débil: [ʰ]
+
+
+
+
 En Chile, también existe una variante fricativa del fonema "che".
 
 
@@ -36,7 +41,7 @@ Tabla de síntesis
 | Fonema | Alófono |Punto| Sonoridad|
 | ----------- | ----------- |----------- | ----------- |
 | /s/ | [s] | alveolar | Sorda|
-| | [h] | alveolar | Sorda|
+| | [ʰ] | alveolar | Sorda|
 | /f/ | [f] | Dentoalveolar | Sorda|
 |  | [ɸ] | Bilabial | Sorda|
 | /x/ | [x] | Velar| Sorda|
@@ -55,7 +60,7 @@ Tabla de síntesis acumulada
 | /d/ | [d̪]|Dentoalveolar|Sonora|
 | /g/ | [g]|Velar|Sonora|
 | /s/ | [s] | alveolar | Sorda|
-| | [h] | alveolar | Sorda|
+| | [ʰ] | alveolar | Sorda|
 | /f/ | [f] | Dentoalveolar | Sorda|
 | | [ɸ] | Bilabial | Sorda|
 | /x/ | [x] | Velar| Sorda|
