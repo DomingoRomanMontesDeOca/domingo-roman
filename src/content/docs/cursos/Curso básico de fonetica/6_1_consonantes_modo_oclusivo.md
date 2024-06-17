@@ -64,8 +64,8 @@ Tabla de síntesis:
 | Fonema | Alófono |Punto| Sonoridad|
 | ----------- | ----------- |----------- | ----------- |
 | /p/ | [p] | Bilabial | Sorda|
-| /t/ | [t] | Dentoalveolar | Sorda|
+| /t/ | [t̪] | Dentoalveolar | Sorda|
 | /k/ | [k] | Velar| Sorda|
 | /b/ | [b]|Bilabial|Sonora|
-| /d/ | [d]|Dentoalveolar|Sonora|
+| /d/ | [d̪]|Dentoalveolar|Sonora|
 | /g/ | [g]|Velar|Sonora|
