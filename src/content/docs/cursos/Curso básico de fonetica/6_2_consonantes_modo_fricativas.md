@@ -50,18 +50,18 @@ Tabla de síntesis
 
 
 Tabla de síntesis acumulada
-| Fonema | Alófono |Punto| Sonoridad|
+| Fonema | Alófono |modo|Punto| Sonoridad|
 | ----------- | ----------- |----------- | ----------- |
-| /p/ | [p] | Bilabial | Sorda|
-| /t/ | [t̪] | Dentoalveolar | Sorda|
-| /k/ | [k] | Velar| Sorda|
-| /b/ | [b]|Bilabial|Sonora|
-| /d/ | [d̪]|Dentoalveolar|Sonora|
-| /g/ | [g]|Velar|Sonora|
-| /s/ | [s] | alveolar | Sorda|
-| | [ʰ] | alveolar | Sorda|
-| /f/ | [f] | Dentoalveolar | Sorda|
-| | [ɸ] | Bilabial | Sorda|
-| /x/ | [x] | Velar| Sorda|
-| /t͡ʃ/ | [ʃ] | Palatal| Sorda|
+| /p/ | [p] | Oclusivo|Bilabial | Sorda|
+| /t/ | [t̪] |  Oclusivo|Dentoalveolar | Sorda|
+| /k/ | [k] |  Oclusivo|Velar| Sorda|
+| /b/ | [b]| Oclusivo|Bilabial|Sonora|
+| /d/ | [d̪]| Oclusivo|Dentoalveolar|Sonora|
+| /g/ | [g]| Oclusivo|Velar|Sonora|
+| /s/ | [s] |  Fricativo|alveolar | Sorda|
+| | [ʰ] |  Fricativo|alveolar | Sorda|
+| /f/ | [f] | Fricativo| Dentoalveolar | Sorda|
+| | [ɸ] | Fricativo| Bilabial | Sorda|
+| /x/ | [x] |  Fricativo|Velar| Sorda|
+| /t͡ʃ/ | [ʃ] |  Fricativo|Palatal| Sorda|
 
