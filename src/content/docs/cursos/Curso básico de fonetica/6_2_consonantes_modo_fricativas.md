@@ -38,9 +38,9 @@ Tabla de síntesis
 | Fonema | Alófono |Punto| Sonoridad|
 | ----------- | ----------- |----------- | ----------- |
 | /s/ | [s] | Alveolar | Sorda|
-| | [ʰ] | Alveolar | Sorda|
+| /s/ | [ʰ] | Alveolar | Sorda|
 | /f/ | [f] | Dentoalveolar | Sorda|
-|  | [ɸ] | Bilabial | Sorda|
+| /f/ | [ɸ] | Bilabial | Sorda|
 | /x/ | [x] | Velar| Sorda|
 | /t͡ʃ/ | [ʃ] | Palatal| Sorda|
 
@@ -59,9 +59,9 @@ Tabla de síntesis acumulada
 | /d/ | [d̪]| Oclusivo|Dentoalveolar|Sonora|
 | /g/ | [g]| Oclusivo|Velar|Sonora|
 | /s/ | [s] |  Fricativo|Alveolar | Sorda|
-| | [ʰ] |  Fricativo|Alveolar | Sorda|
+| /s/| [ʰ] |  Fricativo|Alveolar | Sorda|
 | /f/ | [f] | Fricativo| Dentoalveolar | Sorda|
-| | [ɸ] | Fricativo| Bilabial | Sorda|
+| /f/| [ɸ] | Fricativo| Bilabial | Sorda|
 | /x/ | [x] |  Fricativo|Velar| Sorda|
 | /t͡ʃ/ | [ʃ] |  Fricativo|Palatal| Sorda|
 
