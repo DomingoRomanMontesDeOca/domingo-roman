@@ -76,6 +76,6 @@ Tabla de síntesis acumulada
 |/b/|[β̞]|Aproximante espirante|Bilabial|Sonoro|
 |/d/|[ð̞]|Aproximante espirante|Dentoalveolar|Sonoro|
 |/g/|[ɣ̞]|Aproximante espirante|Velar|Sonoro|
-|/l/|[l]|Aproximante lateral |Aleveolar|Sonoro|
+|/l/|[l]|Aproximante lateral |Alveolar|Sonoro|
 |/l/|[l̪]|Aproximante lateral |Detalizado|Sonoro|
 |/l/|[lʲ]|Aproximante lateral |Palatalizadolizado|Sonoro|
