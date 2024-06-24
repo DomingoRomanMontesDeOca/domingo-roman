@@ -31,16 +31,23 @@ Si al sonido de "ele" sigue otro dentoalveolar, como t/d, la "ele" se dentaliza.
 
 
 
-alto ˈal̪t̪o  
+>>> alto ˈal̪t̪o  
 
-caldo ˈkal̪d̪o
+>>> caldo ˈkal̪d̪o
+
+
 
 ## Ante consonante palatal
 
-el chileno  elʲ t͡ʃiˈleno
-
-
 Si al sonido de ele le sigue un sonido palatal, entonces la ele se palataliza.
 
+>>> el chileno  elʲ t͡ʃiˈleno
+
+
+| Fonema | Alófono |
+| ----------- | ----------- |
+| /l/ | [l] |
+| /l/ | [l̪] |
+| /l/ | [lʲ] |
 
 
