@@ -29,13 +29,15 @@ Esta consonante se realiza típicamente en la zona alveolar: ala, pala, solo, et
 
 Si al sonido de "ele" sigue otro dentoalveolar, como t/d, la "ele" se dentaliza.
 
-alto
 
-caldo
+
+alto ˈal̪t̪o  
+
+caldo ˈkal̪d̪o
 
 ## Ante consonante palatal
 
-el chileno
+el chileno  elʲ t͡ʃiˈleno
 
 
 Si al sonido de ele le sigue un sonido palatal, entonces la ele se palataliza.
