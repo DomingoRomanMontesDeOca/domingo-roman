@@ -56,3 +56,26 @@ Si al sonido de ele le sigue un sonido palatal, entonces la ele se palataliza.
 | /l/ | [lʲ] |
 
 
+
+
+Tabla de síntesis acumulada
+| Fonema | Alófono |modo|Punto| Sonoridad|
+| ----------- | ----------- |----------- | ----------- | ----------- |
+|/p/|[p]|Oclusivo|Bilabial|Sorda|
+|/t/|[t̪]|Oclusivo|Dentoalveolar| Sorda|
+|/k/|[k]|Oclusivo|Velar|Sorda|
+|/b/|[b]|Oclusivo|Bilabial|Sonora|
+|/d/|[d̪]|Oclusivo|Dentoalveolar|Sonora|
+|/g/|[g]|Oclusivo|Velar|Sonora|
+|/s/|[s] |Fricativo|Alveolar| Sorda|
+|/s/|[ʰ]|Fricativo|Alveolar|Sorda|
+|/f/|[f]|Fricativo|Dentoalveolar|Sorda|
+|/f/|[ɸ]|Fricativo|Bilabial|Sorda|
+|/x/|[x]|Fricativo|Velar|Sorda|
+|/t͡ʃ/|[ʃ]|Fricativo|Palatal|Sorda|
+|/b/|[β̞]|Aproximante espirante|Bilabial|Sonoro|
+|/d/|[ð̞]|Aproximante espirante|Dentoalveolar|Sonoro|
+|/g/|[ɣ̞]|Aproximante espirante|Velar|Sonoro|
+|/l/|[l]|Aproximante lateral |Aleveolar|Sonoro|
+|/l/|[l̪]|Aproximante lateral |Detalizado|Sonoro|
+|/l/|[lʲ]|Aproximante lateral |Palatalizadolizado|Sonoro|
