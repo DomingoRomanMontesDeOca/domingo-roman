@@ -72,3 +72,5 @@ Tabla de síntesis:
 | /t͡ʃ/ | [t͡ʃ]|palatal|Sorda|
 
 Para b/d/g ahi otros alófonos que se expondrán en otro apartado.
+
+En esta tabla y en las siguientes, la descripción de punto, modo y sonoridad corresponde a la de los alófonos.
