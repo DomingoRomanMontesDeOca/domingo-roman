@@ -48,6 +48,7 @@ Si al sonido de ele le sigue un sonido palatal, entonces la ele se palataliza.
 
 >>> el chileno  elʲ t͡ʃiˈleno
 
+## Tabla de síntesis de aproximante lateral
 
 | Fonema | Alófono |
 | ----------- | ----------- |
@@ -58,7 +59,8 @@ Si al sonido de ele le sigue un sonido palatal, entonces la ele se palataliza.
 
 
 
-Tabla de síntesis acumulada
+## Tabla de síntesis acumulada
+
 | Fonema | Alófono |modo|Punto| Sonoridad|
 | ----------- | ----------- |----------- | ----------- | ----------- |
 |/p/|[p]|Oclusivo|Bilabial|Sorda|
