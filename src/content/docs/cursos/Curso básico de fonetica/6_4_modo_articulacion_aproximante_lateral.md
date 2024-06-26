@@ -87,4 +87,4 @@ Si al sonido de ele le sigue un sonido palatal, entonces la ele se palataliza.
 |/g/|[ɣ̞]|Aproximante espirante|Velar|Sonoro|
 |/l/|[l]|Aproximante lateral |Alveolar|Sonoro|
 |/l/|[l̪]|Aproximante lateral |Detalizado|Sonoro|
-|/l/|[lʲ]|Aproximante lateral |Palatalizadolizado|Sonoro|
+|/l/|[lʲ]|Aproximante lateral |Palatalizado|Sonoro|
