@@ -26,11 +26,12 @@ Variantes de "ele":
 
 Esta consonante se realiza típicamente en la zona alveolar: 
 
-ala      ['ala]
- 
-pala     ['pala]
 
-polo     ['polo]
+| Palabra | Transcripción |
+| ----------- | ----------- |
+|ala|['ala]| 
+|pala|['pala]|
+|polo|['polo]|
 
 
 ## Ante consonante dentoalveolar
