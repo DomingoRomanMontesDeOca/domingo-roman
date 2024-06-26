@@ -25,9 +25,9 @@ Variantes de "ele":
 ## Mayor parte de los casos
 
 Esta consonante se realiza típicamente en la zona alveolar: 
->>> ala>>> ['ala]
->>> pala>>> ['pala]
->>> polo>>> ['polo]
+>>> ala      ['ala]
+>>> pala     ['pala]
+>>> polo     ['polo]
 
 
 ## Ante consonante dentoalveolar
@@ -36,9 +36,9 @@ Si al sonido de "ele" sigue otro dentoalveolar, como t/d, la "ele" se dentaliza.
 
 
 
->>> alto ˈal̪t̪o  
+>>> alto  [ˈal̪t̪o]  
 
->>> caldo ˈkal̪d̪o
+>>> caldo [ˈkal̪d̪o]
 
 
 
@@ -46,7 +46,7 @@ Si al sonido de "ele" sigue otro dentoalveolar, como t/d, la "ele" se dentaliza.
 
 Si al sonido de ele le sigue un sonido palatal, entonces la ele se palataliza.
 
->>> el chileno  elʲ t͡ʃiˈleno
+>>> el chileno     [elʲ t͡ʃiˈleno]
 
 ## Tabla de síntesis de aproximante lateral
 
