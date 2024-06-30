@@ -24,9 +24,9 @@ Ejemplo de "elle" (hablante catalana)
 
 <audio controls src="/sonidos/llora_catalana.wav"></audio>
 
-Variantes de "ele":
 
-## Mayor parte de los casos
+
+## Variantes:
 
 Esta consonante se realiza típicamente en la zona alveolar: 
 
