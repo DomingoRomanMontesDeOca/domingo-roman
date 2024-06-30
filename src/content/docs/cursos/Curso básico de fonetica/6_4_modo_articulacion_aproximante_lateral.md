@@ -16,11 +16,11 @@ Este es el caso de la consonante "ele" /l/ en español. También existe una cons
 
 Ejemplo de "ele"
 
-![Lateral alveolar, hablante chilena](18_Laterales_Fonética_v1_FIG_18_02_a.png)
+![Lateral alveolar, hablante chilena](/imagenes/18_Laterales_Fonética_v1_FIG_18_02_a.png)
 
 Ejemplo de "elle" (hablante catalana)
 
-![Lateral palatal peninsular](18_Laterales_Fonética_v1_FIG_18_05_a.png)
+![Lateral palatal peninsular](/imagenes/18_Laterales_Fonética_v1_FIG_18_05_a.png)
 
 
 
