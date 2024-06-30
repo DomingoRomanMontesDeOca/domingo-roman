@@ -22,7 +22,7 @@ Ejemplo de "elle" (hablante catalana)
 
 ![Lateral palatal peninsular](/imagenes/18_Laterales_Fonética_v1_FIG_18_05_a.png)
 
-
+<audio controls src="/sonidos/llora_catalana.wav"></audio>
 
 Variantes de "ele":
 
