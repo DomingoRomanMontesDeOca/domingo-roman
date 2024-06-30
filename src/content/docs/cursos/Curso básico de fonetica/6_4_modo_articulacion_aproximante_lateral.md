@@ -33,9 +33,9 @@ Esta consonante se realiza típicamente en la zona alveolar:
 
 | Palabra | Transcripción |
 | ----------- | ----------- |
-|ala|['ala]| 
-|pala|['pala]|
-|polo|['polo]|
+|ala|[ˈala]| 
+|pala|[ˈpala]|
+|polo|[ˈpolo]|
 
 
 ## Ante consonante dentoalveolar
