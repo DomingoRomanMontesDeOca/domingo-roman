@@ -14,7 +14,7 @@ Las consonantes nasales se realizan con el velo del paladar despegado de la pare
 
 El punto de constricción oral es extremadamente variable. Podemos encontrar sonidos nasales en prácticamente todos los puntos de la cavidad oral.
 
-En español, existen tres fonemas con esta característica: "eme", "ene" y "eñe", respectivamente: / m n ɲ /.
+En español, existen tres fonemas con esta característica: "eme", "ene" y "eñe", respectivamente: /m n ɲ/.
 
 Fonéticamente, las consonantes nasales m/n modifican su punto de articulación según el punto de articulación del sonido siguiente.
 
