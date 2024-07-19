@@ -18,7 +18,7 @@ En español, existen tres fonemas con esta característica: "eme", "ene" y "eñe
 
 Fonéticamente, las consonantes nasales m/n modifican su punto de articulación según el punto de articulación del sonido siguiente.
 
-| Ejemplo| punto |transcripción|
+| Palabra| Punto |Transcripción|
 | ----------- | ----------- | -----------|
 |ambos |bilabial| ['ãmbos ]|
 |un paso| bilabial |[ũm 'paso]|
