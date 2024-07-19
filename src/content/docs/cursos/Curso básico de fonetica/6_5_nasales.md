@@ -31,7 +31,7 @@ Fonéticamente, las consonantes nasales m/n modifican su punto de articulación 
 |chinche | palatalizada | ['t͡ʃinʲt͡ʃe]|
 |un yate| palatalizada |[ũnʲ 't͡ʝat̪e]|
 |anca |velarizada| ['aŋka]|
-|sin causa |velarizada| [siɲ 'kau̯sa]|
+|sin causa |velarizada| [siŋ 'kau̯sa]|
 
 ## Propiedades acústicas
 
