@@ -33,6 +33,7 @@ Fonéticamente, las consonantes nasales m/n modifican su punto de articulación 
 |anca |velarizada| ['aŋka]|
 |sin causa |velarizada| [siɲ 'kau̯sa]|
 
+## Propiedades acústicas
 
 Desde la perspectiva acústica, las nasales se caracterizan por un primer formante bajo. En el oscilograma, se observan como un bloque relativamente bien delimitado. Los sonidos nasales palatalizados o palatales propiamente, tienen el formante 2 alto.
 
