@@ -84,8 +84,8 @@ En la tradición hispánica, los archifonemas se transcriben con letras mayúscu
 |/l/|[l]|Aproximante lateral |Alveolar|Sonoro|
 |/l/|[l̪]|Aproximante lateral |Detalizado|Sonoro|
 |/l/|[lʲ]|Aproximante lateral |Palatalizado|Sonoro|
-|/m/|[m]Nasal|Bilabial|Sonoro|
-|/n/|[m]Nasal|Bilabial|Sonoro|
+|/m/|[m]|Nasal|Bilabial|Sonoro|
+|/n/|[m]|Nasal|Bilabial|Sonoro|
 |/n/|[ɱ]|Nasal|Labiodentalizado|Sonoro|
 |/n/|[n̪]|Nasal|Dentalizado|Sonoro|
 |/n/|[n]|Nasal|Alveolar|Sonoro|
