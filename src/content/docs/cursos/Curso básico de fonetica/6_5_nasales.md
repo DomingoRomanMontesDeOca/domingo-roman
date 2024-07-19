@@ -70,6 +70,18 @@ En la tradición hispánica, los archifonemas se transcriben con letras mayúscu
 |  | /n/ |
 
 
+Transcripción fonológica de los archifonemas:
+
+
+| Ejemplo | Transcripción fonológica |
+| ----------- | ----------- |
+|ambos|/'aNbos/|
+|enfermo|/eM'feRmo/[^1]| 
+|un paso|uN'paso|
+
+
+[^1]: Como se puede apreciar, entre ɾ/r (ere y erre) también hay neutralización en posición final de sílaba.
+
 ## Tabla de síntesis acumulada
 
 | Fonema | Alófono |modo|Punto| Sonoridad|
