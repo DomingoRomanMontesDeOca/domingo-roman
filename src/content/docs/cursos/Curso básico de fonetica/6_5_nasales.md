@@ -40,6 +40,10 @@ Desde la perspectiva acústica, las nasales se caracterizan por un primer forman
 ![Palabra mano pronunciada por una informante femenina](/imagenes/mano_valeria.png)
 
 
+![Expresión 'El engaño' pronunciada por una informante femenina](/imagenes/elengaño_band.png)
+
+
+
 ## Tabla de síntesis de consonantes nasales
 
 | Fonema | Alófono |
