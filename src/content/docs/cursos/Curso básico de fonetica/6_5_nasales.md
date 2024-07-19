@@ -37,7 +37,7 @@ Fonéticamente, las consonantes nasales m/n modifican su punto de articulación 
 
 Desde la perspectiva acústica, las nasales se caracterizan por un primer formante bajo. En el oscilograma, se observan como un bloque relativamente bien delimitado. Los sonidos nasales palatalizados o palatales propiamente, tienen el formante 2 alto.
 
-![Palabra mano pronunciada por una informante femenina(/imagenes/mano_valeria.png)
+![Palabra mano pronunciada por una informante femenina](/imagenes/mano_valeria.png)
 
 
 ## Tabla de síntesis de consonantes nasales
