@@ -56,6 +56,11 @@ El concepto de *archifonema*, justamente alude a estos fonemas cuya propiedad di
 
 En la tradición hispánica, los archifonemas se transcriben con letras mayúsculas y para la neutralización se usa /N/.
 
+| Archifonema | fonema |
+| ----------- | ----------- |
+| /N/ | [m] |
+|  | [n] |
+
 
 
 
