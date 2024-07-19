@@ -60,8 +60,8 @@ En la tradición hispánica, los archifonemas se transcriben con letras mayúscu
 
 | Archifonema | fonema |
 | ----------- | ----------- |
-| /N/ | [m] |
-|  | [n] |
+| /N/ | /m/ |
+|  | /n/ |
 
 
 ## Tabla de síntesis acumulada
