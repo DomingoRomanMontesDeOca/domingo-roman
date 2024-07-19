@@ -76,7 +76,7 @@ Transcripción fonológica de los archifonemas:
 | Ejemplo | Transcripción fonológica |
 | ----------- | ----------- |
 |ambos|/'aNbos/|
-|enfermo|/eM'feRmo/[^1]| 
+|enfermo|/eN'feRmo/[^1]| 
 |un paso|uN'paso|
 
 
