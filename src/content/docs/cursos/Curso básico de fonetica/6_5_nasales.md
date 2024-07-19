@@ -21,6 +21,7 @@ Fonéticamente, las consonantes nasales m/n modifican su punto de articulación 
 | Palabra| Punto |Transcripción|
 | ----------- | ----------- | -----------|
 |ambos |bilabial| ['ãmbos ]|
+|enfermo |labiodentalizada| [ẽɱ'fermo]|
 |un paso| bilabial |[ũm 'paso]|
 |untar |dentalizada| [ũn̪ˈt̪ar]|
 |un tambor| dentalizada| [ũn̪ t̪am'bor]|
@@ -40,10 +41,22 @@ Fonéticamente, las consonantes nasales m/n modifican su punto de articulación 
 | ----------- | ----------- |
 | /m/ | [m] |
 | /n/ | [m] |
+| | [ɱ] |
 | | [n̪] |
 | | [n] |
 | | [nʲ] |
 | | [ŋ] |
-| | [ŋ] |
+| ɲ| [ɲ] |
+
+## Los archifonemas nasales
+
+La distinción entre n/m es plenamente funcional (distintiva) en *cama/cana*. Sin embargo, en la posición de fin de sílaba esta diferencia se anula o neutraliza y la realización del fonema nasal, fonéticamente, depende del punto articulatorio del sonido siguiente. Esto explica que la palabra *un* se realiza como [n] (alveolar) cuando le sigue un sonido alveolar (o una vocal). Pero si le sigue un sonido bilabial o bilabializado entonces se realizará como [m], por ejemplo, en *un problema*.
+
+El concepto de *archifonema*, justamente alude a estos fonemas cuya propiedad distintiva se anula. Es decir, entre n/m no se da la función distintiva. 
+
+En la tradición hispánica, los archifonemas se transcriben con letras mayúsculas y para la neutralización se usa /N/.
+
+
+
 
 
