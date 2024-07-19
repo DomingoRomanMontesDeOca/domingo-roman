@@ -34,3 +34,16 @@ Fonéticamente, las consonantes nasales m/n modifican su punto de articulación 
 
 
 
+## Tabla de síntesis de consonantes nasales
+
+| Fonema | Alófono |
+| ----------- | ----------- |
+| /m/ | [m] |
+| /n/ | [m] |
+| | [n̪] |
+| | [n] |
+| | [nʲ] |
+| | [ŋ] |
+| | [ŋ] |
+
+
