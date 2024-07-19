@@ -20,17 +20,17 @@ Fonéticamente, las consonantes nasales m/n modifican su punto de articulación 
 
 | Ejemplo| punto |transcripción|
 | ----------- | ----------- | -----------|
-|ambos |(bilabial)| ['ãmbos ]|
-|un paso| (bilabial) |[ũm 'paso]|
-|untar |(dentalizada)| [ũn̪ˈt̪ar]|
-|un tambor| (dentalizada)| [ũn̪ t̪am'bor]|
-|una | (alveolar)| [ũna]|
-|un lío| (alveolar)|  [ũn 'lio]|
-|un río| (alveolar)|  [ũn 'rio]|
-|chinche | (palatalizada) | ['t͡ʃinʲt͡ʃe]|
-|un yate| (palatalizada) |[ũnʲ 't͡ʝat̪e]|
-|anca |(velarizada)| ['aŋka]|
-|sin causa |(velarizada)| [siɲ 'kau̯sa]|
+|ambos |bilabial| ['ãmbos ]|
+|un paso| bilabial |[ũm 'paso]|
+|untar |dentalizada| [ũn̪ˈt̪ar]|
+|un tambor| dentalizada| [ũn̪ t̪am'bor]|
+|una | alveolar| [ũna]|
+|un lío| alveolar|  [ũn 'lio]|
+|un río| alveolar|  [ũn 'rio]|
+|chinche | palatalizada | ['t͡ʃinʲt͡ʃe]|
+|un yate| palatalizada |[ũnʲ 't͡ʝat̪e]|
+|anca |velarizada| ['aŋka]|
+|sin causa |velarizada| [siɲ 'kau̯sa]|
 
 
 
