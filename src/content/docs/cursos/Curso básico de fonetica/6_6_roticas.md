@@ -16,3 +16,4 @@ Los símbolos para la transcripción fonológica son ɾ/r; respectivamente, simp
 
 Hoy día se prefiere hablar de sonidos *roticos*.
 
+![La palabra 'toro' en una voz femenina](imagenes/toro_de_franciscaToro.png)
