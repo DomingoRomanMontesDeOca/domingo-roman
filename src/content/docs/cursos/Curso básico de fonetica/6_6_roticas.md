@@ -21,4 +21,7 @@ Hoy día se prefiere hablar de sonidos *roticos*.
 Un ejemplo de [r] realizada como vibrante múltiple:
 
 ![La secuencia 'arra' en una voz femenina](/imagenes/arra_femenino.png)
- 
+
+Los anteriores corresponden a los alófonos más conocidos. Sin embargo, hay variantes. Obsérvese el siguiente espectrograma en que no hay vibración lingual sino fricción (sonora en este caso).
+
+![El nombre 'Costa Rica' una la voz de Mercedes Sosa](/imagenes/kostarrika_mercedesSosa.png)
