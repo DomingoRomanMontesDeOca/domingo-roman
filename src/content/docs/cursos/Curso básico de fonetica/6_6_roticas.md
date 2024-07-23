@@ -25,5 +25,6 @@ Un ejemplo de [r] realizada como vibrante múltiple:
 Los anteriores corresponden a los alófonos más conocidos. Sin embargo, hay variantes. Obsérvese el siguiente espectrograma en que no hay vibración lingual sino fricción (sonora en este caso).
 
 ![El nombre 'Costa Rica' una la voz de Mercedes Sosa](/imagenes/kostarrika_mercedesSosa.png)
+
 <audio controls src="/sonidos/costa_rica_mercedesSosa.wav"></audio>
 
