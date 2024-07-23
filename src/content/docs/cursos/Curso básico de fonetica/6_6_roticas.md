@@ -22,6 +22,8 @@ Un ejemplo de [r] realizada como vibrante múltiple:
 
 ![La secuencia 'arra' en una voz femenina](/imagenes/arra_femenino.png)
 
+En el ejemplo de arriba, se puede apreciar que son tres los componentes vibratorios de la "erre". Es decir, el ápice tocó tres veces los alvéolos.
+
 Los anteriores corresponden a los alófonos más conocidos. Sin embargo, hay variantes. 
 
 Obsérvese el siguiente espectrograma en que no hay vibración lingual sino fricción (sonora en este caso), en la voz de una cantante argentina.
