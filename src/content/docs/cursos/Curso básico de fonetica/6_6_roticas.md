@@ -28,3 +28,13 @@ Los anteriores corresponden a los alófonos más conocidos. Sin embargo, hay var
 
 <audio controls src="/sonidos/costa_rica_mercedesSosa.wav"></audio>
 
+Una realización semejante es la que se observa en el siguiente espectrograma:
+
+
+![Expresión 'nos roban agua' dicha por Evo Morales](/imagenes/nosrobanagua_evo-morales.png)
+
+<audio controls src="/sonidos/nohrobanagua_evoMorales.wav"></audio>
+
+
+
+
