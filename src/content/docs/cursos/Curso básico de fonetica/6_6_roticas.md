@@ -22,14 +22,15 @@ Un ejemplo de [r] realizada como vibrante múltiple:
 
 ![La secuencia 'arra' en una voz femenina](/imagenes/arra_femenino.png)
 
-Los anteriores corresponden a los alófonos más conocidos. Sin embargo, hay variantes. Obsérvese el siguiente espectrograma en que no hay vibración lingual sino fricción (sonora en este caso).
+Los anteriores corresponden a los alófonos más conocidos. Sin embargo, hay variantes. 
+
+Obsérvese el siguiente espectrograma en que no hay vibración lingual sino fricción (sonora en este caso), en la voz de una cantante argentina.
 
 ![El nombre 'Costa Rica' una la voz de Mercedes Sosa](/imagenes/kostarrika_mercedesSosa.png)
 
 <audio controls src="/sonidos/costa_rica_mercedesSosa.wav"></audio>
 
-Una realización semejante es la que se observa en el siguiente espectrograma:
-
+Una realización semejante es la que se observa en el siguiente espectrograma, que corresponde a "... nos roban agua..." en la voz de un expresidente Boliviano
 
 ![Expresión 'nos roban agua' dicha por Evo Morales](/imagenes/nosrobanagua_evo-morales.png)
 
