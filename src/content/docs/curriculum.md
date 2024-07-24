@@ -220,6 +220,8 @@ ______
 
 ## Participaciones en congreso
 ______
+- 2024\. Colonna, Valentina y Domingo Román. I congreso Internacional de Teoría de la Lírica y Poéticas comparadas. Universidad de Salamanca, 3-5 de julio.
+  
 - 2023\. Haska, C. Román, D. Quezada, C. Análisis acústico del fonema “ch” en el habla chilena santiaguina. Sochil XXIII.
   
 - 2021\. Pérez, Hernán; Daniela Osses y Domingo Román. Diseño, imple- mentación y validación de un script de Praat para medir el rendimiento diadococinético, XXXII Congreso internacional de AELFA-I, Barcelona, UIA (Universitat de les Illes Balears) 1, 2 y 3 de julio de 2021.
