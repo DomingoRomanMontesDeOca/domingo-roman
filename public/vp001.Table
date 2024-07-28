@@ -1,0 +1,1380 @@
+File type = "ooTextFile"
+Object class = "Table"
+
+numberOfColumns = 12 
+columnHeaders []: 
+    columnHeaders [1]:
+        label = "composicion" 
+    columnHeaders [2]:
+        label = "estrofa" 
+    columnHeaders [3]:
+        label = "caracter" 
+    columnHeaders [4]:
+        label = "verso" 
+    columnHeaders [5]:
+        label = "duracion" 
+    columnHeaders [6]:
+        label = "velocidad_m" 
+    columnHeaders [7]:
+        label = "minf0" 
+    columnHeaders [8]:
+        label = "maxfo" 
+    columnHeaders [9]:
+        label = "stMm" 
+    columnHeaders [10]:
+        label = "pendiente_v" 
+    columnHeaders [11]:
+        label = "st_t" 
+    columnHeaders [12]:
+        label = "pendiente_t" 
+rows: size = 50 
+rows [1]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "1" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "1" 
+        cells [5]:
+            string = "1.5594429549854238" 
+        cells [6]:
+            string = "5.130036962509331" 
+        cells [7]:
+            string = "226.74837399203244" 
+        cells [8]:
+            string = "379.45590171501476" 
+        cells [9]:
+            string = "8.914080336220842" 
+        cells [10]:
+            string = "-0.01853727115577403" 
+        cells [11]:
+            string = "-5.68130978796123" 
+        cells [12]:
+            string = "-25.88147576450895" 
+rows [2]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "1" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "2" 
+        cells [5]:
+            string = "1.5597042803955863" 
+        cells [6]:
+            string = "5.1291774348217904" 
+        cells [7]:
+            string = "199.41699068346855" 
+        cells [8]:
+            string = "314.5081365371861" 
+        cells [9]:
+            string = "7.887708070970817" 
+        cells [10]:
+            string = "-0.021280572160721233" 
+        cells [11]:
+            string = "-7.1358861013279515" 
+        cells [12]:
+            string = "-23.588741063813508" 
+rows [3]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "1" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "1.4047267799440384" 
+        cells [6]:
+            string = "5.69505765407185" 
+        cells [7]:
+            string = "230.71773490552553" 
+        cells [8]:
+            string = "392.81017908241006" 
+        cells [9]:
+            string = "9.212440913302004" 
+        cells [10]:
+            string = "-0.015364033764207032" 
+        cells [11]:
+            string = "-6.429993922404448" 
+        cells [12]:
+            string = "-31.998480978422325" 
+rows [4]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "1" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "4" 
+        cells [5]:
+            string = "1.4121285195410493" 
+        cells [6]:
+            string = "5.665206735290673" 
+        cells [7]:
+            string = "198.35914026682315" 
+        cells [8]:
+            string = "329.5054068377432" 
+        cells [9]:
+            string = "8.786247132310937" 
+        cells [10]:
+            string = "-0.03479809510455741" 
+        cells [11]:
+            string = "--undefined--" 
+        cells [12]:
+            string = "--undefined--" 
+rows [5]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "1" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "5" 
+        cells [5]:
+            string = "1.2895290419591419" 
+        cells [6]:
+            string = "6.203815299766996" 
+        cells [7]:
+            string = "220.73879218314326" 
+        cells [8]:
+            string = "361.81496522428495" 
+        cells [9]:
+            string = "8.554942717358957" 
+        cells [10]:
+            string = "-0.023845001282325123" 
+        cells [11]:
+            string = "-8.320497962640768" 
+        cells [12]:
+            string = "-31.097097615776295" 
+rows [6]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "1" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "6" 
+        cells [5]:
+            string = "1.3730224119825731" 
+        cells [6]:
+            string = "5.826561846465721" 
+        cells [7]:
+            string = "199.84411713017982" 
+        cells [8]:
+            string = "296.53937200922473" 
+        cells [9]:
+            string = "6.83218274498318" 
+        cells [10]:
+            string = "-0.019821750731866282" 
+        cells [11]:
+            string = "-6.075367402130572" 
+        cells [12]:
+            string = "-21.18601286890127" 
+rows [7]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "1" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "7" 
+        cells [5]:
+            string = "1.3419416628192575" 
+        cells [6]:
+            string = "5.961511011732779" 
+        cells [7]:
+            string = "223.655675326951" 
+        cells [8]:
+            string = "282.1862535069874" 
+        cells [9]:
+            string = "4.024420106707337" 
+        cells [10]:
+            string = "-0.012214162163134966" 
+        cells [11]:
+            string = "-3.496863513472836" 
+        cells [12]:
+            string = "-15.568445540293661" 
+rows [8]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "1" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "8" 
+        cells [5]:
+            string = "1.3744227519142758" 
+        cells [6]:
+            string = "5.820625414456882" 
+        cells [7]:
+            string = "190.02829571691788" 
+        cells [8]:
+            string = "439.39708442063613" 
+        cells [9]:
+            string = "14.511732495050495" 
+        cells [10]:
+            string = "0.006535012561753946" 
+        cells [11]:
+            string = "2.097720732912573" 
+        cells [12]:
+            string = "9.141693273486524" 
+rows [9]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "1" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "9" 
+        cells [5]:
+            string = "1.1272649598147506" 
+        cells [6]:
+            string = "7.096823094115053" 
+        cells [7]:
+            string = "218.6910974625664" 
+        cells [8]:
+            string = "403.6519607100876" 
+        cells [9]:
+            string = "10.610608890583833" 
+        cells [10]:
+            string = "-0.02014765869988371" 
+        cells [11]:
+            string = "-5.947810946612318" 
+        cells [12]:
+            string = "-43.56961933497496" 
+rows [10]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "1" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "10" 
+        cells [5]:
+            string = "1.2634790835361631" 
+        cells [6]:
+            string = "6.331723337761947" 
+        cells [7]:
+            string = "190.4847702999075" 
+        cells [8]:
+            string = "309.7194458009662" 
+        cells [9]:
+            string = "8.415435723141474" 
+        cells [10]:
+            string = "-0.011401244264109335" 
+        cells [11]:
+            string = "-1.4112319161781177" 
+        cells [12]:
+            string = "-9.005637950697055" 
+rows [11]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "2" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "1" 
+        cells [5]:
+            string = "1.354707759051589" 
+        cells [6]:
+            string = "5.905332678983608" 
+        cells [7]:
+            string = "281.57966300208255" 
+        cells [8]:
+            string = "436.55062371778877" 
+        cells [9]:
+            string = "7.591269878726877" 
+        cells [10]:
+            string = "-0.011540147850526771" 
+        cells [11]:
+            string = "-4.832901639489599" 
+        cells [12]:
+            string = "-21.89681709250238" 
+rows [12]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "2" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "2" 
+        cells [5]:
+            string = "1.3643738054344823" 
+        cells [6]:
+            string = "5.863495742981092" 
+        cells [7]:
+            string = "194.72372502309568" 
+        cells [8]:
+            string = "341.5697548609656" 
+        cells [9]:
+            string = "9.72901874084547" 
+        cells [10]:
+            string = "-0.036013740785281065" 
+        cells [11]:
+            string = "-9.63587588123675" 
+        cells [12]:
+            string = "-27.75335922591968" 
+rows [13]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "2" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "1.308299756040899" 
+        cells [6]:
+            string = "6.114806612980757" 
+        cells [7]:
+            string = "237.59425186276906" 
+        cells [8]:
+            string = "402.79471418180094" 
+        cells [9]:
+            string = "9.138537814369057" 
+        cells [10]:
+            string = "-0.019023651201804107" 
+        cells [11]:
+            string = "-4.245901233140712" 
+        cells [12]:
+            string = "-20.937777150676496" 
+rows [14]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "2" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "4" 
+        cells [5]:
+            string = "1.2586002261831375" 
+        cells [6]:
+            string = "6.356267727887671" 
+        cells [7]:
+            string = "202.94076857862677" 
+        cells [8]:
+            string = "353.82040439978596" 
+        cells [9]:
+            string = "9.62350239692731" 
+        cells [10]:
+            string = "-0.031588922037868616" 
+        cells [11]:
+            string = "-8.884149390071077" 
+        cells [12]:
+            string = "-23.931458744376844" 
+rows [15]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "2" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "5" 
+        cells [5]:
+            string = "1.5180699837329819" 
+        cells [6]:
+            string = "5.269849272908847" 
+        cells [7]:
+            string = "251.93920703565587" 
+        cells [8]:
+            string = "410.17673112623123" 
+        cells [9]:
+            string = "8.438039981120536" 
+        cells [10]:
+            string = "-0.012374705665985062" 
+        cells [11]:
+            string = "-5.593366961025248" 
+        cells [12]:
+            string = "-23.438670286305918" 
+rows [16]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "2" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "6" 
+        cells [5]:
+            string = "1.3741796233848973" 
+        cells [6]:
+            string = "5.821655236230541" 
+        cells [7]:
+            string = "194.84204002992524" 
+        cells [8]:
+            string = "331.0747507728806" 
+        cells [9]:
+            string = "9.178223939739244" 
+        cells [10]:
+            string = "-0.029333200048114325" 
+        cells [11]:
+            string = "-8.870456532505385" 
+        cells [12]:
+            string = "-27.02200762494204" 
+rows [17]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "2" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "7" 
+        cells [5]:
+            string = "1.3944740149555415" 
+        cells [6]:
+            string = "5.736930135808271" 
+        cells [7]:
+            string = "223.6385491648415" 
+        cells [8]:
+            string = "359.6931948084074" 
+        cells [9]:
+            string = "8.227175688041937" 
+        cells [10]:
+            string = "-0.011302987436000262" 
+        cells [11]:
+            string = "-3.6924003196166897" 
+        cells [12]:
+            string = "-17.76374257011187" 
+rows [18]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "2" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "8" 
+        cells [5]:
+            string = "1.500033424334834" 
+        cells [6]:
+            string = "5.333214493902009" 
+        cells [7]:
+            string = "210.58568004528553" 
+        cells [8]:
+            string = "474.25068938969434" 
+        cells [9]:
+            string = "14.054910422893556" 
+        cells [10]:
+            string = "0.009520035225272575" 
+        cells [11]:
+            string = "3.591174890720659" 
+        cells [12]:
+            string = "11.93929678986666" 
+rows [19]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "2" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "9" 
+        cells [5]:
+            string = "1.1468130471582363" 
+        cells [6]:
+            string = "6.975853666666706" 
+        cells [7]:
+            string = "250.92562680438476" 
+        cells [8]:
+            string = "436.75549455387875" 
+        cells [9]:
+            string = "9.594792402314711" 
+        cells [10]:
+            string = "-0.010208417511522383" 
+        cells [11]:
+            string = "-3.464332156878772" 
+        cells [12]:
+            string = "-18.32344297340184" 
+rows [20]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "2" 
+        cells [3]:
+            string = "n" 
+        cells [4]:
+            string = "10" 
+        cells [5]:
+            string = "1.4645472861035422" 
+        cells [6]:
+            string = "5.462438854592508" 
+        cells [7]:
+            string = "193.18201828563144" 
+        cells [8]:
+            string = "303.9184549432752" 
+        cells [9]:
+            string = "7.844681650693849" 
+        cells [10]:
+            string = "-0.020822053192253227" 
+        cells [11]:
+            string = "--undefined--" 
+        cells [12]:
+            string = "--undefined--" 
+rows [21]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "3" 
+        cells [3]:
+            string = "a" 
+        cells [4]:
+            string = "1" 
+        cells [5]:
+            string = "1.403810337837207" 
+        cells [6]:
+            string = "5.698775528555568" 
+        cells [7]:
+            string = "275.0468048969272" 
+        cells [8]:
+            string = "410.47711885552104" 
+        cells [9]:
+            string = "6.931495925789234" 
+        cells [10]:
+            string = "-0.014701750900553692" 
+        cells [11]:
+            string = "-4.915316169476494" 
+        cells [12]:
+            string = "-20.45151625350542" 
+rows [22]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "3" 
+        cells [3]:
+            string = "a" 
+        cells [4]:
+            string = "2" 
+        cells [5]:
+            string = "1.1454378303063635" 
+        cells [6]:
+            string = "6.984228902113602" 
+        cells [7]:
+            string = "225.47230754514513" 
+        cells [8]:
+            string = "330.4392137281676" 
+        cells [9]:
+            string = "6.617215810177063" 
+        cells [10]:
+            string = "-0.017209393261136074" 
+        cells [11]:
+            string = "-4.534581796347616" 
+        cells [12]:
+            string = "-23.387673480453838" 
+rows [23]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "3" 
+        cells [3]:
+            string = "a" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "1.5269867883543924" 
+        cells [6]:
+            string = "5.239076107935069" 
+        cells [7]:
+            string = "221.44767150138827" 
+        cells [8]:
+            string = "311.50533337316165" 
+        cells [9]:
+            string = "5.907492440906853" 
+        cells [10]:
+            string = "-0.0084672905046771" 
+        cells [11]:
+            string = "-2.1868677547982647" 
+        cells [12]:
+            string = "-16.466863277333406" 
+rows [24]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "3" 
+        cells [3]:
+            string = "a" 
+        cells [4]:
+            string = "4" 
+        cells [5]:
+            string = "1.429989083137805" 
+        cells [6]:
+            string = "5.594448303371458" 
+        cells [7]:
+            string = "218.4148476982714" 
+        cells [8]:
+            string = "339.82519673708606" 
+        cells [9]:
+            string = "7.65266272494917" 
+        cells [10]:
+            string = "-0.02433171522825427" 
+        cells [11]:
+            string = "-6.24601321036992" 
+        cells [12]:
+            string = "-21.496968242857047" 
+rows [25]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "3" 
+        cells [3]:
+            string = "a" 
+        cells [4]:
+            string = "5" 
+        cells [5]:
+            string = "1.4387786967099174" 
+        cells [6]:
+            string = "5.56027137341813" 
+        cells [7]:
+            string = "239.96862284872645" 
+        cells [8]:
+            string = "413.1372803322031" 
+        cells [9]:
+            string = "9.405305670134387" 
+        cells [10]:
+            string = "-0.017818791386249776" 
+        cells [11]:
+            string = "-6.468871111223219" 
+        cells [12]:
+            string = "-24.63804026069455" 
+rows [26]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "3" 
+        cells [3]:
+            string = "a" 
+        cells [4]:
+            string = "6" 
+        cells [5]:
+            string = "1.3946977583854832" 
+        cells [6]:
+            string = "5.736009792731641" 
+        cells [7]:
+            string = "204.46945335632913" 
+        cells [8]:
+            string = "331.84089006329623" 
+        cells [9]:
+            string = "8.383276086343706" 
+        cells [10]:
+            string = "-0.01088009972861123" 
+        cells [11]:
+            string = "-3.0593673483257504" 
+        cells [12]:
+            string = "-26.5590070470586" 
+rows [27]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "3" 
+        cells [3]:
+            string = "a" 
+        cells [4]:
+            string = "7" 
+        cells [5]:
+            string = "1.19934403481259" 
+        cells [6]:
+            string = "6.670312910882225" 
+        cells [7]:
+            string = "219.84899432391057" 
+        cells [8]:
+            string = "279.81158282664484" 
+        cells [9]:
+            string = "4.175313013511149" 
+        cells [10]:
+            string = "-0.0032279548091038316" 
+        cells [11]:
+            string = "-0.5473469162202328" 
+        cells [12]:
+            string = "-6.083444878797086" 
+rows [28]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "3" 
+        cells [3]:
+            string = "a" 
+        cells [4]:
+            string = "8" 
+        cells [5]:
+            string = "1.4702977228035508" 
+        cells [6]:
+            string = "5.441074876145269" 
+        cells [7]:
+            string = "222.149468691403" 
+        cells [8]:
+            string = "462.82085899498287" 
+        cells [9]:
+            string = "12.707078354563855" 
+        cells [10]:
+            string = "0.010725473414220468" 
+        cells [11]:
+            string = "3.983079920531471" 
+        cells [12]:
+            string = "9.058525212340523" 
+rows [29]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "3" 
+        cells [3]:
+            string = "a" 
+        cells [4]:
+            string = "9" 
+        cells [5]:
+            string = "1.3868899212582377" 
+        cells [6]:
+            string = "5.768302067363864" 
+        cells [7]:
+            string = "218.09234019889215" 
+        cells [8]:
+            string = "421.9240903605608" 
+        cells [9]:
+            string = "11.424532342376107" 
+        cells [10]:
+            string = "-0.0097088177872118" 
+        cells [11]:
+            string = "-3.0655164988695773" 
+        cells [12]:
+            string = "-9.314465908469877" 
+rows [30]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "3" 
+        cells [3]:
+            string = "a" 
+        cells [4]:
+            string = "10" 
+        cells [5]:
+            string = "0.9391406631394119" 
+        cells [6]:
+            string = "8.51842574173836" 
+        cells [7]:
+            string = "201.54211098467647" 
+        cells [8]:
+            string = "304.2692097584812" 
+        cells [9]:
+            string = "7.131204438487812" 
+        cells [10]:
+            string = "-0.007779458296200282" 
+        cells [11]:
+            string = "-1.6373922379450414" 
+        cells [12]:
+            string = "-15.896575092466115" 
+rows [31]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "4" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "1" 
+        cells [5]:
+            string = "1.2547673195664828" 
+        cells [6]:
+            string = "6.375684061299882" 
+        cells [7]:
+            string = "228.55565756116818" 
+        cells [8]:
+            string = "346.2481406573292" 
+        cells [9]:
+            string = "7.191129513128656" 
+        cells [10]:
+            string = "-0.022522033258909" 
+        cells [11]:
+            string = "-5.620864916158086" 
+        cells [12]:
+            string = "-38.535532887914904" 
+rows [32]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "4" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "2" 
+        cells [5]:
+            string = "1.2241568490158983" 
+        cells [6]:
+            string = "6.535110273190248" 
+        cells [7]:
+            string = "213.28590204026452" 
+        cells [8]:
+            string = "297.5872794078454" 
+        cells [9]:
+            string = "5.766291004544797" 
+        cells [10]:
+            string = "-0.0204341799259135" 
+        cells [11]:
+            string = "-4.111510890997414" 
+        cells [12]:
+            string = "-25.65803609907844" 
+rows [33]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "4" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "1.2119739565075633" 
+        cells [6]:
+            string = "6.60080190423636" 
+        cells [7]:
+            string = "217.96668453201997" 
+        cells [8]:
+            string = "361.5000981637791" 
+        cells [9]:
+            string = "8.75866077746426" 
+        cells [10]:
+            string = "-0.017901729991264728" 
+        cells [11]:
+            string = "-4.986563266321876" 
+        cells [12]:
+            string = "-30.7249236021671" 
+rows [34]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "4" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "4" 
+        cells [5]:
+            string = "1.2236662953979263" 
+        cells [6]:
+            string = "6.537730123063057" 
+        cells [7]:
+            string = "209.07848059655038" 
+        cells [8]:
+            string = "353.9178563543992" 
+        cells [9]:
+            string = "9.112439667290118" 
+        cells [10]:
+            string = "-0.030581913946203774" 
+        cells [11]:
+            string = "-8.824911368703113" 
+        cells [12]:
+            string = "-33.043311883007334" 
+rows [35]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "4" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "5" 
+        cells [5]:
+            string = "1.2143204965538956" 
+        cells [6]:
+            string = "6.588046584656272" 
+        cells [7]:
+            string = "262.65889720897064" 
+        cells [8]:
+            string = "391.3359940187812" 
+        cells [9]:
+            string = "6.9026082824477575" 
+        cells [10]:
+            string = "-0.010812074420072397" 
+        cells [11]:
+            string = "-3.5655212560619236" 
+        cells [12]:
+            string = "-24.79371240884468" 
+rows [36]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "4" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "6" 
+        cells [5]:
+            string = "1.527079597525983" 
+        cells [6]:
+            string = "5.238757699965854" 
+        cells [7]:
+            string = "213.50236490162413" 
+        cells [8]:
+            string = "309.5318405154253" 
+        cells [9]:
+            string = "6.430029265201868" 
+        cells [10]:
+            string = "-0.019039821487774843" 
+        cells [11]:
+            string = "-5.05917995194938" 
+        cells [12]:
+            string = "-20.694252098971937" 
+rows [37]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "4" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "7" 
+        cells [5]:
+            string = "1.526654672851933" 
+        cells [6]:
+            string = "5.24021584072792" 
+        cells [7]:
+            string = "213.10460297791136" 
+        cells [8]:
+            string = "275.81847831855816" 
+        cells [9]:
+            string = "4.465888291095952" 
+        cells [10]:
+            string = "-0.012988891727768974" 
+        cells [11]:
+            string = "-3.448742321919003" 
+        cells [12]:
+            string = "-14.226409608637594" 
+rows [38]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "4" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "8" 
+        cells [5]:
+            string = "1.5707381657333315" 
+        cells [6]:
+            string = "5.093146760246342" 
+        cells [7]:
+            string = "206.4188386916211" 
+        cells [8]:
+            string = "451.2236245620921" 
+        cells [9]:
+            string = "13.539215531284086" 
+        cells [10]:
+            string = "0.003935683260974089" 
+        cells [11]:
+            string = "--undefined--" 
+        cells [12]:
+            string = "--undefined--" 
+rows [39]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "4" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "9" 
+        cells [5]:
+            string = "1.0105661677247326" 
+        cells [6]:
+            string = "7.9163544708921165" 
+        cells [7]:
+            string = "264.6674803416021" 
+        cells [8]:
+            string = "457.9543361309146" 
+        cells [9]:
+            string = "9.492273701816018" 
+        cells [10]:
+            string = "-0.01043684512053196" 
+        cells [11]:
+            string = "-2.9570020890567794" 
+        cells [12]:
+            string = "-19.99105455893218" 
+rows [40]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "4" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "10" 
+        cells [5]:
+            string = "1.2854848787503244" 
+        cells [6]:
+            string = "6.223332636769051" 
+        cells [7]:
+            string = "135.99234443182092" 
+        cells [8]:
+            string = "346.700690337222" 
+        cells [9]:
+            string = "16.201983247882076" 
+        cells [10]:
+            string = "-0.08562201825276335" 
+        cells [11]:
+            string = "-12.809256158827273" 
+        cells [12]:
+            string = "-44.85653056691098" 
+rows [41]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "5" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "1" 
+        cells [5]:
+            string = "1.360101341465196" 
+        cells [6]:
+            string = "5.881914645699741" 
+        cells [7]:
+            string = "271.1502103177333" 
+        cells [8]:
+            string = "423.4612762566243" 
+        cells [9]:
+            string = "7.71765309416321" 
+        cells [10]:
+            string = "-0.011316248665662727" 
+        cells [11]:
+            string = "-4.547822242795838" 
+        cells [12]:
+            string = "-19.92718958536859" 
+rows [42]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "5" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "2" 
+        cells [5]:
+            string = "1.170150605067363" 
+        cells [6]:
+            string = "6.836726798546977" 
+        cells [7]:
+            string = "247.70916130275882" 
+        cells [8]:
+            string = "339.00110773818335" 
+        cells [9]:
+            string = "5.4317131348141965" 
+        cells [10]:
+            string = "-0.001231838812326686" 
+        cells [11]:
+            string = "2.417713632030717" 
+        cells [12]:
+            string = "9.89328462350011" 
+rows [43]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "5" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "3" 
+        cells [5]:
+            string = "1.3395934547696413" 
+        cells [6]:
+            string = "5.971961098731774" 
+        cells [7]:
+            string = "219.4526742827386" 
+        cells [8]:
+            string = "271.78302942883795" 
+        cells [9]:
+            string = "3.702546282123282" 
+        cells [10]:
+            string = "-0.009601381932515397" 
+        cells [11]:
+            string = "-2.2381010275029727" 
+        cells [12]:
+            string = "-20.785354260216472" 
+rows [44]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "5" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "4" 
+        cells [5]:
+            string = "1.4701328098883266" 
+        cells [6]:
+            string = "5.441685231559243" 
+        cells [7]:
+            string = "207.63902402306195" 
+        cells [8]:
+            string = "398.5463770476513" 
+        cells [9]:
+            string = "11.288040026764651" 
+        cells [10]:
+            string = "-0.03309294440419387" 
+        cells [11]:
+            string = "-10.38860109992936" 
+        cells [12]:
+            string = "-32.14830668259617" 
+rows [45]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "5" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "5" 
+        cells [5]:
+            string = "1.4080461229210073" 
+        cells [6]:
+            string = "5.681632064299081" 
+        cells [7]:
+            string = "263.8626857500143" 
+        cells [8]:
+            string = "434.23135149634686" 
+        cells [9]:
+            string = "8.624118557929382" 
+        cells [10]:
+            string = "-0.012388398958617096" 
+        cells [11]:
+            string = "-5.383017729936874" 
+        cells [12]:
+            string = "-24.011751833594932" 
+rows [46]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "5" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "6" 
+        cells [5]:
+            string = "1.5945029321926825" 
+        cells [6]:
+            string = "5.017237559418465" 
+        cells [7]:
+            string = "227.60464729311227" 
+        cells [8]:
+            string = "386.3970497929239" 
+        cells [9]:
+            string = "9.162648764546956" 
+        cells [10]:
+            string = "-0.015957651872969363" 
+        cells [11]:
+            string = "-6.153436118422664" 
+        cells [12]:
+            string = "-22.40267108874594" 
+rows [47]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "5" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "7" 
+        cells [5]:
+            string = "1.4389831339685486" 
+        cells [6]:
+            string = "5.559481422090701" 
+        cells [7]:
+            string = "216.26548541496908" 
+        cells [8]:
+            string = "286.33471675936755" 
+        cells [9]:
+            string = "4.858789946984029" 
+        cells [10]:
+            string = "-0.007412479828966046" 
+        cells [11]:
+            string = "-2.254901793610827" 
+        cells [12]:
+            string = "-9.793632321646866" 
+rows [48]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "5" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "8" 
+        cells [5]:
+            string = "1.6771353594022145" 
+        cells [6]:
+            string = "4.770038360440663" 
+        cells [7]:
+            string = "216.62442267170908" 
+        cells [8]:
+            string = "444.06187067080975" 
+        cells [9]:
+            string = "12.426777543684919" 
+        cells [10]:
+            string = "0.004250233310131768" 
+        cells [11]:
+            string = "1.5956171620994994" 
+        cells [12]:
+            string = "3.970056039897857" 
+rows [49]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "5" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "9" 
+        cells [5]:
+            string = "1.315375354383221" 
+        cells [6]:
+            string = "6.0819141649124155" 
+        cells [7]:
+            string = "251.95063241828177" 
+        cells [8]:
+            string = "471.00283111370555" 
+        cells [9]:
+            string = "10.831135848502923" 
+        cells [10]:
+            string = "-0.011788032849746407" 
+        cells [11]:
+            string = "-3.253106788193695" 
+        cells [12]:
+            string = "-12.88573873670679" 
+rows [50]:
+    numberOfColumns = 12 
+    cells []: 
+        cells [1]:
+            string = "vp001" 
+        cells [2]:
+            string = "5" 
+        cells [3]:
+            string = "d" 
+        cells [4]:
+            string = "10" 
+        cells [5]:
+            string = "1.2056993360654644" 
+        cells [6]:
+            string = "6.635153359299547" 
+        cells [7]:
+            string = "164.5881392046026" 
+        cells [8]:
+            string = "298.0391215407751" 
+        cells [9]:
+            string = "10.279696102567893" 
+        cells [10]:
+            string = "-0.025140332774175118" 
+        cells [11]:
+            string = "-6.013687590430782" 
+        cells [12]:
+            string = "-39.71941530863069" 
