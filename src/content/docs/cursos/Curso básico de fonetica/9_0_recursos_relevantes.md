@@ -4,13 +4,13 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 9.0 Recursos relevantes
+  label: 7.3 Recursos relevantes
   # Orden (Número más bajo aparece más arriba)
   order: 90
 ---
-# 9.0 Recursos relevantes
+# 7.3 Recursos relevantes
 
-## 9.1 Libros y artículos
+## Libros y artículos
 
 - Fernández-Planas, A.M. (2011). *Así se habla*, Barcelona, Horsori.
 - Gil Fernández, J. (2007). *Fonética para profesores de español*. Madrid: Arco.
@@ -22,7 +22,7 @@ sidebar:
 - Rojas, D. (2015). *¿Por qué los chilenos hablamos como hablamos? Mitos e historia de nuestro lenguaje*, Uqbar editores.
 - Román, D. 2011. *Manual para el análisis fonético acústico*, Santiago de Chile, Pfeiffer.
 
-## 9.2 Sitios de Internet
+## Sitios de Internet
 
 [Alexis Irribar](https://paginaspersonales.deusto.es/airibar/Fonetica/Fonetica.html)
 
@@ -37,7 +37,7 @@ sidebar:
 
 
 
-## 9.3 Aplicaciones
+## Aplicaciones
 
 [Praat](https://www.fon.hum.uva.nl/praat/)
 
