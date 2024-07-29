@@ -20,3 +20,5 @@ Toda palabra se puede analizar en términos de las sílabas que la componen. En 
 
 El siguiente esquema muestra las posiciones posibles que se pueden realizar en una sílaba. De estas posiciones, solo el núcleo (N) es obligatorio.
 
+![Esquema de posibles posiciones en la sílaba](/imagenes/esquema_silabico.png)
+
