@@ -4,11 +4,11 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 10.0 Prosodia
+  label: 8 Prosodia
   # Orden (Número más bajo aparece más arriba)
   order: 100
 ---
-# 10. Introducción a los aspectos suprasegmentales
+# 8_0. Introducción a los aspectos suprasegmentales
 
 Los fonemas son los segmentos del plano del significante que se realizan como alófonos o variantes y cuya manifestación concreta es el sonido o *fono*. En la cadena hablada, estos sonidos se organizan de determinada manera y en distintos niveles.
 
