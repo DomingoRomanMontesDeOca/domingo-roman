@@ -305,6 +305,8 @@ ______
 
 ## Comités de revistas especializadas, evaluaciones de concursos de investigación
 
+- 2024\.     Evaluador para la revista Co-herencia, de la Universidad EAFIT, Colombia.
+
 - 2019\.     Miembro del Consejo Asesor de la revista *Semas*, Universidad Autónoma de Querétaro, México
 
 - 2019\.     Evaluador de artículos *Revista Chilena de Fonoaudiología*, Universidad de Chile
