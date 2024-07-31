@@ -36,6 +36,6 @@ La palabra "alma" tiene dos sílabas: "al" y "ma". La segunda sílaba tiene la m
 
 ![Representación de las sílabas de "alma"](/imagenes/esq_sil_alma.png)
 
+Desde el punto de vista de los componentes silábicos estos ejemplos corresponden a las sílabas más simples.
 
-
-
+estructura|ejemplo|
