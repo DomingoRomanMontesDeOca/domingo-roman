@@ -38,10 +38,24 @@ La palabra "alma" tiene dos sílabas: "al" y "ma". La segunda sílaba tiene la m
 
 Desde el punto de vista de los componentes silábicos estos ejemplos corresponden a las sílabas más simples.
 
-|estructura|ejemplo|
+|Estructura|Ejemplo|
 |-------|-------|
 |N|"a"|
 |ma-N|"la"|
 |N-mp|"al"|
-|ma-Nmp|"las"|
+|ma-N-mp|"las"|
+
+De estas estructuras posibles, hay una a la que se le denomina *sílaba universal* dado que tiene una gravitación enorme en todas las lenguas y en algunas es el único tipo silábico existente. El el caso de ma-N.
+
+Si se usa "C" para simbolizar 'consonante' y "V" para 'vocal', entonces tenemos los tipos V, CV, VC y CVC. El tipo universal es CV.
+
+
+# 8.1.3 Sílabas complejas con elementos complementarios del núcleo
+
+En muchas ocasiones, el núcleo silábico está acompañado por un elemento de carácter vocálico, como ocurre en los diptongos. Por ejemplo, en palabras como "caigo" y "ciego". En ambos casos la primera sílaba tiene un *ma* y un *N* pero hay también una /i/ en un caso después de la vocal nuclear y en el otro caso, antes.
+
+
+
+
+
 
