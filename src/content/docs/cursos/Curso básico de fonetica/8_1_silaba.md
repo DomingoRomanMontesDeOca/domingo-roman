@@ -54,8 +54,7 @@ Si se usa "C" para simbolizar 'consonante' y "V" para 'vocal', entonces tenemos 
 
 En muchas ocasiones, el núcleo silábico está acompañado por un elemento de carácter vocálico, como ocurre en los diptongos. Por ejemplo, en palabras como "caigo" y "ciego". En ambos casos la primera sílaba tiene un *ma* y un *N* pero hay también una /i/ en un caso después de la vocal nuclear y en el otro caso, antes.
 
+![Representación de las sílabas iniciales de "caigo" y "ciego"](/imagenes/esq_sil_kai_sie.png)
 
-
-
-
+Las vocales fonológicas que pueden ser parte de una secuencia *tautosilábica* (en una misma sílaba) son i/u. La tradición en fonética las ha denominado *semiconsonantes* cuando preceden al núcleo y *semivocales* cuando lo siguen. En la transcripción se usan los símbolos y diacríticos vistos en [ver vocales](/carpeta/pagina2) vocales
 
