@@ -38,4 +38,10 @@ La palabra "alma" tiene dos sílabas: "al" y "ma". La segunda sílaba tiene la m
 
 Desde el punto de vista de los componentes silábicos estos ejemplos corresponden a las sílabas más simples.
 
-estructura|ejemplo|
+|estructura|ejemplo|
+|-------|-------|
+|N|"a"|
+|ma-N|"la"|
+|N-mp|"al"|
+|ma-Nmp|"las"|
+
