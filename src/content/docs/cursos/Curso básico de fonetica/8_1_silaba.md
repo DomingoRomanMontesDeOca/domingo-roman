@@ -22,7 +22,7 @@ El siguiente esquema muestra las posiciones que se pueden realizar en una sílab
 
 ![Esquema de posibles posiciones en la sílaba](/imagenes/esquema_silabico.png)
 
-## 8.1.2 Ejemplos
+## 8.1.2 Las sílabas más simples
 
 La palabra *alados* tiene tres sílabas: *a-la-dos*. La primera sílaba consta de solo una vocal: "a"; En este caso, la sílaba tiene un núcleo y nada más. La sílaba "la" consta de una consonante y una vocal, es decir, un margen anterior y un núcleo. Por su parte, la sílaba "dos" tiene un margen anterior "d", un núcleo "o" y un margen posterior "s".
 
@@ -31,6 +31,10 @@ En la siguiente figura, se muestran las tres sílabas y los componentes realizad
 ![Representación de las sílabas de "alado"](/imagenes/esq_sil_alados.png)
 
 Podemos también representar este esquema como: "N / ma-N / ma-N-mp".
+
+La palabra "alma" tiene dos sílabas: "al" y "ma". La segunda sílaba tiene la misma estructura que la sílaba "la" del ejemplo anterior en la palabra "alados". En cambio, la primera sílaba tiene un núcleo y una consonante que actúa como margen posterior. Esta palabra la podemos representar como "N-mp / ma-N" o, gráficamente, como
+
+![Representación de las sílabas de "alma"](/imagenes/esq_sil_alma.png)
 
 
 
