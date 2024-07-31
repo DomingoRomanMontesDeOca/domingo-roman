@@ -12,13 +12,20 @@ sidebar:
 
 La sílaba es una organización fonológica y fonética que incluye uno o más segmentos fónicos y que se corresponde con el gesto articulatorio básico de apertura y cierre bucal.
 
-Se puede distinguir entonces, en su momento central un núcleo que siempre, en español, será vocálico. Este núcleo puede estar acompañado de otros segmentos subordinados al núcleo.
+Se puede distinguir, entonces, en su momento central un núcleo (**N**)que siempre, en español, será vocálico. Este núcleo puede estar acompañado de otros segmentos subordinados al núcleo.
 
 Toda palabra se puede analizar en términos de las sílabas que la componen. En un sintagma de más de una palabra, se pueden producir reordenamientos según la naturaleza de las junturas entre las palabras.
 
 ## 8.1.1 Estructura
 
-El siguiente esquema muestra las posiciones posibles que se pueden realizar en una sílaba. De estas posiciones, solo el núcleo (N) es obligatorio.
+El siguiente esquema muestra las posiciones que se pueden realizar en una sílaba. De estas posiciones, solo el núcleo es obligatorio.
 
 ![Esquema de posibles posiciones en la sílaba](/imagenes/esquema_silabico.png)
+
+## 8.1.2 Ejemplos
+
+La palabra *alados* tiene tres sílabas: *a-la-dos*. La primera sílaba consta de solo una vocal: "a"; En este caso, la sílaba tiene un núcleo y nada más. La sílaba "la" consta de una consonante y una vocal, es decir, un margen anterior y un núcleo. Por su parte, la sílaba "dos" tiene un margen anterior "d", un núcleo "o" y un margen posterior "s".
+
+
+
 
