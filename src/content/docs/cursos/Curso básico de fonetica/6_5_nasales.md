@@ -84,7 +84,7 @@ Transcripción fonológica de los archifonemas:
 
 ## Tabla de síntesis acumulada
 
-| Fonema |Cavidad| Alófono |modo|Punto| Sonoridad|
+|Fonema |Alófono|Cavidad|modo|Punto| Sonoridad|
 | ----------- | ----------- |----------- |----------- | ----------- | ----------- |
 |/p/|[p]|oral|Oclusivo|Bilabial|Sorda|
 |/t/|[t̪]|oral|Oclusivo|Dentoalveolar| Sorda|
@@ -92,7 +92,7 @@ Transcripción fonológica de los archifonemas:
 |/b/|[b]|oral|Oclusivo|Bilabial|Sonora|
 |/d/|[d̪]|oral|Oclusivo|Dentoalveolar|Sonora|
 |/g/|[g]|oral|Oclusivo|Velar|Sonora|
-|/s/|[s] |oral|Fricativo|Alveolar| Sorda|
+|/s/|[s]|oral|Fricativo|Alveolar| Sorda|
 |/s/|[ʰ]|oral|Fricativo|Alveolar|Sorda|
 |/f/|[f]|oral|Fricativo|Dentoalveolar|Sorda|
 |/f/|[ɸ]|oral|Fricativo|Bilabial|Sorda|
