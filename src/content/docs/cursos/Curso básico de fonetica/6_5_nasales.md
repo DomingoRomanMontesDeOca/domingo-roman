@@ -4,11 +4,11 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 6.5 Modo de articulación nasal
+  label: 6.5 Consonantes nasales
   # Orden (Número más bajo aparece más arriba)
   order: 78
 ---
-# 6.5 Modo de articulación: nasal
+# 6.5 Consonantes nasales
 
 Las consonantes nasales se realizan con el velo del paladar despegado de la pared faríngea. Por lo tanto, la columna de aire fluye hacia la boca pero fundamentalmente sigue su curso hacia la cavidad nasal.
 
