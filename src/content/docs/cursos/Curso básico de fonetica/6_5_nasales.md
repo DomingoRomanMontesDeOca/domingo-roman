@@ -84,34 +84,34 @@ Transcripción fonológica de los archifonemas:
 
 ## Tabla de síntesis acumulada
 
-| Fonema | Alófono |modo|Punto| Sonoridad|
-| ----------- | ----------- |----------- | ----------- | ----------- |
-|/p/|[p]|Oclusivo|Bilabial|Sorda|
-|/t/|[t̪]|Oclusivo|Dentoalveolar| Sorda|
-|/k/|[k]|Oclusivo|Velar|Sorda|
-|/b/|[b]|Oclusivo|Bilabial|Sonora|
-|/d/|[d̪]|Oclusivo|Dentoalveolar|Sonora|
-|/g/|[g]|Oclusivo|Velar|Sonora|
-|/s/|[s] |Fricativo|Alveolar| Sorda|
-|/s/|[ʰ]|Fricativo|Alveolar|Sorda|
-|/f/|[f]|Fricativo|Dentoalveolar|Sorda|
-|/f/|[ɸ]|Fricativo|Bilabial|Sorda|
-|/x/|[x]|Fricativo|Velar|Sorda|
-|/t͡ʃ/|[ʃ]|Fricativo|Palatal|Sorda|
-|/b/|[β̞]|Aproximante espirante|Bilabial|Sonoro|
-|/d/|[ð̞]|Aproximante espirante|Dentoalveolar|Sonoro|
-|/g/|[ɣ̞]|Aproximante espirante|Velar|Sonoro|
-|/l/|[l]|Aproximante lateral |Alveolar|Sonoro|
-|/l/|[l̪]|Aproximante lateral |Detalizado|Sonoro|
-|/l/|[lʲ]|Aproximante lateral |Palatalizado|Sonoro|
-|/m/|[m]|Nasal|Bilabial|Sonoro|
-|/n/|[m]|Nasal|Bilabial|Sonoro|
-|/n/|[ɱ]|Nasal|Labiodentalizado|Sonoro|
-|/n/|[n̪]|Nasal|Dentalizado|Sonoro|
-|/n/|[n]|Nasal|Alveolar|Sonoro|
-|/n/|[nʲ]|Nasal|Palatalizado|Sonoro|
-|/n/|[ŋ]|Nasal|Velarizado|Sonoro|
-|/ɲ/|[ɲ]|Nasal|Palatal|Sonoro|
+| Fonema |Cavidad| Alófono |modo|Punto| Sonoridad|
+| ----------- | ----------- |----------- |----------- | ----------- | ----------- |
+|/p/|[p]|oral|Oclusivo|Bilabial|Sorda|
+|/t/|[t̪]|oral|Oclusivo|Dentoalveolar| Sorda|
+|/k/|[k]|oral|Oclusivo|Velar|Sorda|
+|/b/|[b]|oral|Oclusivo|Bilabial|Sonora|
+|/d/|[d̪]|oral|Oclusivo|Dentoalveolar|Sonora|
+|/g/|[g]|oral|Oclusivo|Velar|Sonora|
+|/s/|[s] |oral|Fricativo|Alveolar| Sorda|
+|/s/|[ʰ]|oral|Fricativo|Alveolar|Sorda|
+|/f/|[f]|oral|Fricativo|Dentoalveolar|Sorda|
+|/f/|[ɸ]|oral|Fricativo|Bilabial|Sorda|
+|/x/|[x]|oral|Fricativo|Velar|Sorda|
+|/t͡ʃ/|[ʃ]|oral|Fricativo|Palatal|Sorda|
+|/b/|[β̞]|oral|Aproximante espirante|Bilabial|Sonoro|
+|/d/|[ð̞]|oral|Aproximante espirante|Dentoalveolar|Sonoro|
+|/g/|[ɣ̞]|oral|Aproximante espirante|Velar|Sonoro|
+|/l/|[l]|oral|Aproximante lateral |Alveolar|Sonoro|
+|/l/|[l̪]|oral|Aproximante lateral |Detalizado|Sonoro|
+|/l/|[lʲ]|oral|Aproximante lateral |Palatalizado|Sonoro|
+|/m/|[m]|Nasal||Bilabial|Sonoro|
+|/n/|[m]|Nasal||Bilabial|Sonoro|
+|/n/|[ɱ]|Nasal||Labiodentalizado|Sonoro|
+|/n/|[n̪]|Nasal||Dentalizado|Sonoro|
+|/n/|[n]|Nasal||Alveolar|Sonoro|
+|/n/|[nʲ]|Nasal||Palatalizado|Sonoro|
+|/n/|[ŋ]|Nasal||Velarizado|Sonoro|
+|/ɲ/|[ɲ]|Nasal||Palatal|Sonoro|
 
 
 
