@@ -48,9 +48,9 @@ Las consonantes p/t/k son, como se ha mencionado, oclusivas sordas.
 
 Las consonantes b/d/g son sonoras y oclusivas cuando están en posición inicial absoluta (después de una pausa o al inicio de una emisión) y también cuando están precedidas de una consonante nasal (y en algunos otros contextos más).
 
->>> /eNbus'teɾo/  /kaN'tina/   /pi'taNsa/
+>>> /eNbusˈteɾo/  /kaNˈtina/   /piˈtaNsa/
 >>> 
->>> [ẽmbusˈt̪eɾo]  [kan̪'t̪ina]  [pi't̪ansa]
+>>> [ẽmbusˈt̪eɾo]  [kan̪'t̪ina]  [piˈt̪ansa]
 
 ![Esquema de oclusivas sonoras](/imagenes/esquema_oclusivas_sonoras.png)
 
