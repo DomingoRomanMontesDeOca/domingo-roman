@@ -13,8 +13,23 @@ sidebar:
 ---
 # 6.9 Palatalización de sonidos velares
 
-En muchas lenguas y en casi todos los dialectos del español, se reportado que las consonantes cuyo punto de articulación es velar suelen adelantar el punto de constricción hacia la zona del paladar.
+En muchas lenguas y en casi todos los dialectos del español, se reportado que las consonantes cuyo punto de articulación es velar suelen adelantar el punto de constricción hacia la zona del paladar en función del punto de articulación de la vocal que sigue.
 
-En el español de Chile esto es particularmente notorio. Una revisión bibliográfica se encuentra en Flores, N. (2023)[^]
+En el español de Chile esto es particularmente notorio ante e/i. Una acuciosa revisión bibliográfica se encuentra en Flores, N. (2023)[^1].
+
 [^]: 2023. Seminario de titulación para profesor de castellano. Análisis acústico de la palatalización de la oclusiva velar sorda prevocálica en hablantes universitarios del español de Chile. Nicolás Flores Navarro. Usach.
 
+Los fonemas que se ven afectados por este ajuste articulatorio son k/x/g.
+
+Por lo tanto, debemos incluir en la descripción de los alófonos la variante adelantada o palatalizada de estos tres fonemas. Se debe considerar que el fonema /g/ tiene dos alófonos ya presentados: el oclusivo y el aproximante. Para ambos casos se mostrarán los símbolos para representar la variante palatalizada.
+
+|Fonema|Variante palatalizada|ejemplo|
+|----|----|----|
+|k|k|"Queso" /'keso/ [ˈk̟eso]|
+|x|x|"ají" /a'xi/ [aˈx̟i]|
+|g|g|"un guitarrón" /uN gita'roN/ [ũŋg̟it̪aˈron]|
+|g|x|"una guitarra" /una giˈtara / [ũna ɣ̟iˈt̪ara]|
+|----|----|----|
+
+
+Alternativamente, se puede usar el diacrítico de palatalización: ˈkʲeso, aˈxʲi, ũŋgʲit̪aˈron, ũna ɣʲiˈt̪ara
