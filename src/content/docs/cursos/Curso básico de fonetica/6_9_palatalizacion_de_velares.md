@@ -15,9 +15,9 @@ sidebar:
 
 En muchas lenguas y en casi todos los dialectos del español, se reportado que las consonantes cuyo punto de articulación es velar suelen adelantar el punto de constricción hacia la zona del paladar en función del punto de articulación de la vocal que sigue.
 
-En el español de Chile esto es particularmente notorio ante e/i. Una acuciosa revisión bibliográfica se encuentra en Flores, N. (2023)[^1].
+En el español de Chile esto es particularmente notorio ante e/i. Una acuciosa revisión bibliográfica se encuentra en Flores, N. (2023).[^1]
 
-[^]: 2023. Seminario de titulación para profesor de castellano. Análisis acústico de la palatalización de la oclusiva velar sorda prevocálica en hablantes universitarios del español de Chile. Nicolás Flores Navarro. Usach.
+[^1]: 2023. Seminario de titulación para profesor de castellano. Análisis acústico de la palatalización de la oclusiva velar sorda prevocálica en hablantes universitarios del español de Chile. Nicolás Flores Navarro. Usach.
 
 Los fonemas que se ven afectados por este ajuste articulatorio son k/x/g.
 
