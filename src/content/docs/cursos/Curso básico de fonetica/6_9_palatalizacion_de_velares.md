@@ -31,4 +31,4 @@ Por lo tanto, debemos incluir en la descripción de los alófonos la variante ad
 |g|x|"una guitarra" /una giˈtara / [ũna ɣ̟iˈt̪ara]|
 
 
-Alternativamente, se puede usar el diacrítico de palatalización: ˈkʲeso, aˈxʲi, ũŋgʲit̪aˈron, ũna ɣʲiˈt̪ara
+Alternativamente, se puede usar el diacrítico de palatalización: [ˈkʲeso], [aˈxʲi], [ũŋgʲit̪aˈron], [ũna ɣʲiˈt̪ara]
