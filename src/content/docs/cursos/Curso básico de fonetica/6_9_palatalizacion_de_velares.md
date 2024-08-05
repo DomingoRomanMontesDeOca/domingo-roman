@@ -27,7 +27,7 @@ Por lo tanto, debemos incluir en la descripción de los alófonos la variante ad
 |----|----|----|----|----|
 |k|[k̟]|"Queso" |/'keso/| [ˈk̟eso]|
 |x|[x̟]|"ají" |/a'xi/| [aˈx̟i]|
-|g|g̟]|"un guitarrón" |/uN gita'roN/| [ũŋg̟it̪aˈron]|
+|g|[g̟]|"un guitarrón" |/uN gita'roN/| [ũŋg̟it̪aˈron]|
 |g|[ɣ̟]|"una guitarra" |/una giˈtara / |[ũna ɣ̟iˈt̪ara]|
 
 
