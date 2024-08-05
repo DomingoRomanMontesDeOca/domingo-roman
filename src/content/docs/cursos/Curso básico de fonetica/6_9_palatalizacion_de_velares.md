@@ -1,7 +1,3 @@
----
-# El título es obligatorio para que la página funcione
-title: Curso básico de fonética
-# Config---
 # El título es obligatorio para que la página funcione
 title: Curso básico de fonética
 # Configuracion de la barra de navegación
