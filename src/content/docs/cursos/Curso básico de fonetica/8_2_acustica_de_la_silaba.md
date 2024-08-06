@@ -16,7 +16,9 @@ Esquemáticamente, se puede representar como
 
 ![Esquema básico de los momentos de la sílaba](/imagenes/esquema_silabico_articulatorio_basico.png)
 
+La siguiente figura muestra el oscilograma y la curva de intensidad de una sílaba real.
 
+![Oscilograma y curva de intensidad de una sílaba](/imagenes/oscilograma_db_silaba.png)
 
 
 
