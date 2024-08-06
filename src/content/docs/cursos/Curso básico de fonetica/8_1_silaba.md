@@ -76,7 +76,9 @@ Algunas consonantes permiten un complemento que solo puede ser ɾ/l (ere o ele).
 |fɾa|fla|
 |gɾa|gla|
 |pɾa|pla|
-|tɾa|tla|
+|tɾa|tla[^1]|
+
+[^1]: En en universo hispanohablante latinoamericano, esta combinación no ofrece dificultad. Sin embargo, un hablante peninsular, en una palabra como "atlas", percibirá las sílabas: "at" y "las".
 
 
 
