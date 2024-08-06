@@ -50,10 +50,34 @@ De estas estructuras posibles, hay una a la que se le denomina *sílaba universa
 Si se usa "C" para simbolizar 'consonante' y "V" para 'vocal', entonces tenemos los tipos V, CV, VC y CVC. El tipo universal es CV.
 
 
-# 8.1.3 Sílabas complementos del núcleo
+## 8.1.3 Sílabas con complementos del núcleo
 
 En muchas ocasiones, el núcleo silábico está acompañado por un elemento de carácter vocálico, como ocurre en los diptongos. Por ejemplo, en palabras como "caigo" y "ciego". En ambos casos la primera sílaba tiene un *ma* y un *N* pero hay también una /i/ en un caso después de la vocal nuclear y en el otro caso, antes.
 
 ![Representación de las sílabas iniciales de "caigo" y "ciego"](/imagenes/esq_sil_kai_sie.png)
 
-Las vocales fonológicas que pueden ser parte de una secuencia *tautosilábica* (en una misma sílaba) son i/u. La tradición en fonética las ha denominado *semiconsonantes* cuando preceden al núcleo y *semivocales* cuando lo siguen. En la transcripción se usan los símbolos y diacríticos vistos en la sección de [vocales](/cursos/curso-b%C3%A1sico-de-fonetica/1_0_vocales_articulatoria/).
+Las vocales fonológicas que pueden ser parte de una secuencia *tautosilábica* (en una misma sílaba) son i/u. La tradición en fonética las ha denominado *semiconsonantes* cuando preceden al núcleo y *semivocales* cuando lo siguen. En la tradición de corte filológico, se habla de *yod* y *wau*. En la transcripción se usan los símbolos y diacríticos vistos en la sección de [vocales](/cursos/curso-b%C3%A1sico-de-fonetica/1_0_vocales_articulatoria/).
+
+La simbolización del tipo "CV" para la palabra "caigo" es "CVVCV".
+
+## 8.1.3 Sílabas con margen complejo
+
+### 8.1.3.1 Complejidad en el margen anterior
+
+El margen anterior puede ser cualquier consonante en el interior de palabra. En el inicio de palabra no puede ocurrir el fonema /ɾ/ (ere).
+
+Algunas consonantes permiten un complemento que solo puede ser ɾ/l (ere o ele).
+
+|/ɾ/|/l/|
+|----|----|
+|bɾa|bla|
+|kɾa|kla|
+|dɾa|—|
+|fɾa|fla|
+|gɾa|gla|
+|pɾa|pla|
+|tɾa|tla|
+
+
+
+
