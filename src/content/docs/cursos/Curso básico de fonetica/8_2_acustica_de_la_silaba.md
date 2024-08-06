@@ -14,5 +14,9 @@ Se ha definido *sílaba* como una organización de segmentos (fonemas) en funci�
 
 Esquemáticamente, se puede representar como
 
+![Esquema básico de los momentos de la sílaba(esquema_silabico_basico-png)
+
+
+
 
 
