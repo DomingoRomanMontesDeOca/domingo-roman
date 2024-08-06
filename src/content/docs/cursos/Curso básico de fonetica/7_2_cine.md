@@ -28,7 +28,7 @@ estudiante de Pedagogía en Castellano USACH.
 
 [Pigmalion](https://youtu.be/LpbFN4hiISY?si=jvwnT5sbS8qv5KGE)
 
-> Pigmalión (1938, Comedia/Romance)
+> 1938, Comedia/Romance)
 > Adaptación cinematográfica de la obra teatral homónima dirigida por Anthony Asquith. nos presenta la relación de un adinerado profesor de fonética y una mujer de clase baja que desea tener una florería; para lograrlo, cambia su forma de comunicarse, hasta el punto de perder su propia identidad.
 > Es un filme que, basándose en la historia original de Pigmalión y Galatea, maneja un problema ético sobre moldear a una persona a voluntad, en este caso, mediante herramientas lingüísticas.
 >> “¿Ve usted a esa muchacha con su lenguaje canallesco y estropeado, ese lenguaje que no la dejará salir del arroyo en toda su vida? Pues bien: si fuese cosa de apuesta, yo me comprometería a hacerla pasar por una duquesa en la 'soirée' o en la 'garden-party' de una Embajada.”
@@ -37,6 +37,12 @@ estudiante de Pedagogía en Castellano USACH.
 [El discurso del rey](https://www.filmaffinity.com/cl/film968462.html)
 
 [Yesterday](https://www.filmaffinity.com/cl/film476862.html)
+
+> (2004, Drama)
+> Conocer una cultura ajena puede empezar por diversos factores. Darrell Roodt nos introduce a un pueblo africano mediante su lengua: el Zulú. Desde el momento en que escuchamos el primer «Click» esta película se hace (espero) extraña para el espectador, y no solo en su lengua, sino también en su duro estilo de vida. 
+> En la más dura pobreza, se nos muestra la historia de Yesterday, una mujer que debe sobrevivir lo suficiente por el bien de su pequeña niña. Un filme que fácilmente se gana el corazón del espectador y que requerirá mucho esfuerzo para no sentir verdadera tristeza.
+
+
 
 [Lost in translation](https://www.filmaffinity.com/cl/film587836.html)
 
