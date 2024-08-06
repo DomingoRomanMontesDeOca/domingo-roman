@@ -20,5 +20,3 @@ La siguiente figura muestra el oscilograma y la curva de intensidad de una síla
 
 ![Oscilograma y curva de intensidad de una sílaba](/imagenes/oscilograma_db_silaba.png)
 
-
-
