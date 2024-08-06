@@ -28,10 +28,11 @@ estudiante de Pedagogía en Castellano USACH.
 [Pigmalion](https://youtu.be/LpbFN4hiISY?si=jvwnT5sbS8qv5KGE)
 
 > 1938, Comedia/Romance)
-> Adaptación cinematográfica de la obra teatral homónima dirigida por Anthony Asquith. nos presenta la relación de un adinerado profesor de fonética y una mujer de clase baja que desea tener una florería; para lograrlo, cambia su forma de comunicarse, hasta el punto de perder su propia identidad.
+> Adaptación cinematográfica de la obra teatral homónima dirigida por Anthony Asquith. nos presenta la relación de un adinerado profesor de fonética [^1] y una mujer de clase baja que desea tener una florería; para lograrlo, cambia su forma de comunicarse, hasta el punto de perder su propia identidad.
 > Es un filme que, basándose en la historia original de Pigmalión y Galatea, maneja un problema ético sobre moldear a una persona a voluntad, en este caso, mediante herramientas lingüísticas.
 >> “¿Ve usted a esa muchacha con su lenguaje canallesco y estropeado, ese lenguaje que no la dejará salir del arroyo en toda su vida? Pues bien: si fuese cosa de apuesta, yo me comprometería a hacerla pasar por una duquesa en la 'soirée' o en la 'garden-party' de una Embajada.”
 >> (Higgins).
+[^1:] Cosas que pasan más en las películas que en la vida académica real [Nota del profesor de fonética]
 
 [El discurso del rey](https://www.filmaffinity.com/cl/film968462.html)
 *En preparación*
