@@ -16,13 +16,13 @@ Se puede distinguir, entonces, en su momento central un núcleo (**N**)que siemp
 
 Toda palabra se puede analizar en términos de las sílabas que la componen. En un sintagma de más de una palabra, se pueden producir reordenamientos según la naturaleza de las junturas entre las palabras.
 
-## 8.1.1 Estructura
+### 8.1.1 Estructura
 
 El siguiente esquema muestra las posiciones que se pueden realizar en una sílaba. De estas posiciones, solo el núcleo es obligatorio.
 
 ![Esquema de posibles posiciones en la sílaba](/imagenes/esquema_silabico.png)
 
-## 8.1.2 Las sílabas más simples
+### 8.1.2 Las sílabas más simples
 
 La palabra *alados* tiene tres sílabas: *a-la-dos*. La primera sílaba consta de solo una vocal: "a"; En este caso, la sílaba tiene un núcleo y nada más. La sílaba "la" consta de una consonante y una vocal, es decir, un margen anterior y un núcleo. Por su parte, la sílaba "dos" tiene un margen anterior "d", un núcleo "o" y un margen posterior "s".
 
@@ -50,7 +50,7 @@ De estas estructuras posibles, hay una a la que se le denomina *sílaba universa
 Si se usa "C" para simbolizar 'consonante' y "V" para 'vocal', entonces tenemos los tipos V, CV, VC y CVC. El tipo universal es CV.
 
 
-## 8.1.3 Sílabas con complementos del núcleo
+### 8.1.3 Sílabas con complementos del núcleo
 
 En muchas ocasiones, el núcleo silábico está acompañado por un elemento de carácter vocálico, como ocurre en los diptongos. Por ejemplo, en palabras como "caigo" y "ciego". En ambos casos la primera sílaba tiene un *ma* y un *N* pero hay también una /i/ en un caso después de la vocal nuclear y en el otro caso, antes.
 
@@ -60,9 +60,9 @@ Las vocales fonológicas que pueden ser parte de una secuencia *tautosilábica* 
 
 La simbolización del tipo "CV" para la palabra "caigo" es "CVVCV".
 
-## 8.1.3 Sílabas con margen complejo
+### 8.1.3 Sílabas con margen complejo
 
-### 8.1.3.1 Complejidad en el margen anterior
+#### 8.1.3.1 Complejidad en el margen anterior
 
 El margen anterior puede ser cualquier consonante en el interior de palabra. En el inicio de palabra no puede ocurrir el fonema /ɾ/ (ere).
 
@@ -79,6 +79,9 @@ Algunas consonantes permiten un complemento que solo puede ser ɾ/l (ere o ele).
 |tɾa|tla[^1]|
 
 [^1]: En en universo hispanohablante latinoamericano, esta combinación no ofrece dificultad. Sin embargo, un hablante peninsular, en una palabra como "atlas", percibirá las sílabas: "at" y "las".
+
+Desde el punto de vista del análisis "CV", estas sílabas tienen la estructura "CCV"; una palabra como "traigo" será "CCVCV".
+
 
 
 
