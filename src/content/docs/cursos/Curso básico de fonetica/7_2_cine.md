@@ -19,12 +19,12 @@ estudiante de Pedagogía en Castellano USACH.
 > ¿Qué harías ante la llegada de extraterrestres? ¿Les dispararías sin pensarlo o les hablarías?
 > Denis Villeneuve dirige una cinta que nos pone desde el punto de vista de una lingüista y un físico, quienes terminan conociendo y
  aprendiendo una lengua desconocida por todos (una alienígena) prácticamente inentendible, pero hermosa y nos permite ver la belleza de nuestro lenguaje (y de todos, en verdad).
-
 > (Nota: es poco probable que terminen usando Praat y sus conocimientos como lingüistas para hablar con áliens).
-
 > "El lenguaje es el cimiento de la civilización, lo que une a un pueblo. Es la primera arma usada en un conflicto" (Louise Banks).
 
 [My fair Lady](https://www.filmaffinity.com/cl/film317417.html)
+
+*En preparación*
 
 [Pigmalion](https://youtu.be/LpbFN4hiISY?si=jvwnT5sbS8qv5KGE)
 
@@ -32,9 +32,11 @@ estudiante de Pedagogía en Castellano USACH.
 > Adaptación cinematográfica de la obra teatral homónima dirigida por Anthony Asquith. nos presenta la relación de un adinerado profesor de fonética y una mujer de clase baja que desea tener una florería; para lograrlo, cambia su forma de comunicarse, hasta el punto de perder su propia identidad.
 > Es un filme que, basándose en la historia original de Pigmalión y Galatea, maneja un problema ético sobre moldear a una persona a voluntad, en este caso, mediante herramientas lingüísticas.
 >> “¿Ve usted a esa muchacha con su lenguaje canallesco y estropeado, ese lenguaje que no la dejará salir del arroyo en toda su vida? Pues bien: si fuese cosa de apuesta, yo me comprometería a hacerla pasar por una duquesa en la 'soirée' o en la 'garden-party' de una Embajada.”
->> -Higgins.
+>> (Higgins).
 
 [El discurso del rey](https://www.filmaffinity.com/cl/film968462.html)
+*En preparación*
+
 
 [Yesterday](https://www.filmaffinity.com/cl/film476862.html)
 
@@ -49,7 +51,7 @@ estudiante de Pedagogía en Castellano USACH.
 > (2003, Romance/Comedia):
 > En el momento en el que Dios le brindó a los humanos distintos idiomas, la torre de Babel cayó.
 > La cinta, dirigida por Sofía Coppola, mezcla la incomunicación de dos personas tanto con su entorno como con sus propias parejas; por un  lado, no entienden el idioma en el que están y, por el otro, no comprenden a sus respectivas parejas. En el momento en que ya no saben qué hacer con sus vidas, se encuentran y forman una relación que los lleva a encontrarse y salvarse.
-
 > “Todos queremos que nos encuentren”
 
 [Claroscuro](https://periodicoirreverentes.org/2017/07/03/claroscuro/)
+*En preparación*
