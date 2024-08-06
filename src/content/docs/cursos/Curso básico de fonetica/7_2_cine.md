@@ -23,7 +23,6 @@ estudiante de Pedagogía en Castellano USACH.
 > "El lenguaje es el cimiento de la civilización, lo que une a un pueblo. Es la primera arma usada en un conflicto" (Louise Banks).
 
 [My fair Lady](https://www.filmaffinity.com/cl/film317417.html)
-
 *En preparación*
 
 [Pigmalion](https://youtu.be/LpbFN4hiISY?si=jvwnT5sbS8qv5KGE)
