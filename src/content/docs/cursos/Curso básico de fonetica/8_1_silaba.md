@@ -60,6 +60,8 @@ Las vocales fonológicas que pueden ser parte de una secuencia *tautosilábica* 
 
 La simbolización del tipo "CV" para la palabra "caigo" es "CVVCV".
 
+La simbolización del tipo "m-N" tendría la forma "ma-N-sNp | ma-N" (margen anterior - núcleo - seminúcleo posterior | margen anterior - núcleo)
+
 ### 8.1.3 Sílabas con margen complejo
 
 #### 8.1.3.1 Complejidad en el margen anterior
@@ -82,7 +84,9 @@ Algunas consonantes permiten un complemento que solo puede ser ɾ/l (ere o ele).
 
 Desde el punto de vista del análisis "CV", estas sílabas tienen la estructura "CCV"; una palabra como "traigo" será "CCVCV".
 
+**Aclaración** El hecho de que ciertas combinaciones no se den español no significa una imposibilidad articulatoria sino solo una condición impuesta por el idioma o, como sucede con el caso de "tl—", por el dialecto. Si un hispanohablante tiene que pronunciar las secuencia "sri", podría hacerlo perfectamente.
 
+La palabra "pliego" tiene la estructura CCVVCV o ma-sma-sNa-N | ma-N.
 
 
 
