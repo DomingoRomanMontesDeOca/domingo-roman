@@ -32,7 +32,7 @@ estudiante de Pedagogía en Castellano USACH.
 > Es un filme que, basándose en la historia original de Pigmalión y Galatea, maneja un problema ético sobre moldear a una persona a voluntad, en este caso, mediante herramientas lingüísticas.
 >> “¿Ve usted a esa muchacha con su lenguaje canallesco y estropeado, ese lenguaje que no la dejará salir del arroyo en toda su vida? Pues bien: si fuese cosa de apuesta, yo me comprometería a hacerla pasar por una duquesa en la 'soirée' o en la 'garden-party' de una Embajada.”
 >> (Higgins).
-[^1]: Cosas que pasan más en las películas que en la vida académica real [Nota del profesor de fonética]
+[^1]: Cosas que pasan más en las películas que en la vida académica real. Curiosamente, también en *La llegada*, la profesora de fonética tiene un pasar económico envidiable. [Nota del profesor de fonética]
 
 [El discurso del rey](https://www.filmaffinity.com/cl/film968462.html)
 *En preparación*
