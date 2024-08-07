@@ -20,10 +20,17 @@ En términos fonológicos, se distingue entre sílabas tónicas y sílabas áton
 
 >> El inge**nio**so perso**na**je de la no**ve**la
 
-
 |s|s|s|s|s|s|s|s|s|s|s|s|s|s|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |El|in|ge|**NIO**|so|per|so|**NA**|je|de|la|no|**VE**|la|
 |a|a|a|T|a|a|a|T|a|a|a|a|T|a|
+
+En la transcripción se marca el acento precediendo la sílaba tónica con el símbolo " ˈ ".
+
+/el iNxeˈnioso peRsoˈnaxe de la noˈbela/
+
+Una versión fonética del mismo enunciado podría ser:
+
+[el iŋx̟eˈnjoso peɾsoˈnaxe ð̞e la noˈβ̞ela]
 
 
