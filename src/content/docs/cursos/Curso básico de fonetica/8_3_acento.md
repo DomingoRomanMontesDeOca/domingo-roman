@@ -19,5 +19,6 @@ Si se escucha el siguiente audio, se puede entender mejor el fenómeno de esta t
 En términos fonológicos, se distingue entre sílabas tónicas y sílabas átonas; es decir, con relieve y sin relieve. Así, por ejemplo, en el siguiente enunciado se marcan con negrita las sílabas tónicas y se señalan con "T" en la línea inferior. La "a" simboliza las sílabas átonas.
 
 >> El inge**nio**so perso**na**je de la no**ve**la
->>  a  a a T  a  a a T a  a  a  a T a  
 >> 
+>>  a  a a T  a  a a T a  a  a  a T a  
+
