@@ -23,7 +23,7 @@ En términos fonológicos, se distingue entre sílabas tónicas y sílabas áton
 
 |s|s|s|s|s|s|s|s|s|s|s|s|s|s|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|El|in|ge|NIO|so|per|so|NA|je|de|la|no|VE|la|
+|El|in|ge|**NIO**|so|per|so|**NA**|je|de|la|no|**VE**|la|
 |a|a|a|T|a|a|a|T|a|a|a|a|T|a|
 
 
