@@ -29,6 +29,12 @@ En la siguiente figura se muestra un enunciado de tres sílabas:
 
 Nótese que los puntos más altos en decibeles (dB) son tres.
 
+En la siguiente imagen, presenta la mitad superior del oscilograma y la curva de intensidad. Considérese que la curva de intensidad es una modificación del oscilograma que está estrechamente relacionada con las variaciones de amplitud.
+
+![Parte superior del oscilograma y curva de intensidad](/imagenes/medio_oscilograma_c_intensidad.png)
+
+
+
 ### Resumen
 
 La curva de intensidad es una buena pista para determinar las sílabas en una emisión. 
