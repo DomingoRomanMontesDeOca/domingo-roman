@@ -1,7 +1,7 @@
 ---
 title: Curriculum
 ---
-## Antecedentes personales
+### Antecedentes personales
 ______
 Nombre:    Domingo Román Montes de Oca
 
@@ -28,7 +28,7 @@ Página web del laboratorio: http://fonetica.usach.cl/
 
 Página web personal: https://domingo-roman.net/
 
-## Investigaciones
+### Investigaciones
 ______
 
 - 2024 Colaborador del proyecto *Voice of Spanish Poets*, coordinado por la Dra. Valentina Colonna, Marie Skłodowska-Curie European Actions (MSCA), Universidad de Granada.
@@ -53,7 +53,7 @@ ______
 
 - 1996\.    *El habla de los estudiantes de 7º y 8º año EGB de la Región Metropolitana: análisis descriptivo y proposición de estrategias remediales*. Miriam Cid (investigadora principal), Paula Jullian, Ana María Millán. Fondedoc (UC).
 
-## Dirección de tesis de doctorado
+### Dirección de tesis de doctorado
 ______
 - 2020\. *Estudio sociolingüístico de la entonación del español de Antioquia, Colombia*. Tesis realizada por la Sra. Diana Muñoz Builes; P. Universidad Católica de Chile. Codirigida por el Dr. Pedro Martín Butragueño, UNAM.
 
@@ -62,7 +62,7 @@ ______
 - 2017\. *La alofonía sociolectal  del fonema alveolopalatal "che" del español hablado en Santiago de Chile: un estudio sobre variación sociofonética y conciencia sociolingüística de adultos santiaguinos*. Tesis realizada por la Sra. Christina Haska; P. Universidad Católica de Chile. [Ver documento](/tesis_doctorado_haska.pdf).
 
 
-## Dirección de tesis de magíster
+### Dirección de tesis de magíster
 ______
 
 - 2023\. *La entonación de inmigrantes costarricenses que laboran en Chile según formas de tratamiento. Descripción fonética de la adaptación dialectal de la frecuencia fundamental*. Randall Ledezma, Magíster en Lingüística, especialidad Sociolingüística del Español de América.
@@ -98,7 +98,7 @@ ______
 - 2010\. *La voz en el texto dramático. Entonación de las palabras como recurso expresivo del actor*. López, M. J. Trabajo codirigido por Patricio Rodríguez Plaza (tutor) y Domingo Román Montes de Oca (cotutor). P. Universidad Católica de Chile.
 
 
-## Seminarios de titulación
+### Seminarios de titulación
 ______
 
 - 2023\. Seminario de titulación para profesor de castellano. *Análisis acústico de la palatalización de la oclusiva velar sorda prevocálica en hablantes universitarios del español de Chile*. Nicolás Flores Navarro. Usach.
@@ -113,10 +113,10 @@ ______
 - 2010\. Seminario de titulación para licenciados en Letras. Percepción de fricativas sordas en el español de Chile. Josué Pino. P. Universidad Católica de Chile.
 
 
-## Publicaciones
+### Publicaciones
 ______
 
-### Libros
+#### Libros
 ______
 
   - Román, D. (2011).    *Manual para el análisis fonético acústico*, Santiago de Chile, Pfeiffer.
@@ -125,7 +125,7 @@ ______
 
 
 
-### Capítulos en libros
+#### Capítulos en libros
 ______
 
 - Román, D.2024. Comparación de rasgos prosódicos generales del norte y sur de Chile, En *Avances metodológicos en fonética y prosodia*, coordinadores: Wendy Elvira y Paolo Roseano, Madrid, UNED: 283-294. ISBN: 978-84-362-7874-3.
@@ -148,7 +148,7 @@ ______
 
 
 
-### Artículos en revistas
+#### Artículos en revistas
 ______
 - Ortiz Lira, H. Leonardo Mena y Domingo Román. (2024). Alofonía de /s/ codal ante vocal y pausa en el habla de profesionales de Santiago y sus efectos en la resilabificación. *Logos*, 35, (2). [Aceptado]
 
@@ -210,13 +210,13 @@ ______
 
 - Román, D. (1991). "El octosílabo en el slogan publicitario", *RLA* [Concepción, Chile], Nº 29: 5-20.
 
-### Trabajos distribuidos
+#### Trabajos distribuidos
 
 - [2005. Personas e individuos](/personas_e_individuos.pdf)
   
 - [2022. El llamado *lenguaje inclusivo* y los profesores de castellano](/el_llamado_lenguaje_inclusivo_y_el_profesor.pdf)
 
-## Participaciones en congreso
+### Participaciones en congreso
 ______
 - 2024\. Colonna, Valentina y Domingo Román. I congreso Internacional de Teoría de la Lírica y Poéticas comparadas. Universidad de Salamanca, 3-5 de julio.
   
@@ -290,7 +290,7 @@ ______
 
 
 
-## Premios
+### Premios
 ______
 
 
@@ -301,7 +301,7 @@ ______
 - 2011\. Premio Rodolfo Oroz por la publicación del libro Manual para el análisis fonético acústico, otorgado por la Academia Chilena de la Lengua.
 
 
-## Comités de revistas especializadas, evaluaciones de concursos de investigación
+### Comités de revistas especializadas, evaluaciones de concursos de investigación
 
 - 2024\.     Evaluador para la revista Co-herencia, de la Universidad EAFIT, Colombia.
 
@@ -327,7 +327,7 @@ ______
 
 
 
-## Conferencias, seminarios temáticos, charlas y talleres (dictados)
+### Conferencias, seminarios temáticos, charlas y talleres (dictados)
 
 
 - 2023\. Conferencia *Fonética para los tiempos que corren*. Inauguración del año académico de Letras 2023. 26 de abril 2023.
@@ -357,7 +357,7 @@ ______
 - 2003\. Conferencia Chile y España: poesía popular a dos razones. Facultad de Letras, U.C.
 
 
-## Presentaciones de libros
+### Presentaciones de libros
 ______
 
 - 2015\. Libro *Cántaros* de Hugo González (octubre).
@@ -365,7 +365,7 @@ ______
 - Libro *Arbolando*, de Rafael Rubio. Facultad de Letras de la P. Universidad Católica de Chile
 
 
-## Perfeccionamiento: Conferencias, seminarios temáticos, charlas y talleres (asistencia)
+### Perfeccionamiento: Conferencias, seminarios temáticos, charlas y talleres (asistencia)
 ______
 
 - 2018\. Métodos para el análisis dialectométrico de la entonación, dictado por la Dra. Wendy Elvira-García, Segundo encuentro del seminario de prosodia, Instituto de Investigaciones filológicas, UNAM.
@@ -409,9 +409,9 @@ ______
 - 1987\. Certificado de asistencia al Curso intensivo de perfeccionamiento Compe­tencia Lingüística y Criterios de Correc­ción, dictado por el profesor Eugenio Coseriu, Pontificia Universidad Católica de Chile, Santiago, octubre 19 y el 22.
 
 
-## Experiencia docente
+### Experiencia docente
 ______
-- 2024\.  Profesor ad-honorem en la Escuela de Fonoaudiología de la Universidad de Chile.
+- 2024-\.  Profesor *ad-honorem* de la Escuela de Fonoaudiología de la Universidad de Chile.
 
 - 2015-\. Profesor asociado en el Departamento de Lingüística y Literatura de la Facultad de Humanidades en la Universidad de Santiago de Chile.
 
@@ -420,13 +420,13 @@ ______
 - 2015 (-1995)\. Profesor jornada completa, en el Departamento de Lingüística del Instituto de Letras de la Pontificia Universidad Católica de Chile; cursos: Fonética y fonología españolas, Historia de la lengua española. Clases en licenciatura, magíster y doctorado.
 
 
-## Gestión
+### Gestión
 _______
 - 2024-2021\. Director Programa de magíster en lingüística USACH
 - 2018-2016\. Jefe de Carrera Pedagogía en Castellano USACH.
 
 
-## Comisiones de grado
+### Comisiones de grado
 ______
 
 - 2018\. Miembro del tribunal del Programa de Doctorado en Ciencias de la Educación, mención Educación Intercultural, para la tesis *Multiculturalidad, pluriculturalidad, o interculturalidad en la Educación. Tensiones y precisiones de un concepto* de la  candidata Sara Sepúlveda, Universidad de Santiago de Chile.
@@ -438,7 +438,7 @@ ______
 
 
 
-## Consultorías y  asistencias técnicas
+### Consultorías y  asistencias técnicas
 ______
 - 2024\.    Asesoría al Laboratorio de Lingüística de la Universidad de La Frontera, para la Dra. Magaly Ruiz y la mg. Rosa Catalán.
 - 2018\.    Asesor internacional experto en el proceso de adaptación y validación de guiones para la cooperación técnica entre la Fundación INECO y el Banco Interamericano de Desarrollo.
