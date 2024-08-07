@@ -28,3 +28,7 @@ En la siguiente figura se muestra un enunciado de tres sílabas:
 ![Oscilograma y curva de intensidad de tres sílabas](/imagenes/ejemplo_3_silabas_intensidad.png)
 
 Nótese que los puntos más altos en decibeles (dB) son tres.
+
+### Resumen
+
+La curva de intensidad es una buena pista para determinar las sílabas en una emisión. 
