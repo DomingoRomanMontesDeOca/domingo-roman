@@ -7,16 +7,14 @@ Nombre:    Domingo Román Montes de Oca
 
 Títulos obtenidos:
 
-- Doctor en Lingüística y Comunicación, (Universidad de Barcelona, 2012).
-- Magíster en Lingüística con mención en Lengua Española (U. de Chile, 1995).
-- Profesor de Enseñanza Media con mención en Castellano (UC, Chile, 1988).
+- Doctor en Lingüística y Comunicación, (Universidad de Barcelona, 2012)
+- Magíster en Lingüística con mención en Lengua Española (U. de Chile, 1995)
+- Profesor de Enseñanza Media con mención en Castellano (PUC, Chile, 1988)
 
 Lugar de trabajo: [Universidad de Santiago de Chile](http://www.usach.cl/), [Facultad de Humanidades.](http://www.fahu.usach.cl/)
 
 Cargos: 
-- Académico / [Pedagogía en Castellano](http://linguisticayliteratura.usach.cl/pedagogia-en-castellano)
-- Director del programa [Magíster en Lingüística[(https://www.linguisticayliteratura.usach.cl/magister-en-linguistica) 
-       
+- Académico / [Pedagogía en Castellano](http://linguisticayliteratura.usach.cl/pedagogia-en-castellano)       
 
 Dirección laboral:    Universidad de Santiago de Chile. Avenida Libertador Bernardo O'Higgins nº 3363. Estación Central. Santiago. Chile.
 
@@ -338,27 +336,25 @@ ______
 
 - 2018\. Taller ¿Cómo se analiza la línea melódica de una frase? Dr. Domingo Román Montes de Oca y Dra. (c) Diana Muñoz Builes, jueves 30 de agosto, Universidad Autónoma de Chile, Talca.
 
-- 2017\.    Conferencia: “El ritmo del acento en la comunicación cotidiana” En el encuentro Psicología de la música. 30 de marzo de 2017, Sala Ercilla de la Biblioteca Nacional. [Participantes de U. de Cambridge, UC y USACH].
+- 2017\. Conferencia: “El ritmo del acento en la comunicación cotidiana” En el encuentro Psicología de la música. 30 de marzo de 2017, Sala Ercilla de la Biblioteca Nacional. [Participantes de U. de Cambridge, UC y USACH].
 
-- 2015\.    Taller sobre análisis de la frecuencia fundamental. Universidad de Antioquia.
+- 2015\. Taller sobre análisis de la frecuencia fundamental. Universidad de Antioquia.
 
-- 2015\.    Profesor del módulo Metodologías para el aprendizaje en el 4 módulo del taller Metodologías para el aprendizaje, específicamente del taller Aprendizaje en actividades prácticas: laboratorios, talleres, terreno, del Diplomado en Docencia Universitaria, UC.
+- 2015\. Profesor del módulo Metodologías para el aprendizaje en el 4 módulo del taller Metodologías para el aprendizaje, específicamente del taller Aprendizaje en actividades prácticas: laboratorios, talleres, terreno, del Diplomado en Docencia Universitaria, UC.
 
-- 2013\.    Domingo Román Montes de Oca. Conferencia Inflexiones de tono fundamental: una metodología para su indagación I, Workshop "Jornada de Estudio de las inflexiones tonales. Metodología de análisis", Universitat de Barcelona, Barcelona, marzo 7. 
+- 2013\. Domingo Román Montes de Oca. Conferencia Inflexiones de tono fundamental: una metodología para su indagación II, Workshop "Jornada de Estudio de las inflexiones tonales. Metodología de análisis", Universitat de Barcelona, Barcelona, marzo 7.
 
-- 2013\.    Domingo Román Montes de Oca. Conferencia Inflexiones de tono fundamental: una metodología para su indagación II, Workshop "Jornada de Estudio de las inflexiones tonales. Metodología de análisis", Universitat de Barcelona, Barcelona, marzo 7.
+- 2007\. Taller Edición de señales. Uso del programa Praat, dirigido a docentes y ayudantes de la Unidad de Lingüística Aplicada de la Escuela de Fonoaudiología de la Universidad de Chile.
 
-- 2007\.    Taller Edición de señales. Uso del programa Praat, dirigido a docentes y ayudantes de la Unidad de Lingüística Aplicada de la Escuela de Fonoaudiología de la Universidad de Chile.
+- 2006\. Seminario Principios De Análise Acústica Aplicados à Lingua Galega. Filologies Gallega I Portuguesa De La Universidad De Barcelona, Secretaría Xeral De Política Lingüística De La Xunta De Galicia.
 
-- 2006\.    Seminario Principios De Análise Acústica Aplicados à Lingua Galega. Filologies Gallega I Portuguesa De La Universidad De Barcelona, Secretaría Xeral De Política Lingüística De La Xunta De Galicia.
+- 2006\. Seminario Introducción Al Análisis Fonético Con El Programa Praat para los alumnos de la asignatura Fonética Experimental (Dirigida por el Doctor Eugenio Martínez Celdrán), Del Departamento De Lingüística De La Universitat De Barcelona.
 
-- 2006\.    Seminario Introducción Al Análisis Fonético Con El Programa Praat para los alumnos de la asignatura Fonética Experimental (Dirigida por el Doctor Eugenio Martínez Celdrán), Del Departamento De Lingüística De La Universitat De Barcelona.
+- 2005-2006\. Seminario avanzado Análisis acústico y síntesis de voz en Praat, Laboratorio de Fonética de la Universidad de Barcelona
 
-- 2005-2006\.    Seminario avanzado Análisis acústico y síntesis de voz en Praat, Laboratorio de Fonética de la Universidad de Barcelona
+- 2004\. Taller: Usos y aplicaciones del programa Praat en fonética acústica, Universitat de Barcelona, Laboratori de Fonètica, 1 de diciembre.
 
-- 2004\.    Taller: Usos y aplicaciones del programa Praat en fonética acústica, Universitat de Barcelona, Laboratori de Fonètica, 1 de diciembre.
-
-- 2003\.    Conferencia Chile y España: poesía popular a dos razones. Facultad de Letras, U.C.
+- 2003\. Conferencia Chile y España: poesía popular a dos razones. Facultad de Letras, U.C.
 
 
 ## Presentaciones de libros
@@ -376,51 +372,52 @@ ______
 
 - 2011\. Taller avanzado de scripts en Praat, dictado por  José Joaquín Atria en el Laboratorio de Fonética, Letras UC. 4 al 11 de mayo del 2011.
 
-- 2011\.     Curso Cómo implementar Aprendizaje Servicio, Centro de Desarrollo Docente, Pontificia Universidad Católica de Chile. 29 de junio y 1 de julio, 2011.
+- 2011\. Curso Cómo implementar Aprendizaje Servicio, Centro de Desarrollo Docente, Pontificia Universidad Católica de Chile. 29 de junio y 1 de julio, 2011.
 
-- 2010\.    Román, D. Seminario-Taller de Redacción de Artículos de Investigación. Pontificia Universidad Católica de Chile, Santiago, abril 24.
+- 2010\. Román, D. Seminario-Taller de Redacción de Artículos de Investigación. Pontificia Universidad Católica de Chile, Santiago, abril 24.
 
-- 2007\.     Symposium Early Education and Human Brain Development. Centro de Modelamiento Matemático de la Universidad de Chile. 5 al 9 de marzo del 2007.
+- 2007\. Symposium Early Education and Human Brain Development. Centro de Modelamiento Matemático de la Universidad de Chile. 5 al 9 de marzo del 2007.
 
-- 2005\.     Curso Sintaxi, adquisició i patologia del llenguatge, Celia Jakubowicz (CNR/U. Paris 5). 1 de mayo al 31 de julio.
+- 2005\. Curso Sintaxi, adquisició i patologia del llenguatge, Celia Jakubowicz (CNR/U. Paris 5). 1 de mayo al 31 de julio.
 
-- 1999\.    Certificado de participación en el curso "Discurso y cognición: comprensión de textos orales y escritos",  dictado por el Dr. Arthur Graesser, catedrático de la Universidad de Menphis, Estados Unidos. Universidad Católica de Valparaiso, Valparaiso, junio 8, 9.
+- 1999\. Certificado de participación en el curso "Discurso y cognición: comprensión de textos orales y escritos",  dictado por el Dr. Arthur Graesser, catedrático de la Universidad de Menphis, Estados Unidos. Universidad Católica de Valparaiso, Valparaiso, junio 8, 9.
 
-- 1997\.     Curso Introducción a la Fonética Acústica: aplicaciones computacionales al análisis y síntesis del habla, Profesores Humberto Valdivieso y equipo (U. de Concepción) Universidad de Chile, Escuela de Fonoaudiología.
+- 1997\. Curso Introducción a la Fonética Acústica: aplicaciones computacionales al análisis y síntesis del habla, Profesores Humberto Valdivieso y equipo (U. de Concepción) Universidad de Chile, Escuela de Fonoaudiología.
 
-- 1997\.     Curso Adquisición de lenguas y teoría gramatical, Profesor Germán Westphal. SOCHIL, Universidad de la Frontera, Temuco.
+- 1997\. Curso Adquisición de lenguas y teoría gramatical, Profesor Germán Westphal. SOCHIL, Universidad de la Frontera, Temuco.
 
-- 1997\.    Domingo Román Montes de Oca. Octavo Seminario de Fonética inglesa, organizado por el phonetics group y el Departamento de Lingüística y filología de la Pontificia Universidad Católica de chile, Santiago, julio 9, 10 y 11.
+- 1997\. Domingo Román Montes de Oca. Octavo Seminario de Fonética inglesa, organizado por el phonetics group y el Departamento de Lingüística y filología de la Pontificia Universidad Católica de chile, Santiago, julio 9, 10 y 11.
 
-- 1992-1993\.     Seminario Filosofía de la Mente, comentario de textos a cargo del profesor Guido Vallejos, Universidad de Chile.
+- 1992-1993\. Seminario Filosofía de la Mente, comentario de textos a cargo del profesor Guido Vallejos, Universidad de Chile.
 
-- 1990-1991\.     Seminario avanzado Estudios Cognitivos, grupo interdisciplinario de la Universidad de Chile.
+- 1990-1991\. Seminario avanzado Estudios Cognitivos, grupo interdisciplinario de la Universidad de Chile.
 
-- 1988\.     Curso de perfeccionamiento Lingüística del Texto, profesor Alfredo Matus, Academia Superior de Ciencias Pedagógicas.
+- 1988\. Curso de perfeccionamiento Lingüística del Texto, profesor Alfredo Matus, Academia Superior de Ciencias Pedagógicas.
 
-- 1986\.     Curso de perfeccionamiento Fundamentos lingüísticos de la teoría literaria, profesora Adriana Valdés, Pontificia Universidad Católica de Chile.
+- 1986\. Curso de perfeccionamiento Fundamentos lingüísticos de la teoría literaria, profesora Adriana Valdés, Pontificia Universidad Católica de Chile.
 
-- 1996\.    Certificado de asistencia al Seminario–Taller La corrección fonética y la enseñanza de las lenguas, dictado por el Dr. Jean–Guy LeBel, Pontificia Universidad católica de Chile, Santiago, mayo 23.
+- 1996\. Certificado de asistencia al Seminario–Taller La corrección fonética y la enseñanza de las lenguas, dictado por el Dr. Jean–Guy LeBel, Pontificia Universidad católica de Chile, Santiago, mayo 23.
 
-- 1994\.    Certificado de asistencia al Seminario Interdisciplinario de Análisis del Discurso, dictado por el Dr. Teun Van Dijk, Universidad de Chile, marzo 21 y 25.
+- 1994\. Certificado de asistencia al Seminario Interdisciplinario de Análisis del Discurso, dictado por el Dr. Teun Van Dijk, Universidad de Chile, marzo 21 y 25.
 
-- 1994\.    Certificado de participación en el Taller  de Investigación en Análisis del Discurso, dictado por el Dr. Teun Van Dijk, Universidad de Chile, marzo 22 y 24.
+- 1994\. Certificado de participación en el Taller  de Investigación en Análisis del Discurso, dictado por el Dr. Teun Van Dijk, Universidad de Chile, marzo 22 y 24.
 
-- 1990\.    Certificado de asistencia al Simposio Cognición, Lenguaje y Cultura: diálogo transdisciplinario en ciencias cog­nitivas, participantes: J. Searle, K. Pribram, D. Sloubin y otros, Universidad de Chile, Santiago, octubre  29 y 31.
+- 1990\. Certificado de asistencia al Simposio Cognición, Lenguaje y Cultura: diálogo transdisciplinario en ciencias cog­nitivas, participantes: J. Searle, K. Pribram, D. Sloubin y otros, Universidad de Chile, Santiago, octubre  29 y 31.
 
-- 1988\.    Certificado de asistencia al Seminario Teoría del Conocimiento y Aprendizaje, dictado por el profesor Humberto Maturana, Escuela de Comunicación social, Santiago, noviembre 8, 9 y 10.
+- 1988\. Certificado de asistencia al Seminario Teoría del Conocimiento y Aprendizaje, dictado por el profesor Humberto Maturana, Escuela de Comunicación social, Santiago, noviembre 8, 9 y 10.
 
-- 1987\.    Certificado de asistencia al Curso intensivo de perfeccionamiento Compe­tencia Lingüística y Criterios de Correc­ción, dictado por el profesor Eugenio Coseriu, Pontificia Universidad Católica de Chile, Santiago, octubre 19 y el 22.
+- 1987\. Certificado de asistencia al Curso intensivo de perfeccionamiento Compe­tencia Lingüística y Criterios de Correc­ción, dictado por el profesor Eugenio Coseriu, Pontificia Universidad Católica de Chile, Santiago, octubre 19 y el 22.
 
 
 ## Experiencia docente
 ______
+- 2024\.  Profesor ad-honorem en la Escuela de Fonoaudiología de la Universidad de Chile.
 
-- 2015\.    Investigador Asociado a la Facultad de Humanidades, Universidad de Santiago de Chile.
+- 2015-\. Profesor asociado en el Departamento de Lingüística y Literatura de la Facultad de Humanidades en la Universidad de Santiago de Chile.
 
-- 2000\.    Profesor relator del taller Propuestas didácticas sobre métrica, U. de Concepción.
+- 2000\. Profesor relator del taller Propuestas didácticas sobre métrica, U. de Concepción.
 
-- 2015 (-1995)\.   Profesor jornada completa, en el Departamento de Lingüística del Instituto de Letras de la Pontificia Universidad Católica de Chile; cursos: Fonética y fonología españolas, Historia de la lengua española. Clases en licenciatura, magíster y doctorado.
+- 2015 (-1995)\. Profesor jornada completa, en el Departamento de Lingüística del Instituto de Letras de la Pontificia Universidad Católica de Chile; cursos: Fonética y fonología españolas, Historia de la lengua española. Clases en licenciatura, magíster y doctorado.
 
 
 ## Gestión
