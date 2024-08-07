@@ -20,5 +20,5 @@ En términos fonológicos, se distingue entre sílabas tónicas y sílabas áton
 
 >> El inge**nio**so perso**na**je de la no**ve**la
 >> 
->>  a  a a T  a  a a T a  a  a  a T a  
+>>  a--a--a--T  a  a a T a  a  a  a T a  
 
