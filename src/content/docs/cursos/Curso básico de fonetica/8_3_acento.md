@@ -31,6 +31,6 @@ En la transcripción se marca el acento precediendo la sílaba tónica con el s�
 
 Una versión fonética del mismo enunciado podría ser:
 
->> [el iŋx̟eˈnjoso peɾsoˈnaxe ð̞e la noˈβ̞ela]
+>> [el iŋx̟eˈnjoso peɾsoˈnax̟e ð̞e la noˈβ̞ela]
 
 
