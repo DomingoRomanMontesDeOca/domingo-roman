@@ -27,10 +27,10 @@ En términos fonológicos, se distingue entre sílabas tónicas y sílabas áton
 
 En la transcripción se marca el acento precediendo la sílaba tónica con el símbolo " ˈ ".
 
-/el iNxeˈnioso peRsoˈnaxe de la noˈbela/
+>> /el iNxeˈnioso peRsoˈnaxe de la noˈbela/
 
 Una versión fonética del mismo enunciado podría ser:
 
-[el iŋx̟eˈnjoso peɾsoˈnaxe ð̞e la noˈβ̞ela]
+>> [el iŋx̟eˈnjoso peɾsoˈnaxe ð̞e la noˈβ̞ela]
 
 
