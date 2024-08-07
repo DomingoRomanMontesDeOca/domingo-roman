@@ -80,7 +80,7 @@ Algunas consonantes permiten un complemento que solo puede ser ɾ/l (ere o ele).
 |pɾa|pla|
 |tɾa|tla[^1]|
 
-[^1]: En el universo hispanohablante latinoamericano, esta combinación no ofrece dificultad. Sin embargo, un hablante peninsular, en una palabra como "atlas", percibirá las sílabas: "at" y "las".
+[^1]: En el universo hispanohablante latinoamericano, esta combinación no ofrece dificultad. Sin embargo, un hablante peninsular, en una palabra como "atlas", producirá y percibirá las sílabas: "at" y "las".
 
 Desde el punto de vista del análisis "CV", estas sílabas tienen la estructura "CCV"; una palabra como "traigo" será "CCVCV".
 
