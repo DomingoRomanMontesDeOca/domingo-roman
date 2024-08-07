@@ -37,4 +37,4 @@ En la siguiente imagen, presenta la mitad superior del oscilograma y la curva de
 
 ### Resumen
 
-La curva de intensidad es una buena pista para determinar las sílabas en una emisión. 
+La curva de intensidad es una buena pista para determinar las sílabas en una emisión. Esta curva de valores en dB se obtiene mediante una transformación de los valores de amplitud.
