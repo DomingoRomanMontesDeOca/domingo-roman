@@ -20,6 +20,9 @@ La siguiente figura muestra el oscilograma y la curva de intensidad de una síla
 
 ![Oscilograma y curva de intensidad de una sílaba](/imagenes/oscilograma_db_silaba.png)
 
+Mediante una operación matemática, se convierten los valores de amplitud (Pa) en decibeles (dB). Parte de esta operación consiste en anular la diferencia entre valores positivos y negativos de la amplitud de la señal. También esta operación se realiza en una ventana de análisis.
+
+
 En la siguiente figura se muestra un enunciado de tres sílabas:
 
 ![Oscilograma y curva de intensidad de tres sílabas](/imagenes/ejemplo_3_silabas_intensidad.png)
