@@ -10,7 +10,7 @@ sidebar:
 ---
 # 8.1 La sílaba
 
-La sílaba es una organización fonológica y fonética que incluye uno o más segmentos fónicos y que se corresponde con el gesto articulatorio básico de apertura y cierre bucal.
+La sílaba es una organización fonológica y fonética que incluye uno o más segmentos fónicos y que se corresponde con el gesto articulatorio básico de apertura y constricción oral. Estas apertura y constricción pueden ser de diferentes grados.
 
 Se puede distinguir, entonces, en su momento central un núcleo (**N**)que siempre, en español, será vocálico. Este núcleo puede estar acompañado de otros segmentos subordinados al núcleo.
 
