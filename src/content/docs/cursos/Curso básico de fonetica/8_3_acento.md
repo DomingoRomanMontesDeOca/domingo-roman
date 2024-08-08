@@ -22,7 +22,7 @@ En términos fonológicos, se distingue entre sílabas tónicas y sílabas áton
 >> La parentela de la familia completa
 
 |s|s|s|s|s|s|s|s|s|s|s|s|s|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |La|pa|ren|**TE**|la|de|la|fa|**MI**|lia|com|**PLE**|ta|
 |a|a|a|T|a|a|a|a|T|a|a|T|a|
 
