@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 8.3 Acento
+  label: 8.3.2 Acento
   # Orden (Número más bajo aparece más arriba)
   order: 103
 ---
