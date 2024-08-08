@@ -44,6 +44,8 @@ Fonológicamente, se distingue entre sílabas tónicas y átonas. Sabemos cuál 
 
 ### 8.3.2 El acento desde el punto de vista de la fonética
 
+### 8.3.2.1 En palabras
+
 Fonéticamente se pueden distinguir varios grados de relieve acentual. En este curso se trabajará con tres relieves relativos. El "3" es el relieve mayor, el "2" es el relieve medio y el "1", el menor.
 
 El relieve mayor se asignará a la sílaba tónica. De modo que una palabra como "casa" tendrá relieve 3 en la primera sílaba. En las tablas siguientes se completarán los valores de los relieves relativos a medida en que se avance con la información.
@@ -96,4 +98,12 @@ En finales esdrújulos, la sílaba final tendrá relieve 2:
 |**cá**|li|do|
 |3|1|2|
 
+### 8.3.2.1 En enunciados
+
+Los mismos principios señalados se pueden aplicar en el nivel del enunciado:
+
+"La cáscara del limón"
+|s|s|s|s|s|s|s|
+|---|---|---|---|---|---|---|
+|2|3|1|1|1|1|3|
 
