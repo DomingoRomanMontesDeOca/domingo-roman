@@ -16,6 +16,9 @@ Si se escucha el siguiente audio, se puede entender mejor el fenómeno de esta t
 
 <audio controls src="/sonidos/bip_bip.wav"></audio>
 
+
+### 8.3.1 El acento desde el punto de vista de la fonología
+
 En términos fonológicos, se distingue entre sílabas tónicas y sílabas átonas; es decir, con relieve y sin relieve. Así, por ejemplo, en el siguiente enunciado se marcan con negrita las sílabas tónicas y se señalan con "T" en la línea inferior. La "a" simboliza las sílabas átonas.
 
 >> El inge**nio**so perso**na**je de la no**ve**la
@@ -33,7 +36,47 @@ En la transcripción se marca el acento precediendo la sílaba tónica con el s�
 Una versión fonética del mismo enunciado podría ser:
 
 >> [la paɾen̪ˈt̪ela ð̞e la faˈmilja komˈplet̪a]
->>
->> 
+
+Todas las sílabas que están precedidas por el símbolo " ˈ " son tónicas.
+
+Fonológicamente, se distingue entre sílabas tónicas y átonas. Sabemos cuál es la sílaba tónica porque conocemos la lengua materna.
 
 
+### 8.3.2 El acento desde el punto de vista de la fonética
+
+Fonéticamente se pueden distinguir varios grados de relieve acentual. En este curso se trabajará con tres relieves relativos. El "3" es el relieve mayor, el "2" es el relieve medio y el "1", el menor.
+
+El relieve mayor se asignará a la sílaba tónica. De modo que una palabra como "casa" tendrá relieve 3 en la primera sílaba.
+
+|s|s|
+|---|---|
+|ca|sa|
+|3|?|
+
+A la sílaba postónica se le asignará el relieve más bajo, 1:
+
+|s|s|
+|---|---|
+|**ca**|sa|
+|3|1|
+
+
+En la palabra "caserío" 
+|s|s|s|s|
+|---|---|---|---|
+|ca|se|rí|o|
+|?|?|3|1|
+
+Las sílabas iniciales, si no son tónicas, tendrán intensidad 2
+
+|s|s|s|s|
+|---|---|---|---|
+|ca|se|rí|o|
+|2|?|3|1|
+
+Palabra "cálido"
+
+|s|s|s|
+|---|---|---|
+|cá|li|do|
+|3|1|?|
