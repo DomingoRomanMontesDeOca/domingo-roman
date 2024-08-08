@@ -105,6 +105,6 @@ Los mismos principios señalados se pueden aplicar en el nivel del enunciado:
 "La cáscara del limón"
 |s|s|s|s|s|s|s|
 |---|---|---|---|---|---|---|
-|La|**cas**|ca|ra|del|li|**mon**|
+|La|**cas**|ca|ra|del|li|**món**|
 |2|3|1|1|1|1|3|
 
