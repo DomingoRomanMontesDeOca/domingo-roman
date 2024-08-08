@@ -26,6 +26,6 @@ El primero de los elementos mencionados describe una sílaba como más fuerte o 
 
 El segundo de estos elementos se se refiere a la duración. Normalmente la sílaba tónica es más larga que las átonas pero esto tampoco es definitorio.
 
-El tercer elemento, el tono, si es el elemento clave para la percepción del acento léxico. Es decir, la sílaba tónica es más alta que las sílabas átonas. Puede o no ser más intensa y/o más larga.
+El tercer elemento, el tono, sí es el elemento clave para la percepción del acento léxico. Es decir, la sílaba tónica es más alta que las sílabas átonas. Puede o no ser más intensa y/o más larga.
 
 
