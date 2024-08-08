@@ -19,18 +19,21 @@ Si se escucha el siguiente audio, se puede entender mejor el fenómeno de esta t
 En términos fonológicos, se distingue entre sílabas tónicas y sílabas átonas; es decir, con relieve y sin relieve. Así, por ejemplo, en el siguiente enunciado se marcan con negrita las sílabas tónicas y se señalan con "T" en la línea inferior. La "a" simboliza las sílabas átonas.
 
 >> El inge**nio**so perso**na**je de la no**ve**la
+>> La parentela de la familia completa
 
-|s|s|s|s|s|s|s|s|s|s|s|s|s|s|
+|s|s|s|s|s|s|s|s|s|s|s|s|s|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|El|in|ge|**NIO**|so|per|so|**NA**|je|de|la|no|**VE**|la|
-|a|a|a|T|a|a|a|T|a|a|a|a|T|a|
+|La|pa|ren|**TE**|la|de|la|fa|**MI**|lia|com|**PLE**|ta|
+|a|a|a|T|a|a|a|a|T|a|a|T|a|
 
 En la transcripción se marca el acento precediendo la sílaba tónica con el símbolo " ˈ ".
 
->> /el iNxeˈnioso peRsoˈnaxe de la noˈbela/
+>> /la paɾenˈtela de la faˈmilia comˈpleta/
 
 Una versión fonética del mismo enunciado podría ser:
 
->> [el iŋx̟eˈnjoso peɾsoˈnax̟e ð̞e la noˈβ̞ela]
+>> [la paɾen̪ˈt̪ela ð̞e la faˈmilja komˈplet̪a]
+>>
+>> 
 
 
