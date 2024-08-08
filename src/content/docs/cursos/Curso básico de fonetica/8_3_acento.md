@@ -46,11 +46,13 @@ Fonológicamente, se distingue entre sílabas tónicas y átonas. Sabemos cuál 
 
 Fonéticamente se pueden distinguir varios grados de relieve acentual. En este curso se trabajará con tres relieves relativos. El "3" es el relieve mayor, el "2" es el relieve medio y el "1", el menor.
 
-El relieve mayor se asignará a la sílaba tónica. De modo que una palabra como "casa" tendrá relieve 3 en la primera sílaba.
+El relieve mayor se asignará a la sílaba tónica. De modo que una palabra como "casa" tendrá relieve 3 en la primera sílaba. En las tablas siguientes se completarán los valores de los relieves relativos a medida en que se avance con la información.
+
+"Casa"
 
 |s|s|
 |---|---|
-|ca|sa|
+|**ca**|sa|
 |3|?|
 
 A la sílaba postónica se le asignará el relieve más bajo, 1:
@@ -60,23 +62,38 @@ A la sílaba postónica se le asignará el relieve más bajo, 1:
 |**ca**|sa|
 |3|1|
 
-
 En la palabra "caserío" 
 |s|s|s|s|
 |---|---|---|---|
-|ca|se|rí|o|
+|ca|se|**rí**|o|
 |?|?|3|1|
 
 Las sílabas iniciales, si no son tónicas, tendrán intensidad 2
 
 |s|s|s|s|
 |---|---|---|---|
-|ca|se|rí|o|
+|ca|se|**rí**|o|
 |2|?|3|1|
 
 Palabra "cálido"
 
 |s|s|s|
 |---|---|---|
-|cá|li|do|
+|**cá**|li|do|
 |3|1|?|
+
+Las sílabas átonas interiores reciben intensidad 1:
+
+|s|s|s|s|
+|---|---|---|---|
+|ca|se|**rí**|o|
+|2|1|3|1|
+
+En finales esdrújulos, la sílaba final tendrá relieve 2:
+
+|s|s|s|
+|---|---|---|
+|**cá**|li|do|
+|3|1|2|
+
+
