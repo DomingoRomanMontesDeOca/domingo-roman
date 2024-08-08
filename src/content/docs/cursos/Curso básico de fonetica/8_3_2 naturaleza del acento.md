@@ -22,4 +22,10 @@ Tres son los elementos del habla que participan en los fenómenos prosódicos. E
 
 3- La actividad de los pliegues vocales, lo que es propiamente la fonación, produce una señal periódica cuya frecuencia fundamental se mide en Hz y permite categorizar los sonidos (en especial las vocales) como *graves/agudas*.
 
+El primero de los elementos mencionados describe una sílaba como más fuerte o más débil que otra. En muchos textos se señala que el acento en español es un acento *dinámico*, es decir, de intensidad. A menudo se dice que el acento está "donde se carga la voz". Si bien la sílaba tónica suele ser más fuerte que las átonas, esto no siempre es así porque la intensidad es un rasgo complementario pero no fundamental para la percepción del acento.
+
+El segundo de estos elementos se se refiere a la duración. Normalmente la sílaba tónica es más larga que las átonas pero esto tampoco es definitorio.
+
+El tercer elemento, el tono, si es el elemento clave para la percepción del acento léxico. Es decir, la sílaba tónica es más alta que las sílabas átonas. Puede o no ser más intensa y/o más larga.
+
 
