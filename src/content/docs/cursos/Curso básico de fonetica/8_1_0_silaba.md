@@ -4,11 +4,11 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 8.1 Sílaba
+  label: 8.1.0 Sílaba
   # Orden (Número más bajo aparece más arriba)
   order: 101
 ---
-# 8.1 La sílaba
+# 8.1.0 La sílaba
 
 La sílaba es una organización fonológica y fonética que incluye uno o más segmentos fónicos y que se corresponde con el gesto articulatorio básico de apertura y constricción oral. Estas apertura y constricción pueden ser de diferentes grados.
 
