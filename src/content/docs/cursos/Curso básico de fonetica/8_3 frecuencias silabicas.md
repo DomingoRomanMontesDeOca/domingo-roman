@@ -8,7 +8,7 @@ sidebar:
   # Orden (Número más bajo aparece más arriba)
   order: 102
 ---
-## 8.2 Frecuencias de los distintos tipos silábicos
+## 8.3 Frecuencias de los distintos tipos silábicos
 
 Un análisis automatizado de los distintos tipos de sílabas (incluyendo el proceso de resilabificación) en un corpus elaborado a partir de cuentos chilenos, muestra los siguiente resultados.
 
