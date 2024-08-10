@@ -218,6 +218,9 @@ ______
 
 ### Participaciones en congreso
 ______
+
+- 2024\. Congreso Internacional Fonética y Poética. Coorganizador. 
+  
 - 2024\. Colonna, Valentina y Domingo Román. I congreso Internacional de Teoría de la Lírica y Poéticas comparadas. Universidad de Salamanca, 3-5 de julio.
   
 - 2023\. Haska, C. Román, D. Quezada, C. Análisis acústico del fonema “ch” en el habla chilena santiaguina. Sochil XXIII.
