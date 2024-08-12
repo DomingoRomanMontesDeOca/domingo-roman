@@ -94,7 +94,7 @@ Transcripción fonológica de los archifonemas:
 |/g/|[g]|oral|Oclusivo|Velar|Sonora|
 |/s/|[s]|oral|Fricativo|Alveolar| Sorda|
 |/s/|[ʰ]|oral|Fricativo|Alveolar|Sorda|
-|/f/|[f]|oral|Fricativo|Dentoalveolar|Sorda|
+|/f/|[f]|oral|Fricativo|Labiodental|Sorda|
 |/f/|[ɸ]|oral|Fricativo|Bilabial|Sorda|
 |/x/|[x]|oral|Fricativo|Velar|Sorda|
 |/t͡ʃ/|[ʃ]|oral|Fricativo|Palatal|Sorda|
