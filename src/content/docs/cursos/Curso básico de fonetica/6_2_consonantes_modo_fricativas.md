@@ -39,7 +39,7 @@ Tabla de síntesis
 | ----------- | ----------- |----------- | ----------- |
 | /s/ | [s] | Alveolar | Sorda|
 | /s/ | [ʰ] | Alveolar | Sorda|
-| /f/ | [f] | Dentoalveolar | Sorda|
+| /f/ | [f] | Labiodental | Sorda|
 | /f/ | [ɸ] | Bilabial | Sorda|
 | /x/ | [x] | Velar| Sorda|
 | /t͡ʃ/ | [ʃ] | Palatal| Sorda|
@@ -60,7 +60,7 @@ Tabla de síntesis acumulada
 | /g/ | [g]| Oclusivo|Velar|Sonora|
 | /s/ | [s] |  Fricativo|Alveolar | Sorda|
 | /s/| [ʰ] |  Fricativo|Alveolar | Sorda|
-| /f/ | [f] | Fricativo| Dentoalveolar | Sorda|
+| /f/ | [f] | Fricativo| Labiodental | Sorda|
 | /f/| [ɸ] | Fricativo| Bilabial | Sorda|
 | /x/ | [x] |  Fricativo|Velar| Sorda|
 | /t͡ʃ/ | [ʃ] |  Fricativo|Palatal| Sorda|
