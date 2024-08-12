@@ -61,7 +61,7 @@ Tabla de síntesis acumulada
 | /g/ | [g]| Oclusivo|Velar|Sonora|
 | /s/ | [s] |  Fricativo|Alveolar | Sorda|
 | /s/| [ʰ] |  Fricativo|Alveolar | Sorda|
-| /f/ | [f] | Fricativo| Dentoalveolar | Sorda|
+| /f/ | [f] | Fricativo| Labiodental | Sorda|
 | /f/ | [ɸ] | Fricativo| Bilabial | Sorda|
 | /x/ | [x] |  Fricativo|Velar| Sorda|
 | /t͡ʃ/ | [ʃ] |  Fricativo|Palatal| Sorda|
