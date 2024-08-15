@@ -82,7 +82,7 @@ Palabra "cálido"
 |**cá**|li|do|
 |3|1|?|
 
-Las sílabas átonas interiores reciben intensidad 1:
+Las sílabas átonas interiores reciben intensidad 1:[^1]
 
 |s|s|s|s|
 |---|---|---|---|
@@ -114,4 +114,4 @@ Los mismos principios señalados se pueden aplicar en el nivel del enunciado:
 |2|1|1|3|1|1|1|1|3|1|1|3|1|
 
 
-Se admite que en una secuencia de varios niveles mínimos contiguos pueda darse una diferenciación de alguna de las sílabas tomando relieve 2.
+[^1]: Se admite que en una secuencia de varios niveles mínimos contiguos pueda darse una diferenciación de alguna de las sílabas tomando relieve 2.
