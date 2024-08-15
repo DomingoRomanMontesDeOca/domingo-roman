@@ -14,7 +14,7 @@ El acento es un relieve que se produce en una sílaba de una palabra. Parece que
 
 Si se escucha el siguiente audio, se puede entender mejor el fenómeno de esta transformación perceptiva de la monotonía (nunca mejor usado este término) en una secuencia con variación de algún tipo.
 
-<audio controls src="/sonidos/bip_bip.wav"></audio>
+<audio controls src="/sonidos/bip_bip_2.wav"></audio>
 
 ### 8.3.1 El acento desde el punto de vista de la fonología
 
