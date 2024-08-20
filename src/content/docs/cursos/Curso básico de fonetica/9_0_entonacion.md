@@ -16,4 +16,8 @@ Una palabra aislada tiene un esquema prosódico que se corresponde con su estruc
 
 En los tres casos, la sílaba tónica es la más alta o prominente.
 
+Ahora bien, lo anterior se refiere a palabras pronunciadas aisladamente. Pero ¿qué pasa con ese esquema prosódico cuando la palabra está en una oración?
 
+![f0 de una oración](/imagenes/entonacion_0_lakaskaradesandia.png)
+
+En el ejemplo anterior, la palabra *cascara* está inmersa en la frase "La cáscara de sandía".
