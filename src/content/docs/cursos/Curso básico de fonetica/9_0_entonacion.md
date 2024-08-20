@@ -21,3 +21,6 @@ Ahora bien, lo anterior se refiere a palabras pronunciadas aisladamente. Pero ¿
 ![f0 de una oración](/imagenes/entonacion_0_lakaskaradesandia.png)
 
 En el ejemplo anterior, la palabra *cáscara* está inmersa en la frase "La cáscara de sandía". Se observa que el esquema prosódico de la palabra se ha alterado y ahora la sílaba postónica *ka* es la más alta.
+
+Es posible pensar que el esquema prosódico de la f0 de la palabra se subsume en un esquema entonacional del enunciado. Los fenómenos que se pueden observar en esta subordinación tienen que ver algunos con la alineación de la f0 en relación con la sílaba tónica, la desacentuación, la focalización, y algunos otros más.
+
