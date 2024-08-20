@@ -15,6 +15,9 @@ Una palabra aislada tiene un esquema prosódico que se corresponde con su estruc
 cáscara   casita  cascarón
 
 
+![f0 de tres palabras](/imagenes/entonacion_0_cascaracasitakascaron.png)
+
+
 
 
 
