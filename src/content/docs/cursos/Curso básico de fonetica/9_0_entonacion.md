@@ -20,4 +20,4 @@ Ahora bien, lo anterior se refiere a palabras pronunciadas aisladamente. Pero ¿
 
 ![f0 de una oración](/imagenes/entonacion_0_lakaskaradesandia.png)
 
-En el ejemplo anterior, la palabra *cascara* está inmersa en la frase "La cáscara de sandía".
+En el ejemplo anterior, la palabra *cáscara* está inmersa en la frase "La cáscara de sandía". Se observa que el esquema prosódico de la palabra se ha alterado y ahora la sílaba postónica es la más alta.
