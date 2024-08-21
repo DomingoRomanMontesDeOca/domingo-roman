@@ -10,7 +10,9 @@ sidebar:
 ---
 ## 8.3 Tipos acentuales de palabras
 
-Las palabras del español se pueden categorizar en 
+### 8.3.1 Tipos que existen en español
+
+Las palabras del español se pueden categorizar en:
 
 - monosílabos átonos
 - monosílabos tónicos
@@ -18,7 +20,15 @@ Las palabras del español se pueden categorizar en
 - palabras agudas
 - palabras graves
 - palabras esdrújulas
+- palabras sobreesdrújulas
 
-### 8.3.1 Frecuencia de los tipos de palabras
+### 8.3.2 Frecuencia de los tipos de palabras
 
+Un recuento automático propio, muestra los siguientes números sobre un total de palabras.
+
+![Recuento de palabras](/imagenes/palabras_todos_los_tipos.png)
+
+Si se considera solo los tipos de palabra grave, aguda y esdrújula, se tienen los siguientes valores:
+
+![Recuento de palabras graves, agudas y esdrújulas](/imagenes/palabras_barras_GAES.png)
 
