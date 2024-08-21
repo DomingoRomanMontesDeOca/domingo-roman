@@ -32,3 +32,5 @@ Si se considera solo los tipos de palabra grave, aguda y esdrújula, se tienen l
 
 ![Recuento de palabras graves, agudas y esdrújulas](/imagenes/palabras_barras_GAES.png)
 
+Como se puede observar, las palabras sobreesdrújulas son inexistentes en este corpus.
+
