@@ -24,7 +24,7 @@ Las palabras del español se pueden categorizar en:
 
 ### 8.3.2 Frecuencia de los tipos de palabras
 
-Un recuento automático propio, muestra los siguientes números sobre un total de palabras.
+Un recuento automático propio, muestra los siguientes números sobre un total de un poco más de 28 mil palabras.
 
 ![Recuento de palabras](/imagenes/palabras_todos_los_tipos.png)
 
