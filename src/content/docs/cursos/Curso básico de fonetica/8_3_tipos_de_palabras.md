@@ -28,7 +28,7 @@ Un recuento automático propio, muestra los siguientes números sobre un total d
 
 ![Recuento de palabras](/imagenes/palabras_todos_los_tipos.png)
 
-Si se considera solo los tipos de palabra grave, aguda y esdrújula, se tienen los siguientes valores:
+Si se considera solo los tipos de palabra grave, aguda, esdrújula y sobreesdrújula, se tienen los siguientes valores:
 
 ![Recuento de palabras graves, agudas y esdrújulas](/imagenes/palabras_barras_GAES.png)
 
