@@ -10,4 +10,6 @@ sidebar:
 ---
 ## 9.1 Curva de f0
 
-Los valores de la curva f0 se pueden observar en todas las partes de la señal que sea periódica. El valor de la f0 se puede determinar por varios métodos, ya sean automáticos o manuales. En definitiva, la lista de valores de f0 
+Los valores de la curva f0 se pueden observar en todas las partes de la señal que sea periódica. El valor de la f0 se puede determinar por varios métodos, ya sean automáticos o manuales. En definitiva, la lista de valores de f0 debe ser una que incluya el tiempo y la frecuencia.
+
+
