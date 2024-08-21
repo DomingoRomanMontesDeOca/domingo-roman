@@ -19,4 +19,6 @@ Las palabras del español se pueden categorizar en
 - palabras graves
 - palabras esdrújulas
 
-  
+### 8.3.1 Frecuencia de los tipos de palabras
+
+
