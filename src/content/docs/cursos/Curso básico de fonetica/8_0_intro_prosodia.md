@@ -16,41 +16,41 @@ En este curso, revisaremos los siguientes conceptos **suprasegmentales**.
 
 1. La sílaba
    
-3. El acento
+2. El acento
    
-2.1. Relieves relativos
+    2.1. Relieves relativos
 
-2.2. Sílabas tónicas y átonas
+    2.2. Sílabas tónicas y átonas
 
-2.3. Tipos de palabras por acentuación
+    2.3. Tipos de palabras por acentuación
 
-2.3.1. Monosílabos átonos y tónicos
+       2.3.1. Monosílabos átonos y tónicos
 
-2.3.2. Bisílabos átonos
+       2.3.2. Bisílabos átonos
 
-2.3.3. Palabras graves, agudas y esdrújulas
+       2.3.3. Palabras graves, agudas y esdrújulas
 
-2.4. Propensiones acentuales del español
+    2.4. Propensiones acentuales del español
 
-2.5. Parámetros acústicos de la prosodia
+3. Parámetros acústicos de la prosodia
 
-2.5.1. El tiempo, correlato de la duración
+    3.1. El tiempo, correlato de la duración
 
-2.5.2. La intensidad, correlato del volumen
+    3.2. La intensidad, correlato del volumen
 
-2.5.3. La frecuencia fundamental (f0), correlato del tono
+    3.3. La frecuencia fundamental (f0), correlato del tono
 
-5. Estudio de la entonación
+4. Estudio de la entonación
    
-3.1. Acento y entonación
+    4.1. Acento y entonación
 
-3.2. Frecuencia fundamental y tono
+    4.2. Frecuencia fundamental y tono
 
-3.3. Curva de f0 y semitonos
+    4.3. Curva de f0 y semitonos
 
-3.4. Ejemplos dialectales de curvas de f0
+    4.4. Ejemplos dialectales de curvas de f0
 
-3.5. Fenómenos lingüísticos abordables desde el punto de vista de los suprasegmentos
+    4.5. Fenómenos lingüísticos abordables desde el punto de vista de los suprasegmentos
 
 
 
