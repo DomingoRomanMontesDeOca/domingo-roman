@@ -134,7 +134,7 @@ ______
 
 - Román, D. y María del Saz. (En proceso). Análisis fonético de los sonidos laterales del español, En Fonética y fonología de la lengua española. Gil, Juana y Joaquim Llisterri (eds.) Georgetown University Press.
 
-- Román, D. y D Muñoz. (2018). Tono y frecuencia fundamental. Propuestas metodológicas para su estudio; en Pérez, A. y A. Hernández (Coordinadores) (2017). Propuestas metodológicas para la investigación lingüística. Aplicaciones teóricas y descriptivas, Unam/U. de Colima.
+- Román, D. y D Muñoz. (2018). Tono y frecuencia fundamental. Propuestas metodológicas para su estudio; en Pérez, A. y A. Hernández (Coordinadores) (2017). Propuestas metodológicas para la investigación lingüística. Aplicaciones teóricas y descriptivas, Unam/U. de Colima. [Descargar pdf](/tono_y_frecuencia_fundamental_roman_munoz.pdf)
 
 - Román, D; C. Quezada ,J. Atria, P. Oplustil. (2016) Incidencia de la inflexión tonal y de la duración de la pausa en la percepción de la modalidad del primero de dos grupos fónicos, en Fernández Planas, A. Ma. (ed.) (2016): 53 reflexiones sobre aspectos de la fonética y otros temas de lingüística, Barcelona, págs. 293-300. ISBN: 978-84-608-9830-6
 
