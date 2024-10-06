@@ -26,6 +26,8 @@ Así, hay una relación entre las partes de mayor amplitud con las zonas de mayo
 
 Una observación: En el análisis del habla, los dB conviene considerarlos en términos relativos a otros dB. Es decir, es pertinente decir, por ejemplo, que entre dos puntos de análisis hay 3 dB de diferencia; pero no es informativo decir que un determinado punto tiene 89 dB de intensidad.
 
+En los siguientes audios, se escucha un tono de 500 Hz. El primero tiene el doble de amplitud que el segundo.
+
 <audio controls src="/sonidos/500_050.wav"></audio>
 
 <audio controls src="/sonidos/500_025.wav"></audio>
