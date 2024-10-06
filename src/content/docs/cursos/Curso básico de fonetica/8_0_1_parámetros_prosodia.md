@@ -38,13 +38,13 @@ La mantención durante un tiempo de una posición articulatoria produce el efect
 
 Desde el punto de vista físico, se observa en un oscilograma una señal de más o de menos segundos.
 
-El efecto perceptivo, de este parámetro es la duración considerada como #larga, #breve, etc.
+El efecto perceptivo, de este parámetro es la duración considerada como *larga, *breve, etc.
 
 ## El tono
 
 La tasa de vibración por segundo de los pliegues vocales produce una altura tonal de los sonidos sonoros. Este es el correlato fisológico.
 
-Desde el punto de vista físico acústico en el oscilograma se observa una periodicidad en la señal cuya frecuencia constituye la frecuencia fundamental. Esta frecuencia se mide en Hz.
+Desde el punto de vista físico acústico en el oscilograma se observa una periodicidad en la señal cuya frecuencia constituye la *frecuencia *fundamental. Esta frecuencia se mide en Hz.
 
 La dimensión perceptiva de la frecuencia fundamental es el tono. La relación entre dos frecuencias diferentes se puede expresar en semitonos (st) y esa diferencia puede establecer alturas relativas entre un sonido y otro.
 
