@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 8.01 Parámetros acústicos de la prosodia
+  label: 8.0.1 Parámetros acústicos de la prosodia
   # Orden (Número más bajo aparece más arriba)
   order: 101
 ---
