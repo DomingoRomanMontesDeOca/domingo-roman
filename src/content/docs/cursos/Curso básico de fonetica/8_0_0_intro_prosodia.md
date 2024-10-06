@@ -23,7 +23,7 @@ En este curso, revisaremos los siguientes conceptos **suprasegmentales**.
     2.2. Sílabas tónicas y átonas
 
     2.3. Tipos de palabras por acentuación
-
+   
        2.3.1. Monosílabos átonos y tónicos
 
        2.3.2. Bisílabos átonos
@@ -32,7 +32,7 @@ En este curso, revisaremos los siguientes conceptos **suprasegmentales**.
 
     2.4. Propensiones acentuales del español
 
-3. Parámetros acústicos de la prosodia
+4. Parámetros acústicos de la prosodia
 
     3.1. El tiempo, correlato de la duración
 
@@ -40,7 +40,7 @@ En este curso, revisaremos los siguientes conceptos **suprasegmentales**.
 
     3.3. La frecuencia fundamental (f0), correlato del tono
 
-4. Estudio de la entonación
+5. Estudio de la entonación
    
     4.1. Acento y entonación
 
@@ -51,8 +51,4 @@ En este curso, revisaremos los siguientes conceptos **suprasegmentales**.
     4.4. Ejemplos dialectales de curvas de f0
 
     4.5. Fenómenos lingüísticos abordables desde el punto de vista de los suprasegmentos
-
-
-
-
 
