@@ -44,7 +44,7 @@ La representación del oscilograma y de la curva de intensidad en una señal que
 
 ![Oscilograma y curva de intensidad](/imagenes/amplitud_e_intensidad_prosodia.png)
 
-Hasta aquí, se ha mostrado una señal de solo un tono, es decir, una sinusoide. Lo que se ha señalado es proyectable sobre muestras de habla. La palabra "lago" aparece representada aquí tanto en su oscilograma como en la curva de intensidad.
+Hasta aquí, se ha mostrado una señal que corresponde a un tono simple, es decir, a una sinusoide. Lo que se ha señalado sucede también en muestras de habla real. La palabra "lago" aparece representada aquí tanto en su oscilograma como en la curva de intensidad.
 
 ![Oscilograma y curva de intensidad de una muestra de habla](/imagenes/lago_oscilograma_curva_intensidad.png)
 
