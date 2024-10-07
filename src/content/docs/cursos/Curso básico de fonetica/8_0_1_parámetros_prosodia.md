@@ -44,6 +44,14 @@ La representación del oscilograma y de la curva de intensidad en una señal que
 
 ![Oscilograma y curva de intensidad](/imagenes/amplitud_e_intensidad_prosodia.png)
 
+Hasta aquí, se ha mostrado una señal de solo un tono, es decir, una sinusoide. Lo que se ha señalado es proyectable sobre muestras de habla. La palabra "lago" aparece representada aquí tanto en su oscilograma como en la curva de intensidad.
+
+
+(lago_oscilograma_curva_intensidad.png)
+lago_16000
+
+![Oscilograma y curva de intensidad de una muestra de habla](/imagenes/amplitud_e_intensidad_prosodia.png)
+
 ## Duración
 
 La mantención durante un tiempo de una posición articulatoria produce el efecto de un sonido más largo o más breve.
@@ -59,10 +67,6 @@ La tasa de vibración por segundo de los pliegues vocales produce una altura ton
 Desde el punto de vista físico acústico en el oscilograma se observa una periodicidad en la señal cuya frecuencia constituye la *frecuencia *fundamental*. Esta frecuencia se mide en Hz.
 
 La dimensión perceptiva de la frecuencia fundamental es el tono. La relación entre dos frecuencias diferentes se puede expresar en semitonos (st) y esa diferencia puede establecer alturas relativas entre un sonido y otro.
-
-
-
-
 
 
 
