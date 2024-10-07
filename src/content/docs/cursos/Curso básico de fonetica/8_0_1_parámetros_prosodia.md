@@ -40,6 +40,9 @@ Los oscilogramas respectivos son los siguientes:
 
 ![Oscilograma de un tono de 500 Hz de amplitud 0.25](/imagenes/amplitud_para_prosodia_025.png)
 
+La representación del oscilograma y de la curva de intensidad en una señal que abarque una porción de ambas señales es la siguiente:
+
+![Oscilograma y curva de intensidad](/imagenes/amplitud_e_intensidad_prosodia.png)
 
 ## Duración
 
