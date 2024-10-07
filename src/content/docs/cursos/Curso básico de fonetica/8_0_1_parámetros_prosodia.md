@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 8.0.1 Parámetros acústicos de la prosodia
+  label: 8.0.1 Parámetros de la prosodia
   # Orden (Número más bajo aparece más arriba)
   order: 101
 ---
@@ -26,12 +26,19 @@ Así, hay una relación entre las partes de mayor amplitud con las zonas de mayo
 
 Una observación: En el análisis del habla, los dB conviene considerarlos en términos relativos a otros dB. Es decir, es pertinente decir, por ejemplo, que entre dos puntos de análisis hay 3 dB de diferencia; pero no es informativo decir que un determinado punto tiene 89 dB de intensidad.
 
-En los siguientes audios, se escucha un tono de 500 Hz. El primero tiene el doble de amplitud que el segundo.
+En los siguientes audios, se escucha un tono de 500 Hz. El primero tiene una amplitud mayor que el segundo.
 
 <audio controls src="/sonidos/500_050.wav"></audio>
 
 <audio controls src="/sonidos/500_025.wav"></audio>
 
+Los oscilogramas respectivos son los siguientes:
+
+
+![Oscilograma de un tono de 500 Hz de amplitud 0.8](/imagenes/amplitud_para_prosodia_075.png)
+
+
+![Oscilograma de un tono de 500 Hz de amplitud 0.25](/imagenes/amplitud_para_prosodia_025.png)
 
 
 ## Duración
