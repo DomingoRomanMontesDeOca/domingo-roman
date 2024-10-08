@@ -89,6 +89,7 @@ En tanto, una sucesión de pulsos a una frecuencia de 400 Hz, se escucha así:
 
 <audio controls src="/sonidos/pulsos_400_Hz.wav"></audio>
 
+La segunda de estas señales produce un tono en tanto que la primera no. En la primera podemos percibir los pulsos individualmente, en tanto que en la segunda, lo que se percibe es una cualidad de otra naturaleza.
 
 
 
