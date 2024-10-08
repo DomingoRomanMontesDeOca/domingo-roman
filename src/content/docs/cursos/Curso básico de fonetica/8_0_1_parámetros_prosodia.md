@@ -59,6 +59,14 @@ Desde el punto de vista físico, se observa en un oscilograma una señal de más
 
 El efecto perceptivo, de este parámetro es la duración considerada como *larga*, *breve*, etc.
 
+En la siguiente imagen, se señalan todas las vocales del enunciado "espero que no se les moje la casita", dicha por un hablante del español de Chile.
+
+![Oscilograma y marcas de vocales en un enunciado real](/imagenes/duracion_ejemplo_habla_real.png)
+
+El audio correspondiente es este:
+
+<audio controls src="/sonidos/esperoquenoselesmoxelakasita_16000.wav"></audio>
+
 ## El tono
 
 La tasa de vibración por segundo de los pliegues vocales produce una altura tonal de los sonidos sonoros. Este es el correlato fisológico.
