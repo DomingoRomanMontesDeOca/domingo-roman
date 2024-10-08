@@ -71,10 +71,23 @@ El audio correspondiente es este:
 
 La tasa de vibración por segundo de los pliegues vocales produce una altura tonal de los sonidos sonoros. Este es el correlato fisológico.
 
-Desde el punto de vista físico acústico en el oscilograma se observa una periodicidad en la señal cuya frecuencia constituye la *frecuencia *fundamental*. Esta frecuencia se mide en Hz.
+Desde el punto de vista físico acústico en el oscilograma se observa una periodicidad en la señal cuya frecuencia constituye la *frecuencia fundamental*. Esta frecuencia se mide en Hz.
 
 La dimensión perceptiva de la frecuencia fundamental es el tono. La relación entre dos frecuencias diferentes se puede expresar en semitonos (st) y esa diferencia puede establecer alturas relativas entre un sonido y otro.
 
+### No toda frecuencia produce tono
+
+La frecuencia fundamental o f0 es un rasgo de la señal acústica; el tono, en cambio, es una realidad perceptiva; es la transformación que hace nuestro cerebro de una frecuencia y la pone en términos de 'altura percibida'. 
+
+La reiteración de varios ciclos de una frecuencia muy baja, por ejemplo, 20 Hz no produce tono (pitch) pero sí tiene f0 (de, justamente, 20 Hz).
+
+Una serie de pulsos con una frecuencia de 20 Hz suena así:
+
+<audio controls src="/sonidos/pulsos_020_Hz.wav"></audio>
+
+En tanto, una sucesión de pulsos a una frecuencia de 400 Hz, se escucha así:
+
+<audio controls src="/sonidos/pulsos_400_Hz.wav"></audio>
 
 
 
