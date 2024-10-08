@@ -91,6 +91,10 @@ En tanto, una sucesión de pulsos a una frecuencia de 400 Hz, se escucha así:
 
 La segunda de estas señales produce un tono en tanto que la primera no. En la primera podemos percibir los pulsos individualmente, en tanto que en la segunda, lo que se percibe es una cualidad de otra naturaleza.
 
+Una buena representación de este fenómeno se aprecia en la siguiente imagen. En tanto que en la superior podemos contar las líneas verticales, en la inferior no (descontando el efecto óptico de las estrías verticales)
+
+![Representaciones de pulsos ](/imagenes/pulsos_tono_noTono.png)
+
 
 
 
