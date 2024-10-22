@@ -68,7 +68,7 @@ En la palabra "caserío"
 |ca|se|**rí**|o|
 |?|?|3|1|
 
-Las sílabas iniciales, si no son tónicas, tendrán intensidad 2
+Las sílabas iniciales, si no son tónicas, tendrán relieve 2
 
 |s|s|s|s|
 |---|---|---|---|
@@ -82,7 +82,7 @@ Palabra "cálido"
 |**cá**|li|do|
 |3|1|?|
 
-Las sílabas átonas interiores reciben intensidad 1:[^1]
+Las sílabas átonas interiores reciben relieve 1:[^1]
 
 |s|s|s|s|
 |---|---|---|---|
