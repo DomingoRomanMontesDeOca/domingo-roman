@@ -102,7 +102,7 @@ ______
 ______
 
 - 2023\. Seminario de titulación para profesor de castellano. *Análisis acústico de la palatalización de la oclusiva velar sorda prevocálica en hablantes universitarios del español de Chile*. Nicolás Flores Navarro. Usach.
-- 2023\. Seminario de titulación para profesor de castellano. *Exploración de atitudes estudiantiles hacia los conocimientos métricos a través de un análisis comparativo entre canciones de Soda Stereo y poemas tradicionales*. Usach, Luis Gustavo Reyes Acosta.
+- 2023\. Seminario de titulación para profesor de castellano. *Exploración de actitudes estudiantiles hacia los conocimientos métricos a través de un análisis comparativo entre canciones de Soda Stereo y poemas tradicionales*. Usach, Luis Gustavo Reyes Acosta.
 - 2020\. Seminario de titulación *Percepción de la ironía verbal en hablantes no nativos de español: la entonación como guía de identificación*, Noemí Huinca, USACH.
 - 2020\. Seminario de titulación *Variación fonética del fonema /s/ codal en hablantes no profesionales de Santiago de Chile: Análisis en entrevista semidirigida* (Fondecyt 1161466). Eduardo Llanquimán Iturrieta (codirec- ción con el Dr. Héctor Ortiz Lira). USACH.
 - 2016\. Seminario de titulación para profesores de castellano. Intervención en una escuela de fútbol. Usach.
