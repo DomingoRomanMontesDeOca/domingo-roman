@@ -134,17 +134,17 @@ ______
 
 - Hossain, Imran y D. Román (2019). Desarrollo lingüístico: ilustración espectrográfica de los sonidos del español de Montevideo, en *Neurocognición y aprendizaje. Bases, procesos y evaluación*. Barg, Gabriel; Cuadro, Arien y Hoyos, Sandra (editores). Grupo Magro Editores. ISBN: 978-9974-8691-7-2. [Ver presentación (pdf)](/NEUROCOGNICION%20Y%20APRENDIZAJE(1).pdf).
 
-- Román, D. y D Muñoz. (2018). Tono y frecuencia fundamental. Propuestas metodológicas para su estudio; en Pérez, A. y A. Hernández (Coordinadores) (2017). Propuestas metodológicas para la investigación lingüística. Aplicaciones teóricas y descriptivas, Unam/U. de Colima. [Descargar pdf](/tono_y_frecuencia_fundamental_roman_munoz.pdf)
+- Román, D. y D Muñoz. (2018). Tono y frecuencia fundamental. Propuestas metodológicas para su estudio; en Pérez, A. y A. Hernández (Coordinadores) (2017). *Propuestas metodológicas para la investigación lingüística. Aplicaciones teóricas y descriptivas*, Unam/U. de Colima. [Descargar pdf](/tono_y_frecuencia_fundamental_roman_munoz.pdf)
 
-- Román, D; C. Quezada ,J. Atria, P. Oplustil. (2016) Incidencia de la inflexión tonal y de la duración de la pausa en la percepción de la modalidad del primero de dos grupos fónicos, en Fernández Planas, A. Ma. (ed.) (2016): 53 reflexiones sobre aspectos de la fonética y otros temas de lingüística, Barcelona, págs. 293-300. ISBN: 978-84-608-9830-6
+- Román, D; C. Quezada ,J. Atria, P. Oplustil. (2016) Incidencia de la inflexión tonal y de la duración de la pausa en la percepción de la modalidad del primero de dos grupos fónicos. Fernández Planas, A. Ma. (ed.) (2016): *53 reflexiones sobre aspectos de la fonética y otros temas de lingüística*, Barcelona, págs. 293-300. ISBN: 978-84-608-9830-6
 
-- Fernández Planas, A.M.; Roseano, P.; Elvira-García, W.; Carrera Sabaté, J.; Román Montes de Oca, D. (2019). From a perceptual point of view, is there continuity between languages in contact?. *Spanish in Context*, 16(3), pp. 543–572. Ver en [ResearchGate](https://www.researchgate.net/publication/280010223_From_a_perceptual_point_of_view_is_there_prosodic_continuity_between_languages_in_contact)
+- Fernández Planas, A.M.; Roseano, P.; Elvira-García, W.; Carrera Sabaté, J.; Román Montes de Oca, D. (2019). From a perceptual point of view, is there continuity between languages in contact? *Spanish in Context*, 16(3), pp. 543–572. Ver en [ResearchGate](https://www.researchgate.net/publication/280010223_From_a_perceptual_point_of_view_is_there_prosodic_continuity_between_languages_in_contact)
 
-- Romera, L., V. Salcioli; A. Fernández-Planas; J. Carrera y D. Román (2008). The Prosody of Simple Sentences in the Spanish of Barcelona, a Spanish-Catalan Bilingual Context. En Selected Proceedings of the 3rd Conference on Laboratory Approaches to Spanish Phonology, Laura Colantoni y Jeffrey Steele. Cascadilla Proceedings Project: pp. 167-181.
+- Romera, L., V. Salcioli; A. Fernández-Planas; J. Carrera y D. Román (2008). The Prosody of Simple Sentences in the Spanish of Barcelona, a Spanish-Catalan Bilingual Context. *Selected Proceedings of the 3rd Conference on Laboratory Approaches to Spanish Phonology*, Laura Colantoni y Jeffrey Steele. Cascadilla Proceedings Project: pp. 167-181.
 
-- Fernández Planas, N. M., Carrera, J. y D. Román. (2007). Una caracterización de la prosodia de habla de laboratorio del catalán de Lleida. Actas del III Congreso de Fonética Experimental, Santiago de Compostela, Difusión Cultural: 225-247
+- Fernández Planas, N. M., Carrera, J. y D. Román. (2007). Una caracterización de la prosodia de habla de laboratorio del catalán de Lleida. *Actas del III Congreso de Fonética Experimental*, Santiago de Compostela, Difusión Cultural: 225-247
 
-- Fernández Planas, Ana M., E. Celdrán, L Romera, V. Salcioli, J. Carrera, D. Szmidt, S. Labraña, L. Aguilar i D. Román (2007). Estudio de la prosodia de Girona en la modalidad interrogativa encabezada por ‘que’ en el marco AMPERCAT. Josefa Dorta (ed.): La prosodia en el ámbito lingüístico románico, Santa Cruz de Tenerife, La Página ediciones S.L, pp. 156-176.
+- Fernández Planas, Ana M., E. Celdrán, L Romera, V. Salcioli, J. Carrera, D. Szmidt, S. Labraña, L. Aguilar i D. Román (2007). Estudio de la prosodia de Girona en la modalidad interrogativa encabezada por ‘que’ en el marco AMPERCAT. Josefa Dorta (ed.): *La prosodia en el ámbito lingüístico románico*, Santa Cruz de Tenerife, La Página ediciones S.L, pp. 156-176.
 
 
 
