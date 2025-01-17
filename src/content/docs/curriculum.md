@@ -128,11 +128,11 @@ ______
 #### Capítulos en libros
 ______
 
+- Román, D. y María del Saz. (2024). Descripcion fonética de las consonantes laterales,  *En Fonética y fonología descriptivas de la lengua española*. Gil, Juana y Joaquim Llisterri (eds.) Georgetown University Press. Ver en [Dialnet](https://dialnet.unirioja.es/servlet/libro?codigo=990920).
+
 - Román, D.2024. Comparación de rasgos prosódicos generales del norte y sur de Chile, En *Avances metodológicos en fonética y prosodia*, coordinadores: Wendy Elvira y Paolo Roseano, Madrid, UNED: 283-294. ISBN: 978-84-362-7874-3.
 
 - Hossain, Imran y D. Román (2019). Desarrollo lingüístico: ilustración espectrográfica de los sonidos del español de Montevideo. En Neurocognición y aprendizaje. Bases, procesos y evaluación. Barg, Gabriel; Cuadro, Arien y Hoyos, Sandra (editores). Grupo Magro Editores. ISBN: 978-9974-8691-7-2. [Ver presentación (pdf)](/NEUROCOGNICION%20Y%20APRENDIZAJE(1).pdf).
-
-- Román, D. y María del Saz. (En proceso). Análisis fonético de los sonidos laterales del español, En Fonética y fonología de la lengua española. Gil, Juana y Joaquim Llisterri (eds.) Georgetown University Press.
 
 - Román, D. y D Muñoz. (2018). Tono y frecuencia fundamental. Propuestas metodológicas para su estudio; en Pérez, A. y A. Hernández (Coordinadores) (2017). Propuestas metodológicas para la investigación lingüística. Aplicaciones teóricas y descriptivas, Unam/U. de Colima. [Descargar pdf](/tono_y_frecuencia_fundamental_roman_munoz.pdf)
 
