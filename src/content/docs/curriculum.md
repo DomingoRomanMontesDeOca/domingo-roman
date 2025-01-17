@@ -138,7 +138,7 @@ ______
 
 - Román, D; C. Quezada ,J. Atria, P. Oplustil. (2016) Incidencia de la inflexión tonal y de la duración de la pausa en la percepción de la modalidad del primero de dos grupos fónicos, en Fernández Planas, A. Ma. (ed.) (2016): 53 reflexiones sobre aspectos de la fonética y otros temas de lingüística, Barcelona, págs. 293-300. ISBN: 978-84-608-9830-6
 
-- Fernández Planas, Ana Ma., Paolo Roseano, Wendy Elvira-García, Josefina Carrera Sabaté & Domingo Román Montes de Oca (2015). "From a Perceptual Point of View, Is There Prosodic Continuity between Languages in Contact?" (presentado), Prosody and Language Contact in the Romance Languages" coordinado por Yolanda Congosto y Laura Morgenthaler. Serie de John Benjamins: Issues in Hispanic and Lusophon Linguistics
+- Fernández Planas, A.M.; Roseano, P.; Elvira-García, W.; Carrera Sabaté, J.; Román Montes de Oca, D. (2019). From a perceptual point of view, is there continuity between languages in contact?. *Spanish in Context*, 16(3), pp. 543–572. Ver en 
 
 - Romera, L., V. Salcioli; A. Fernández-Planas; J. Carrera y D. Román (2008). The Prosody of Simple Sentences in the Spanish of Barcelona, a Spanish-Catalan Bilingual Context. En Selected Proceedings of the 3rd Conference on Laboratory Approaches to Spanish Phonology, Laura Colantoni y Jeffrey Steele. Cascadilla Proceedings Project: pp. 167-181.
 
