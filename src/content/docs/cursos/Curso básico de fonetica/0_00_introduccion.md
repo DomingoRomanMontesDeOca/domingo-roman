@@ -29,7 +29,7 @@ Esto es porque la visión tradicional tenía sus bases en un modelo de la comuni
 
 Es lo que se representa habitualmente en diagramas como el siguiente
 
-[Modelo clásico de la comunicación y la asociación con las dimensiones de la fonética](/images/modelo_clasico_comunicacion.png)
+![Modelo clásico de la comunicación y la asociación con las dimensiones de la fonética](/images/modelo_clasico_comunicacion.png "Modelo clásico de la comunicación")
 
 
 
