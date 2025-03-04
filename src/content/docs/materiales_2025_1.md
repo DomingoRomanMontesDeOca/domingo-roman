@@ -16,4 +16,5 @@ sidebar:
 ### Planificación (pendiente)
 ### Lecturas iniciales
 [Rabanales 1984](QUE_ES_HABLAR_CORRECTAMENTE(1)(1).pdf)
+
 [Rabanales 1984](QUE_ES_HABLAR_CORRECTAMENTE(1)_(1).pdf)
