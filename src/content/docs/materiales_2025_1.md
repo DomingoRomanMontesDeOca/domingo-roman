@@ -15,4 +15,4 @@ sidebar:
 [Descargar](https://docs.google.com/spreadsheets/d/e/2PACX-1vTlXiqJd09__kZ5igtNrvHKzFkFlSs3iay_lzQwiFdnROFQMWiTdqYXg4M9bkH2zbqoZECRuYxXrFt7/pub?gid=1373650990&single=true&output=pdf)
 ### Planificación (pendiente)
 ### Lecturas iniciales
-[Rabanales 1984](
+[Rabanales 1984](https://github.com/DomingoRomanMontesDeOca/domingo-roman/blob/master/public/QUE_ES_HABLAR_CORRECTAMENTE(1)(1).pdf)
