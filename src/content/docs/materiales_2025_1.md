@@ -9,9 +9,9 @@ sidebar:
   order: 0
 ---
 # Materiales
-### Programa. 
+### Programa
 [Leer](https://docs.google.com/document/d/1M371eiBPN1WWyZidqMWnMR8wKJ5zNAkI/edit?usp=sharing&ouid=110964101727370424388&rtpof=true&sd=true)
-### Calendario. 
+### Calendario
 [Descargar](https://docs.google.com/spreadsheets/d/e/2PACX-1vTlXiqJd09__kZ5igtNrvHKzFkFlSs3iay_lzQwiFdnROFQMWiTdqYXg4M9bkH2zbqoZECRuYxXrFt7/pub?gid=1373650990&single=true&output=pdf)
 ### Planificación (pendiente)
 ### Lecturas
