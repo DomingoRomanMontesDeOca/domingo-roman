@@ -17,3 +17,8 @@ sidebar:
 ### Lecturas iniciales
 
 - [Rabanales 1984](/QUE_ES_HABLAR_CORRECTAMENTE(1)(1).pdf)
+- [Rabanales 1999](/16_Rabanales.pdf)
+- [Gomberoff 2020](/gomberoff_2020.pdf)
+- [Saussure (a)](/saussure_objeto.pdf)
+- [Saussure (b)](/saussure_signo.pdf)
+- [Todorov](/tzvetan-todorov-el-sentido-de-los-sonidos.pdf)
