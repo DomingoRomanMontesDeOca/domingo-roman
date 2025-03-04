@@ -9,6 +9,6 @@ sidebar:
   order: 0
 ---
 # Materiales
-## Programa. Descargar
-## Calendario. [Descargar](!https://docs.google.com/spreadsheets/d/e/2PACX-1vTlXiqJd09__kZ5igtNrvHKzFkFlSs3iay_lzQwiFdnROFQMWiTdqYXg4M9bkH2zbqoZECRuYxXrFt7/pub?gid=1373650990&single=true&output=pdf)
-## Planificación
+### Programa. Descargar
+### Calendario. [Descargar](!https://docs.google.com/spreadsheets/d/e/2PACX-1vTlXiqJd09__kZ5igtNrvHKzFkFlSs3iay_lzQwiFdnROFQMWiTdqYXg4M9bkH2zbqoZECRuYxXrFt7/pub?gid=1373650990&single=true&output=pdf)
+### Planificación
