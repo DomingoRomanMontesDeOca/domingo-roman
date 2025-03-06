@@ -33,6 +33,6 @@ sidebar:
 Clase 2: entrevista a una persona "normal" acerca de lo que se espera de un profesor de castellano.
 
 Clase 3: 
-- En la clase tres vamos a revisar la conceptualización a partir del texto de Rabanales "¿Qué es hablar correctamente?". Con ello, nos aproximaremos a la respuesta sobre el quehacer profesional del profesor de castellano.
+- En la clase tres, vamos a revisar la conceptualización lingüística presente en el texto de Rabanales "¿Qué es hablar correctamente?". Con ello, nos aproximaremos a la respuesta sobre el quehacer profesional del profesor de castellano.
 - A partir de la creación de un alfabeto ideal, realizaremos la primera aproximación a la noción de *fonema*.
 
