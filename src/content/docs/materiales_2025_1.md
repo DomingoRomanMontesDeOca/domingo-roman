@@ -30,7 +30,8 @@ sidebar:
 - [Inicio del cantar de Mio Çid](/inicio_cantar_de_mio_cid.pdf)
 
 
-Clase 2: entrevista a una persona "normal" acerca de lo que se espera de un profesor de castellano. En la clase dos desarrollamos una discusión básica sobre el problema de la corrección idiomática y el profesor de castellano.
+Clase 2: 
+- Entrevista a una persona "normal" acerca de lo que se espera de un profesor de castellano. En la clase dos desarrollamos una discusión básica sobre el problema de la corrección idiomática y el profesor de castellano.
 
 Clase 3: 
 - En la clase tres, vamos a revisar la conceptualización lingüística presente en el texto de Rabanales "¿Qué es hablar correctamente?". Con ello, nos aproximaremos a la respuesta sobre el quehacer profesional del profesor de castellano.
