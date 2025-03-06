@@ -8,6 +8,12 @@ sidebar:
   # Orden (Número más bajo aparece más arriba)
   order: 0
 ---
+
+# AVISO
+<<< La página de Moodle ya está habilitada. Les solicito se inscriban en la sección que corresponde.
+
+
+
 # Materiales
 ### Programa
 [Descargar](/46202_fonet_y_fonol_I.pdf)
