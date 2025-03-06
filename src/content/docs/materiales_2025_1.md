@@ -10,7 +10,7 @@ sidebar:
 ---
 
 # AVISO
-<<< La página de Moodle ya está habilitada. Les solicito se inscriban en la sección que corresponde.
+>>> La página de Moodle ya está habilitada. Les solicito se inscriban en la sección que corresponde.
 
 
 
