@@ -32,7 +32,7 @@ sidebar:
 - [Todorov](/tzvetan-todorov-el-sentido-de-los-sonidos.pdf)
 - [Ibarra 1978](/ibarra_1978.pdf)
 - [González](https://carlosgonzalezvergara.weebly.com/opinioacuten.html)
-- [García Márquez](/Botella al mar para el dios de las palabras.pdf)
+- [García Márquez](/Botella_al_mar_para_el_dios_de_las_palabras.pdf)
 
 ### Contemplación
 
