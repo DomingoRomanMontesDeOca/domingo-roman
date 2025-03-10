@@ -55,7 +55,7 @@ ______
 
 ### Dirección de tesis de doctorado
 ______
-- 2024\. *Interfaz fonética-sintaxis en el desarrollo de la codificación de la estructura de la información en narraciones de niños de Santiago de Chile entre 5 y 12 años*. Tesis realizada por la Sra. Valeria Cofré; Director: Dr. Carlos González, codirector: Dr. Domingo Romános, P. Universidad Católica de Chile.
+- 2024\. *Interfaz fonética-sintaxis en el desarrollo de la codificación de la estructura de la información en narraciones de niños de Santiago de Chile entre 5 y 12 años*. Tesis realizada por la Sra. Valeria Cofré; Director: Dr. Carlos González, codirector: Dr. Domingo Román, P. Universidad Católica de Chile.
   
 - 2020\. *Estudio sociolingüístico de la entonación del español de Antioquia, Colombia*. Tesis realizada por la Sra. Diana Muñoz Builes; P. Universidad Católica de Chile. Codirigida por el Dr. Pedro Martín Butragueño, UNAM.
 
