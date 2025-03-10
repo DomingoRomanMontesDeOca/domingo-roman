@@ -335,6 +335,8 @@ ______
 ### Conferencias, seminarios temáticos, charlas y talleres (dictados)
 
 
+- 2024\. Conferencia *Reinauguración del Laboratorio de Fonética de la Universidad Católica de Chile* 3 de octubre 2024, P. Universidad Católica de Chile.
+
 - 2023\. Conferencia *Fonética para los tiempos que corren*. Inauguración del año académico de Letras 2023. 26 de abril 2023.
 
 - 2018\. Conferencia El mapa prosódico de Chile: motivaciones, entretelones y perspectivas, Dr. Domingo Román Montes de Oca y Dra. (c) Diana Muñoz Builes, jueves 30 de agosto, Universidad Autónoma de Chile, Talca.
