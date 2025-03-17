@@ -14,4 +14,4 @@ Gráfico para ilustrar la frecuencia de muestreo.
 
 ![Animación frecuencia de muestreo](/imagenes/animacion_muestras.gif)
 
-Ejemplo.
+Es un ejemplo.
