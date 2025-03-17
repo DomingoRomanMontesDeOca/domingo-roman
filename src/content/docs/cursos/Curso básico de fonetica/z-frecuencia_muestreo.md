@@ -12,6 +12,6 @@ sidebar:
 
 Gráfico para ilustrar la frecuencia de muestreo.
 
-![](/images/animacion_muestras.gif)
+![](/imagenes/animacion_muestras.gif)
 
 Ejemplo.
