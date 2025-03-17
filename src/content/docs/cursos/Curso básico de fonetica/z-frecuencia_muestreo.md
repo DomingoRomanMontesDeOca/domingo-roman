@@ -10,6 +10,6 @@ sidebar:
 ---
 # Frecuencia de muestreo
 
-!["FM"](/images/animacion_muestras.gif)
+![FM](/images/animacion_muestras.gif)
 
 ejemplo.
