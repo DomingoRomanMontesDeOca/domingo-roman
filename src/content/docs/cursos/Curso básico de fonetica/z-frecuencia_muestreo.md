@@ -6,9 +6,11 @@ sidebar:
   # Nombre
   label: Frecuencia de muestreo
   # Orden (Número más bajo aparece más arriba)
-  order: -2000
+  order: 5000
 ---
 # Frecuencia de muestreo
+
+Gráfico para ilustrar la frecuencia de muestreo.
 
 ![FM](/images/animacion_muestras.gif)
 
