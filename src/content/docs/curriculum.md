@@ -222,7 +222,7 @@ ______
 #### Participación en comités científicos de congresos
 
 - 2025\. International Conference on Phonetic Variation 2026. Granada, España.
-  
+
 - 2024\. Fonética y Poética. Congreso internacional. Universidad de Santiago de Chile (anfitriona).
 
 
