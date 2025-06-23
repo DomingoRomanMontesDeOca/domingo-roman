@@ -164,7 +164,7 @@ ______
   
 - Ossa, Daniela; Hernán Pérez, Domingo Román y Camilo Quezada. (2022) Diseño, implementación y validación de un script de Praat para medir el rendimiento diadococinético. *Revista de Logopedia, Foniatría y Audiología*. [Volume 43, Issue 2, April–June 2023, ISSN 0214-4603.](https://doi.org/10.1016/j.rlfa.2022.01.004)
   
-- Román, Domingo; D. Muñoz-Builes; C. Quezada y J. Atria (2020). Alcances y límites de  un mapa prosódico, *Onomázein* 20. Índices ISI, Scopus, DOAJ, MLA.
+- Román, Domingo; D. Muñoz-Builes; C. Quezada y J. Atria (2020). Alcances y límites de  un mapa prosódico, *Onomázein* 49. Índices ISI, Scopus, DOAJ, MLA.
   
 - Román, Domingo; C. Quezada; L. Aguilera (2018). Duración de vocales idénticas en límite de palabras en español de Chile, *EFE* XXVII, pp 151-170. Indices: Scopus (Q2), Latindex. [Ver](http://stel.ub.edu/labfon/sites/default/files/XXVII-10_DRoman-separata_new.pdf).
   
