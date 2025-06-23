@@ -9,6 +9,8 @@ sidebar:
   order: 106
 ---
 
+Este artículo ha sido aceptado para su publicación en el volumen 36 (1) 2026 de *Logos: Revista de Lingüística, Literatura y Filosofía*.
+
 
 ### Elementos para el análisis de percepción de la melodía de la voz. Valores globales en un enunciado.
 
