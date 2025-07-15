@@ -1,0 +1,60 @@
+---
+const links = [
+
+"https://www.biobiochile.cl/noticias/sociedad/historia/2023/08/27/titivillus-la-historia-del-demonio-culpable-de-tus-errores-ortograficos.shtml",
+"https://m.cooperativa.cl/noticias/entretencion/personajes/belen-soto-sorprende-al-brindar-entrevista-con-acento-mexicano/2023-09-02/164908.html",
+"https://www.elespectador.com/actualidad/este-es-el-nombre-mas-lindo-del-mundo-segun-estudio/",
+"https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2023/09/06/como-hablar-con-los-perros-estudio-dice-que-prefieren-que-les-hablen-como-bebes-y-con-voz-femenina.shtml",
+"https://www.elmostrador.cl/revista-jengibre/mascotas/2023/10/07/cientificos-descubren-por-fin-como-ronronean-los-gatos/",
+"https://www.biobiochile.cl/noticias/sociedad/animales/2023/10/07/les-da-mas-miedo-que-el-leon-este-es-el-mayor-temor-de-los-mamiferos-de-la-sabana-sudafricana.shtml",
+"https://en-clase.ideal.es/tag/sirena-de-seebeck/",
+"https://www.cooperativaciencia.cl/radiociencia/2025/03/13/descubren-vocalizaciones-unicas-de-ballenas-jorobadas-en-el-estrecho-de-magallanes/?utm_source=3Dcooperativa&utm_medium=3Dreferral&utm_campaign=3Dwidget_ciencia_coop&utm_term=3Dwidget_ciencia&utm_content=3Darticulos",
+"https://www.bbc.com/mundo/articles/c88e8g87dj3o",
+"https://www.cronica.com.mx/cultura/narran-azul-pasion-vive-coleccionista-palabras.html",
+"https://www.emol.com/noticias/Economia/2023/11/09/1112396/arauco-aramco-registro-de-marca.html",
+"https://www.emol.com/noticias/Tecnologia/2023/11/13/1112749/investigacion-sonidos-fantasmas-premiada-china.html",
+"https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2023/11/13/ia-permite-detectar-diabetes-tipo-2-con-un-mensaje-de-voz-de-10-segundos.shtml",
+"https://www.lavanguardia.com/cribeo/viral/20231123/9400281/mexicana-alucina-pronunciacion-shrek-espanoles-entiendo-conquistaron-mmn.html#www.mundodeportivo.com/elotromundo/television/20231127/1002139280/soltero-first-dates-utiliza-real-madrid-describir-fisico-cita-dct.html",
+"https://www.rionegro.com.ar/sociedad/mucho-mas-que-un-simple-arrorro-por-que-es-importante-cantarle-a-los-bebes-3297784/",
+"https://okdiario.com/curiosidades/descubre-como-sonaban-lenguas-antiguas-como-latin-fenicio-o-etrusco-12040913",
+"https://www.xunta.gal/notas-de-prensa/-/nova/86404/xunta-usc-lanzan-una-campana-donacion-voz-para-recoger-las-variedades-foneticas?langId=3Des_ES",
+"https://claridadpuertorico.com/el-lenguaje-inclusivo-y-la-evolucion-de-la-lengua-mansplaining-dedicado-a-arturo-verges/",
+"https://www.biobiochile.cl/noticias/salud-y-bienestar/tratamientos/2024/01/26/un-nino-sordo-de-11-anos-pudo-escuchar-por-primera-vez-luego-de-que-le-inyectaran-un-virus.shtml",
+"https://www.biobiochile.cl/noticias/sociedad/animales/2024/02/21/resuelven-el-misterio-de-como-es-que-las-ballenas-pueden-cantar-debajo-del-agua.shtml",
+"https://www.elmostrador.cl/noticias/sin-editar/2024/02/18/armenia-el-pais-cuyo-alfabeto-sirve-para-escribir-y-tambien-para-hacer-calculos-complejos/",
+"https://infocielo.com/sociedad/mojca-o-mosca-el-modo-argentino-pronunciar-la-letra-s-n784055",
+"https://www.biobiochile.cl/especial/aqui-tierra/noticias/2024/05/08/cientificos-descubren-que-los-cachalotes-tienen-su-propio-alfabeto-fonetico-y-podrian-entenderlos.shtml",
+"https://www.bbc.com/mundo/articles/cd13dp7pw4ro",
+"https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/moviles-y-apps/2024/05/21/scarlett-johansson-acusa-que-chatgpt-copio-su-voz-pese-a-que-ella-dijo-que-no-quede-en-shock.shtml",
+"https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/adelantos/2024/05/22/desarrollan-ia-para-suavizar-la-voz-de-los-clientes-y-reducir-estres-de-los-teleoperadores.shtml",
+"https://www.elmostrador.cl/agenda-pais/educacion/2024/05/23/dictados-y-otros-errores-frecuentes-que-se-cometen-al-ensenar-ortografia-y-como-escribir-mejor/",
+"https://www.minutouno.com/tecno/inteligencia-artificial/cuales-son-los-20-nombres-mas-lindos-segun-la-n6007495",
+"https://www.emol.com/noticias/Tendencias/2024/06/10/1133303/elefantes-ponen-reconocen-nombres-manada.html",
+"https://www.elmostrador.cl/cultura/2024/10/19/cecilia-astorga-sanar-en-otono-para-volver-en-primavera/",
+"https://www.biobiochile.cl/noticias/servicios/toma-nota/2024/10/18/que-significan-los-sonidos-que-hace-mi-gato-revisa-y-escucha-aqui-los-10-mas-comunes.shtml",
+"https://www.elmostrador.cl/noticias/opinion/cartas/2024/11/16/vocacion-de-profesor-quien-nos-salva-a-nosotros/",
+"https://www.elmostrador.cl/noticias/opinion/columnas/2024/11/21/pensar-desde-el-subsuelo-dostoievski-para-una-critica-al-presente-de-la-filosofia-en-la-academia/",
+"https://elpais.com/proyecto-tendencias/2025-03-19/del-ouch-ingles-al-yakayi-australiano-el-grito-universal-del-dolor.html",
+"https://www.digitalmex.mx/estado-de-mexico/story/58029/peritos-forenses-confirman-falsedad-audio-contra-rector-uaeme",
+"https://www.tuenlinea.com/estilo-de-vida/cual-es-el-nombre-mas-bonito-del-mundo-la-ciencia-responde",
+"https://www.biobiochile.cl/noticias/nacional/region-de-antofagasta/2025/05/16/chocante-que-pdi-fuera-incapaz-de-descubrir-voz-femenina-los-fundamentos-para-nuevo-reves-de-cooper.shtml",
+"https://www.biobiochile.cl/noticias/ciencia-y-tecnologia/ciencia/2025/05/16/no-estaba-disenado-para-oir-la-funcion-original-del-oido-que-se-transformo-con-la-evolucion.shtml",
+"https://www.elmostrador.cl/tendencias/2025/06/09/cual-es-el-idioma-mas-rapido-del-planeta/",
+"https://www.infobae.com/mascotas/2025/07/09/que-dice-la-ciencia-sobre-inventar-apodos-para-los-perros/",
+
+];
+
+function getRandomLink() {
+  const randomIndex = Math.floor(Math.random() * links.length);
+  return links[randomIndex];
+}
+
+// Obtener el enlace aleatorio
+const randomLink = getRandomLink();
+---
+
+<!-- Enlace que redirige a un sitio aleatorio -->
+<a id="random-link" href=`${randomLink}` target="_blank"
+   style="padding: 10px 20px; background-color: #007BFF; color: white; border: none; border-radius: 5px; text-decoration: none; cursor: pointer;">
+  Noticia fonética aleatoria
+</a>

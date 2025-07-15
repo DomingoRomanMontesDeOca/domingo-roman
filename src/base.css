@@ -28,6 +28,10 @@
 	--sl-color-black: #ffffff;
 }
 
+.hero {
+  padding: 0 !important;
+}
+
 .sl-container {
 	max-width: 90%;
 }
