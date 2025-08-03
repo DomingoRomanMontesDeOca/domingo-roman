@@ -152,6 +152,13 @@ ______
 
 #### Artículos en revistas
 ______
+
+- Rosa Catalán-Liempi, Domingo Roman Montes de Oca, Camilo Quezada Gaponov y Diana Muñoz Builes. (2025) Descripción acústica de las vocales del mapudungun, *Lenguas Modernas* [Aceptado]
+
+- Román, D. (2025). Propuesta de una categoría de análisis de la melodía de la voz, *Logos* [Aceptado]
+
+- Flores, Nicolás y Román, D.(2025).El grado de palatalización de la oclusiva velar sorda: una especificidad del español de Chile, *EFE* [Aceptado]
+
 - Ortiz Lira, H. Leonardo Mena y Domingo Román. (2025). Alofonía de /s/ codal ante vocal y pausa en el habla de profesionales de Santiago y sus efectos en la resilabificación. *Logos*, 35, (2). [Aceptado]
 
 - Román, Domingo. (2023). [Golpe a la Universidad](https://analesliteraturachilena.letras.uc.cl/index.php/alch/article/view/71123/54817), *Anales de Literatura Chilena*, Pontificia Universidad Católica de Chile: 317-320.
