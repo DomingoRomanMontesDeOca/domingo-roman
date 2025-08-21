@@ -153,7 +153,7 @@ ______
 #### Artículos en revistas
 ______
 
-- Rosa Catalán-Liempi, Domingo Roman Montes de Oca, Camilo Quezada Gaponov y Diana Muñoz Builes. (2025) Descripción acústica de las vocales del mapudungun, *Lenguas Modernas* [Aceptado]
+- Catalán-Liempi, R., Roman Montes de Oca, D., Quezada Gaponov, C., & Muñoz Builes, D. (2025). Descripción acústica de las vocales del mapudungun. *Lenguas Modernas*, (65), 11–34. Recuperado a partir de https://lenguasmodernas.uchile.cl/index.php/LM/article/view/80313
 
 - Román, D. (2025). Propuesta de una categoría de análisis de la melodía de la voz, *Logos* [Aceptado]
 
