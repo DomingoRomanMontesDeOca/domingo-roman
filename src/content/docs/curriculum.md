@@ -107,7 +107,7 @@ ______
 - 2023\. Seminario de titulación para profesor de castellano. *Exploración de actitudes estudiantiles hacia los conocimientos métricos a través de un análisis comparativo entre canciones de Soda Stereo y poemas tradicionales*. Usach, Luis Gustavo Reyes Acosta.
 - 2020\. Seminario de titulación *Percepción de la ironía verbal en hablantes no nativos de español: la entonación como guía de identificación*, Noemí Huinca, USACH.
 - 2020\. Seminario de titulación *Variación fonética del fonema /s/ codal en hablantes no profesionales de Santiago de Chile: Análisis en entrevista semidirigida* (Fondecyt 1161466). Eduardo Llanquimán Iturrieta (codirec- ción con el Dr. Héctor Ortiz Lira). USACH.
-- 2016\. Seminario de titulación para profesores de castellano. Intervención en una escuela de fútbol. Usach.
+- 2016\. Seminario de titulación para profesores de castellano. Intervención en una escuela de fútbol. Marcelo Vega, José Sepúlveda y Nicolás Rodríguez. USACH.
 - 2014\. Seminario de titulación para licenciados en Letras. Creación de una herramienta didáctica computacional para la enseñanza de la entonación del español de Chile como lengua extrajera. Pilar Oplustil G. PUC.
 - 2011\. Seminario de titulación para licenciados en Letras. Elementos prosódicos como parámetros distintivos de la lectura de textos en verso libre y prosa. Marco Marchant. PUC.
 - 2011\. Seminario de titulación para licenciados en Letras. Incidencia de valores suprasegmentales en la distinción de las funciones sintácticas o discursivas para  *bueno*, *claro* y *a ver*. Camila Gallegos. PUC.
