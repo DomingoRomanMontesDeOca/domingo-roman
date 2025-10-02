@@ -226,7 +226,7 @@ ______
 - [2022. El llamado *lenguaje inclusivo* y los profesores de castellano](/el_llamado_lenguaje_inclusivo_y_el_profesor.pdf)
 
 #### Otras publicaciones
-- 2021. La zanahoria gigante (versión en décimas de un cuento popular ruso). [Ver en Vivaleercopec](https://vivaleercopec.cl/cuentos/cuento/la-zanahoria-gigante/)
+- 2021.  La zanahoria gigante (versión en décimas de un cuento popular ruso). [Ver en Vivaleercopec](https://vivaleercopec.cl/cuentos/cuento/la-zanahoria-gigante/)
 
 #### Participación en comités científicos de congresos
 
