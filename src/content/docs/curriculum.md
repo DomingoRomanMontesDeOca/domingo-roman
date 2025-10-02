@@ -227,7 +227,7 @@ ______
 
 #### Otras publicaciones
 
-- (2021).  La zanahoria gigante (versión en décimas de un cuento popular ruso). [Ver en Vivaleercopec](https://vivaleercopec.cl/cuentos/cuento/la-zanahoria-gigante/)
+- (2021).  *La zanahoria gigante* (versión en décimas de un cuento popular ruso). [Ver en Vivaleercopec](https://vivaleercopec.cl/cuentos/cuento/la-zanahoria-gigante/)
 
 #### Participación en comités científicos de congresos
 
