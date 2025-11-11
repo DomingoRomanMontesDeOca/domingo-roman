@@ -153,6 +153,8 @@ ______
 #### Artículos en revistas
 ______
 
+- Román, Domingo y José Figueroa. (2026). Análisis prosódico de las décimas de Violeta Parra. Hacia el modelo de recitación de la poesía popular chilena, Onomázein 71, DOI 10.7764/onomazein.71.11.
+
 - Catalán-Liempi, R., Roman Montes de Oca, D., Quezada Gaponov, C., & Muñoz Builes, D. (2025). Descripción acústica de las vocales del mapudungun. *Lenguas Modernas*, (65), 11–34. https://lenguasmodernas.uchile.cl/index.php/LM/article/view/80313
 
 - Román, D. (2025). Propuesta de una categoría de análisis de la melodía de la voz, *Logos* [Aceptado]
