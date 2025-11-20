@@ -167,7 +167,7 @@ ______
   
 - Figueroa-Martínez, Fernanda; Pía Villanueva Bianchini; Domingo Román Montes de Oca. (2023). Simulación de niveles de hipernasalidad con actores entrenados: Una comunicación breve, *CEFAC* (Aceptado).
   
-- Haska, C.; Román, D.; Quezada, C. (aceptado para publicarse en 2025) Análisis acústico del fonema “ch” en el habla santiaguina. *Onomázein* 69DOI 10.7764/onomazein.69.02.
+- Haska, C.; Román, D.; Quezada, C. (2025). Análisis acústico del fonema “ch” en el habla santiaguina. *Onomázein* 69DOI 10.7764/onomazein.69.02. [Ver](https://onomazein.letras.uc.cl/index.php/onom/article/view/99008)
   
 - Llanquimán, E. Román, D. Ortiz, H. (2023) Alofonía del fonema fricativo /s/ codal en hablantes no profesionales de Santiago de Chile. *BFUCH*, [Vol. 58 Núm. 1: 375–394.](https://boletinfilologia.uchile.cl/index.php/BDF/article/view/71288)
   
