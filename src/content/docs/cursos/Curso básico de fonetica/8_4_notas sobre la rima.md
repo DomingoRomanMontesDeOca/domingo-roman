@@ -46,6 +46,7 @@ y se obtiene que son totalmente iguales por lo que la rima es consonante o compl
 En cambio, si los dos núcleos tónicos (relieve 3) del final del verso son iguales y los dos núcleos átonos del final del verso son iguale pero las consonantes no coinciden, se trata de rima asonante o parcial.
 
 	cala / pasa -> /'kala 'pasa/   -ala  y  asa.
+	(se omite el acento porque todos los segmentos en evaluación de rima se inician con una vocal tónica)
 	
 Las vocales coinciden -a pero /l/ es distinto de /s/. Se trata de rima asonante.
 	
