@@ -14,9 +14,9 @@ sidebar:
 
 Para establecer la rima, se toma en cuenta el último núcleo silábico tónico del verso (relieve 3) hasta que termina el verso. En otras palabras, desde la última vocal tónica del verso hasta el último fonema del verso.
 
-Si coinciden todos los fonemas a partir de ese último núcleo tónico del verso, decimos que tenemos rima consonante o completa.
+Si coinciden todos los fonemas a partir de ese último núcleo tónico del verso, decimos que tenemos *rima consonante* o *rima completa*.
 
-Si solo coinciden los núcleos sílabicos a partir del último núcleo tónico del verso, decimos la rima es asonante o parcial.
+Si solo coinciden los núcleos sílabicos a partir del último núcleo tónico del verso, decimos que se trata de *rima asonante* o *rima parcial*.
 
 
 ### 8.4.1 Casos de dos palabras graves
