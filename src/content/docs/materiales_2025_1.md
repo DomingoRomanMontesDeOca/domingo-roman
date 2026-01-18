@@ -9,20 +9,8 @@ sidebar:
   order: 0
 ---
 
-# AVISO
->>> La página de Moodle ya está habilitada. Les solicito se inscriban en la sección que corresponde.
 
-
-
-# Materiales
-### Programa
-[Descargar](/46202_fonet_y_fonol_I.pdf)
-
-### Calendario
-[Descargar](https://docs.google.com/spreadsheets/d/e/2PACX-1vTlXiqJd09__kZ5igtNrvHKzFkFlSs3iay_lzQwiFdnROFQMWiTdqYXg4M9bkH2zbqoZECRuYxXrFt7/pub?gid=1373650990&single=true&output=pdf)
-
-### Planificación (pendiente)
-### Lecturas
+[https://github.com/DomingoRomanMontesDeOca/domingo-roman/blob/master/src/content/docs/pa2025.md](https://github.com/DomingoRomanMontesDeOca/domingo-roman/blob/master/src/content/docs/pa2025.md
 
 - [Rabanales 1984](/QUE_ES_HABLAR_CORRECTAMENTE(1)(1).pdf)
 - [Rabanales 1999](/16_Rabanales.pdf)
