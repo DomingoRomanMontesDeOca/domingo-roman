@@ -6,7 +6,7 @@ sidebar:
   # Nombre
   label: PA2025
   # Orden (Número más bajo aparece más arriba)
-  order: 9
+  order: 90
 ---
 # Investigacion
 
