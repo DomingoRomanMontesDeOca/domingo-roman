@@ -4,7 +4,7 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: Materiales de la PA 2025
+  label: Materiales_PA_2025
   # Orden (Número más bajo aparece más arriba)
   order: 6000
 ---
