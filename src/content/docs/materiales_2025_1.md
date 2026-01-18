@@ -10,7 +10,7 @@ sidebar:
 ---
 
 
-[Ejemplo investigación](https://github.com/DomingoRomanMontesDeOca/domingo-roman/blob/master/src/content/docs/pa2025.md
+[Ejemplo investigación](https://github.com/DomingoRomanMontesDeOca/domingo-roman/blob/master/src/content/docs/pa2025.md)
 
 - [Rabanales 1984](/QUE_ES_HABLAR_CORRECTAMENTE(1)(1).pdf)
 - [Rabanales 1999](/16_Rabanales.pdf)
