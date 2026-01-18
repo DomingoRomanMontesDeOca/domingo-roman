@@ -49,4 +49,4 @@ En síntesis, se hará una comparación a partir de la descripción de los movim
 
 
 # Resultados
-[Resultados generales: promedio de f0](/images/pa2026promediosf0.png)
+[Resultados generales: promedio de f0](/imagenes/pa2026promediosf0.png)
