@@ -45,8 +45,4 @@ Luego, en el objeto Pitch, se encontraron automáticamente [manualmente] los val
 
 Resultará interesante observar los promedios de frecuencia fundamental en cada sílaba tanto en de las emisiones de los hombres como en las de las mujeres en ambos tipos de oraciones. También se quiere observar la diferencia entre los valores mínimos y los valores máximos en Hz para determinar el rango o campo tonal en cada grupo y en cada modalidad de las oraciones. Estos valores se expresarán en semitonos para normalizar los datos de ambos sexos, dado que las voces femeninas tienen naturalmente una f0 más alta que la de los hombres. Otro aspecto de interés es la alineación tonal para lo cual se observará cuáles son las sílabas que tienen el máximo valor de f0, lo que permitirá una aproximación al fenómeno de la alineación al menos para los casos en que la sílaba de mayor f0 se pueda relacionar con uno de los acentos de la frase.
 
-En síntesis, se hará una comparación a partir de la descripción de los movimientos tonales
-
-
-# Resultados
-![Resultados generales: promedio de f0](/imagenes/pa2026promediosf0.png)
+En síntesis, se hará una comparación a partir de la descripción de los movimientos tonales.
