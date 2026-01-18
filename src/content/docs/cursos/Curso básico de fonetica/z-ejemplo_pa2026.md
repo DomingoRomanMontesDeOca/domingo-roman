@@ -4,9 +4,9 @@ title: Curso básico de fonética
 # Configuracion de la barra de navegación
 sidebar:
   # Nombre
-  label: 11.0 PA2025
+  label: PA2025
   # Orden (Número más bajo aparece más arriba)
-  order: 0
+  order: 9
 ---
 # Investigacion
 
