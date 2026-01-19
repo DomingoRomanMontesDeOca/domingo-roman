@@ -8,6 +8,7 @@ sidebar:
   # Orden (Número más bajo aparece más arriba)
   order: 90
 ---
+
 # Investigacion
 
 # Introducción
