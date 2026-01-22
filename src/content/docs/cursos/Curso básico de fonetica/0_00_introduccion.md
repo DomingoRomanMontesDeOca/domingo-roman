@@ -10,7 +10,7 @@ sidebar:
 ---
 # 0. Introducción
 
-El presente material está preparado especialmente para estudiantes de pregrado del área de las humanidades. Es una introducción a los conceptos fonéticos más relevantes que permitirá a un lector iniciarse en cuestiones teóricas y técnicas y, eventualmente, en el campo de la investigación. Esta página está en permanente mejora tanto en contenido como en recursos señalados y en cuestiones formales.
+El presente material está preparado especialmente para estudiantes de pregrado del área de las humanidades. Es esta una introducción a los conceptos fonéticos más relevantes que permitirá a un lector iniciarse en cuestiones teóricas y técnicas y, eventualmente, en el campo de la investigación. Esta página está en permanente mejora tanto en contenido como en recursos señalados y en cuestiones formales.
 
 Obviamente, casi todo lo que se incluye en este curso básico ha sido señalado por muchísimos autores. La lista de autores referidos sería muy extensa, por ello, se mencionan solo algunos. Todas las imágenes tomadas de otros sitios están referidas. 
 
