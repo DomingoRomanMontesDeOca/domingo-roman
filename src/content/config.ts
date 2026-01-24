@@ -1,23 +1,11 @@
 // src/content/config.ts
-import { defineCollection, z } from "astro:content";
+import { defineCollection } from "astro:content";
+import { docsSchema } from '@astrojs/starlight/schema';
 
-// ❌ Elimina esto:
-// const baseSchema = z.object({ ... });
-// const extendedSchema = baseSchema.extend({ ... });
-
-// ✅ Usa este formato:
 const docsCollection = defineCollection({
-  schema: z.object({
-    title: z.string(),
-    sidebar: z
-      .object({
-        label: z.string(),
-        order: z.number()
-      })
-      .optional()
-  })
+  schema: docsSchema(),
 });
 
 export const collections = {
-  docs: docsCollection
+  docs: docsCollection,
 };

@@ -1,25 +1,30 @@
 ---
 title: Domingo Román Montes de Oca
 sidebar:
+  # Nombre
+  label: Inicio
+  # Orden (Número más bajo aparece más arriba)
   order: 0
-description: Doctor en Lingüística y Comunicación
-template: doc
 tableOfContents: false
-hero:
-  tagline: Doctor en Lingüística y Comunicación
-  image:
-    html:	<img src="/personal.jpeg" alt="Domingo Román Montes de Oca" class="rounded-lg w-[400px] md:w-[200px] lg:w-[400px] "></img>
-  actions:
-    - text: Curriculum vitae
-      link: https://www.domingo-roman.net/curriculum/
-      icon: right-arrow
-      variant: primary
-    - text: Laboratorio de fonética USACH
-      link: https://fonetica.usach.cl/
-      icon: external
 ---
+
 import { Icon, Card, CardGrid } from '@astrojs/starlight/components';
 import RandomLink from '../../links.astro'
+
+Doctor en Lingüística y Comunicación
+
+<img src="/personal.jpeg" alt="Domingo Román Montes de Oca" class="rounded-lg w-[400px] md:w-[200px] lg:w-[400px]" />
+
+import { LinkButton } from '@astrojs/starlight/components';
+
+<div class="flex gap-4 justify-center flex-wrap">
+	<LinkButton href="https://www.domingo-roman.net/curriculum/" variant="primary" icon="right-arrow">
+		Curriculum vitae
+	</LinkButton>
+	<LinkButton href="https://fonetica.usach.cl/" variant="secondary" icon="external">
+		Laboratorio de fonética USACH
+	</LinkButton>
+</div>
 
 <RandomLink/>
 
@@ -42,12 +47,11 @@ import RandomLink from '../../links.astro'
 		</a>
 	</Card>
 	<Card title="Aplicaciones en web" icon="puzzle">
-			<a href="https://www.recursosaprendizajecastellano.usach.cl">
+		<a href="https://www.recursosaprendizajecastellano.usach.cl">
 			Ir a las aplicaciones
-			<a href="https://ortograf-a-acentual-leyes-generales.vercel.app">
-			Novedad: aplicación de algoritmo leyes generales de acentuación (versión en prueba).
 		</a>
-
-		</a>
+		<p style="margin-top: 1rem; font-size: 0.9rem; color: var(--sl-color-gray-2);">
+			<strong>Novedad:</strong> <a href="https://ortograf-a-acentual-leyes-generales.vercel.app">Aplicación de algoritmo leyes generales de acentuación (versión en prueba)</a>
+		</p>
 	</Card>
 </CardGrid>
