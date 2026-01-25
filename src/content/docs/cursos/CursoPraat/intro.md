@@ -14,9 +14,9 @@ El programa Praat es hoy por hoy una de las aplicaciones más utilizadas para ha
 
 ## Principales características
 
-Es un programa de código abierto y de descarga libre desde https://praat.org
+- Es un programa de código abierto y de descarga libre desde https://praat.org (el sitio oficial del programa).
 
-Está en permanente actualización
+- Está en permanente actualización y mantiene un grupo de discusión (en inglés) muy activo: https://groups.io/g/Praat-Users-List en el que la colaboración es la cualidad distintiva.
 
-Es muy completo. Permite editar el sonido, modificarlo, etiquetarlo, etc.
+- Es muy completo. Permite editar el sonido, modificarlo, etiquetarlo, etc.
 
