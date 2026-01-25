@@ -18,4 +18,4 @@ Si usamos Praat para grabar un audio, nos aparecerá un objeto nuevo al que le p
 Los archivos siempre tienen un nombre, una extensión y un directorio en el que están alojados.
 Lo relevante de esto es que si un objeto no se convierte en archivo, no estará disponible para acciones futuras.
 
-Moraleja: si el objeto es importante, guárdelo.
+Moraleja: si el objeto es importante, conviértalo en un archivo (guárdelo).
