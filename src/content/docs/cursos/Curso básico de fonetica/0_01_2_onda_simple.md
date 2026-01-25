@@ -46,3 +46,4 @@ El tono de 440 Hz suena así:
 
 <audio controls src="/sonidos/440.mp3"></audio>
 
+Algo especialmente interesante (para mí, al menos): si escuchamos un instrumento musical, por ejemplo, un cello, que da un LA de 440 Hz somos capaces de identificar la nota y también el instrumento. La misma nota emitida por una flauta traversa tendrá algo diferente pero algo idéntico al LA del cello. sumemos al ejemplo, un cantante que emite la misma nota. Lo que tienen en común es el tono; lo que tienen de diferente es el timbre. Pues bien, cuando escuchamos un tono único, por ejemplo el LA 440 emitido por un computador o por un diapasón, escuchamos un *tono sin timbre*. El sonido emitido por un instrumento musical o por un ser humano se compone de una onda onda periódica simple de 440 Hz pero también de muchas otras que le dan su timbre específico. Esto tiene que ver con las ondas periódicas complejas.
