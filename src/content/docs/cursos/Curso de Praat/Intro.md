@@ -21,4 +21,4 @@ El programa Praat es hoy por hoy una de las aplicaciones más utilizadas para ha
   - Grabar, editar, modificar, etiquetar, etc.
   - Incluye la posibilidad de programación en el entorno del programa, algo especialmente útil para la automatización de procesos.
   - Los gráficos que se pueden construir son de muy buena calidad y muy adaptables a lo que uno quiere mostrar.
-- El autor recibe informe de algún problema de funcionamiento del programa y se encarga de resolverlo rápidamente.
+- Los problemas reportados son corregido rápidamente.
