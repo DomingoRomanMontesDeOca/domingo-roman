@@ -31,6 +31,8 @@ Página web personal: https://domingo-roman.net/
 ### Investigaciones
 ______
 
+- 2026-2029 Proyecto ANID *Modelos prosódicos de recitación de la poesía métrica en Chile*, investigador responsable.
+- 
 - 2024 Colaborador del proyecto *Voice of Spanish Poets*, coordinado por la Dra. Valentina Colonna, Marie Skłodowska-Curie European Actions (MSCA), Universidad de Granada.
 
 - 2024 (-2019) Coordinador del proyecto *Vocales sin fronteras*. México, Colombia, Uruguay y Chile.
