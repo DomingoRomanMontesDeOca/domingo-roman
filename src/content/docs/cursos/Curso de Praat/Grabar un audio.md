@@ -12,5 +12,7 @@ sidebar:
 
 En Praat se puede grabar un archivo de audio. En el menú New aparecen las opciones 
 
-![Menú de grabación](/imagenes/grabacion01.png)
+![Menú para grabar](/imagenes/grabacion01.png)
+
+![Panel de grabación](/imagenes/grabacion02.png)
 
