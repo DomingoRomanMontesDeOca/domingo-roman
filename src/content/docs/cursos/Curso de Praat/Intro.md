@@ -23,3 +23,10 @@ El programa Praat es hoy por hoy una de las aplicaciones más utilizadas para ha
   - Los gráficos que se pueden construir son de muy buena calidad y muy adaptables a lo que uno quiere mostrar.
 - Los problemas reportados son corregido rápidamente.
 - Hay gran cantidad de *scripts* disponibles en la red.
+
+## Temas de este curso
+- Archivos y objetos en Praat
+- Grabación de un audio
+- Observación de las principales características de un objeto de audio
+- La ventana de edición para un objeto tipo *Sound*
+- Etiquetaje de señales de audio
