@@ -12,6 +12,8 @@ sidebar:
 
 El programa Praat es hoy por hoy una de las aplicaciones más utilizadas para hacer análisis fonético.
 
+      Boersma, Paul & Weenink, David (2026). Praat: doing phonetics by computer [Computer program]. Version 6.4.57, retrieved 24 January 2026 from https://praat.org (Esta cita requiere ser actualizada con cada nueva versión)
+
 ## Principales características
 
 - Es un programa de código abierto y de descarga libre desde https://praat.org (el sitio oficial del programa).
