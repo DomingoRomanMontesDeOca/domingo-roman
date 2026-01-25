@@ -14,7 +14,7 @@ El programa Praat es hoy por hoy una de las aplicaciones más utilizadas para ha
 
 ## Principales características
 
-Es un programa de código abierto.
+Es un programa de código abierto y de descarga libre desde https://praat.org
 
 Está en permanente actualización
 
