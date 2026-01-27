@@ -18,3 +18,6 @@ La opción de preferencia es grabar en fomato de un solo canal.
 
 ![Panel de grabación](/imagenes/grabacion01.png)
 
+En la imagen siguiente, se observa el panel de grabación en funcionamiento. Está registrando en un solo canal a una frecuencia de muestreo de 44100 muestras por segundo.
+
+![Panel en grabación](/imagenes/grabacion03.png)
