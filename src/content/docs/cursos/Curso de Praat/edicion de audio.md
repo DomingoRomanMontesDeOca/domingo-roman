@@ -25,18 +25,28 @@ Un objeto de tipo *Sound* puede ser modificado de varias maneras en Praat. Aquí
 
 ![Cortar un fragmento de un audio](/imagenes/manualPraatEdicion01.png)
 
-
 - Extraer. A la inversa, es posible que un segmento del audio sea de nuestro particular interés. En ese caso, queremos guardar la selección.
 
 ![Cortar un fragmento de un audio](/imagenes/manualPraatEdicion02.png)
 
-
-Pegar. Seleccionado una parte de un audio es posible copiarla en otra parte del mismo audio. En primer lugar, se hace la selección, luego se usa el comando *Copy selection to Sound clipboard*, en seguida se pone el cursor donde quiero repetir el fragmento y luego se usa el comando *Paste* con la opción que más convenga a la tarea (*Paste before selectior*, *Paste over selection* o *Paste after selection*).
-
+- Pegar. Seleccionado una parte de un audio es posible copiarla en otra parte del mismo audio. En primer lugar, se hace la selección, luego se usa el comando *Copy selection to Sound clipboard*, en seguida se pone el cursor donde quiero repetir el fragmento y luego se usa el comando *Paste* con la opción que más convenga a la tarea (*Paste before selectior*, *Paste over selection* o *Paste after selection*).
 
 
 ![Copiar un fragmento de un audio](/imagenes/manualPraatEdicion03.png)
 
 ![Pegar un fragmento de un audio](/imagenes/manualPraatEdicion04.png)
 
+Con lo que resulta:
+
 ![Resultado del pegado de un fragmento de un audio](/imagenes/manualPraatEdicion05.png)
+
+
+- Silenciar. Una parte del audio se puede convertir en silencio, es decir, todas las muestras de ese fragmento quedarán con una amplitud de 0 Pa.
+
+- Amplificar. El valor máximo de amplitud que se puede tener en una señal es de 1 y -1 Pa. Sobre esos valores, la amplitud no se puede representar. Seleccionado el audio en el panel de objetos, se puede usar la opción Modify > Scale Peak que por defecto, tiene el valor 0.99, es decir, lo máximo posible sin que alcance el valor 1. Con esta operación, la señal se amplifica de tal modo que el punto de mayor amplitud se acercará al valor de 0.99 y todos los demás valores de las muestras lo harán proporcionalmente. El efecto es que el sonido se escuchará más fuerte sin afectar los análisis frecuenciales.
+
+- Conversión a mono. Los archivos en dos canales solo se justifican cuando se han usado dos micrófonos diferentes, por ejemplo, en la grabación de un diálogo. Pero muchas veces se crean archivos en estéreo con la señal idéntica en los dos canales. Esto significa un uso irracional del espacio de almacenamiento y de la memoria del computador. Con la opción *Convert* se puede transformar un audio estéreo a uno mono.
+
+- Submuestrear. Las frecuencias de muestreo muy altas, se justifican totalmente en casos de grabaciones profesionales de música y en grabaciones de sonidos de ciertos animales. Para las muestras de lenguaje humano hablado con 22.050 muestras por segundo está bastante bien si se toma en cuenta que de acuerdo con el teorema de Nyquist con esa frecuencia se podrá representar bien hasta los 11 KHz. Para submuestrear un objeto de tipo *Sound* en el menú *Convert* existe la opción *Resample*.
+
+Filtrado. Por diferentes razones es posible querer borrar ciertas frecuencias de una señal.
