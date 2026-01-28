@@ -21,3 +21,9 @@ La opción de preferencia es grabar en fomato de un solo canal.
 En la imagen siguiente, se observa el panel de grabación en funcionamiento. Está registrando en un solo canal a una frecuencia de muestreo de 44100 muestras por segundo.
 
 ![Panel en grabación](/imagenes/grabacion03.png)
+
+El paso siguiente es detener la grabación con *Stop*. Se puede dar un nombre a este objeto en el campo *Name*. Luego se debe cliquear en *Save to list* o *Save to list & Close*. Con este paso, convertiremos la grabación realizada en un objeto en Praat y aparecerá el objeto de tipo *Sound* en el panel de objetos.
+
+En el panel de objetos, aparece el número identificador del objeto (este comienza en 1 cada vez que abrimos el programa), el tipo, en este caso, *Sound*, y el nombre que uno le asignó.
+
+![Panel en de objetos con la grabación](/imagenes/grabacion04.png)
