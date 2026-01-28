@@ -32,5 +32,5 @@ Para que el objeto sea convertido en un archivo, se debe guardar. Esto con el me
 
 ![Grabar desde el panel de objetos](/imagenes/grabacion05.png)
 
-Lo siguiente es elegir el directorio y darle el Ok al programa.
+Lo siguiente es elegir el directorio y darle el Ok al programa. Con esto se tiene un archivo que se podrá abrir en otro momento y editar si es necesario o, analizar directamente.
 
