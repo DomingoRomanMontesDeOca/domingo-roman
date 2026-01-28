@@ -32,3 +32,11 @@ Un objeto de tipo *Sound* puede ser modificado de varias maneras en Praat. Aquí
 
 
 Pegar. Seleccionado una parte de un audio es posible copiarla en otra parte del mismo audio. En primer lugar, se hace la selección, luego se usa el comando *Copy selection to Sound clipboard*, en seguida se pone el cursor donde quiero repetir el fragmento y luego se usa el comando *Paste* con la opción que más convenga a la tarea (*Paste before selectior*, *Paste over selection* o *Paste after selection*).
+
+
+
+![Copiar un fragmento de un audio](/imagenes/manualPraatEdicion03.png)
+
+![Pegar un fragmento de un audio](/imagenes/manualPraatEdicion04.png)
+
+![Resultado del pegado de un fragmento de un audio](/imagenes/manualPraatEdicion05.png)
