@@ -27,3 +27,10 @@ El paso siguiente es detener la grabación con *Stop*. Se puede dar un nombre a 
 En el panel de objetos, aparece el número identificador del objeto (este comienza en 1 cada vez que abrimos el programa), el tipo, en este caso, *Sound*, y el nombre que uno le asignó.
 
 ![Panel en de objetos con la grabación](/imagenes/grabacion04.png)
+
+Para que el objeto sea convertido en un archivo, se debe guardar. Esto con el menú *Save*.
+
+![Grabar desde el panel de objetos](/imagenes/grabacion05.png)
+
+
+
