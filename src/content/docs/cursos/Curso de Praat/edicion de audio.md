@@ -21,6 +21,11 @@ Un objeto de tipo *Sound* puede ser modificado de varias maneras en Praat. Aquí
   - Submuestrear un audio
   - Filtrar ciertas frecuencias
 
-Cortar La primera operación es de uso muy frecuente ya que la la mayoría de las ocasiones la parte de interés de un audio no coincide con el audio completo. Entonces, lo que habitualmente se hace es cortar la parte que no sirve (un silencio, por ejemplo, o un ruido que no es parte de la investigación o de lo que se quiere mostrar). En estos casos, se marca la parte sobrante y se corta.
+Cortar. La primera operación es de uso muy frecuente ya que la la mayoría de las ocasiones la parte de interés de un audio no coincide con el audio completo. Entonces, lo que habitualmente se hace es cortar la parte que no sirve (un silencio, por ejemplo, o un ruido que no es parte de la investigación o de lo que se quiere mostrar). En estos casos, se marca la parte sobrante y se elimina.
+
+![Cortar un fragmento de un audio](/imagenes/manualPraatEdicion01.png)
 
 
+Extraer. A la inversa, es posible que un segmento del audio sea de nuestro particular interés. En ese caso, queremos guardar la selección.
+
+![Cortar un fragmento de un audio](/imagenes/manualPraatEdicion02.png)
