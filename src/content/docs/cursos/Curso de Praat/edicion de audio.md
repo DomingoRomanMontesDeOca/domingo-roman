@@ -93,4 +93,19 @@ Resultado: con el consiguiente ahorro de espacio en el disco y en la memoria:
 
 
 
-Filtrado. Por diferentes razones es posible querer borrar ciertas frecuencias de una señal. Por ejemplo, cuando se graban voces en cabinas insonorizadas con micrófonos de condensador de respuesta frecuencial amplia, es posible que aparezcan en los análisis una frecuencias muy bajas. Por ejemplo, en la imagen siguiente se observa este fenómeno.
+Filtrado. Por diferentes razones es posible querer borrar ciertas frecuencias de una señal. Por ejemplo, cuando se graban voces en cabinas insonorizadas con micrófonos de condensador de respuesta frecuencial amplia, es posible que aparezcan en los análisis una frecuencias muy bajas. Por ejemplo, en la imagen siguiente se observa este fenómeno. Las partes en recuadro rojo corresponden a bajas frecuencias que aparecen en una zona de la señal que corresponde a silencio.
+
+![Señal con bajas frecuencias en las zonas de silencio](/imagenes/manualPraatEdicion16.png)
+
+Si se aplica un filtro que elimine las frecuencias bajo los 85 Hz, por ejemplo, se obtiene una mejor vista de la señal. Esto se hace con el menú *Filter* y con la selección *Filter( Stop Hann band)*:
+
+![Menú para filtrar la señal](/imagenes/manualPraatEdicion17.png)
+
+En el formulario se señala el rango de frecuencias que se desea eliminar, en este caso, de 0 a 85 Hz.
+
+![Formulario para especificar el rango de frecuencias del filtro](/imagenes/manualPraatEdicion18.png)
+
+Como se puede apreciar, el resultado mejora bastante la visión de la señal:
+
+![Resultado del filtrado](/imagenes/manualPraatEdicion19.png)
+
