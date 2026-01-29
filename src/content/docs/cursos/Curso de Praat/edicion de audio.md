@@ -87,6 +87,10 @@ Resultado: con el consiguiente ahorro de espacio en el disco y en la memoria:
 
 
 
-- Submuestrear. Las frecuencias de muestreo muy altas, se justifican totalmente en casos de grabaciones profesionales de música y en grabaciones de sonidos de ciertos animales. Para las muestras de lenguaje humano hablado con 22.050 muestras por segundo está bastante bien si se toma en cuenta que de acuerdo con el teorema de Nyquist con esa frecuencia se podrá representar bien hasta los 11 KHz. Para submuestrear un objeto de tipo *Sound* en el menú *Convert* existe la opción *Resample*.
+- Submuestrear. Las frecuencias de muestreo muy altas, se justifican totalmente en casos de grabaciones profesionales de música y en grabaciones de sonidos de ciertos animales. Para las muestras de lenguaje humano hablado, con 22.050 muestras por segundo está bastante bien si se toma en cuenta que de acuerdo con el teorema de [Teorema de Nyquist](https://es.wikipedia.org/wiki/Teorema_de_muestreo_de_Nyquist-Shannon "Nyquist") con esa frecuencia se podrá representar bien hasta los 11 KHz. Para submuestrear un objeto de tipo *Sound* en el menú *Convert* existe la opción *Resample*.
+
+![Submuestrear una señal](/imagenes/manualPraatEdicion15.png)
+
+
 
 Filtrado. Por diferentes razones es posible querer borrar ciertas frecuencias de una señal.
