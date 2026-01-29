@@ -93,4 +93,4 @@ Resultado: con el consiguiente ahorro de espacio en el disco y en la memoria:
 
 
 
-Filtrado. Por diferentes razones es posible querer borrar ciertas frecuencias de una señal.
+Filtrado. Por diferentes razones es posible querer borrar ciertas frecuencias de una señal. Por ejemplo, cuando se graban voces en cabinas insonorizadas con micrófonos de condensador de respuesta frecuencial amplia, es posible que aparezcan en los análisis una frecuencias muy bajas. Por ejemplo, en la imagen siguiente se observa este fenómeno.
