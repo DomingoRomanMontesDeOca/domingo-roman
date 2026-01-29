@@ -55,7 +55,7 @@ Resultado: la parte seleccionada se ha convertido en silencio.
 ![Audio que se va a amplificar](/imagenes/manualPraatEdicion08.png)
 
 Nótese que los valores de amplitud son relativamente bajos considerando que el máximo posible es 1.
-El audio original se escucha así:
+El audio original se escucha así: <audio controls src="/sonidos/ruido.mp3"></audio>
 
 
 ![Scale peak](/imagenes/manualPraatEdicion09.png)
