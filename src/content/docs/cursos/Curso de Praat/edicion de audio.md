@@ -72,6 +72,21 @@ El audio modificado, se escucha así: <audio controls src="/sonidos/manualPraatE
 
 - Conversión a mono. Los archivos en dos canales solo se justifican cuando se han usado dos micrófonos diferentes, por ejemplo, en la grabación de un diálogo. Pero muchas veces se crean archivos en estéreo con la señal idéntica en los dos canales. Esto significa un uso irracional del espacio de almacenamiento y de la memoria del computador. Con la opción *Convert* se puede transformar un audio estéreo a uno mono.
 
+Aquí se observa un audio con dos canales exactamente iguales.
+
+![Un audio con dos canales idénticos](/imagenes/manualPraatEdicion12.png)
+
+
+El menú para convertirlo en uno de un solo canal:
+
+![Opción para convertir a mono](/imagenes/manualPraatEdicion13.png)
+
+Resultado: con el consiguiente ahorro de espacio en el disco y en la memoria:
+
+![Resultado](/imagenes/manualPraatEdicion14.png)
+
+
+
 - Submuestrear. Las frecuencias de muestreo muy altas, se justifican totalmente en casos de grabaciones profesionales de música y en grabaciones de sonidos de ciertos animales. Para las muestras de lenguaje humano hablado con 22.050 muestras por segundo está bastante bien si se toma en cuenta que de acuerdo con el teorema de Nyquist con esa frecuencia se podrá representar bien hasta los 11 KHz. Para submuestrear un objeto de tipo *Sound* en el menú *Convert* existe la opción *Resample*.
 
 Filtrado. Por diferentes razones es posible querer borrar ciertas frecuencias de una señal.
