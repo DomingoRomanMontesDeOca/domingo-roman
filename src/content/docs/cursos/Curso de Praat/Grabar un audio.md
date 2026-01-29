@@ -8,7 +8,7 @@ sidebar:
   # Orden (Número más bajo aparece más arriba)
   order: 2
 ---
-# 1. Grabación
+## 1. Grabación
 
 En Praat se puede grabar un archivo de audio. En el menú **New** aparecen las opciones 
 
