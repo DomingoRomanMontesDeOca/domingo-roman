@@ -30,10 +30,15 @@ La cita anterior requiere ser actualizada con cada nueva versión.
 
 ### Temas de este curso
 - Archivos y objetos en Praat.
+  
     Una introducción básica a lo que es un archivo de audio y la diferencia con un *objeto* en Praat.
+
 - Grabación de un audio.
+
     El usuario puede grabar una muestra de audio directamente en Praat
+
 - Edición y modificaciones de un audio.
+
     Nociones para preparar un audio para su análisis.
 
 ___
