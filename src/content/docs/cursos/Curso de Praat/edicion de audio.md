@@ -91,7 +91,7 @@ Resultado: con el consiguiente ahorro de espacio en el disco y en la memoria:
 
 ![Submuestrear una señal](/imagenes/manualPraatEdicion15.png)
 
-Sobre la frecuencia de muestreo: [Frecuencia de muestreo](https://www.domingo-roman.net/cursos/curso-básico-de-fonetica/z-frecuencia_muestreo)
+En este gráfico, se puede observar una animación para explicar la [frecuencia de muestreo](https://www.domingo-roman.net/cursos/curso-básico-de-fonetica/z-frecuencia_muestreo).
 
 Filtrado. Por diferentes razones es posible querer borrar ciertas frecuencias de una señal. Por ejemplo, cuando se graban voces en cabinas insonorizadas con micrófonos de condensador de respuesta frecuencial amplia, es posible que aparezcan en los análisis una frecuencias muy bajas. Por ejemplo, en la imagen siguiente se observa este fenómeno. Las partes en recuadro rojo corresponden a bajas frecuencias que aparecen en una zona de la señal que corresponde a silencio.
 
