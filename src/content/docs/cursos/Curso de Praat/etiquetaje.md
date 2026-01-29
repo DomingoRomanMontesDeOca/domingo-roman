@@ -1,3 +1,4 @@
+---
 # El título es obligatorio para que la página funcione
 title: Curso básico de Praat
 # Configuracion de la barra de navegación
