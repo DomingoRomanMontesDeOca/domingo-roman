@@ -8,7 +8,7 @@ sidebar:
   # Orden (Número más bajo aparece más arriba)
   order: 1
 ---
-# 1. Archivos y objetos
+## 1. Archivos y objetos
 
 Es importante distinguir entre archivos y objetos. Para los efectos de este curso, diremos que un *archivo* es un conjunto de información guardado en el computador o en un dispositivo de almacenamiento. En tanto que un *objeto* es un conjunto de información que está alojado en la memoria operativa del computador.
 El objeto no está "guardado" sino que está "activo". Por ejemplo, si tenemos un archivo de audio llamado "mi_nombre.wav" en el disco duro de nuestro computador podemos abrirlo en Praat. Al momento de *abrirlo* en Praat tendremos un objeto, en este caso, de tipo *Sound*. Un archivo mientras no sea invocado por algún programa, es solo un archivo disponible.
