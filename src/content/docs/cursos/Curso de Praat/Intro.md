@@ -8,7 +8,7 @@ sidebar:
   # Orden (Número más bajo aparece más arriba)
   order: 0
 ---
-# 0. Introducción
+## 0. Introducción
 
 El programa Praat es hoy por hoy una de las aplicaciones más utilizadas para hacer análisis fonético.
 
@@ -16,7 +16,7 @@ El programa Praat es hoy por hoy una de las aplicaciones más utilizadas para ha
       
 La cita anterior requiere ser actualizada con cada nueva versión.
 
-## Principales características
+### Principales características
 
 - Es un programa de código abierto y de descarga libre desde https://praat.org (el sitio oficial del programa).
 - Mantiene versiones para todos los sistemas operativos.
@@ -28,9 +28,9 @@ La cita anterior requiere ser actualizada con cada nueva versión.
 - Los problemas reportados son corregido rápidamente.
 - Hay gran cantidad de *scripts* disponibles en la red.
 
-## Temas de este curso
+### Temas de este curso
 - Archivos y objetos en Praat
 - Grabación de un audio
-- Observación de las principales características de un objeto de audio
+- Edición y modificaciones de un audio
 - La ventana de edición para un objeto tipo *Sound*
 - Etiquetaje de señales de audio
