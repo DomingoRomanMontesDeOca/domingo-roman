@@ -55,7 +55,7 @@ Resultado: la parte seleccionada se ha convertido en silencio.
 ![Audio que se va a amplificar](/imagenes/manualPraatEdicion08.png)
 
 Nótese que los valores de amplitud son relativamente bajos considerando que el máximo posible es 1.
-El audio original se escucha así: <audio controls src="/sonidos/ruido.mp3"></audio>
+El audio original se escucha así: <audio controls src="/sonidos/manualPraatEdicion_audio_img09.wav"></audio>
 
 
 ![Scale peak](/imagenes/manualPraatEdicion09.png)
@@ -67,7 +67,7 @@ Este es el formulario para amplificar la amplitud:
 ![Formulario](/imagenes/manualPraatEdicion11.png)
 
 Ahora los valores están más cercanos a 1. 
-El audio modificado, se escucha así:
+El audio modificado, se escucha así: <audio controls src="/sonidos/manualPraatEdicion_audio_img11.wav"></audio>
 
 
 - Conversión a mono. Los archivos en dos canales solo se justifican cuando se han usado dos micrófonos diferentes, por ejemplo, en la grabación de un diálogo. Pero muchas veces se crean archivos en estéreo con la señal idéntica en los dos canales. Esto significa un uso irracional del espacio de almacenamiento y de la memoria del computador. Con la opción *Convert* se puede transformar un audio estéreo a uno mono.
