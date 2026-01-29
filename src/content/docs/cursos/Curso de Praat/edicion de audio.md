@@ -52,6 +52,14 @@ Resultado: la parte seleccionada se ha convertido en silencio.
 - Amplificar. El valor máximo de amplitud que se puede tener en una señal es de 1 y -1 Pa. Sobre esos valores, la amplitud no se puede representar. Seleccionado el audio en el panel de objetos, se puede usar la opción Modify > Scale Peak que por defecto, tiene el valor 0.99, es decir, lo máximo posible sin que alcance el valor 1. Con esta operación, la señal se amplifica de tal modo que el punto de mayor amplitud se acercará al valor de 0.99 y todos los demás valores de las muestras lo harán proporcionalmente. El efecto es que el sonido se escuchará más fuerte sin afectar los análisis frecuenciales.
 
 
+![Audio que se va a amplificar](/imagenes/manualPraatEdicion08.png)
+
+
+![Scale peak](/imagenes/manualPraatEdicion09.png)
+
+
+![audio amplificado](/imagenes/manualPraatEdicion10.png)
+
 
 - Conversión a mono. Los archivos en dos canales solo se justifican cuando se han usado dos micrófonos diferentes, por ejemplo, en la grabación de un diálogo. Pero muchas veces se crean archivos en estéreo con la señal idéntica en los dos canales. Esto significa un uso irracional del espacio de almacenamiento y de la memoria del computador. Con la opción *Convert* se puede transformar un audio estéreo a uno mono.
 
