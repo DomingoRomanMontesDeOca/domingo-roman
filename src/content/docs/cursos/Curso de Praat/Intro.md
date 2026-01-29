@@ -33,7 +33,7 @@ La cita anterior requiere ser actualizada con cada nueva versión.
 - Grabación de un audio
 - Edición y modificaciones de un audio
   
-. . . 
++ + +
 
 - La ventana de edición para un objeto tipo *Sound*
 - Etiquetaje de señales de audio
