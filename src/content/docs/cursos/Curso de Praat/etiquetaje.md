@@ -28,4 +28,20 @@ El procedimiento para crear el TextGrid de un audio es el siguiente:
   -   indicar cuáles *tiers* serán de punto (los no señalados, serán considerados "de intervalos")
 
 
+![Menú para crear el TextGrid de un audio seleccionado](/imagenes/manualPraatEdicion20.png)
 
+
+
+![Formulario para indicar los estratos](/imagenes/manualPraatEdicion21.png)
+
+
+![Formulario con nombres de estratos](/imagenes/manualPraatEdicion22.png)
+
+
+![Selección del audio y del TextGrid](/imagenes/manualPraatEdicion23.png)
+
+
+![Ventana de edición](/imagenes/manualPraatEdicion24.png)
+
+
+![Ejemplo de audio y TextGrid con dos estratos](/imagenes/manualPraatEdicion25.png)
