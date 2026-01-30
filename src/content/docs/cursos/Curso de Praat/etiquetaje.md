@@ -30,10 +30,11 @@ El procedimiento para crear el TextGrid de un audio es el siguiente:
 
 ![Menú para crear el TextGrid de un audio seleccionado](/imagenes/manualPraatEdicion20.png)
 
-
+El formulario para señalar los nombres de los estratos aparece por defecto así:
 
 ![Formulario para indicar los estratos](/imagenes/manualPraatEdicion21.png)
 
+El usuario debe poner los nombres que estime conveniente. Al separar por espacio los nombres se indica el número de estratos.
 
 ![Formulario con nombres de estratos](/imagenes/manualPraatEdicion22.png)
 
