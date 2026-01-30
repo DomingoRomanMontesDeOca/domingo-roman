@@ -38,6 +38,7 @@ El usuario debe poner los nombres que estime conveniente. Al separar por espacio
 
 ![Formulario con nombres de estratos](/imagenes/manualPraatEdicion22.png)
 
+En el ejemplo presentado, se crearán dos estratos: "sil" y "voc" y se indica que "voc" es un estrato con marcas de punto.
 
 ![Selección del audio y del TextGrid](/imagenes/manualPraatEdicion23.png)
 
@@ -46,3 +47,5 @@ El usuario debe poner los nombres que estime conveniente. Al separar por espacio
 
 
 ![Ejemplo de audio y TextGrid con dos estratos](/imagenes/manualPraatEdicion25.png)
+
+Obsérvese que se indica que hay 5 intervalos en el primer estrato aunque solo se etiquetaron tres intervalos. Los dos intervalos sin etiquetar también se cuentan en el número total de intervalos del estrato 1.
