@@ -48,4 +48,4 @@ En el ejemplo presentado, se crearán dos estratos: "sil" y "voc" y se indica qu
 
 ![Ejemplo de audio y TextGrid con dos estratos](/imagenes/manualPraatEdicion25.png)
 
-Obsérvese que se indica que hay 5 intervalos en el primer estrato aunque solo se etiquetaron tres intervalos. Los dos intervalos sin etiquetar también se cuentan en el número total de intervalos del estrato 1.
+Obsérvese que se indica que hay 5 intervalos en el primer estrato aunque solo se etiquetaron tres. Los dos intervalos sin etiquetar (al inicio y al final) también se cuentan en el número total de intervalos del estrato 1.
