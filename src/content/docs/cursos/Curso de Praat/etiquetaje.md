@@ -10,13 +10,22 @@ sidebar:
 ---
 ## 4. Etiquetaje de un archivo de audio
 
-Una de las cuestiones básicas en la investigación acústica es determinar el momento en el que se hace un determinado análisis. En un oscilograma, esto es simple. Uno sitúa el cursor donde quiere determinar, por ejemplo, el valor de los formantes o el de la frecuencia fundamental y, luego, revisa en la parte de la ventana de edición cuál es el valor que se obtiene. O, si se trata de la duración de un segmento, uno selecciona con el cursor la parte que quiere medir y con eso se obtiene el valor deseado.
+Una de las cuestiones básicas en la investigación acústica es determinar el momento en el que se hace un determinado análisis. En un oscilograma, esto es simple: se sitúa el cursor donde se quiere determinar, por ejemplo, el valor de los formantes o el de la frecuencia fundamental y, luego, se observa en la ventana de edición cuál es el valor de ese parámetro. O, si se trata de la duración de un segmento, se selecciona con el cursor la parte que quiere medir y con eso se obtiene el valor deseado.
 
-Sin embargo, lo más importante es poder guardar como archivo un tipo de objeto del que dispone Praat para tener toda la información temporal guardada de modo que sea posible
+Sin embargo, lo más productivo es poder guardar —como archivo— un tipo de objeto del que dispone Praat con toda la información temporal de modo que sea posible
 
   - automatizar la obtención de datos
   - repetir el análisis en el mismo punto exacto
 
-El tipo de objeto del que hablamos es el *TextGrid* y es un objeto de la misma duración que el audio a partir del cual lo hemos creado. El *TextGrid* permite crear etiquetas de dos tipos: puntuales y de intervalos en estratos o capas llamadas *tiers* en el programa. Podemos incluir un número indeterminado de capas.
+Este tipo de objeto es el *TextGrid* y es un objeto de la misma duración que el audio a partir del cual se ha creado. El *TextGrid* tiene capas o estratos (*tiers*) de dos tipos: puntuales y de intervalos. Como lo señala el nombre, en los del primer tipo se pueden marcar puntos específicos, con el texto que se quiera. En los del segundo tipo, se puede poner el texto que se quiera en un segmento o intervalo de la señal.
 
-El 
+El procedimiento para crear el TextGrid de un audio es el siguiente:
+
+  - seleccionar el audio en el panel de objetos
+  - en el menú *Annotate* seleccionar la opción *To TextGrid...*
+  - completar el formulario
+  -   con los nombres de todos los *tiers* o capas
+  -   indicar cuáles *tiers* serán de punto (los no señalados, serán considerados "de intervalos")
+
+
+
