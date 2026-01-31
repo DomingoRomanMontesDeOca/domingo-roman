@@ -14,12 +14,11 @@ Para analizar los formantes se debe crear el objeto *Formant* con los parámetro
 
 ![](/imagenes/manualPraatFormantes01.png)
 
+![](/imagenes/manualPraatFormantes02.png)
 
+![](/imagenes/manualPraatFormantes03.png)
 
+![](/imagenes/manualPraatFormantes04.png)
 
-Para ello se debe activar 
+![](/imagenes/manualPraatFormantes05.png)
 
-
-
-
-Para crear el objeto *Formant* se debe tener seleccionado el objeto de tipo *Sound* y usar la opción 
