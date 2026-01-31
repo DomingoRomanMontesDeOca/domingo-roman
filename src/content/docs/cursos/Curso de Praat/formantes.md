@@ -28,4 +28,4 @@ Para analizar los formantes se debe crear el objeto *Formant* con los parámetro
 
 ![](/imagenes/manualPraatFormantes09.png)
 
-![](/imagenes/manualPraatFormantes010.png)
+![](/imagenes/manualPraatFormantes10.png)
