@@ -41,7 +41,7 @@ La cita anterior requiere ser actualizada con cada nueva versión.
 
       Nociones para preparar un audio para su análisis.
 
-___
-
-- La ventana de edición para un objeto tipo *Sound*
 - Etiquetaje de señales de audio
+  
+      Poner marcas en puntos específicos o en intervalos para conseguir datos de análisis
+
