@@ -330,7 +330,7 @@ ______
 
 ### Comités de revistas especializadas, evaluaciones de concursos de investigación
 
-- 2026.      Evaluador de proyectos de investigación, Vicerrectoría de investigación Universidad de la Frontera. Chile.
+- 2026\.     Evaluador de proyectos de investigación, Vicerrectoría de investigación Universidad de la Frontera. Chile.
 
 - 2024\.     Evaluador para la revista Co-herencia, de la Universidad EAFIT, Colombia.
 
@@ -391,8 +391,12 @@ ______
 ### Presentaciones de libros
 ______
 
+- 2025\. Libro *Sonetos Fluviales* de  Hugo González (Biblioteca Nacional).
+- 
 - 2015\. Libro *Cántaros* de Hugo González (octubre).
+  
 - 2016\. Libro de Sandy Infante: *Del discurso al aula*, Libro ganador concurso tesis. Museo de la Memoria y los Derechos Humanos. 19 de abril.
+- 
 - Libro *Arbolando*, de Rafael Rubio. Facultad de Letras de la P. Universidad Católica de Chile
 
 
