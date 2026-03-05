@@ -55,8 +55,11 @@ ______
 
 - 1996\.    *El habla de los estudiantes de 7º y 8º año EGB de la Región Metropolitana: análisis descriptivo y proposición de estrategias remediales*. Miriam Cid (investigadora principal), Paula Jullian, Ana María Millán. Fondedoc (UC).
 
-### Dirección de tesis de doctorado
+### Dirección y codirección de tesis de doctorado
 ______
+
+- 2026.\ Sociofonética en Los Andes. Caracterización del español atacameño, del Sr. Eduardo Llanquimán. Universidad Complutense de Madrid, España. Codirector. La tesis es dirigida por el Dr. Miguel Jiménez-Bravo.
+
 - 2024\. *Interfaz fonética-sintaxis en el desarrollo de la codificación de la estructura de la información en narraciones de niños de Santiago de Chile entre 5 y 12 años*. Tesis realizada por la Sra. Valeria Cofré; Director: Dr. Carlos González, codirector: Dr. Domingo Román, P. Universidad Católica de Chile.
   
 - 2020\. *Estudio sociolingüístico de la entonación del español de Antioquia, Colombia*. Tesis realizada por la Sra. Diana Muñoz Builes; P. Universidad Católica de Chile. Codirigida por el Dr. Pedro Martín Butragueño, UNAM.
