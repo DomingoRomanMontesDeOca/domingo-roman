@@ -243,7 +243,7 @@ ______
 ### Participaciones en congreso
 ______
 
-- 2024\. Domingo Román y José Figueroa. 2024. Análisis prosódico de las décimas de Violeta Parra. Hacia el modelo de recitación de la poesía popular chilena. Congreso Internacional Fonética y Poética (congreso intenacional, Universidad de Santiago de Chile entidad anfitriona).
+- 2024\. Domingo Román y José Figueroa. Análisis prosódico de las décimas de Violeta Parra. Hacia el modelo de recitación de la poesía popular chilena. Congreso Internacional Fonética y Poética (congreso intenacional, Universidad de Santiago de Chile entidad anfitriona).
   
 - 2024\. Colonna, Valentina y Domingo Román. I congreso Internacional de Teoría de la Lírica y Poéticas comparadas. Universidad de Salamanca, 3-5 de julio.
   
