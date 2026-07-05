@@ -21,6 +21,7 @@ En esta página se pueden escuchar unos audios y observar los respectivos oscilo
 
 
 4.4.2. Primer filtro (esta señal tiene frecuencias sobre los 5000 Hz.
+
 ![Oscilograma desde los 5000 Hz hasta los 22000 Hz)](/imagenes/original_01.png).
 
 <audio controls src="/sonidos/original_ftdo_5K_22K.wav"></audio>
