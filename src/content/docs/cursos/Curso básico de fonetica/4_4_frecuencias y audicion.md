@@ -42,7 +42,7 @@ En esta página se pueden escuchar unos audios y observar los respectivos oscilo
 
 ![Oscilograma desde los 3000 Hz hasta los 22000 Hz)](/imagenes/original_04.png).
 
-<audio controls src="/sonidos/original_ftdo_3K_22k.wav"></audio>
+<audio controls src="/sonidos/original_ftdo_3K_22_k.wav"></audio>
 
 
 4.4.5. A esta señal se le filtraron solo las frecuencias bajo los 1000 Hz.
