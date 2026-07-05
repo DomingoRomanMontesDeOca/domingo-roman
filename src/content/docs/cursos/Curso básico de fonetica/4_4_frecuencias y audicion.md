@@ -31,6 +31,18 @@ En esta página se pueden escuchar unos audios y observar los respectivos oscilo
 
 4.4.3. Segundo filtro (esta señal tiene frecuencias sobre los 4000 Hz.
 
+![Oscilograma desde los 4000 Hz hasta los 22000 Hz)](/imagenes/original_03.png).
+
+<audio controls src="/sonidos/original_ftdo_4K_22K.wav"></audio>
+
+
+
 4.4.4. Tercer filtro (esta señal tiene frecuencias sobre los 3000 Hz.
+
+
+![Oscilograma desde los 3000 Hz hasta los 22000 Hz)](/imagenes/original_04.png).
+
+<audio controls src="/sonidos/original_ftdo_3K_22K.wav"></audio>
+
 
 4.4.5. Esta señal tiene solo las frecuencias bajo los 1000 Hz.
