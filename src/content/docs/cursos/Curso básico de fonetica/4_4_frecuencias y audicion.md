@@ -45,4 +45,9 @@ En esta página se pueden escuchar unos audios y observar los respectivos oscilo
 <audio controls src="/sonidos/original_ftdo_3K_22k.wav"></audio>
 
 
-4.4.5. Esta señal tiene solo las frecuencias bajo los 1000 Hz.
+4.4.5. A esta señal se le filtraron solo las frecuencias bajo los 1000 Hz.
+
+![Oscilograma desde los 3000 Hz hasta los 22000 Hz)](/imagenes/original_ftdo_Bajo_0_1000.png).
+
+<audio controls src="/sonidos/original_band_0_1000.wav"></audio>
+
