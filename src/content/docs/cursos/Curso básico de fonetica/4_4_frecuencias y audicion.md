@@ -14,6 +14,11 @@ En esta página se pueden escuchar unos audios y observar los respectivos oscilo
 
 4.4.1. El audio original (desde 0 hasta 22000 Hz)
 
+![Oscilograma hasta los 22000 Hz)](/imagenes/.png).
+
+<audio controls src="/sonidos/tono_100.mp3"></audio>
+
+
 
 4.4.2. Primer filtro (esta señal tiene frecuencias sobre los 5000 Hz.
 
