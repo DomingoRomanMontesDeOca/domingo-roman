@@ -9,3 +9,16 @@ sidebar:
   order: 21
 ---
 # 4.4 Un ejemplo de filtrado en distintas bandas de frecuencia
+
+En esta página se pueden escuchar unos audios y observar los respectivos oscilogramas y espectrogramas. Además del audio original, se presentan varios filtros de frecuencia.
+
+4.4.1. El audio original (desde 0 hasta 22000 Hz)
+
+
+4.4.2. Primer filtro (esta señal tiene frecuencias sobre los 5000 Hz.
+
+4.4.3. Segundo filtro (esta señal tiene frecuencias sobre los 4000 Hz.
+
+4.4.4. Tercer filtro (esta señal tiene frecuencias sobre los 3000 Hz.
+
+4.4.5. Esta señal tiene solo las frecuencias bajo los 1000 Hz.
