@@ -22,10 +22,14 @@ Una manera de representar estas distancias son los **mapas perceptuales**. Se pa
 
 Una matriz de confusión se convierte en una **tabla de distancias** en que los valores de la matriz de confusión se convierten a una distancia entre 0 y 1.
 
-Keith Johnson, en *Acoustic and auditory phonetics* (Blackwell Publishers Ltd (3a ed., 2012) presenta el el análisis de datos de otra investigación en la que se reportó la matriz de confusión.
+Keith Johnson, en *Acoustic and auditory phonetics* (Blackwell Publishers Ltd (3a ed., 2012) presenta el el análisis de datos de otra investigación en la que se reportó la siguiente matriz de confusión. En ella se presentan los estímulos presentados y las respuestas de los participantes.
+
+![Matriz de confusión](images/JohnsonConfusion.png)
 
 a partir de esta matriz, hizo la conversión a la tabla de similaridades y luego el mapa perceptual.
 
+
+![Matriz de similaridad](images/Johnsondistancias.png)   ![Mapa de distancias](images/Johnsonmapa.png)
 
 
 
