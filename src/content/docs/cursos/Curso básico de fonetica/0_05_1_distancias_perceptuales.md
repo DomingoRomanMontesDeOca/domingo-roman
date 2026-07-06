@@ -24,12 +24,12 @@ Una matriz de confusión se convierte en una **tabla de distancias** en que los 
 
 Keith Johnson, en *Acoustic and auditory phonetics* (Blackwell Publishers Ltd (3a ed., 2012) presenta el el análisis de datos de otra investigación en la que se reportó la siguiente matriz de confusión. En ella se presentan los estímulos presentados y las respuestas de los participantes.
 
-![Matriz de confusión](images/JohnsonConfusion.png)
+![Matriz de confusión](imagenes/JohnsonConfusion.png)
 
 a partir de esta matriz, hizo la conversión a la tabla de similaridades y luego el mapa perceptual.
 
 
-![Matriz de similaridad](images/Johnsondistancias.png)   ![Mapa de distancias](images/Johnsonmapa.png)
+![Matriz de similaridad](imagenes/Johnsondistancias.png)   ![Mapa de distancias](imagenes/Johnsonmapa.png)
 
 
 
