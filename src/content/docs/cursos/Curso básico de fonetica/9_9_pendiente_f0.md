@@ -33,7 +33,7 @@ Esta, la diferencia entre dos tonos de 2000 y 2100 Hz:
 <audio controls src="/sonidos/2000_2100.mp3"></audio>
 
 
-Si bien los Hz son la unidad de medida de la frecuencia fundamental, la unidad de medida más adecuada para efectos de la percepción de la f0 son los semitonos entre dos frecuencias. Un st es una unidad perceptiva de variación de la f0 entre dos datos frecuenciales. Para el habla, se ha establecido que entre 1,5 st y 2 st como la mínima diferencia perceptible. Bajo ese umbral, las diferencias (en el habla, no en la música) no son percibidas como cambios.
+En el primer caso, la diferencia perceptiva es de 12 st; en tanto, en el segundo, de 0.84 st. Esto es Si bien los Hz son la unidad de medida de la frecuencia fundamental, la unidad de medida más adecuada para efectos de la percepción de la f0 son los semitonos entre dos frecuencias. Un st es una unidad perceptiva de variación de la f0 entre dos datos frecuenciales. Para el habla, se ha establecido que entre 1,5 st y 2 st como la mínima diferencia perceptible (Hart *et al.* (1990), . Bajo ese umbral, las diferencias (en el habla, no en la música) no son percibidas como cambios.
 
 Si tomamos dos valores de frecuencia, podemos calcular la distancia en st entre ambos valores aplicando la fórmula
 
