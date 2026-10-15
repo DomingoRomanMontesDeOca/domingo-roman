@@ -82,7 +82,7 @@ Algunas consonantes permiten un complemento que solo puede ser ɾ/l (ere o ele).
 
 [^1]: En el universo hispanohablante latinoamericano, esta combinación no ofrece dificultad. Sin embargo, un hablante peninsular, en una palabra como "atlas", producirá y percibirá las sílabas: "at" y "las".
 
-Desde el punto de vista del análisis "CV", estas sílabas tienen la estructura "CCV"; una palabra como "traigo" será "CCVCV".
+Desde el punto de vista del análisis "CV", estas sílabas tienen la estructura "CCV"; una palabra como "traigo" será "CCVVCV".
 
 **Aclaración** El hecho de que ciertas combinaciones no se den español no significa una imposibilidad articulatoria sino solo una condición impuesta por el idioma o, como sucede con el caso de "tl—", por el dialecto. Si un hispanohablante tiene que pronunciar las secuencia "sri", podría hacerlo perfectamente.
 
