@@ -14,9 +14,15 @@ Para analizar los formantes se debe crear el objeto *Formant* con los parámetro
 
 ![](/imagenes/manualPraatFormantes01.png)
 
+En la imagen de arriba, se ve el oscilograma y el espectrograma. Es conveniente tener el mismo valor en máxima frecuencia para el espectrograma y para la búsqueda de formantes.
+En el formulario siguiente se puede establecer el valor máximo que se muestra en el espectrograma.
+
 ![](/imagenes/manualPraatFormantes02.png)
 
+Al disponer ambos análisis con el mismo valor máximo (por ejemplo, 5500 Hz) la superposición de la pista de formantes coincidirá con las bandas frecuenciales más intensas del espectrograma.
+
 ![](/imagenes/manualPraatFormantes03.png)
+
 
 ![](/imagenes/manualPraatFormantes04.png)
 
