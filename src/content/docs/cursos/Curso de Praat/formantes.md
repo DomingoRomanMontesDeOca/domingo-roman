@@ -23,11 +23,15 @@ Al disponer ambos análisis con el mismo valor máximo (por ejemplo, 5500 Hz) la
 
 ![](/imagenes/manualPraatFormantes03.png)
 
+La siguiente imagen muestra el formulario para establecer el máximo valor en Hz para encontrar los formantes.
 
 ![](/imagenes/manualPraatFormantes04.png)
 
+En este momento, se puede hacer la operación de mostrar los formantes y aparecerán sobre el espectrograma
+
 ![](/imagenes/manualPraatFormantes05.png)
 
+También es posible no mostrar el espectrograma y solo la pista de formantes, como se ve en la siguiente imagen.
 ![](/imagenes/manualPraatFormantes07.png)
 
 ![](/imagenes/manualPraatFormantes08.png)
