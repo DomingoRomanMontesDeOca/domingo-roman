@@ -49,4 +49,6 @@ Con ello, aparece un nuevo objeto en el panel de objetos de Praat.
 
 Con el objeto *Formant* se puede activar la opción *Query* que, entre otras, permite obtener la información de un formante en un determinado tiempo.
 
-![/imagenes/manualPraatFormantes11.png]
+![](/imagenes/manualPraatFormantes11.png)
+
+
