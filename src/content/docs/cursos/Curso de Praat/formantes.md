@@ -51,4 +51,6 @@ Con el objeto *Formant* se puede activar la opción *Query* que, entre otras, pe
 
 ![](/imagenes/manualPraatFormantes11.png)
 
+En este caso, se despliega un formulario que pide el formante y el tiempo. Es decir, en qué momento de la señal se desea obtener el valor del formante 1, por ejemplo.
 
+![](/imagenes/manualPraatFormantes12.png)
