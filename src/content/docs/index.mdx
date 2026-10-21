@@ -6,56 +6,54 @@ sidebar:
 tableOfContents: false
 ---
 
-import { Icon, Card, CardGrid } from '@astrojs/starlight/components';
-import RandomLink from '../../links.astro'
+import { Icon, Card, CardGrid, LinkButton } from '@astrojs/starlight/components';
+import RandomLink from '../../links.astro';
 
 Doctor en Lingüística y Comunicación
 
 <img src="/personal.jpeg" alt="Domingo Román Montes de Oca" class="rounded-lg w-[400px] md:w-[200px] lg:w-[400px]" />
 
-import { LinkButton } from '@astrojs/starlight/components';
-
 <div class="flex gap-4 justify-center flex-wrap">
-	<LinkButton href="https://www.domingo-roman.net/curriculum/" variant="primary" icon="right-arrow">
-		Curriculum vitae
-	</LinkButton>
-	<LinkButton href="https://fonetica.usach.cl/" variant="secondary" icon="external">
-		Laboratorio de fonética USACH
-	</LinkButton>
+  <LinkButton href="https://www.domingo-roman.net/curriculum/" variant="primary" icon="right-arrow">
+    Curriculum vitae
+  </LinkButton>
+  <LinkButton href="https://fonetica.usach.cl/" variant="secondary" icon="external">
+    Laboratorio de fonética USACH
+  </LinkButton>
 </div>
 
 <RandomLink/>
 
 ## Contenidos
+
 <CardGrid stagger>
-	<Card title="Curso básico de fonética" icon="pencil">
-		<a href="https://www.domingo-roman.net/cursos/curso-básico-de-fonetica/0_00_introduccion">
-			Para iniciarse en la disciplina
-		</a>
-	</Card>
+  <Card title="Curso básico de fonética" icon="pencil">
+    <a href="https://www.domingo-roman.net/cursos/curso-básico-de-fonetica/0_00_introduccion">
+      Para iniciarse en la disciplina
+    </a>
+  </Card>
 
-<Card title="Curso de Praat" icon="open-book">
-		<a href="https://www.domingo-roman.net/cursos/curso-de-praat/intro/">
-			Usos y funcionalidades del programa Praat
-		</a>
-	</Card>
+  <Card title="Curso de Praat" icon="open-book">
+    <a href="https://www.domingo-roman.net/cursos/curso-de-praat/intro/">
+      Usos y funcionalidades del programa Praat
+    </a>
+  </Card>
 
+  <Card title="Recursos para el aprendizaje escolar" icon="book">
+    <a href="https://www.recursosaprendizajecastellano.usach.cl">
+      Ir a las aplicaciones
+    </a>
+    <p style="margin-top: 1rem; font-size: 0.9rem; color: var(--sl-color-gray-2);">
+      <a href="https://ortograf-a-acentual-leyes-generales.vercel.app">Algoritmo leyes generales de acentuación (versión en prueba)</a>
+    </p>
+  </Card>
 
-	<Card title="Recursos para el aprendizaje escolar" icon="book">
-		<a href="https://www.recursosaprendizajecastellano.usach.cl">
-			Ir a las aplicaciones
-		</a>
-		<p style="margin-top: 1rem; font-size: 0.9rem; color: var(--sl-color-gray-2);">
-			<a href="https://ortograf-a-acentual-leyes-generales.vercel.app">Algoritmo leyes generales de acentuación (versión en prueba)</a>
-		</p>
-	</Card>
-
-	<Card title="Nuevo: Tres apps propedéuticas para el análisis acústico" icon="star">
-		Herramienta de código abierto para comprender categorías técnicas de las mediciones fonéticas.
-		<div style="display:flex; flex-direction:column; gap:0.4rem; margin-top:0.8rem">
-			<a href="https://doctor-roman.shinyapps.io/portal/">Portal principal</a>
-			<div style="font-size:0.85rem; display:flex; gap:0.6rem; flex-wrap:wrap">
-			</div>
-		</div>
-	</Card>
+  <Card title="Nuevo: Tres apps propedéuticas para el análisis acústico" icon="star">
+    Herramienta de código abierto para comprender categorías técnicas de las mediciones fonéticas.
+    <div style="display:flex; flex-direction:column; gap:0.4rem; margin-top:0.8rem">
+      <a href="https://doctor-roman.shinyapps.io/portal/">Portal principal</a>
+      <div style="font-size:0.85rem; display:flex; gap:0.6rem; flex-wrap:wrap">
+      </div>
+    </div>
+  </Card>
 </CardGrid>
