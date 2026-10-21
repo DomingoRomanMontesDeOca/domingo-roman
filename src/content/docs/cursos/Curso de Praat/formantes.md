@@ -34,8 +34,15 @@ En este momento, se puede hacer la operación de mostrar los formantes y aparece
 También es posible no mostrar el espectrograma y solo la pista de formantes, como se ve en la siguiente imagen.
 ![](/imagenes/manualPraatFormantes07.png)
 
+Llegados a este punto, se puede observar la pista de formantes en la ventana de edición. Sin embargo, para obtener valores confiables se debe crear el objeto *Formant*.
+Esto se hace con la rutina *To Formant (burg)...*
+
 ![](/imagenes/manualPraatFormantes08.png)
 
+Al marcar esta opción, se despliega un formulario con los parámetros para encontrar formantes. Se debe situar el valor máximo con el mismo valor que se indicó en la ventana de edición.
+
 ![](/imagenes/manualPraatFormantes09.png)
+
+Con ello, aparece un nuevo objeto en el panel de objetos de Praat.
 
 ![](/imagenes/manualPraatFormantes10.png)
