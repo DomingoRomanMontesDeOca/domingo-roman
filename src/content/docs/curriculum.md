@@ -48,7 +48,7 @@ ______
 ### Dirección y codirección de tesis de doctorado
 ______
 
-- 2026.\ Sociofonética en Los Andes. Caracterización del español atacameño, del Sr. Eduardo Llanquimán. Universidad Complutense de Madrid, España. Codirector. La tesis es dirigida por el Dr. Miguel Jiménez-Bravo.
+- 2026\. Sociofonética en Los Andes. Caracterización del español atacameño, del Sr. Eduardo Llanquimán. Universidad Complutense de Madrid, España. Codirector. La tesis es dirigida por el Dr. Miguel Jiménez-Bravo.
 
 - 2024\. *Interfaz fonética-sintaxis en el desarrollo de la codificación de la estructura de la información en narraciones de niños de Santiago de Chile entre 5 y 12 años*. Tesis realizada por la Sra. Valeria Cofré; Director: Dr. Carlos González, codirector: Dr. Domingo Román, P. Universidad Católica de Chile.
   
