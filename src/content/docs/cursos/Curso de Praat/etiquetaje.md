@@ -34,7 +34,7 @@ El formulario para señalar los nombres de los estratos aparece por defecto así
 
 ![Formulario para indicar los estratos](/imagenes/manualPraatEdicion21.png)
 
-El usuario debe poner los nombres que estime conveniente. Al separar por espacio los nombres se indica el número de estratos.
+El usuario debe poner los nombres que estime conveniente. Al estar separados por un espacio, se indica el número de estratos.
 
 ![Formulario con nombres de estratos](/imagenes/manualPraatEdicion22.png)
 
