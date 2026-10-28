@@ -85,7 +85,7 @@ Las variaciones de f0 en un enunciado se pueden representar de varias maneras. L
 
 Las representaciones en st son un avance. En estas, se suele tomar como referencia, 0 Hz, 100 Hz, 200 Hz, 440 Hz. Lo importante es tener un valor de referencia. La figura 6 muestra las variaciones en Hz y la representación en st en relación al promedio de una emisión que ha sido alterada manualmente usando la herramienta To Manipulation de Praat con la intención de que sean más evidentes los cambios tonales.
 
-![VAriación en st respecto del promedio](/imagenes/semitonos_respecto_del_promedio.png)
+![Variación en st respecto del promedio](/imagenes/semitonos_respecto_del_promedio.png)
 > Figura 6. Representación estilizada de la variación en st respecto del promedio.
 
 Como se puede apreciar en la figura 6, el punto de referencia 0, no corresponde al inicio de la emisión, sino al promedio en Hz, de ahí la no correspondencia, como sí ocurre en otras formas de graficar estos valores.
