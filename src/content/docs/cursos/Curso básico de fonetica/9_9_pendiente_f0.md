@@ -42,8 +42,14 @@ Siempre que las frecuencias se dupliquen, habrá 12 st (o una octava musical) de
 
 En los estudios fonéticos de la entonación hay varias categorías analíticas, ya consagradas, que tienen relevancia para las descripciones.
 
+## Estilización
+
+Sin duda, una de las posibilidades más interesantes para el investigador consiste en la simplificación de los valores de la curva de f0 a unos que no consideren variaciones microprosódicas, esto es, que no superen el umbral perceptivo ya sea de 1.5 st o de 2.0 st. La estilización da como resultado una curva en la que se puede apreciar perfectamente bien (aunque a veces requiere correcciones según el algoritmo que se utilice) los movimientos tonales más relevantes .
+
+La figura 1 muestra una curva estilizada automáticamente mediante la rutina de Praat (Boersma et al., 2026) Manipulation > Stylize pitch (2 st). Se muestra en gris la curva con valores de f0 sin estilizar y en línea roja segmentada la línea estilizada. Se presenta en un rango entre 0 Hz y 400 Hz.
 
 
+> Figura 1. Oscilograma y curvas de f0; en gris la curva no estilizada y, en rojo, la estilizada a 2 st. El enunciado corresponde a “Leen el libro los líderes del mundo”.
 
 
 
