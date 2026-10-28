@@ -18,6 +18,30 @@ Resumen
 
 Se revisan las principales propuestas para el análisis melódico del habla a partir de los valores acústicos de la frecuencia fundamental o f0. Se destaca la importancia de considerar mediciones significativas desde el punto de vista de la percepción, principalmente de los semitonos (st) como medida relacional entre alturas frecuenciales. Se propone, a partir de otros trabajos, incorporar la medición de la pendiente, definida como cantidad de semitonos entre dos puntos dividida por duración.
 
+## Introducción
+
+La frecuencia fundamental, o f0, se considera el parámetro acústico que es el correlato de la melodía percibida de la voz. Como se trata de un valor frecuencial, la unidad de medida son los Hz que representan bien el aspecto acústico desde el cual se puede inferir la actividad glotal. El correlato fisiológico de este parámetro de la prosodia es la velocidad a la que vibran los pliegues vocales. Esa velocidad se corresponde con el valor de la frecuencia fundamental.
+
+Cuando una vibración periódica alcanza un cierto número de Hz, entonces se produce la percepción del tono. Una vibración de 20 Hz no produce tono aunque sí tiene frecuencia fundamental (de 20 Hz, justamente) y solo podemos percibir los pulsos a una determinada distancia temporal. En cambio, una vibración periódica de 100 Hz tienen una frecuencia fundamental que produce percepción de tono. El tono es así una realidad estrictamente perceptiva, en tanto la frecuencia fundamental es parte de la dimensión acústica.
+
+Por supuesto, los sonidos sordos no tienen frecuencia fundamental ni pueden tener tono dado que son aperiódicas. De ahí la imposibilidad, por ejemplo, de entonar una melodía con una [f].
+
+Aproximaciones a las implicancias de los estudios entonacionales se pueden encontrar en el volumen 2 de la Fonética y fonología descriptivas de la lengua española de los editores Gil y Llisterri (2024). Destacan los trabajos de Garrido (2024) con un trabajo sobre la descripción fonética y un enfoque de carácter más fonológico, en Estebas Vilaplana (2024). Sosa (2024) revisa los estudios de variación; Dorta (2024) presenta un enfoque sobre relación con la pragmática. Elordieta y Romera (2024) exponen relaciones entre el discurso y la entonación e Hidalgo (2024) presenta, desde un punto de vista fonológico, una revisión de la relación entre entonación y conversación. Todos estos trabajos se encuentran en el mismo volumen mencionado.
+
+En este trabajo, se presenta una reflexión específica sobre las formas de abordar el estudio de la representación fonética de la curva entonacional.
+
+Como toda melodía, la entonación del habla es logarítmica, no lineal. Esto es, entre 100 Hz y 200 Hz hay una cierta diferencia perceptiva. Esa misma diferencia, si se parte de los 200 Hz se consigue con 400 Hz. Y si se parte de los 400 Hz, habrá que tener 800 Hz para lograr el mismo efecto perceptivo; y así sucesivamente. Debemos duplicar los Hz cada vez si queremos obtener esa misma diferencia en la percepción, en este caso, de una octava musical. Por esta misma razón, 100 Hz de diferencia entre dos frecuencias no tienen el mismo efecto melódico si se dan entre 100 y 200 o entre 2000 y 2100. En ambos casos la diferencia física es de 100 Hz pero el efecto melódico es muy diferente. En el primer caso, la diferencia perceptiva es de 12 st; en tanto, en el segundo, de solo 0.84 st. 
+
+En otras palabras, los Hz son la unidad de medida acústica pero la unidad de medida más adecuada para efectos de la percepción de la f0 son los semitonos entre dos frecuencias. Un st es una unidad perceptiva de variación de la f0 entre dos datos frecuenciales. Para el habla, se ha establecido que entre 1,5 st y 2 st como la mínima diferencia perceptible (Hart et al. 1990; Pamies et al. 2001). Bajo ese umbral, las diferencias (en el habla, no en la música) no son percibidas como diferentes.
+
+Si tomamos dos valores de frecuencia, podemos calcular la distancia en st entre ambos valores aplicando la fórmula
+
+12*log2(frecuencia1/frecuencia2)
+
+Siempre que las frecuencias se dupliquen, habrá 12 st (o una octava musical) de distancia. Por esta razón, en la parte baja de las frecuencias las diferencias perceptibles requieren menos Hz.
+
+En los estudios fonéticos de la entonación hay varias categorías analíticas, ya consagradas, que tienen relevancia para las descripciones.
+
 
 
 
