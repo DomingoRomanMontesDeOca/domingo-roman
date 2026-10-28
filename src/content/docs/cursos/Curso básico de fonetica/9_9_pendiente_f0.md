@@ -160,25 +160,49 @@ En tanto que que las categorías consagradas describen de forma óptima qué ca
 ## Referencias
 
 Boersma, P., Weenink, D., & Shchupak, A. (2026). Praat: Doing phonetics by computer (Versión 7.0.02) [Programa de ordenador]. https://praat.org
+
 Cantero Serena, F. J. (2002). Teoría y análisis de la entonación. Edicions de la Universitat de Barcelona.
+
 Colonna, V. (2022). Voices of Italian poets. Storia e analisi fonetica della lettura della poesia italiana del Novecento. Edizioni dell’Orso.
+
 Dorta, J. (Ed.). (2013). Investigación geoprosódica. AMPER: Análisis y retos. Iberoamericana Vervuert.
+
 Dorta, J. (Ed.). (2018). La prosodia de AMPER en España y América. Ediciones La Página.
+
 Dorta, J. (2024). Entonación y pragmática. En J. Gil & J. Llisterri (Eds.), Fonética y fonología descriptivas de la lengua española: Vol. 2. Nivel suprasegmental (pp. 1047–1076). Georgetown University Press.
+
 Elordieta, G., & Romera, M. (2024). Entonación y discurso. En J. Gil & J. Llisterri (Eds.), Fonética y fonología descriptivas de la lengua española: Vol. 2. Nivel suprasegmental (pp. 1077–1105). Georgetown University Press.
+
 Estebas Vilaplana, E. (2024). Descripción fonológica de la entonación. En J. Gil & J. Llisterri (Eds.), Fonética y fonología descriptivas de la lengua española: Vol. 2. Nivel suprasegmental (pp. 972–1016). Georgetown University Press.
+
 Fernández Planas, A. M. (2005). Aspectos generales acerca del proyecto internacional «AMPER» en España. Estudios de Fonética Experimental, 14, 15–27.
+
 Garrido, J. M. (2024). Descripción fonética de la entonación. En J. Gil & J. Llisterri (Eds.), Fonética y fonología descriptivas de la lengua española: Vol. 2. Nivel suprasegmental (pp. 955–971). Georgetown University Press.
+
 Hidalgo, A. (2024). Entonación y conversación. En J. Gil & J. Llisterri (Eds.), Fonética y fonología descriptivas de la lengua española: Vol. 2. Nivel suprasegmental (pp. 1106–1146). Georgetown University Press.
+
 Martínez Celdrán, E., & Fernández Planas, A. M. (2003). Taxonomía de las estructuras prosódicas del español peninsular en el proyecto AMPER. Lletres Asturianes, 82, 37–47.
+
 Navarro Tomás, T. (1944). Manual de entonación española. Hispanic Institute in the United States.
+
 Nooteboom, S. G. (1997). The prosody of speech: Melody and rhythm. En W. J. Hardcastle & J. Laver (Eds.), The handbook of phonetic sciences (pp. 640–673). Blackwell.
+
 OpenAI. (2026). ChatGPT [Modelo de lenguaje grande]. https://chatgpt.com/
+
 Pàmies Bertrán, A., Fernández Planas, A. M., Martínez Celdrán, E., Ortega Escandell, A., & Amorós Céspedes, M. C. (2002). Umbrales tonales en español peninsular. En J. Díaz García (Ed.), II Congreso Nacional de Fonética Experimental (pp. 272–278). Universidad de Sevilla.
+
 Román, D., Muñoz-Builes, D., Quezada, C., & Atria, J. J. (2020). Alcances y límites de un mapa prosódico. Onomázein, (49), 21–39. https://doi.org/10.7764/onomazein.49.02
+
 Sosa, J. M. (2024). La notación tonal del español en el modelo Sp-ToBI. En J. Gil & J. Llisterri (Eds.), Fonética y fonología descriptivas de la lengua española: Vol. 2. Nivel suprasegmental (pp. 1017–1046). Georgetown University Press.
+
 Swerts, M., Strangert, E., & Heldner, M. (1996). F0 declination in read-aloud and spontaneous speech. En Proceedings of the 4th International Conference on Spoken Language Processing (ICSLP 1996) (pp. 1501–1504). https://doi.org/10.21437/ICSLP.1996-387
+
 ’t Hart, J., Collier, R., & Cohen, A. (1990). A perceptual study of intonation: An experimental-phonetic approach to speech melody. Cambridge University Press.
+
+
+
+
+
 
 
 
