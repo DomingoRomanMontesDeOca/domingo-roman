@@ -159,7 +159,7 @@ Un acercamiento a la imagen anterior es la que se presenta en la figura 12:
 En este tonema, la diferencia en Hz entre inicio (177.95 Hz) y final (136.52) es de 41.4 Hz, los st entre ambos puntos es de 4.58 Hz y el tiempo entre ambos puntos es de 0.6 s. Con ello, la pendiente del tonema es de -7.62 st por segundo.
 
 
-## Conclusiones y proyecciones
+### Conclusiones y proyecciones
 
 A partir de la revisión de los métodos más usados en el análisis de la melodía, se plantea que el examen de la entonación se ha beneficiado a partir de relacionar los correlatos puramente acústicos con unidades con implicancias psicoacústicas. En la tabla 1 se sistematizan las dimensiones analizadas y la propuesta de la pendiente tonal.
 
@@ -167,7 +167,7 @@ A partir de la revisión de los métodos más usados en el análisis de la melod
 
 En tanto que que las categorías consagradas describen de forma óptima qué cambia y cuánto cambia a nivel perceptivo, la incorporación de la pendiente, ya sea en el enunciado, en el tonema o en algún punto que sea de interés, introduce formalmente la variable temporal dentro del análisis dinámico de la curva. Parametrizar la velocidad del cambio melódico permite formalizar mejor un aspecto de la investigación experimental; abre la puerta a mediciones que pueden ser útiles para el contraste sociolingüístico de dialectos, la caracterización de registros estilísticos o el estudio de las marcas de focalización en el español actual y en un campo que está comenzando a revitalizarse que es el estudio de la recitación poética (Veáse Colonna 2022).
 
-## Referencias
+### Referencias
 
 Boersma, P., Weenink, D., & Shchupak, A. (2026). Praat: Doing phonetics by computer (Versión 7.0.02) [Programa de ordenador]. https://praat.org
 
