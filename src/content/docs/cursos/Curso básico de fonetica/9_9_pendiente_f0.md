@@ -51,8 +51,9 @@ La figura 1 muestra una curva estilizada automáticamente mediante la rutina de 
 
 > Figura 1. Oscilograma y curvas de f0; en gris la curva no estilizada y, en rojo, la estilizada a 2 st. El enunciado corresponde a “Leen el libro los líderes del mundo”.
 
+Otra manera de estilizar es tomar los valores en Hz y la posición temporal de cada vocal. Esto se siguió en el proyecto AMPER (Dorta 2013, 2018; Fernández Planas 2005; Martínez Celdrán y Fernández Planas 2003) y también el Mapa prosódico de Chile (Román et al. 2020). Se debe tomar la decisión acerca de cuántos puntos por vocal se deben tomar. Por ejemplo, en el mencionado proyecto AMPER se tomaban tres puntos por vocal. La imagen de la figura 2 muestra la misma frase en la que se ha tomado un punto por vocal. En gris, la curva sin estilizar y los puntos azules corresponden a valores en el centro de la vocal. Aquí se muestra este procedimiento. Dado que se grafica con una escala menor en Hz (esta vez, de 0 Hz a casi 300 Hz), los movimientos tonales se notan más pronunciados.
 
-
+> Figura 2. Curva de f0 de la emisión “Leen el libro los líderes del mundo”. En gris la curva original y, en azul, los puntos centrales de las doce vocales.
 
 
 
