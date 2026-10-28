@@ -120,6 +120,7 @@ La fórmula para su cálculo es la siguiente:
 
 Lo que este valor señala es la velocidad del cambio tonal, aspecto que parece relevante para descripciones fonéticas de variado tipo, entre otras, las dialectales o las de registro.
 
+![Diferencia Hz](/imagenes/intro_distancia_pendiente_2.png)
 > Figura 8. Ejemplo de pendiente en un enunciado. Se muestran puntos de inicio y de fin del enunciado, la diferencia en st entre inicio y final, y la velocidad de la caída en st/s.
 
 En el ejemplo de la figura 8, el punto 1 se encuentra en la posición 0.1 con una frecuencia de 200 Hz y el punto final en la posición 0.9, con un valor en Hz de 90. Están a la distancia temporal de 0.8 segundo. La diferencia en Hz entre ambos puntos es de 110 Hz que en esas frecuencias es 13.82 st. El cálculo de la pendiente arroja el valor de -17.275 (13.82/(0.9-0.1). Se deben tomar los st con valor negativo cuando es descendente y positivo si es ascendente.
@@ -139,6 +140,7 @@ La pendiente de un enunciado da una información general sobre el mismo. Una pen
 
 Una variación positiva significa que hay un final más alto que el inicio (como puede suceder en el habla ascendente) y, a la inversa, una emisión con declinación típica tendrá variación negativa, es decir un final más bajo que el inicio.
 
+![Pendiente en un enunciado](/imagenes/pendiente_leen_el_libro_los_lideres.png)
 > Figura 10. Pendiente de -2.87 st/s en el enunciado “Leen el libro los líderes del mundo”.
 
 ### Pendiente del tonema
@@ -231,7 +233,7 @@ Esta, la diferencia entre dos tonos de 2000 y 2100 Hz:
 
 
 
-![Diferencia Hz](/imagenes/intro_distancia_pendiente_2.png)
+
 
 
 
