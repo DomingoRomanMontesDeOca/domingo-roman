@@ -150,14 +150,13 @@ El tonema se ha considerado como la variación tonal entre la última vocal de u
 
 Se debe aplicar la misma fórmula para el valor en Hz en el centro de la última vocal del grupo fónico y el último rastro de la f0 en el mismo grupo. Eso se representa en la figura 11.
 
+![Pendiente en el tonema](/imagenes/pendiente_leen_el_libro_los_lideres_tonema_01.png)
 > Figura 11. Curva de f0 en la que se ha destacado el tonema descendente.
 
 Un acercamiento a la imagen anterior es la que se presenta en la figura 12:
 
-Figura 11. Curva de f0 en la que se ha destacado el tonema descendente.
 
-Un acercamiento a la imagen anterior es la que se presenta en la figura 12:
-
+![Pendiente en el tonema](/imagenes/delmundo_tonema.png)
 > Figura 12. Acercamiento a la curva de F0 en el tonema de la misma señal de la figura 11.
 
 En este tonema, la diferencia en Hz entre inicio (177.95 Hz) y final (136.52) es de 41.4 Hz, los st entre ambos puntos es de 4.58 Hz y el tiempo entre ambos puntos es de 0.6 s. Con ello, la pendiente del tonema es de -7.62 st por segundo.
@@ -215,20 +214,15 @@ Swerts, M., Strangert, E., & Heldner, M. (1996). F0 declination in read-aloud an
 
 
 
+## Complemento
 
+En estos dos audios, la diferencia es de 100 Hz. Pero la percepción es muy desigual.
 
-
-
-
-
-######## Versión anterior
-
-
-Esta es la diferencia entre dos tonos de 100 Hz y 200 Hz:
+Escuche la diferencia entre dos tonos de 100 Hz y 200 Hz:
 
 <audio controls src="/sonidos/100_200.mp3"></audio>
 
-Esta, la diferencia entre dos tonos de 2000 y 2100 Hz:
+Escuche la diferencia entre dos tonos de 2000 y 2100 Hz:
 
 <audio controls src="/sonidos/2000_2100.mp3"></audio>
 
@@ -242,10 +236,9 @@ Esta, la diferencia entre dos tonos de 2000 y 2100 Hz:
 
 
 
-![Pendiente en el tonema](/imagenes/pendiente_leen_el_libro_los_lideres_tonema_01.png)
 
 
-![Pendiente en el tonema](/imagenes/delmundo_tonema.png)
+
 
 
 
