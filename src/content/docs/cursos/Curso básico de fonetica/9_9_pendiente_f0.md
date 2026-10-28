@@ -18,7 +18,7 @@ Resumen
 
 Se revisan las principales propuestas para el análisis melódico del habla a partir de los valores acústicos de la frecuencia fundamental o f0. Se destaca la importancia de considerar mediciones significativas desde el punto de vista de la percepción, principalmente de los semitonos (st) como medida relacional entre alturas frecuenciales. Se propone, a partir de otros trabajos, incorporar la medición de la pendiente, definida como cantidad de semitonos entre dos puntos dividida por duración.
 
-## Introducción
+### Introducción
 
 La frecuencia fundamental, o f0, se considera el parámetro acústico que es el correlato de la melodía percibida de la voz. Como se trata de un valor frecuencial, la unidad de medida son los Hz que representan bien el aspecto acústico desde el cual se puede inferir la actividad glotal. El correlato fisiológico de este parámetro de la prosodia es la velocidad a la que vibran los pliegues vocales. Esa velocidad se corresponde con el valor de la frecuencia fundamental.
 
@@ -42,7 +42,7 @@ Siempre que las frecuencias se dupliquen, habrá 12 st (o una octava musical) de
 
 En los estudios fonéticos de la entonación hay varias categorías analíticas, ya consagradas, que tienen relevancia para las descripciones.
 
-## Estilización
+### Estilización
 
 Sin duda, una de las posibilidades más interesantes para el investigador consiste en la simplificación de los valores de la curva de f0 a unos que no consideren variaciones microprosódicas, esto es, que no superen el umbral perceptivo ya sea de 1.5 st o de 2.0 st. La estilización da como resultado una curva en la que se puede apreciar perfectamente bien (aunque a veces requiere correcciones según el algoritmo que se utilice) los movimientos tonales más relevantes .
 
@@ -63,41 +63,24 @@ Como se puede observar, las diferencias entre los tres métodos producen unas cu
 
 Francisco Cantero (2002) propone estilizar a partir de porcentajes, lo que funciona muy bien cuando los valores ascienden. Sin embargo, cuando se trata de descensos, se presenta una dificultad. Si de 100 se asciende a 200, se aumenta un 100 % pero si se desciende de 200 a 100, solo se experimenta una baja del 50 %, lo que es descriptivamente problemático.
 
-## Campo tonal y registro
+### Campo tonal y registro
 
 El valor mínimo y el valor máximo en Hz se pueden entender como una diferencia en st que corresponde al rango tonal o el campo entonacional en que se mueve un hablante. Cuando se refieren estos valores en Hz, se habla más bien de tesitura o, a veces, de registro. La tesitura admite una clasificación de altura tonal (alta, baja, etc.).
 
 > Figura 4. Curva de f0 en la que se indican los valores máximos y mínimos del enunciado “Leen el libro los líderes del mundo”.
 
-## Declinación
+### Declinación
 
 Desde el punto de partida de una emisión hacia el final hay un movimiento que en general, para expresiones declarativas, es descendente. Tanto los mínimos como los máximos descienden a lo largo del enunciado y, con ello, la línea media de la f0. La imagen siguiente muestra este fenómeno.
 
 > Figura 5. Contorno de frecuencia fundamental de un enunciado en inglés británico: curva de tono medida, estilización close-copy, líneas de declinación y estilización estandarizada. Tomada de Nooteboom (1997, fig. 3). Disponible en ResearchGate: https://www.researchgate.net/figure/Measured-course-of-pitch-dotted-line-close-copy-stylization-interrupted-line-a-grid_fig3_46675980. Imagen original con ajustes de nitidez y contraste realizados con ChatGPT (OpenAI, 2026).
 
-## Representación melódica
+### Representación melódica
 
 Las variaciones de f0 en un enunciado se pueden representar de varias maneras. La más evidente, y el punto de partida, es siempre la lista de valores en Hz a través del tiempo. Si embargo, como se ha señalado, tiene la deficiencia de la falta de realismo perceptivo sobre todo en aquellos casos en que se comparan tesituras diferentes.
 Las representaciones en st son un avance. En estas, se suele tomar como referencia, 0 Hz, 100 Hz, 200 Hz, 440 Hz. Lo importante es tener un valor de referencia. La figura 6 muestra las variaciones en Hz y la representación en st en relación al promedio de una emisión que ha sido alterada manualmente usando la herramienta To Manipulation de Praat con la intención de que sean más evidentes los cambios tonales.
 
 
-## Declinación
-
-Desde el punto de partida de una emisión hacia el final hay un movimiento que en general, para expresiones declarativas, es descendente. Tanto los mínimos como los máximos descienden a lo largo del enunciado y, con ello, la línea media de la f0. La imagen siguiente muestra este fenómeno.
-
-> Figura 5. Contorno de frecuencia fundamental de un enunciado en inglés británico: curva de tono medida, estilización close-copy, líneas de declinación y estilización estandarizada. Tomada de Nooteboom (1997, fig. 3). Disponible en ResearchGate: https://www.researchgate.net/figure/Measured-course-of-pitch-dotted-line-close-copy-stylization-interrupted-line-a-grid_fig3_46675980. Imagen original con ajustes de nitidez y contraste realizados con ChatGPT (OpenAI, 2026).
-
-
-## Representación melódica
-
-Las variaciones de f0 en un enunciado se pueden representar de varias maneras. La más evidente, y el punto de partida, es siempre la lista de valores en Hz a través del tiempo. Si embargo, como se ha señalado, tiene la deficiencia de la falta de realismo perceptivo sobre todo en aquellos casos en que se comparan tesituras diferentes.
-Las representaciones en st son un avance. En estas, se suele tomar como referencia, 0 Hz, 100 Hz, 200 Hz, 440 Hz. Lo importante es tener un valor de referencia. La figura 6 muestra las variaciones en Hz y la representación en st en relación al promedio de una emisión que ha sido alterada manualmente usando la herramienta To Manipulation de Praat con la intención de que sean más evidentes los cambios tonales.
-
-> Figura 6. Representación estilizada de la variación en st respecto del promedio. 
-
-Como se puede apreciar en la figura 6, el punto de referencia 0, no corresponde al inicio de la emisión, sino al promedio en Hz, de ahí la no correspondencia, como sí ocurre en otras formas de graficar estos valores.
-
-Un paso interesante es representar las diferencias en st entre los distintos puntos considerados. Esto se debe hacer en dos pasos. Primero, obtener la variación en st entre los valores contiguos en Hz, considerando el primer valor como el punto de partida. Luego se deben obtener los valores acumulados de st, al sumar el valor de la columna st acumulados, cuyo primer valor es 0 al valor de la fila siguiente de la columna st. 
 
 	Hz	st	st acumulados
 		162.795	0	0
@@ -112,7 +95,9 @@ La figura 7 muestra las variaciones en st acumulados (arriba) y la representaci�
 
 > Figura 7. Representación de dos cambios idénticos desde el punto de vista de la percepción (arriba) correspondientes a variaciones en Hz muy diferentes (abajo).
 
-## Propuesta: la pendiente
+En la parte inferior de la figura 7, se observa que en entre los puntos a y a’ el ascenso en Hz es muchísimo mayor que el que existe entre b y b’. En efecto, la diferencia entre ambos casos de el doble de Hz. No obstante, al observar el gráfico en st, en la parte de arriba de la misma figura, se nota que esas dos distancias son iguales desde el punto de vista de la percepción.
+
+###  Propuesta: la pendiente
 
 La presente propuesta se basa en el dato de que dos emisiones pueden tener la misma diferencia en st, por ejemplo, en el tonema, pero en la percepción influye también la duración del tonema. Así, es posible que existan diferencias en cuanto a pendientes más o menos pronunciadas; lo mismo es válido para la comparación entre inicio y final del enunciado completo y, eventualmente, otros momentos del enunciado con una marca prosódica, como puede ser el caso de, por ejemplo, la focalización. Todo esto, en lo sustancial, es una aplicación de lo ya señalado por Hart et al. (1990).
 
