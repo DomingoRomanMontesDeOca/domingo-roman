@@ -12,7 +12,7 @@ sidebar:
 Este artículo ha sido aceptado para su publicación en el volumen 36 (1) 2026 de *Logos: Revista de Lingüística, Literatura y Filosofía*.
 Autores: Domingo Román Montes de Oca y Nicolás Flores Navarro
 
-### Elementos para el análisis de percepción de la melodía de la voz
+# Elementos para el análisis de percepción de la melodía de la voz
 
 Resumen
 
@@ -137,16 +137,63 @@ Como se puede observar en la figura 9, la pendiente es de 31.72 st/s en descenso
 Es decisión del investigador en qué unidad prosódica se aplica la medición de esta categoría. Una posibilidad con ventajas para la automatización de resultados es la detección programada computacionalmente del primer y último valor de f0. Otra posibilidad es tomar valores en la primera y última vocal (dado que son los elementos principales en términos de información prosódica); o en la primera vocal y el último rastro de la f0, que puede recaer eventualmente en una consonante sonora.
 
 
-# Pendiente de un enunciado
+### Pendiente de un enunciado
 
 La pendiente de un enunciado da una información general sobre el mismo. Una pendiente de valor 0 muestra nula diferencia entre valor inicial y valor final.
 
 Una variación positiva significa que hay un final más alto que el inicio (como puede suceder en el habla ascendente) y, a la inversa, una emisión con declinación típica tendrá variación negativa, es decir un final más bajo que el inicio.
 
+> Figura 10. Pendiente de -2.87 st/s en el enunciado “Leen el libro los líderes del mundo”.
+
+### Pendiente del tonema
+
+El tonema se ha considerado como la variación tonal entre la última vocal de un grupo fónico (Navarro 1944) y el final del mismo. La pendiente del tonema puede ser especialmente relevante para distinguir modalidades dialectales o de registro.
+
+Se debe aplicar la misma fórmula para el valor en Hz en el centro de la última vocal del grupo fónico y el último rastro de la f0 en el mismo grupo. Eso se representa en la figura 11.
+
+> Figura 11. Curva de f0 en la que se ha destacado el tonema descendente.
+
+Un acercamiento a la imagen anterior es la que se presenta en la figura 12:
+
+Figura 11. Curva de f0 en la que se ha destacado el tonema descendente.
+
+Un acercamiento a la imagen anterior es la que se presenta en la figura 12:
+
+> Figura 12. Acercamiento a la curva de F0 en el tonema de la misma señal de la figura 11.
+
+En este tonema, la diferencia en Hz entre inicio (177.95 Hz) y final (136.52) es de 41.4 Hz, los st entre ambos puntos es de 4.58 Hz y el tiempo entre ambos puntos es de 0.6 s. Con ello, la pendiente del tonema es de -7.62 st por segundo.
 
 
+## Conclusiones y proyecciones
 
+A partir de la revisión de los métodos más usados en el análisis de la melodía, se plantea que el examen de la entonación se ha beneficiado a partir de relacionar los correlatos puramente acústicos con unidades con implicancias psicoacústicas. En la tabla 1 se sistematizan las dimensiones analizadas y la propuesta de la pendiente tonal.
 
+> Tabla 1. Aspectos prosódicos asociados a la melodía del habla
+
+En tanto que que las categorías consagradas describen de forma óptima qué cambia y cuánto cambia a nivel perceptivo, la incorporación de la pendiente, ya sea en el enunciado, en el tonema o en algún punto que sea de interés, introduce formalmente la variable temporal dentro del análisis dinámico de la curva. Parametrizar la velocidad del cambio melódico permite formalizar mejor un aspecto de la investigación experimental; abre la puerta a mediciones que pueden ser útiles para el contraste sociolingüístico de dialectos, la caracterización de registros estilísticos o el estudio de las marcas de focalización en el español actual y en un campo que está comenzando a revitalizarse que es el estudio de la recitación poética (Veáse Colonna 2022).
+
+## Referencias
+
+Boersma, P., Weenink, D., & Shchupak, A. (2026). Praat: Doing phonetics by computer (Versión 7.0.02) [Programa de ordenador]. https://praat.org
+Cantero Serena, F. J. (2002). Teoría y análisis de la entonación. Edicions de la Universitat de Barcelona.
+Colonna, V. (2022). Voices of Italian poets. Storia e analisi fonetica della lettura della poesia italiana del Novecento. Edizioni dell’Orso.
+Dorta, J. (Ed.). (2013). Investigación geoprosódica. AMPER: Análisis y retos. Iberoamericana Vervuert.
+Dorta, J. (Ed.). (2018). La prosodia de AMPER en España y América. Ediciones La Página.
+Dorta, J. (2024). Entonación y pragmática. En J. Gil & J. Llisterri (Eds.), Fonética y fonología descriptivas de la lengua española: Vol. 2. Nivel suprasegmental (pp. 1047–1076). Georgetown University Press.
+Elordieta, G., & Romera, M. (2024). Entonación y discurso. En J. Gil & J. Llisterri (Eds.), Fonética y fonología descriptivas de la lengua española: Vol. 2. Nivel suprasegmental (pp. 1077–1105). Georgetown University Press.
+Estebas Vilaplana, E. (2024). Descripción fonológica de la entonación. En J. Gil & J. Llisterri (Eds.), Fonética y fonología descriptivas de la lengua española: Vol. 2. Nivel suprasegmental (pp. 972–1016). Georgetown University Press.
+Fernández Planas, A. M. (2005). Aspectos generales acerca del proyecto internacional «AMPER» en España. Estudios de Fonética Experimental, 14, 15–27.
+Garrido, J. M. (2024). Descripción fonética de la entonación. En J. Gil & J. Llisterri (Eds.), Fonética y fonología descriptivas de la lengua española: Vol. 2. Nivel suprasegmental (pp. 955–971). Georgetown University Press.
+Hidalgo, A. (2024). Entonación y conversación. En J. Gil & J. Llisterri (Eds.), Fonética y fonología descriptivas de la lengua española: Vol. 2. Nivel suprasegmental (pp. 1106–1146). Georgetown University Press.
+Martínez Celdrán, E., & Fernández Planas, A. M. (2003). Taxonomía de las estructuras prosódicas del español peninsular en el proyecto AMPER. Lletres Asturianes, 82, 37–47.
+Navarro Tomás, T. (1944). Manual de entonación española. Hispanic Institute in the United States.
+Nooteboom, S. G. (1997). The prosody of speech: Melody and rhythm. En W. J. Hardcastle & J. Laver (Eds.), The handbook of phonetic sciences (pp. 640–673). Blackwell.
+OpenAI. (2026). ChatGPT [Modelo de lenguaje grande]. https://chatgpt.com/
+Pàmies Bertrán, A., Fernández Planas, A. M., Martínez Celdrán, E., Ortega Escandell, A., & Amorós Céspedes, M. C. (2002). Umbrales tonales en español peninsular. En J. Díaz García (Ed.), II Congreso Nacional de Fonética Experimental (pp. 272–278). Universidad de Sevilla.
+Román, D., Muñoz-Builes, D., Quezada, C., & Atria, J. J. (2020). Alcances y límites de un mapa prosódico. Onomázein, (49), 21–39. https://doi.org/10.7764/onomazein.49.02
+Sosa, J. M. (2024). La notación tonal del español en el modelo Sp-ToBI. En J. Gil & J. Llisterri (Eds.), Fonética y fonología descriptivas de la lengua española: Vol. 2. Nivel suprasegmental (pp. 1017–1046). Georgetown University Press.
+Swerts, M., Strangert, E., & Heldner, M. (1996). F0 declination in read-aloud and spontaneous speech. En Proceedings of the 4th International Conference on Spoken Language Processing (ICSLP 1996) (pp. 1501–1504). https://doi.org/10.21437/ICSLP.1996-387
+’t Hart, J., Collier, R., & Cohen, A. (1990). A perceptual study of intonation: An experimental-phonetic approach to speech melody. Cambridge University Press.
 
 
 
