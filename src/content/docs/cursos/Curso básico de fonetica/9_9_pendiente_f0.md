@@ -215,6 +215,7 @@ Swerts, M., Strangert, E., & Heldner, M. (1996). F0 declination in read-aloud an
 
 
 ## Complemento
+### Por razones de formato, esta sección solo se presenta en web.
 
 En estos dos audios, la diferencia es de 100 Hz. Pero la percepción es muy desigual.
 
@@ -225,16 +226,6 @@ Escuche la diferencia entre dos tonos de 100 Hz y 200 Hz:
 Escuche la diferencia entre dos tonos de 2000 y 2100 Hz:
 
 <audio controls src="/sonidos/2000_2100.mp3"></audio>
-
-
-
-
-
-
-
-![Pendiente en un enunciado](/imagenes/pendiente_leen_el_libro_los_lideres.png)
-
-
 
 
 
