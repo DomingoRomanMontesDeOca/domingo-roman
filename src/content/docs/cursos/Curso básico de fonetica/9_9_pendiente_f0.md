@@ -14,11 +14,32 @@ Autores: Domingo Román Montes de Oca y Nicolás Flores Navarro
 
 ### Elementos para el análisis de percepción de la melodía de la voz
 
+Resumen
+
+Se revisan las principales propuestas para el análisis melódico del habla a partir de los valores acústicos de la frecuencia fundamental o f0. Se destaca la importancia de considerar mediciones significativas desde el punto de vista de la percepción, principalmente de los semitonos (st) como medida relacional entre alturas frecuenciales. Se propone, a partir de otros trabajos, incorporar la medición de la pendiente, definida como cantidad de semitonos entre dos puntos dividida por duración.
 
 
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+######## Versión anterior
 La frecuencia fundamental se considera el parámetro acústico correlato de la melodía percibida de la voz y de la actividad de los pliegues vocales. Como se trata de un valor frecuencial, la unidad de medida son los Hz que representan bien el aspecto acústico que, a su vez, se corresponde con la actividad glotal. En otras palabras, los pliegues vocales vibran a una velocidad que se observa en los ciclos de la señal periódica cuya frecuencia corresponde al valor de la frecuencia fundamental.
 
 Cuando una vibración periódica alcanza un cierto número de Hz, entonces se produce la percepción del tono. Una vibración de 20 Hz no produce tono aunque sí tiene frecuencia fundamental (de 20 Hz, justamente). Una vibración periódica de 100 Hz tienen una frecuencia fundamental que produce percepción de tono. El tono es así una realidad perceptiva en tanto la frecuencia fundamental es parte de la realidad física acústica. 
