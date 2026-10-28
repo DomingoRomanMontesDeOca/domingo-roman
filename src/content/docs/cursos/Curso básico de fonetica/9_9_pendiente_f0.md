@@ -32,7 +32,7 @@ En este trabajo, se presenta una reflexión específica sobre las formas de abor
 
 Como toda melodía, la entonación del habla es logarítmica, no lineal. Esto es, entre 100 Hz y 200 Hz hay una cierta diferencia perceptiva. Esa misma diferencia, si se parte de los 200 Hz se consigue con 400 Hz. Y si se parte de los 400 Hz, habrá que tener 800 Hz para lograr el mismo efecto perceptivo; y así sucesivamente. Debemos duplicar los Hz cada vez si queremos obtener esa misma diferencia en la percepción, en este caso, de una octava musical. Por esta misma razón, 100 Hz de diferencia entre dos frecuencias no tienen el mismo efecto melódico si se dan entre 100 y 200 o entre 2000 y 2100. En ambos casos la diferencia física es de 100 Hz pero el efecto melódico es muy diferente. En el primer caso, la diferencia perceptiva es de 12 st; en tanto, en el segundo, de solo 0.84 st. 
 
-En otras palabras, los Hz son la unidad de medida acústica pero la unidad de medida más adecuada para efectos de la percepción de la f0 son los semitonos entre dos frecuencias. Un st es una unidad perceptiva de variación de la f0 entre dos datos frecuenciales. Para el habla, se ha establecido que entre 1,5 st y 2 st como la mínima diferencia perceptible (Hart et al. 1990; Pamies et al. 2001). Bajo ese umbral, las diferencias (en el habla, no en la música) no son percibidas como diferentes.
+En otras palabras, los Hz son la unidad de medida acústica pero la unidad de medida más adecuada para efectos de la percepción de la f0 son los semitonos entre dos frecuencias. Un st es una unidad perceptiva de variación de la f0 entre dos datos frecuenciales. Para el habla, se ha establecido que entre 1,5 st y 2 st como la mínima diferencia perceptible (Hart *et al*. 1990; Pamies *et al*. 2001). Bajo ese umbral, las diferencias (en el habla, no en la música) no son percibidas como diferentes.
 
 Si tomamos dos valores de frecuencia, podemos calcular la distancia en st entre ambos valores aplicando la fórmula
 
@@ -46,12 +46,12 @@ En los estudios fonéticos de la entonación hay varias categorías analíticas,
 
 Sin duda, una de las posibilidades más interesantes para el investigador consiste en la simplificación de los valores de la curva de f0 a unos que no consideren variaciones microprosódicas, esto es, que no superen el umbral perceptivo ya sea de 1.5 st o de 2.0 st. La estilización da como resultado una curva en la que se puede apreciar perfectamente bien (aunque a veces requiere correcciones según el algoritmo que se utilice) los movimientos tonales más relevantes .
 
-La figura 1 muestra una curva estilizada automáticamente mediante la rutina de Praat (Boersma et al., 2026) Manipulation > Stylize pitch (2 st). Se muestra en gris la curva con valores de f0 sin estilizar y en línea roja segmentada la línea estilizada. Se presenta en un rango entre 0 Hz y 400 Hz.
+La figura 1 muestra una curva estilizada automáticamente mediante la rutina de Praat (Boersma *et al*., 2026) Manipulation > Stylize pitch (2 st). Se muestra en gris la curva con valores de f0 sin estilizar y en línea roja segmentada la línea estilizada. Se presenta en un rango entre 0 Hz y 400 Hz.
 
 ![Curva de f0 natural y estilizada](/imagenes/estilizada_leenellibroloslideres.png)
 > Figura 1. Oscilograma y curvas de f0; en gris la curva no estilizada y, en rojo, la estilizada a 2 st. El enunciado corresponde a “Leen el libro los líderes del mundo”.
 
-Otra manera de estilizar es tomar los valores en Hz y la posición temporal de cada vocal. Esto se siguió en el proyecto AMPER (Dorta 2013, 2018; Fernández Planas 2005; Martínez Celdrán y Fernández Planas 2003) y también el Mapa prosódico de Chile (Román et al. 2020). Se debe tomar la decisión acerca de cuántos puntos por vocal se deben tomar. Por ejemplo, en el mencionado proyecto AMPER se tomaban tres puntos por vocal. La imagen de la figura 2 muestra la misma frase en la que se ha tomado un punto por vocal. En gris, la curva sin estilizar y los puntos azules corresponden a valores en el centro de la vocal. Aquí se muestra este procedimiento. Dado que se grafica con una escala menor en Hz (esta vez, de 0 Hz a casi 300 Hz), los movimientos tonales se notan más pronunciados.
+Otra manera de estilizar es tomar los valores en Hz y la posición temporal de cada vocal. Esto se siguió en el proyecto AMPER (Dorta 2013, 2018; Fernández Planas 2005; Martínez Celdrán y Fernández Planas 2003) y también el Mapa prosódico de Chile (Román *et al*. 2020). Se debe tomar la decisión acerca de cuántos puntos por vocal se deben tomar. Por ejemplo, en el mencionado proyecto AMPER se tomaban tres puntos por vocal. La imagen de la figura 2 muestra la misma frase en la que se ha tomado un punto por vocal. En gris, la curva sin estilizar y los puntos azules corresponden a valores en el centro de la vocal. Aquí se muestra este procedimiento. Dado que se grafica con una escala menor en Hz (esta vez, de 0 Hz a casi 300 Hz), los movimientos tonales se notan más pronunciados.
 
 ![Estilización por vocales](/imagenes/estilizada_por_vocales_leenellibroloslideres.png)
 > Figura 2. Curva de f0 de la emisión “Leen el libro los líderes del mundo”. En gris la curva original y, en azul, los puntos centrales de las doce vocales.
@@ -110,7 +110,7 @@ En la parte inferior de la figura 7, se observa que en entre los puntos a y a’
 
 ###  Propuesta: la pendiente
 
-La presente propuesta se basa en el dato de que dos emisiones pueden tener la misma diferencia en st, por ejemplo, en el tonema, pero en la percepción influye también la duración del tonema. Así, es posible que existan diferencias en cuanto a pendientes más o menos pronunciadas; lo mismo es válido para la comparación entre inicio y final del enunciado completo y, eventualmente, otros momentos del enunciado con una marca prosódica, como puede ser el caso de, por ejemplo, la focalización. Todo esto, en lo sustancial, es una aplicación de lo ya señalado por Hart et al. (1990).
+La presente propuesta se basa en el dato de que dos emisiones pueden tener la misma diferencia en st, por ejemplo, en el tonema, pero en la percepción influye también la duración del tonema. Así, es posible que existan diferencias en cuanto a pendientes más o menos pronunciadas; lo mismo es válido para la comparación entre inicio y final del enunciado completo y, eventualmente, otros momentos del enunciado con una marca prosódica, como puede ser el caso de, por ejemplo, la focalización. Todo esto, en lo sustancial, es una aplicación de lo ya señalado por Hart *et al*. (1990).
 
 El procedimiento para el análisis es tomar dos puntos relevantes del enunciado, por ejemplo, inicio y fin del enunciado, y obtener la duración entre esos puntos y la diferencia en st entre ellos. Se entenderá como pendiente el número de semitonos que desciende (pendiente negativa) o asciende (pendiente positiva) por segundo.
 
@@ -165,6 +165,17 @@ En este tonema, la diferencia en Hz entre inicio (177.95 Hz) y final (136.52) es
 ### Conclusiones y proyecciones
 
 A partir de la revisión de los métodos más usados en el análisis de la melodía, se plantea que el examen de la entonación se ha beneficiado a partir de relacionar los correlatos puramente acústicos con unidades con implicancias psicoacústicas. En la tabla 1 se sistematizan las dimensiones analizadas y la propuesta de la pendiente tonal.
+
+
+| Dimensión Prosódica | Unidades de medida (Física)                | Unidades de medida (Perceptual)    | Aplicación                                            |
+| ------------------- | ------------------------------------------ | ---------------------------------- | ----------------------------------------------------- |
+| Entonación          | Hz                                         | Semitonos (st)                     | Identificación de umbrales tonales en el habla        |
+| Campo Tonal         | Límites en Hz                              | Rango en semitonos (st)            | Caracterización del registro o extensión del hablante |
+| Tesitura            | Altura en Hz                               | Tono de la voz                     | Caracterización de altura de las voces                |
+| Declinación         | Caída física de f0                         | Inflexión tonal a lo largo del eje | Estructuración pragmática de enunciados               |
+| Pendiente           | Diferencia en Hz entre dos puntos / tiempo | Semitonos por segundo (st/s)       | Dinámica del cambio de tono entre dos puntos          |
+
+
 
 > Tabla 1. Aspectos prosódicos asociados a la melodía del habla
 
