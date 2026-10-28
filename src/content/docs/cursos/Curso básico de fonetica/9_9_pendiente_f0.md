@@ -103,6 +103,7 @@ Al construir el gráfico de los semitonos acumulados, se obtiene una curva meló
 
 La figura 7 muestra las variaciones en st acumulados (arriba) y la representación en Hz (abajo):
 
+![Diferencia Hz](/imagenes/ist_vs_hz_comparacion.png)
 > Figura 7. Representación de dos cambios idénticos desde el punto de vista de la percepción (arriba) correspondientes a variaciones en Hz muy diferentes (abajo).
 
 En la parte inferior de la figura 7, se observa que en entre los puntos a y a’ el ascenso en Hz es muchísimo mayor que el que existe entre b y b’. En efecto, la diferencia entre ambos casos de el doble de Hz. No obstante, al observar el gráfico en st, en la parte de arriba de la misma figura, se nota que esas dos distancias son iguales desde el punto de vista de la percepción.
