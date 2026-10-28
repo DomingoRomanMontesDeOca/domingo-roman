@@ -55,12 +55,93 @@ Otra manera de estilizar es tomar los valores en Hz y la posición temporal de c
 
 > Figura 2. Curva de f0 de la emisión “Leen el libro los líderes del mundo”. En gris la curva original y, en azul, los puntos centrales de las doce vocales.
 
+El gráfico de la figura 3 muestra la curva original en gris. Sobre ella, la que se construye a partir de los valores de las vocales con puntos azules y la estilización automatizada, en verde y con línea segmentada.
+
+> Figura 3. Curva de f0 original en gris de la emisión “Leen el libro los líderes del mundo”. Con puntos azules los valores de los centros vocálicos y en verde la estilización automática a 2 st.
+
+Como se puede observar, las diferencias entre los tres métodos producen unas curvas que representan bien los principales movimientos frecuenciales.
+
+Francisco Cantero (2002) propone estilizar a partir de porcentajes, lo que funciona muy bien cuando los valores ascienden. Sin embargo, cuando se trata de descensos, se presenta una dificultad. Si de 100 se asciende a 200, se aumenta un 100 % pero si se desciende de 200 a 100, solo se experimenta una baja del 50 %, lo que es descriptivamente problemático.
+
+## Campo tonal y registro
+
+El valor mínimo y el valor máximo en Hz se pueden entender como una diferencia en st que corresponde al rango tonal o el campo entonacional en que se mueve un hablante. Cuando se refieren estos valores en Hz, se habla más bien de tesitura o, a veces, de registro. La tesitura admite una clasificación de altura tonal (alta, baja, etc.).
+
+> Figura 4. Curva de f0 en la que se indican los valores máximos y mínimos del enunciado “Leen el libro los líderes del mundo”.
+
+## Declinación
+
+Desde el punto de partida de una emisión hacia el final hay un movimiento que en general, para expresiones declarativas, es descendente. Tanto los mínimos como los máximos descienden a lo largo del enunciado y, con ello, la línea media de la f0. La imagen siguiente muestra este fenómeno.
+
+> Figura 5. Contorno de frecuencia fundamental de un enunciado en inglés británico: curva de tono medida, estilización close-copy, líneas de declinación y estilización estandarizada. Tomada de Nooteboom (1997, fig. 3). Disponible en ResearchGate: https://www.researchgate.net/figure/Measured-course-of-pitch-dotted-line-close-copy-stylization-interrupted-line-a-grid_fig3_46675980. Imagen original con ajustes de nitidez y contraste realizados con ChatGPT (OpenAI, 2026).
+
+## Representación melódica
+
+Las variaciones de f0 en un enunciado se pueden representar de varias maneras. La más evidente, y el punto de partida, es siempre la lista de valores en Hz a través del tiempo. Si embargo, como se ha señalado, tiene la deficiencia de la falta de realismo perceptivo sobre todo en aquellos casos en que se comparan tesituras diferentes.
+Las representaciones en st son un avance. En estas, se suele tomar como referencia, 0 Hz, 100 Hz, 200 Hz, 440 Hz. Lo importante es tener un valor de referencia. La figura 6 muestra las variaciones en Hz y la representación en st en relación al promedio de una emisión que ha sido alterada manualmente usando la herramienta To Manipulation de Praat con la intención de que sean más evidentes los cambios tonales.
 
 
+## Declinación
+
+Desde el punto de partida de una emisión hacia el final hay un movimiento que en general, para expresiones declarativas, es descendente. Tanto los mínimos como los máximos descienden a lo largo del enunciado y, con ello, la línea media de la f0. La imagen siguiente muestra este fenómeno.
+
+> Figura 5. Contorno de frecuencia fundamental de un enunciado en inglés británico: curva de tono medida, estilización close-copy, líneas de declinación y estilización estandarizada. Tomada de Nooteboom (1997, fig. 3). Disponible en ResearchGate: https://www.researchgate.net/figure/Measured-course-of-pitch-dotted-line-close-copy-stylization-interrupted-line-a-grid_fig3_46675980. Imagen original con ajustes de nitidez y contraste realizados con ChatGPT (OpenAI, 2026).
 
 
+## Representación melódica
+
+Las variaciones de f0 en un enunciado se pueden representar de varias maneras. La más evidente, y el punto de partida, es siempre la lista de valores en Hz a través del tiempo. Si embargo, como se ha señalado, tiene la deficiencia de la falta de realismo perceptivo sobre todo en aquellos casos en que se comparan tesituras diferentes.
+Las representaciones en st son un avance. En estas, se suele tomar como referencia, 0 Hz, 100 Hz, 200 Hz, 440 Hz. Lo importante es tener un valor de referencia. La figura 6 muestra las variaciones en Hz y la representación en st en relación al promedio de una emisión que ha sido alterada manualmente usando la herramienta To Manipulation de Praat con la intención de que sean más evidentes los cambios tonales.
+
+> Figura 6. Representación estilizada de la variación en st respecto del promedio. 
+
+Como se puede apreciar en la figura 6, el punto de referencia 0, no corresponde al inicio de la emisión, sino al promedio en Hz, de ahí la no correspondencia, como sí ocurre en otras formas de graficar estos valores.
+
+Un paso interesante es representar las diferencias en st entre los distintos puntos considerados. Esto se debe hacer en dos pasos. Primero, obtener la variación en st entre los valores contiguos en Hz, considerando el primer valor como el punto de partida. Luego se deben obtener los valores acumulados de st, al sumar el valor de la columna st acumulados, cuyo primer valor es 0 al valor de la fila siguiente de la columna st. 
+
+	Hz	st	st acumulados
+		162.795	0	0
+		200.894	3.64	3.640
+		196.732	-0.362	3.278
+		235.682	3.127	6.405
+etc.
+
+Al construir el gráfico de los semitonos acumulados, se obtiene una curva melódica realista, como todas las que lo hacen tomando esta unidad de medida perceptiva. Una ventaja interesante es que se puede superponer a la curva en Hz pues los st tienen el punto 0 en el primer valor en Hz.
+
+La figura 7 muestra las variaciones en st acumulados (arriba) y la representación en Hz (abajo):
+
+> Figura 7. Representación de dos cambios idénticos desde el punto de vista de la percepción (arriba) correspondientes a variaciones en Hz muy diferentes (abajo).
+
+## Propuesta: la pendiente
+
+La presente propuesta se basa en el dato de que dos emisiones pueden tener la misma diferencia en st, por ejemplo, en el tonema, pero en la percepción influye también la duración del tonema. Así, es posible que existan diferencias en cuanto a pendientes más o menos pronunciadas; lo mismo es válido para la comparación entre inicio y final del enunciado completo y, eventualmente, otros momentos del enunciado con una marca prosódica, como puede ser el caso de, por ejemplo, la focalización. Todo esto, en lo sustancial, es una aplicación de lo ya señalado por Hart et al. (1990).
+
+El procedimiento para el análisis es tomar dos puntos relevantes del enunciado, por ejemplo, inicio y fin del enunciado, y obtener la duración entre esos puntos y la diferencia en st entre ellos. Se entenderá como pendiente el número de semitonos que desciende (pendiente negativa) o asciende (pendiente positiva) por segundo.
+
+La fórmula para su cálculo es la siguiente:
+
+pendiente = diferencia en st entre dos puntos / tiempo entre los dos puntos
+
+Lo que este valor señala es la velocidad del cambio tonal, aspecto que parece relevante para descripciones fonéticas de variado tipo, entre otras, las dialectales o las de registro.
+
+> Figura 8. Ejemplo de pendiente en un enunciado. Se muestran puntos de inicio y de fin del enunciado, la diferencia en st entre inicio y final, y la velocidad de la caída en st/s.
+
+En el ejemplo de la figura 8, el punto 1 se encuentra en la posición 0.1 con una frecuencia de 200 Hz y el punto final en la posición 0.9, con un valor en Hz de 90. Están a la distancia temporal de 0.8 segundo. La diferencia en Hz entre ambos puntos es de 110 Hz que en esas frecuencias es 13.82 st. El cálculo de la pendiente arroja el valor de -17.275 (13.82/(0.9-0.1). Se deben tomar los st con valor negativo cuando es descendente y positivo si es ascendente.
+
+En el siguiente ejemplo, se trata de una pendiente descendente más pronunciada pues en menos tiempo se realiza una variación mayor de st.
+
+> Figura 9. Pendiente de un enunciado con pendiente más pronunciada, de -31.72 st/s.
+
+Como se puede observar en la figura 9, la pendiente es de 31.72 st/s en descenso. Es decir, respecto del ejemplo de la figura 8, en este caso el enunciado desciende más st por segundo.
+
+Es decisión del investigador en qué unidad prosódica se aplica la medición de esta categoría. Una posibilidad con ventajas para la automatización de resultados es la detección programada computacionalmente del primer y último valor de f0. Otra posibilidad es tomar valores en la primera y última vocal (dado que son los elementos principales en términos de información prosódica); o en la primera vocal y el último rastro de la f0, que puede recaer eventualmente en una consonante sonora.
 
 
+# Pendiente de un enunciado
+
+La pendiente de un enunciado da una información general sobre el mismo. Una pendiente de valor 0 muestra nula diferencia entre valor inicial y valor final.
+
+Una variación positiva significa que hay un final más alto que el inicio (como puede suceder en el habla ascendente) y, a la inversa, una emisión con declinación típica tendrá variación negativa, es decir un final más bajo que el inicio.
 
 
 
