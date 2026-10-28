@@ -36,7 +36,7 @@ En otras palabras, los Hz son la unidad de medida acústica pero la unidad de me
 
 Si tomamos dos valores de frecuencia, podemos calcular la distancia en st entre ambos valores aplicando la fórmula
 
-12*log2(frecuencia1/frecuencia2)
+> 12*log2(frecuencia1/frecuencia2)
 
 Siempre que las frecuencias se dupliquen, habrá 12 st (o una octava musical) de distancia. Por esta razón, en la parte baja de las frecuencias las diferencias perceptibles requieren menos Hz.
 
@@ -48,15 +48,17 @@ Sin duda, una de las posibilidades más interesantes para el investigador consis
 
 La figura 1 muestra una curva estilizada automáticamente mediante la rutina de Praat (Boersma et al., 2026) Manipulation > Stylize pitch (2 st). Se muestra en gris la curva con valores de f0 sin estilizar y en línea roja segmentada la línea estilizada. Se presenta en un rango entre 0 Hz y 400 Hz.
 
-
+![Curva de f0 natural y estilizada](/imagenes/estilizada_leenellibroloslideres.png)
 > Figura 1. Oscilograma y curvas de f0; en gris la curva no estilizada y, en rojo, la estilizada a 2 st. El enunciado corresponde a “Leen el libro los líderes del mundo”.
 
 Otra manera de estilizar es tomar los valores en Hz y la posición temporal de cada vocal. Esto se siguió en el proyecto AMPER (Dorta 2013, 2018; Fernández Planas 2005; Martínez Celdrán y Fernández Planas 2003) y también el Mapa prosódico de Chile (Román et al. 2020). Se debe tomar la decisión acerca de cuántos puntos por vocal se deben tomar. Por ejemplo, en el mencionado proyecto AMPER se tomaban tres puntos por vocal. La imagen de la figura 2 muestra la misma frase en la que se ha tomado un punto por vocal. En gris, la curva sin estilizar y los puntos azules corresponden a valores en el centro de la vocal. Aquí se muestra este procedimiento. Dado que se grafica con una escala menor en Hz (esta vez, de 0 Hz a casi 300 Hz), los movimientos tonales se notan más pronunciados.
 
+![Estilización por vocales](/imagenes/estilizada_por_vocales_leenellibroloslideres.png)
 > Figura 2. Curva de f0 de la emisión “Leen el libro los líderes del mundo”. En gris la curva original y, en azul, los puntos centrales de las doce vocales.
 
 El gráfico de la figura 3 muestra la curva original en gris. Sobre ella, la que se construye a partir de los valores de las vocales con puntos azules y la estilización automatizada, en verde y con línea segmentada.
 
+![Tres tipos de estilizaciones](/imagenes/tres_estilizaciones_superpuestas.png)
 > Figura 3. Curva de f0 original en gris de la emisión “Leen el libro los líderes del mundo”. Con puntos azules los valores de los centros vocálicos y en verde la estilización automática a 2 st.
 
 Como se puede observar, las diferencias entre los tres métodos producen unas curvas que representan bien los principales movimientos frecuenciales.
@@ -67,12 +69,14 @@ Francisco Cantero (2002) propone estilizar a partir de porcentajes, lo que funci
 
 El valor mínimo y el valor máximo en Hz se pueden entender como una diferencia en st que corresponde al rango tonal o el campo entonacional en que se mueve un hablante. Cuando se refieren estos valores en Hz, se habla más bien de tesitura o, a veces, de registro. La tesitura admite una clasificación de altura tonal (alta, baja, etc.).
 
+![Rango de altura tonal](/imagenes/maximo_minimo_f0.png)
 > Figura 4. Curva de f0 en la que se indican los valores máximos y mínimos del enunciado “Leen el libro los líderes del mundo”.
 
 ### Declinación
 
 Desde el punto de partida de una emisión hacia el final hay un movimiento que en general, para expresiones declarativas, es descendente. Tanto los mínimos como los máximos descienden a lo largo del enunciado y, con ello, la línea media de la f0. La imagen siguiente muestra este fenómeno.
 
+![Declinación de un enunciado](/imagenes/declinacion_Nooteboom.png)
 > Figura 5. Contorno de frecuencia fundamental de un enunciado en inglés británico: curva de tono medida, estilización close-copy, líneas de declinación y estilización estandarizada. Tomada de Nooteboom (1997, fig. 3). Disponible en ResearchGate: https://www.researchgate.net/figure/Measured-course-of-pitch-dotted-line-close-copy-stylization-interrupted-line-a-grid_fig3_46675980. Imagen original con ajustes de nitidez y contraste realizados con ChatGPT (OpenAI, 2026).
 
 ### Representación melódica
@@ -105,7 +109,7 @@ El procedimiento para el análisis es tomar dos puntos relevantes del enunciado,
 
 La fórmula para su cálculo es la siguiente:
 
-pendiente = diferencia en st entre dos puntos / tiempo entre los dos puntos
+> pendiente = diferencia en st entre dos puntos / tiempo entre los dos puntos
 
 Lo que este valor señala es la velocidad del cambio tonal, aspecto que parece relevante para descripciones fonéticas de variado tipo, entre otras, las dialectales o las de registro.
 
@@ -208,15 +212,7 @@ Swerts, M., Strangert, E., & Heldner, M. (1996). F0 declination in read-aloud an
 
 
 ######## Versión anterior
-La frecuencia fundamental se considera el parámetro acústico correlato de la melodía percibida de la voz y de la actividad de los pliegues vocales. Como se trata de un valor frecuencial, la unidad de medida son los Hz que representan bien el aspecto acústico que, a su vez, se corresponde con la actividad glotal. En otras palabras, los pliegues vocales vibran a una velocidad que se observa en los ciclos de la señal periódica cuya frecuencia corresponde al valor de la frecuencia fundamental.
 
-Cuando una vibración periódica alcanza un cierto número de Hz, entonces se produce la percepción del tono. Una vibración de 20 Hz no produce tono aunque sí tiene frecuencia fundamental (de 20 Hz, justamente). Una vibración periódica de 100 Hz tienen una frecuencia fundamental que produce percepción de tono. El tono es así una realidad perceptiva en tanto la frecuencia fundamental es parte de la realidad física acústica. 
-
-Por supuesto, los sonidos sordos no tienen frecuencia fundamental ni pueden tener tono.
-
-La periodicidad de una señal (tal como se puede apreciar en un oscilograma) ofrece un valor en Hz que se corresponde con la velocidad de la actividad de los pliegues vocales y produce la percepción de la melodía de la voz. Esta melodía (como toda melodía, por lo demás) tiene una propiedad especial: *es logarítmica, no lineal*. Esto es, entre 100 Hz y 200 Hz hay una cierta diferencia perceptiva. Esa misma diferencia, si se parte de los 200 Hz se consigue con 400 Hz. Y si se parte de los 400 Hz, habrá que tener 800 Hz para lograr el mismo efecto perceptivo. Y asi sucesivamente. Debemos duplicar los Hz cada vez.
-
-Por esta razón, 100 Hz de diferencia entre dos frecuencias no tienen el mismo *efecto melódico* si se dan entre 100 y 200 o entre 2000 y 2100. En ambos casos la diferencia física es de 100 Hz pero el efecto *melódico* es muy diferente.
 
 Esta es la diferencia entre dos tonos de 100 Hz y 200 Hz:
 
@@ -227,47 +223,21 @@ Esta, la diferencia entre dos tonos de 2000 y 2100 Hz:
 <audio controls src="/sonidos/2000_2100.mp3"></audio>
 
 
-En el primer caso, la diferencia perceptiva es de 12 st; en tanto, en el segundo, de 0.84 st. Esto es Si bien los Hz son la unidad de medida de la frecuencia fundamental, la unidad de medida más adecuada para efectos de la percepción de la f0 son los semitonos entre dos frecuencias. Un st es una unidad perceptiva de variación de la f0 entre dos datos frecuenciales. Para el habla, se ha establecido que entre 1,5 st y 2 st como la mínima diferencia perceptible (Hart *et al.* (1990), . Bajo ese umbral, las diferencias (en el habla, no en la música) no son percibidas como cambios.
-
-Si tomamos dos valores de frecuencia, podemos calcular la distancia en st entre ambos valores aplicando la fórmula
-
-     >> 12*log2(frecuencia1/frecuencia2)
-
-Siempre que las frecuencias se duplican, habrá 12 st (una octava musical) de distancia. Por esta razón, en la parte baja de las frecuencias las diferencias perceptibles requieren menos Hz.
-
-El punto de partida para un análisis melódico es la información en Hz, que es, como se ha señalado, un dato acústico; pero se debe trabajar con unidades perceptuales para poder hablar del efecto en el oyente.
-
-En los estudios fonéticos de la entonación hay varias categorías analíticas, ya consagradas, que tienen relevancia para las descripciones.
-
-
-### Estilización
-
-Sin duda una de las posibilidades más interesantes para el investigador consiste en la simplificación de los valores de la curva de f0 a unos más simples que no considere las variaciones microprosódicas que no superen el umbral perceptivo ya sea de 1.5 o de 2.0 st. La estilización da como resultado una curva en la que se puede apreciar perfectamente bien (aunque a veces requiere correcciones según el algoritmo que se utilice) los movimientos relevantes en la percepción del tono.
-
-La siguiente figura muestra una curva estilizada automáticamente mediante la rutina de Praat *Manipulation > Stylize pitch (2 st)*. Se muestra en gris la curva con valores de f0 sin estilizar y en línea roja segmentada la línea estilizada.
-
-![Curva de f0 natural y estilizada](/imagenes/estilizada_leenellibroloslideres.png)
-
-Otra manera de estilizar es tomar los valores en Hz y la posición temporal de cada vocal. Esto se siguió en el proyecto AMPER y también el Mapa prosódico de Chile. Se debe tomar la decisión acerca de cuántos puntos por vocal se deben tomar. Por ejemplo, en el mencionado proyecto AMPER se tomaban tres puntos por vocal. La imagen siguiente muestra una frase en la que se ha tomado un punto por vocal. En gris, la curva sin estilizar y los puntos azules corresponden a valores en el centro de la vocal. Aquí se muestra este procedimiento en otra frase.
-
-![Estilización por vocales](/imagenes/estilizada_por_vocales_leenellibroloslideres.png)
-
-El gráfico siguiente muestra la curva original en gris. Sobre ella, la que se construye a partir de los valores de las vocales con puntos azules y la estilización automatizada, en verde y con línea punteada.
-
-![Tres tipos de estilizaciones](/imagenes/tres_estilizaciones_superpuestas.png)
 
 
 
-### Rango entre máximo y mínimo
 
-El valor mínimo y el valor máximo en Hz se pueden entender como una diferencia en st que corresponde al rango tonal o el registro entonacional en que se mueve un hablante (no en Hz, sino en st).
 
-![Rango de altura tonal](/imagenes/maximo_minimo_f0.png)
+
+
+
+
 
 ### Declinación
 
 Desde el punto de partida de una emisión hacia el final hay un movimiento que en general, para expresiones declarativas, es descendente. Tanto los mínimos como los máximos descienden a lo largo del enunciado y, con ello, la línea media de la f0. La imagen siguiente[^1] muestra este fenómeno.
 
+Figura 5
 
 ![Declinación de un enunciado](/imagenes/declinacion_Nooteboom.png)
 
