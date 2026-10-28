@@ -225,8 +225,8 @@ Swerts, M., Strangert, E., & Heldner, M. (1996). F0 declination in read-aloud an
 
 
 
-## Complemento
-### Por razones de formato, esta sección solo se presenta en web.
+### Complemento
+#### Por razones de formato, esta sección solo se presenta en web.
 
 En estos dos audios, la diferencia es de 100 Hz. Pero la percepción es muy desigual.
 
