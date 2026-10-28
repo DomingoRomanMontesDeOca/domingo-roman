@@ -14,7 +14,7 @@ Autores: Domingo Román Montes de Oca y Nicolás Flores Navarro
 
 # Elementos para el análisis de percepción de la melodía de la voz
 
-Resumen
+### Resumen
 
 Se revisan las principales propuestas para el análisis melódico del habla a partir de los valores acústicos de la frecuencia fundamental o f0. Se destaca la importancia de considerar mediciones significativas desde el punto de vista de la percepción, principalmente de los semitonos (st) como medida relacional entre alturas frecuenciales. Se propone, a partir de otros trabajos, incorporar la medición de la pendiente, definida como cantidad de semitonos entre dos puntos dividida por duración.
 
