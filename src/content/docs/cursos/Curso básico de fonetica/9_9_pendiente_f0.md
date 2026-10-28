@@ -82,9 +82,14 @@ Desde el punto de partida de una emisión hacia el final hay un movimiento que e
 ### Representación melódica
 
 Las variaciones de f0 en un enunciado se pueden representar de varias maneras. La más evidente, y el punto de partida, es siempre la lista de valores en Hz a través del tiempo. Si embargo, como se ha señalado, tiene la deficiencia de la falta de realismo perceptivo sobre todo en aquellos casos en que se comparan tesituras diferentes.
+
 Las representaciones en st son un avance. En estas, se suele tomar como referencia, 0 Hz, 100 Hz, 200 Hz, 440 Hz. Lo importante es tener un valor de referencia. La figura 6 muestra las variaciones en Hz y la representación en st en relación al promedio de una emisión que ha sido alterada manualmente usando la herramienta To Manipulation de Praat con la intención de que sean más evidentes los cambios tonales.
 
+> Figura 6. Representación estilizada de la variación en st respecto del promedio.
 
+Como se puede apreciar en la figura 6, el punto de referencia 0, no corresponde al inicio de la emisión, sino al promedio en Hz, de ahí la no correspondencia, como sí ocurre en otras formas de graficar estos valores.
+
+Un paso interesante es representar las diferencias en st entre los distintos puntos considerados. Esto se debe hacer en dos pasos. Primero, obtener la variación en st entre los valores contiguos en Hz, considerando el primer valor como el punto de partida. Luego se deben obtener los valores acumulados de st, al sumar el valor de la columna st acumulados, cuyo primer valor es 0 al valor de la fila siguiente de la columna st. 
 
 	Hz	st	st acumulados
 		162.795	0	0
@@ -224,84 +229,20 @@ Esta, la diferencia entre dos tonos de 2000 y 2100 Hz:
 
 
 
-
-
-
-
-
-
-
-
-
-### Declinación
-
-Desde el punto de partida de una emisión hacia el final hay un movimiento que en general, para expresiones declarativas, es descendente. Tanto los mínimos como los máximos descienden a lo largo del enunciado y, con ello, la línea media de la f0. La imagen siguiente[^1] muestra este fenómeno.
-
-Figura 5
-
-![Declinación de un enunciado](/imagenes/declinacion_Nooteboom.png)
-
-
-[^1]:The prosody of speech: Melody and rhythm - Scientific Figure on ResearchGate. Available from: https://www.researchgate.net/figure/Measured-course-of-pitch-dotted-line-close-copy-stylization-interrupted-line-a-grid_fig3_46675980 [accessed 9 Jun, 2024]
-
-### Propuesta: la pendiente
-
-La presente propuesta se basa en el dato de que dos emisiones pueden tener la misma diferencia en st, por ejemplo, en el tonema, pero en la percepción influye la duración del tonema. Así, es posible que existan diferencias en cuanto a pendientes más o menos pronunciadas; lo mismo es válido para la comparación entre inicio y final del enunciado completo y, eventualmente, otros momentos del enunciado con una marca prosódica, como puede ser el caso de, por ejemplo, la focalización. Todo esto, en lo sustancial es una aplicación de lo señalado por Hart *et al*. (1990).
-
-El procedimiento para el análisis es tomar dos puntos relevantes del enunciado, por ejemplo, inicio y fin del tonema, y obtener la duración entre esos puntos y la diferencia en st entre ellos. Se entenderá como pendiente el número de semitonos que desciende (pendiente negativa) o asciende (pendiente positiva) por segundo.
-
-La fórmula para su cálculo es la siguiente:
-
-      >> pendiente = diferencia en st entre dos puntos / tiempo entre los dos puntos
-
-Lo que este valor señala es la velocidad del cambio tonal, aspecto que parece relevante para descripciones fonéticas de variado tipo, entre otras, las dialectales o las de registro.
-
-![Diferencia Hz](/imagenes/intro_distancia_pendiente.png)
-
-En el ejemplo anterior, el punto 1 se encuentra en la posición 0.1 con una frecuencia de 200 Hz y el punto final en la posición 0.9, con un valor en Hz de 90.
-
-Están a la distancia temporal de 0.8 segundo. La diferencia en Hz entre ambos puntos es de 110 Hz que en esas frecuencias es 13.82 st.
-
-El cálculo de la pendiente arroja el valor de 17.275  (13.82/(0.9-0.1)
-
-En el siguiente ejemplo, se trata de una pendiente descendente más pronunciada pues en menos tiempo se realiza una variación mayor de st.
-
 ![Diferencia Hz](/imagenes/intro_distancia_pendiente_2.png)
 
 
-### Pendiente de un enunciado
-
-La pendiente de un enunciado da una información general sobre el mismo. Una pendiente de valor 0 muestra nula diferencia entre valor inicial y valor final.
-
-Una variación positiva significa que hay un final más alto que el inicio (como puede sueceder en el habla ascendente) y, a la inversa, una emisión con declinación típica tendrá variación negativa, es decir un final más bajo que el inicio.
-
-Una decisión del investigador es dónde tomar los valores iniciales y finales. Una posibilidad con ventajas para la automatización de resultados es la detección automática del primer y último valor de f0. Otra posibilidad es tomar valores en la primera y última vocal (dado que son los elementos principales en términos de información prosódica).
 
 ![Pendiente en un enunciado](/imagenes/pendiente_leen_el_libro_los_lideres.png)
 
-En el ejemplo de la figura anterior, se obtiene una pendiente de -2.87 st por segundo.
 
-### Pendiente del tonema
-
-El tonema se ha consderado como la variación tonal entre la última vocal de un grupo fónico (terminología de TNT) y el final del mismo. La pendiente del tonema puede ser especialmente relevante para distinguir modalidades dialectales o de registro.
-
-Se debe aplicar la misma fórmula para el valor en Hz en el centro de la última vocal del grupo fónico y el último rastro de la f0 en el mismo grupo.
 
 ![Pendiente en el tonema](/imagenes/pendiente_leen_el_libro_los_lideres_tonema_01.png)
 
-Un acercamiento a la imagen anterior es la siguiente:
 
 ![Pendiente en el tonema](/imagenes/delmundo_tonema.png)
 
-En este tonema, la diferencia en Hz entre inicio (177.95 Hz) y final (136.52) es de 41.4 Hz, los st entre ambos puntos es de 4.58 Hz y el tiempo entre ambos puntos es de 0.6 s. Con ello, la pendiente del tonema es de 7.62 st por segundo.
 
-
-### Referencias
-
-Hart, J. T., Collier, R., & Cohen, A. (1990). A Perceptual Study of Intonation: An Experimental-Phonetic Approach to Speech Melody. Cambridge: Cambridge University Press.
-
-Swerts, Marc, Eva Strangert, Mattias Heldner. F0 Declination In Read-Aloud And Spontaneous Speech. Proceed- ings from the International Conference on Spoken Language Processing (ICSLP) 1996. 
-http://citeseer.ist.psu.edu/swerts96declination.html
 
 
 
