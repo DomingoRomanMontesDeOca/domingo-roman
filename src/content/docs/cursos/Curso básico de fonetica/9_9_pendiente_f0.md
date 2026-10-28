@@ -10,9 +10,14 @@ sidebar:
 ---
 
 Este artículo ha sido aceptado para su publicación en el volumen 36 (1) 2026 de *Logos: Revista de Lingüística, Literatura y Filosofía*.
+Autores: Domingo Román Montes de Oca y Nicolás Flores Navarro
+
+### Elementos para el análisis de percepción de la melodía de la voz
 
 
-### Elementos para el análisis de percepción de la melodía de la voz. Valores globales en un enunciado.
+
+
+
 
 La frecuencia fundamental se considera el parámetro acústico correlato de la melodía percibida de la voz y de la actividad de los pliegues vocales. Como se trata de un valor frecuencial, la unidad de medida son los Hz que representan bien el aspecto acústico que, a su vez, se corresponde con la actividad glotal. En otras palabras, los pliegues vocales vibran a una velocidad que se observa en los ciclos de la señal periódica cuya frecuencia corresponde al valor de la frecuencia fundamental.
 
