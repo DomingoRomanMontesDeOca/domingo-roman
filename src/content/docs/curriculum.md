@@ -62,7 +62,7 @@ ______
 ### Dirección de tesis de magíster
 ______
 
--2026\. *Recitación de poesía de estudiantes universitarios chilenos neurotípicos y en el espectro autista. Un análisis prosódico*. Jennifer Castro Marchant, Magíster en Lingüística. Universidad de Santiago de Chile.
+- 2026\. *Recitación de poesía de estudiantes universitarios chilenos neurotípicos y en el espectro autista. Un análisis prosódico*. Jennifer Castro Marchant, Magíster en Lingüística. Universidad de Santiago de Chile.
 - 2023\. *La entonación de inmigrantes costarricenses que laboran en Chile según formas de tratamiento. Descripción fonética de la adaptación dialectal de la frecuencia fundamental*. Randall Ledezma, Magíster en Lingüística, especialidad Sociolingüística del Español de América.
 - 2023\. *Percepción de grados de nasalidad en hablantes nativos del español de Chile*. Fernanda Paz Figueroa, Magíster en ciencias de la fonoaudiología, U. de Chile.
 - 2023\. *La entonación de mujeres y hombres de zonas rurales y urbanas de La Araucanía*. Pablo Rojas, Magíster en Lingüística, especialidad Sociolingüística del Español de América.
