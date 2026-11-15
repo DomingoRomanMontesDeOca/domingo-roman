@@ -225,21 +225,17 @@ ______
 
 - (2021).  *La zanahoria gigante* (versión en décimas de un cuento popular ruso). [Ver en Vivaleercopec](https://www.fel.cl/cuentos/zanahoria_gigante.html)
 
-#### Participación en comités científicos de congresos
 
-- 2025\. International Conference on Phonetic Variation 2026. Granada, España.
 
-- 2024\. Fonética y Poética. Congreso internacional. Universidad de Santiago de Chile (anfitriona).
+### Aplicaciones en web
 
-#### Aplicaciones en web
-
-### Ámbito escolar
+#### Ámbito escolar
 - Píndaro. 2022. Domingo Román. [Ir](https://www.recursosaprendizajecastellano.usach.cl/)
 - Rimas. 2022. Domingo Román.  [Ir](https://www.recursosaprendizajecastellano.usach.cl/)
 - Categoría acentual. 2022 Domingo Román.  [Ir](https://www.recursosaprendizajecastellano.usach.cl/)
 - Algoritmo leyes generales de acentuación. 2024. Domingo Román [Ir](https://ortograf-a-acentual-leyes-generales.vercel.app/)
 
-### Ámbito universitario
+#### Ámbito universitario
 - Ventana de análisis. Domingo Román. [Ir](https://doctor-roman.shinyapps.io/portal/)
 - Frecuencia de muestreo. Domingo Román. [Ir](https://doctor-roman.shinyapps.io/portal/)
 - Principales análisis. Domingo Román. [Ir](https://doctor-roman.shinyapps.io/portal/)
@@ -247,8 +243,13 @@ ______
 - Teoría fuente-filtro aplicada a las vocales del español. Domingo Román [Ir](https://fuente-filtro.vercel.app/)
 
 
+### Participación en comités científicos de congresos
 
-#### Participaciones en congreso
+- 2025\. International Conference on Phonetic Variation 2026. Granada, España.
+
+- 2024\. Fonética y Poética. Congreso internacional. Universidad de Santiago de Chile (anfitriona).
+
+### Participaciones en congreso
 ______
 
 - 2024\. Domingo Román y José Figueroa. Análisis prosódico de las décimas de Violeta Parra. Hacia el modelo de recitación de la poesía popular chilena. Congreso Internacional Fonética y Poética (congreso intenacional, Universidad de Santiago de Chile entidad anfitriona).
