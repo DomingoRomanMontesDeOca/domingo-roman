@@ -233,13 +233,13 @@ ______
 
 #### Aplicaciones en web
 
-### ámbito escolar
+### Ámbito escolar
 - Píndaro. 2022. Domingo Román. [Ir](https://www.recursosaprendizajecastellano.usach.cl/)
 - Rimas. 2022. Domingo Román.  [Ir](https://www.recursosaprendizajecastellano.usach.cl/)
 - Categoría acentual. 2022 Domingo Román.  [Ir](https://www.recursosaprendizajecastellano.usach.cl/)
 - Algoritmo leyes generales de acentuación. 2024. Domingo Román [Ir](https://ortograf-a-acentual-leyes-generales.vercel.app/)
 
-### ámbito universitario
+### Ámbito universitario
 - Ventana de análisis. Domingo Román. [Ir](https://doctor-roman.shinyapps.io/portal/)
 - Frecuencia de muestreo. Domingo Román. [Ir](https://doctor-roman.shinyapps.io/portal/)
 - Principales análisis. Domingo Román. [Ir](https://doctor-roman.shinyapps.io/portal/)
@@ -248,7 +248,7 @@ ______
 
 
 
-### Participaciones en congreso
+#### Participaciones en congreso
 ______
 
 - 2024\. Domingo Román y José Figueroa. Análisis prosódico de las décimas de Violeta Parra. Hacia el modelo de recitación de la poesía popular chilena. Congreso Internacional Fonética y Poética (congreso intenacional, Universidad de Santiago de Chile entidad anfitriona).
