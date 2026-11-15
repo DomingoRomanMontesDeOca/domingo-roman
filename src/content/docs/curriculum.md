@@ -231,6 +231,22 @@ ______
 
 - 2024\. Fonética y Poética. Congreso internacional. Universidad de Santiago de Chile (anfitriona).
 
+#### Aplicaciones en web
+
+### ámbito escolar
+- Píndaro. 2022. Domingo Román. [Ir](https://www.recursosaprendizajecastellano.usach.cl/)
+- Rimas. 2022. Domingo Román.  [Ir](https://www.recursosaprendizajecastellano.usach.cl/)
+- Categoría acentual. 2022 Domingo Román.  [Ir](https://www.recursosaprendizajecastellano.usach.cl/)
+- Algoritmo leyes generales de acentuación. 2024. Domingo Román [Ir](https://ortograf-a-acentual-leyes-generales.vercel.app/)
+
+### ámbito universitario
+- Ventana de análisis. Domingo Román. [Ir](https://doctor-roman.shinyapps.io/portal/)
+- Frecuencia de muestreo. Domingo Román. [Ir](https://doctor-roman.shinyapps.io/portal/)
+- Principales análisis. Domingo Román. [Ir](https://doctor-roman.shinyapps.io/portal/)
+- Introducción a cuestiones articulatorias. Domingo Román y Nicolás Flores. [Ir](https://zonas-articulatorias.vercel.app/)
+- Teoría fuente-filtro aplicada a las vocales del español. Domingo Román [Ir](https://fuente-filtro.vercel.app/)
+
+
 
 ### Participaciones en congreso
 ______
