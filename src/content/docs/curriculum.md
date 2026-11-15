@@ -151,7 +151,7 @@ ______
 
 - Román, D. (2026). Propuesta de una categoría de análisis de la melodía de la voz, *Logos* [Aceptado]
 
-- Flores, Nicolás y Román, D.(2026).El grado de palatalización de la oclusiva velar sorda: una especificidad del español de Chile, *Estudios de Fonética Experimental*, 53–68. https://doi.org/10.1344/efe-2026-35-53-6. [Ver](https://revistes.ub.edu/index.php/experimentalphonetics/article/view/49464/46042)
+- Flores, Nicolás y Román, D.(2026).El grado de palatalización de la oclusiva velar sorda: una especificidad del español de Chile, *Estudios de Fonética Experimental*, 53–68. https://doi.org/10.1344/efe-2026-35-53-68. [Ver](https://revistes.ub.edu/index.php/experimentalphonetics/article/view/49464/46042).
 
 - Catalán-Liempi, R., Roman Montes de Oca, D., Quezada Gaponov, C., & Muñoz Builes, D. (2025). Descripción acústica de las vocales del mapudungun. *Lenguas Modernas*, (65), 11–34. https://lenguasmodernas.uchile.cl/index.php/LM/article/view/80313.
 
